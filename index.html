@@ -1,3 +1,3 @@
 ---
-layout: splash
+layout: home
 ---
