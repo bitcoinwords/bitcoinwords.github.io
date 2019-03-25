@@ -1,12 +1,12 @@
 ---
 permalink: /about/
+layout: default
 defaults:
   # _pages
   - scope:
       path: "About"
       type: pages
     values:
-      layout: default
       author_profile: true
 ---
 Hello World!
