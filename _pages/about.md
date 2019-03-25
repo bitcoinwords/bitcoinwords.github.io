@@ -14,6 +14,12 @@ defaults:
 
 As of today, CY19Q1, we are hand curating the content. This means reading a ton of tweets, following a ton of RSS feeds, and reading a ton of email newsletters. Our hope is to one day be community curated and peer reviewed. Until then, we'll keep reading and archiving. 
 
+## Special Thanks
+
+Stephan at [Libertarian Papers](http://libertarianpapers.org/) for hopping on the phone to hammer out some of the challenges with launching and operating a journal. 
+
+[@NLW](https://twitter.com/nlw) for his dedication to the space and masterful curation.
+
 ## Goals and Scope
 Crypto Words is a quarterly journal of cryptocurrency, or crypto, established February 13, 2019. Its purpose is to document and advance commentary and research in disciplines of particular interest to the crypto community. The journal is broad in scope, publishing content from original research, essays, blog posts, and tweetstorms from a wide variety of fields, especially governance, technology, philosophy, politics, and economics, but also legal theory, history, criticism, and social or cultural analysis. Its broader mission is to capture the conversations and think pieces in the crypto space for current and future researchers. Crypto Papers hopes to continue and expand the tradition established by publications such as the [The Journal of Libertarian Studies](https://mises.org/library/journal-libertarian-studies?Id=3) and [Libertarian Papers](http://libertarianpapers.org/).
 
