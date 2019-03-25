@@ -1,9 +1,9 @@
 ---
-permalink: /about/
+permalink: /contact/
 defaults:
   # _pages
   - scope:
-      path: "About"
+      path: "Contact"
       type: pages
     values:
       layout: single
