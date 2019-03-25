@@ -1,5 +1,7 @@
 # main links
 main:
+  - title: "Quarterlies"
+    url: https://cryptowords.github.io/quarterlies/
   - title: "About"
     url: https://cryptowords.github.io/about/
   - title: "Contact"
