@@ -1,6 +1,6 @@
 ---
 permalink: /about/
-layout: default
+layout: single
 defaults:
   # _pages
   - scope:
