@@ -1,5 +1,5 @@
 ---
-title: "Splash Page"
+title: "Home"
 layout: splash
 permalink: /
 date: 2019-03-01
@@ -65,16 +65,3 @@ feature_row4:
 {% include feature_row id="feature_row3" type="right" %}
 
 {% include feature_row id="feature_row4" type="center" %}---
-layout: home
-permalink: /
-author_profile: true
-header:
-	image: "/assets/images/08.jpg
-# _pages
-  - scope:
-      path: "Home"
-      type: pages
-    values:
-      layout: single
-      
----
