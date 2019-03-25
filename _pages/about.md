@@ -1,14 +1,9 @@
 ---
+title: "About"
 permalink: /about/
-layout: single
-
-defaults:
-  # _pages
-  - scope:
-      path: "About"
-      type: pages
-    values:
-      layout: single
-      author_profile: true
+header:
+	image: "/assets/images/08.jpg"
 ---
-Hello World!
+This is a quarterly journal. 
+
+You might like this.
