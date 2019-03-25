@@ -304,4 +304,3 @@ defaults:
       comments: # true
       share: false
       related: true
-theme: jekyll-theme-cayman
