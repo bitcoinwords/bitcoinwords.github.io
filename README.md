@@ -10,7 +10,7 @@ We might miss something really important in a quarter, and will go back and revi
 
 ## Going back in time
 
-Another part of this project is going back in time to document the best content that was created in quarters past. We've created an [excel spreadsheet](https://1drv.ms/x/s!ArJBIcwWDXdkith-Nytz-N75q-7b9w) you can view to see the content gathered. If something is missing, please get a hold of us(me).
+Another part of this project is going back in time to document the best content that was created in quarters past. We've created an [excel spreadsheet](https://1drv.ms/x/s!ArJBIcwWDXdkith-KzeCt4rz1FJwoA) you can view to see the content gathered. If something is missing, please get a hold of us(me).
 
 ##Special Thanks
 Stephan at [Libertarian Papers](http://libertarianpapers.org/) for hopping on the phone to hammer out some of the challenges with launching and operating a journal. 
