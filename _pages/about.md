@@ -1,9 +1,12 @@
 ---
-title: "About"
 permalink: /about/
-header:
-	image: "/assets/images/08.jpg"
+defaults:
+  # _pages
+  - scope:
+      path: "About"
+      type: pages
+    values:
+      layout: single
+      author_profile: true
 ---
-This is a quarterly journal. 
-
-You might like this.
+Insert tect body here.
