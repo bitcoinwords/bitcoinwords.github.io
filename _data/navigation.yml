@@ -2,6 +2,10 @@
 main:
   - title: "About"
     url: https://cryptowords.github.io/about/
+  - title: "Contact"
+    url: https://cryptowords.github.io/contact/
+  - title: "Submisssions"
+    url: https://cryptowords.github.io/submissions/
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
