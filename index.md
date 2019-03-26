@@ -1,7 +1,7 @@
 ---
-title: "Splash Page"
+title: "Sploosh Page"
 layout: splash
-permalink: /splash-page/
+permalink: /
 date: 2019-03-01
 header:
   overlay_color: "#000"
