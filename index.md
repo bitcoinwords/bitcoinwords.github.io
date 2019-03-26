@@ -1,20 +1,20 @@
 ---
-title: "Crypto Words"
+title: "Splash Page"
 layout: splash
-permalink: /
+permalink: /splash-page/
 date: 2019-03-01
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
-  overlay_image: /assets/images/home/splash-header-1.jpg
+  overlay_image: /assets/images/unsplash-image-1.jpg
   actions:
-    - label: "Download the CY19 Q1 Journal"
-      url: "https://cryptowords.github.io/cy19q1"
-  caption: 
-excerpt: "A collection of crypto commentary from Q1 of 2019. 500+ pages of content from the best minds in the community."
+    - label: "Download"
+      url: "https://github.com/mmistakes/minimal-mistakes/"
+  caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
+excerpt: "Bacon ipsum dolor sit amet salami ham hock ham, hamburger corned beef short ribs kielbasa biltong t-bone drumstick tri-tip tail sirloin pork chop."
 intro: 
-  - excerpt: 'It's a beautiful thing, the destruction of words. - George Orwell'
-  feature_row:
+  - excerpt: 'Nullam suscipit et nam, tellus velit pellentesque at malesuada, enim eaque. Quis nulla, netus tempor in diam gravida tincidunt, *proin faucibus* voluptate felis id sollicitudin. Centered with `type="center"`'
+feature_row:
   - image_path: assets/images/unsplash-gallery-image-1-th.jpg
     alt: "placeholder image 1"
     title: "Placeholder 1"
@@ -54,7 +54,14 @@ feature_row4:
     url: "#test-link"
     btn_label: "Read More"
     btn_class: "btn--primary"
-
 ---
 
 {% include feature_row id="intro" type="center" %}
+
+{% include feature_row %}
+
+{% include feature_row id="feature_row2" type="left" %}
+
+{% include feature_row id="feature_row3" type="right" %}
+
+{% include feature_row id="feature_row4" type="center" %}
