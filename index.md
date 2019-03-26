@@ -13,7 +13,7 @@ header:
   caption: 
 excerpt: "A collection of crypto commentary from Q1 of 2019. 500+ pages of content from the best minds in the community."
 intro: 
-  - excerpt: '*It's a beautiful thing, the destruction of words.* - George Orwell'
+  - excerpt: 'It's a beautiful thing, the destruction of words. - George Orwell'
   feature_row:
   - image_path: assets/images/unsplash-gallery-image-1-th.jpg
     alt: "placeholder image 1"
