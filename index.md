@@ -1,5 +1,5 @@
 ---
-title: "Splash Page"
+title: "Crypto Words"
 layout: splash
 permalink: /
 date: 2019-03-01
