@@ -14,7 +14,7 @@ When using Kramdown `{: .notice}` can be added after a sentence to assign the `.
 **Changes in Service:** We just updated our [privacy policy](#) here to better service our customers. We recommend reviewing the changes.
 {: .notice}
 
-**Primary Notice:** Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. [Praesent libero](#). Sed cursus ante dapibus diam. Sed nisi. Nulla quis sem at nibh elementum imperdiet.
+**Updated 2019/04/02** Posts we're reviewed and added. I am working on developing a better understasnding of GitHub so i can link to changelog. Once I get to that point, I will post changelog links here.
 {: .notice--primary}
 
 **Info Notice:** Lorem ipsum dolor sit amet, [consectetur adipiscing elit](#). Integer nec odio. Praesent libero. Sed cursus ante dapibus diam. Sed nisi. Nulla quis sem at nibh elementum imperdiet.
