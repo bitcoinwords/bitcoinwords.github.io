@@ -1,10 +1,10 @@
 ---
 layout: posts
-permalink: /quarterlies/
+permalink: /journals/
 defaults:
   # _posts
   - scope:
-      path: "Quarterlies"
+      path: "Journals"
       type: posts
     values:
       layout: single
