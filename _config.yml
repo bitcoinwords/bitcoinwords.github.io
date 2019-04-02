@@ -19,13 +19,13 @@ locale                   : "en-US"
 title                    : "Crypto Words"
 title_separator          : "-"
 name                     : "Crypto Words"
-description              : "A quarterly journal of crypto commentary."
+description              : "A journal of Bitcoin commentary."
 url                      : "https://cryptowords.github.io/"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : "/assets/images/cryptowords88.png"
-masthead_title           : " A quarterly journal of crypto commentary."
+masthead_title           : " A journal of Bitcoin commentary."
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
