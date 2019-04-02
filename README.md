@@ -1,8 +1,8 @@
 # [Crypto Words](https://cryptowords.github.io/)
 
-## A quarterly journal of crypto commentary
+## A journal of Bitcoin commentary
 
-This is a collection of essays, blog posts, tweetstorms, and other content created for the crypto community. The authors have given us permission to publish their work with proper attribution. If your work is included in this and you would like us to remove it, please send an email or tweet and we'll remove it asap.
+This is a collection of essays, blog posts, tweetstorms, and other content created for the Bitcoin community. The authors have given us permission to publish their work with proper attribution. If your work is included in this and you would like us to remove it, please send an email or tweet and we'll remove it asap.
 
 ## This is a work in progress...
 
