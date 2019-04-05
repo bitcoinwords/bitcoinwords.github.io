@@ -106,7 +106,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "[Crypto Words](https://cryptowords.github.io/)"
+  name             : Crypto Words
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "DYOR. BTFD. HOLD."
   location         : "Little Rock, AR"
@@ -114,10 +114,10 @@ author:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: mailto:cryptowordsjournal@pm.me
+      url: "mailto:cryptowordsjournal@pm.me"
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      # url: "https://your-website.com"
+      url: "https://cryptowords.github.io/"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/_cryptowords"
