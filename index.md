@@ -9,7 +9,7 @@ header:
   overlay_image: /assets/images/home/splash-header-1.jpg
   actions:
     - label: "Read the latest Journal"
-      url: "https://cryptowords.github.io/cy19q1m1"
+      url: "https://cryptowords.github.io/cy19q1m3"
   caption: ""
 excerpt: "A collection of Bitcoin commentary from Q1 of 2019. 500+ pages of content from the best minds in the community."
 intro: 
