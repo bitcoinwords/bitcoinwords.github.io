@@ -7,7 +7,6 @@ toc_sticky: true
 toc_label: " Contents"
 toc_icon: "bookmark"  # corresponding Font Awesome icon name (without fa prefix)
 
-
 defaults:
   # _posts
   - scope:
@@ -21,8 +20,6 @@ defaults:
       share: true
       related: false
 ---
-
-
 
 
 # [Bitcoin Timestamp Security](https://medium.com/@lopp/bitcoin-timestamp-security-8dcfc3914da6)
