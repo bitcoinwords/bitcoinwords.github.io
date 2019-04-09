@@ -1,6 +1,6 @@
 ---
 title: "Bitcoin's True Market Dominance"
-permalink: "/bitcoins-true-market-dominance" 
+permalink: "/bitcoins-true-market-dominanc" 
 
 defaults:
   # _posts
