@@ -284,11 +284,11 @@ compress_html:
 defaults:
   # _posts
   - scope:
-      category: "posts"
       path: ""
       type: posts
     values:
       layout: single
+      category: "posts"
       author_profile: true
       read_time: true
       comments: # true
