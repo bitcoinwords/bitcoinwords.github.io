@@ -2,14 +2,6 @@
 title: "Money, Bitcoin and Time: 3 of 3"
 permalink: "/money-bitcoin-and-time-3-of-3" 
 
-Author:
-  name: "Robert Breedlove"
-  links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/Breedlove22"
-
-
 defaults:
   # _posts
   - scope:
