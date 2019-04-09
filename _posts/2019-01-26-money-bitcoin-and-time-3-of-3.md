@@ -25,7 +25,7 @@ defaults:
 
 * [Money, Bitcoin and Time: 1 of 3]()
 * [Money, Bitcoin and Time: 2 of 3]()
-* [Money, Bitcoin and Time: 3 of 3]()
+* [Money, Bitcoin and Time: 3 of 3](https://cryptowords.github.io/money-bitcoin-and-time-3-of-3)
 
 <br>
 
