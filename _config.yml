@@ -284,6 +284,7 @@ compress_html:
 defaults:
   # _posts
   - scope:
+      category: "posts"
       path: ""
       type: posts
     values:
