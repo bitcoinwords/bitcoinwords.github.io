@@ -8,10 +8,10 @@ header:
   overlay_filter: "0.5"
   overlay_image: /assets/images/home/splash-header-1.jpg
   actions:
-    - label: "Read the latest Journal"
-      url: "https://cryptowords.github.io/cy19q1m3"
+    - label: "Read the latest additions here"
+      url: "https://cryptowords.github.io/categories/posts/"
   caption: ""
-excerpt: "A collection of Bitcoin commentary from Q1 of 2019. 500+ pages of content from the best minds in the community."
+excerpt: "A collection of Bitcoin commentary from the brightest minds in the crypto community."
 intro: 
   - excerpt: "It's a beautiful thing, the destruction of words. - George Orwell"
 
