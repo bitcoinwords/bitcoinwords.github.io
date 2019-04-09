@@ -1,5 +1,5 @@
 ---
-title: "The Lightning REference Rate"
+title: "The Lightning Reference Rate"
 permalink: "/the-lightning-reference-rate" 
 
 defaults:
