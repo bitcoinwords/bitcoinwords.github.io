@@ -2,11 +2,6 @@
 title: "Technological Teachings of Bitcoin"
 permalink: "/technological-teachings-of-bitcoin" 
 
-toc: true
-toc_sticky: true
-toc_label: " Contents"
-toc_icon: "bookmark"  # corresponding Font Awesome icon name (without fa prefix)
-
 defaults:
   # _posts
   - scope:
