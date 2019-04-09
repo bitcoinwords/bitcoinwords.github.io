@@ -294,6 +294,7 @@ defaults:
       comments: # true
       share: true
       related: true
+      tags: ""
 # _pages
   - scope:
       path: ""
