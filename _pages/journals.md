@@ -1,12 +1,13 @@
 ---
-layout: posts
 permalink: /journals/
 defaults:
-  # _posts
+  # _pages
   - scope:
       path: "Journals"
-      type: posts
+      type: pages
     values:
       layout: single
       author_profile: true
 ---
+
+This page will hold links to all the monthly journals.
