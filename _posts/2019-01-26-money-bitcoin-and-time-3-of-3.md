@@ -3,9 +3,9 @@ title: "Money, Bitcoin and Time: 3 of 3"
 permalink: "/money-bitcoin-and-time-3-of-3" 
 
 tags:
-  - CY19 Q1
+  - CY19 Q1, alternate, breedlove
   - alternate
-  -breedlove
+  - breedlove
   - more cereal
 
 defaults:
