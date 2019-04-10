@@ -2,6 +2,9 @@
 title: "Bitcoin Is a Cult, Fiat Is a Religion"
 permalink: "/bitcoin-is-a-cult" 
 
+tags:
+  - CY19 Q1
+
 defaults:
   # _posts
   - scope:

@@ -2,6 +2,9 @@
 title: "Privacy and Cryptocurrency, Part I: How Private is Bitcoin?"
 permalink: "/how-private-is-bitcoin" 
 
+tags:
+  - CY19 Q1
+
 defaults:
   # _posts
   - scope:

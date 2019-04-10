@@ -2,6 +2,9 @@
 title: "The Lightning Reference Rate"
 permalink: "/the-lightning-reference-rate" 
 
+tags:
+  - CY19 Q1
+
 defaults:
   # _posts
   - scope:

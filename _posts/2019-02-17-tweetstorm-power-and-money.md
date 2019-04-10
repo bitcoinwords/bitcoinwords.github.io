@@ -2,6 +2,9 @@
 title: "Tweetstorm: Power and Money"
 permalink: "/tweetstorm-power-and-money" 
 
+tags:
+  - CY19 Q1
+
 defaults:
   # _posts
   - scope:

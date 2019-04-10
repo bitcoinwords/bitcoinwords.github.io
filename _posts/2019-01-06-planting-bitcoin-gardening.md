@@ -2,6 +2,9 @@
 title: "Planting Bitcoin — Gardening"
 permalink: "/planting-bitcoin-gardening" 
 
+tags:
+  - CY19 Q1
+
 defaults:
   # _posts
   - scope:

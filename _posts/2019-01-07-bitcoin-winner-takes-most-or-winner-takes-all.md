@@ -2,6 +2,9 @@
 title: "Bitcoin: Winner Takes Most or Winner Takes All?"
 permalink: "/bitcoin-winner-takes-most-or-winner-takes-all" 
 
+tags:
+  - CY19 Q1
+
 defaults:
   # _posts
   - scope:

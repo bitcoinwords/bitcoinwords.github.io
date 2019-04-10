@@ -2,6 +2,9 @@
 title: "Bitcoin's Incentive System or When The Stars Align"
 permalink: "/bitcoins-incentive-system-or-when-the-stars-align" 
 
+tags:
+  - CY19 Q1
+
 defaults:
   # _posts
   - scope:

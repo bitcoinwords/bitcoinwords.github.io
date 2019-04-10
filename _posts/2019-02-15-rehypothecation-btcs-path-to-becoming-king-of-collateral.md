@@ -2,6 +2,9 @@
 title: "Rehypothecation: BTC's path to becoming king of collateral"
 permalink: "/rehypothecation-btcs-path-to-becoming-king-of-collateral" 
 
+tags:
+  - CY19 Q1
+
 defaults:
   # _posts
   - scope:

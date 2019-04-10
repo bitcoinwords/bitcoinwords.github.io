@@ -2,6 +2,9 @@
 title: "Bitcoin Timestamp Security"
 permalink: "/bitcoin-timestamp-security" 
 
+tags:
+  - CY19 Q1
+
 defaults:
   # _posts
   - scope:

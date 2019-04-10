@@ -2,6 +2,9 @@
 title: "Planting Bitcoin — Species"
 permalink: "/planting-bitcoin-species" 
 
+tags:
+  - CY19 Q1
+
 defaults:
   # _posts
   - scope:

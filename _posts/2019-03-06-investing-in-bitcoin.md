@@ -2,6 +2,9 @@
 title: "Skeptic's Guide to Bitcoin: Investing in Bitcoin"
 permalink: "/investing-in-bitcoin" 
 
+tags:
+  - CY19 Q1
+
 defaults:
   # _posts
   - scope:

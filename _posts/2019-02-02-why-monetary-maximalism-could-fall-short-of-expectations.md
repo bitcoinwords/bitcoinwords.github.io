@@ -2,6 +2,9 @@
 title: "Why Monetary Maximalism could fall short of expectations"
 permalink: "/why-monetary-maximalism-could-fall-short-of-expectations" 
 
+tags:
+  - CY19 Q1
+
 defaults:
   # _posts
   - scope:

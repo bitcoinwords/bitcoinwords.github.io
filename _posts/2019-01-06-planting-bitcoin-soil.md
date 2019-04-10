@@ -2,6 +2,9 @@
 title: "Planting Bitcoin — Soil"
 permalink: "/planting-bitcoin-soil" 
 
+tags:
+  - CY19 Q1
+
 defaults:
   # _posts
   - scope:

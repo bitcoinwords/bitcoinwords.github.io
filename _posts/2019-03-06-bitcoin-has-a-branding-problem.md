@@ -2,6 +2,9 @@
 title: "Bitcoin Has a Branding Problem - It's Evolution, Not Revolution"
 permalink: "/bitcoin-has-a-branding-problem" 
 
+tags:
+  - CY19 Q1
+
 defaults:
   # _posts
   - scope:

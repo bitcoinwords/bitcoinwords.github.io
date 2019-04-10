@@ -2,6 +2,9 @@
 title: "Cryptocurrency: The Canary in the Coal Mine"
 permalink: "/cryptocurrency-the-canary-in-the-coal-mine" 
 
+tags:
+  - CY19 Q1
+
 defaults:
   # _posts
   - scope:

@@ -2,6 +2,9 @@
 title: "Tweetstorm: Bitcoin's 10 Year Anniversary"
 permalink: "/tweetstorm-bitcoins-10-year-anniversary" 
 
+tags:
+  - CY19 Q1
+
 defaults:
   # _posts
   - scope:

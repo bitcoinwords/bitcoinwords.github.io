@@ -2,6 +2,9 @@
 title: "Bitcoin Delta Capitalization"
 permalink: "/bitcoin-delta-capitalization" 
 
+tags:
+  - CY19 Q1
+
 defaults:
   # _posts
   - scope:

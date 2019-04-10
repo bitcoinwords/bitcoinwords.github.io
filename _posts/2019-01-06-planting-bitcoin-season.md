@@ -2,6 +2,9 @@
 title: "Planting Bitcoin — Season"
 permalink: "/planting-bitcoin-season" 
 
+tags:
+  - CY19 Q1
+
 defaults:
   # _posts
   - scope:

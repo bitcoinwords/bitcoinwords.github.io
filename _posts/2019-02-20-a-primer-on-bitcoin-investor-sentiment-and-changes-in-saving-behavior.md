@@ -2,6 +2,9 @@
 title: "A Primer on Bitcoin Investor Sentiment and Changes in Saving Behavior"
 permalink: "/a-primer-on-bitcoin-investor-sentiment-and-changes-in-saving-behavior" 
 
+tags:
+  - CY19 Q1
+
 defaults:
   # _posts
   - scope:

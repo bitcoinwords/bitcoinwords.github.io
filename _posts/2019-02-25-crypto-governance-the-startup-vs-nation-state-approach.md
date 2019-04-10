@@ -2,6 +2,9 @@
 title: "Crypto Governance: The Startup vs. Nation-State Approach"
 permalink: "/crypto-governance-the-startup-vs-nation-state-approach" 
 
+tags:
+  - CY19 Q1
+
 defaults:
   # _posts
   - scope:

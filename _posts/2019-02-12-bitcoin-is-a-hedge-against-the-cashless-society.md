@@ -2,6 +2,9 @@
 title: "Bitcoin is a hedge against the cashless society"
 permalink: "/bitcoin-is-a-hedge-against-the-cashless-society" 
 
+tags:
+  - CY19 Q1
+
 defaults:
   # _posts
   - scope:

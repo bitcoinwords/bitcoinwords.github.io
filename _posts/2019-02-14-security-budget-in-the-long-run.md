@@ -2,6 +2,9 @@
 title: "Security Budget in the Long Run"
 permalink: "/security-budget-in-the-long-run" 
 
+tags:
+  - CY19 Q1
+
 defaults:
   # _posts
   - scope:

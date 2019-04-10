@@ -2,6 +2,9 @@
 title: "Why Bitcoin Matters"
 permalink: "/why-bitcoin-matters" 
 
+tags:
+  - CY19 Q1
+
 defaults:
   # _posts
   - scope:

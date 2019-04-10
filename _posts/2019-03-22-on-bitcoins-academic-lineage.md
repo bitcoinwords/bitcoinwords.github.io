@@ -2,6 +2,9 @@
 title: "On Bitcoin's Academic Lineage"
 permalink: "/on-bitcoins-academic-lineage" 
 
+tags:
+  - CY19 Q1
+
 defaults:
   # _posts
   - scope:

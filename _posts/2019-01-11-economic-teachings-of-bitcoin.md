@@ -2,6 +2,9 @@
 title: "Economic Teachings of Bitcoin"
 permalink: "/economic-teachings-of-bitcoin" 
 
+tags:
+  - CY19 Q1
+
 defaults:
   # _posts
   - scope:

@@ -2,6 +2,9 @@
 title: "Modeling Bitcoin's Value with Scarcity"
 permalink: "/modeling-bitcoins-value-with-scarcity" 
 
+tags:
+  - CY19 Q1
+
 defaults:
   # _posts
   - scope:

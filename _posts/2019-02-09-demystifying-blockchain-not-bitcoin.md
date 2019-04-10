@@ -2,6 +2,9 @@
 title: "Demystifying Blockchain Not Bitcoin"
 permalink: "/demystifying-blockchain-not-bitcoin" 
 
+tags:
+  - CY19 Q1
+
 defaults:
   # _posts
   - scope:
