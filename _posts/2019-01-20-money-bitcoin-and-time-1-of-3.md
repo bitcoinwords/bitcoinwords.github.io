@@ -2,6 +2,9 @@
 title: "Money, Bitcoin and Time: 1 of 3"
 permalink: "/money-bitcoin-and-time-1-of-3" 
 
+tags:
+  - CY19 Q1
+
 defaults:
   # _posts
   - scope:

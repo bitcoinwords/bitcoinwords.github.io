@@ -2,6 +2,9 @@
 title: "Unpacking Bitcoin's Assurances"
 permalink: "/unpacking-bitcoins-assurances" 
 
+tags:
+  - CY19 Q1
+
 defaults:
   # _posts
   - scope:
