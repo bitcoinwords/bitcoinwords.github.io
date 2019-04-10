@@ -19,7 +19,7 @@ defaults:
 # [Skeptic's Guide to Bitcoin: An Honest Account of Fiat Money](https://medium.com/@hasufly/why-bitcoin-3fdee2328759)
 ## A framework for Bitcoin skeptics, part 1
 ### By [Su Zhu](https://twitter.com/zhusu) and [Hasu](https://twitter.com/hasufl)
-### POsted November 21, 2018
+### Posted November 21, 2018
 
 **This is part 1 of a 4 part series. See additional articles below**
 
