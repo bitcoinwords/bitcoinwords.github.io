@@ -2,6 +2,9 @@
 title: "Skeptic's Guide to Bitcoin: An Honest Account of Fiat Money"
 permalink: "/skeptics-guide-to-bitcoin-an-honest-account-of-fiat-money" 
 
+tags:
+  - CY18 Q4
+
 defaults:
   # _posts
   - scope:

@@ -2,6 +2,9 @@
 title: "Philosophical Teachings of Bitcoin"
 permalink: "/philosophical-teachings-of-bitcoin" 
 
+tags:
+  - CY18 Q4
+
 defaults:
   # _posts
   - scope:
