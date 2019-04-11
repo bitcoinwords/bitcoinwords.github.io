@@ -39,6 +39,8 @@ Bitcoin Core is a [focal point](https://en.wikipedia.org/wiki/Focal_point_%28gam
 
 While there are a handful of GitHub "maintainer" accounts at the organization level that have the ability to merge code into the master branch, this is more of a janitorial function than a position of power. If anyone could merge into master it would very quickly turn into a "too many cooks in the kitchen" scenario. Bitcoin Core follows principles of least privilege that any power bestowed to individuals is easily subverted if it is abused.
 
+![Peter Todd tweet](/assets/images/cy18/cy18q4m12/lopp-1.png){: .align-center}
+
 From an adversarial perspective, GitHub can not be trusted. Any number of GitHub employees could use their administrative privileges to inject code into the repository without consent from the maintainers. But it's unlikely that a GitHub attacker would also be able to compromise the PGP key of a Bitcoin Core maintainer.
 
 Rather than base the integrity of the code off of GitHub accounts, Bitcoin Core has a continuous integration system that performs checks of trusted PGP keys that must sign every merge commit. While these keys are tied to known identities, it's still not safe to assume that it will always be the case — a key could be compromised and we wouldn't know unless the original key owner notified the other maintainers. As such, the commit keys do not provide perfect security either, they just make it more difficult for an attacker to inject arbitrary code.
@@ -48,25 +50,25 @@ Rather than base the integrity of the code off of GitHub accounts, Bitcoin Core 
 At time of writing, [these are the trusted PGP fingerprints](https://github.com/bitcoin/bitcoin/blob/master/contrib/verify-commits/trusted-keys):
 
 > 71A3B16735405025D447E8F274810B012346C9A6
-133EAC179436F14A5CF1B794860FEB804E669320
-32EE5C4C3FA15CCADB46ABE529D4BCB6416F53EC
-B8B3F1C0E58C15DB6A81D30C3648A882F4316B9B
-CA03882CB1FC067B5D3ACFE4D300116E1C875A3D
+> 133EAC179436F14A5CF1B794860FEB804E669320
+> 32EE5C4C3FA15CCADB46ABE529D4BCB6416F53EC
+> B8B3F1C0E58C15DB6A81D30C3648A882F4316B9B
+> CA03882CB1FC067B5D3ACFE4D300116E1C875A3D
 
 These keys are registered to:
 
 > Wladimir J. van der Laan <[laanwj@protonmail.com](mailto:laanwj@protonmail.com)>
-Pieter Wuille <[pieter.wuille@gmail.com](mailto:pieter.wuille@gmail.com)>
-Jonas Schnelli <[dev@jonasschnelli.ch](mailto:dev@jonasschnelli.ch)>
-Marco Falke <[marco.falke@tum.de](mailto:marco.falke@tum.de)>
-Samuel Dobson <[dobsonsa68@gmail.com](mailto:dobsonsa68@gmail.com)>
+> Pieter Wuille <[pieter.wuille@gmail.com](mailto:pieter.wuille@gmail.com)>
+> Jonas Schnelli <[dev@jonasschnelli.ch](mailto:dev@jonasschnelli.ch)>
+> Marco Falke <[marco.falke@tum.de](mailto:marco.falke@tum.de)>
+> Samuel Dobson <[dobsonsa68@gmail.com](mailto:dobsonsa68@gmail.com)>
 
 Does this mean that we are trusting these five people? Not quite. Keys are not a proof of identity — these keys could potentially fall into the hands of other people. What assurances do you really get if you run the verify-commits python script?
 
 > python3 contrib/verify-commits/verify-commits.py
-Using verify-commits data from bitcoin/contrib/verify-commits
-All Tree-SHA512s matched up to 309bf16257b2395ce502017be627186b749ee749
-There is a valid path from "HEAD" to 82bcf405f6db1d55b684a1f63a4aabad376cdad7 where all commits are signed!
+> Using verify-commits data from bitcoin/contrib/verify-commits
+> All Tree-SHA512s matched up to 309bf16257b2395ce502017be627186b749ee749
+> There is a valid path from "HEAD" to 82bcf405f6db1d55b684a1f63a4aabad376cdad7 where all commits are signed!
 
 The [verify-commits](https://github.com/bitcoin/bitcoin/tree/master/contrib/verify-commits) script is an integrity check that any developer can run on their machine. When executed, it checks the PGP signature on every single merge commit since commit 82bcf405... in December 2015 — over 3,400 merges at time of writing. If the script completes successfully, it tells us that every line of code that has been changed since that point has passed through the Bitcoin Core development process and been "signed off" by someone with a maintainer key. While this is not a bulletproof guarantee that no one has injected malicious code (a maintainer could go rogue or have their keys stolen), it reduces the attack surface for doing so enormously. What are maintainers and how did they attain this role? We'll dig into that a bit later.
 
@@ -105,13 +107,15 @@ You can check the code coverage of the tests yourself by:
 
 Alternatively, you can view the coverage report Marco Falke [hosts here](https://drahtbot.github.io/reports/coverage/bitcoin/bitcoin/master/total.coverage/index.html).
 
-Code Coverage Report
+![Code Coverage Report](/assets/images/cy18/cy18q4m12/lopp-2.png){: .align-center}*Code Coverage Report*
 
 Having such a high level of test coverage means that there is a higher level of certainty that the code functions as intended.
 
 Testing is a big deal when it comes to consensus critical software. For particularly complex changes, developers sometimes perform painstaking mutation testing — that is, they test the tests by purposely breaking the code and seeing if the tests fail as expected. Greg Maxwell gave some insight into this process when he discussed the 0.15 release:
 
 > "The test is the test of the software, but what's the test of the test? The software. To test the test, you must break the software." — Greg Maxwell
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nSRoEeqYtJA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### Free Market Competition
 
