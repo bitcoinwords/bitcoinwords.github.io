@@ -7,7 +7,7 @@ tags:
   - Aleksandar Svetski
 
 category: 
-  - posts
+  - Posts
   - CY19 Q1
 
 defaults:
