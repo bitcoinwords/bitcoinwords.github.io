@@ -23,6 +23,11 @@ defaults:
 ### By [Brandon Quittem](https://medium.com/@BrandonQuittem)
 ### Posted December 28, 2018
 
+**This is post 1 of a 3 part series**
+* [Bitcoin is a Decentralized Organism (Mycelium) — Part 1 / 3](https://cryptowords.github.io/bitcoin-is-a-decentralized-organism-1-of-3)
+* [Bitcoin is a Social Creature (Mushroom) — Part 2/3](https://cryptowords.github.io/bitcoin-is-a-social-creature-2-of-3)
+* Post 3 will be listed here when available
+
 Exploring Hype Cycles, Ethnomycology, and the Cult of Satoshi
 
 ![mushrooms btc](/assets/images/cy18/cy18q4m12/quit-1.png){: .align-center}*Original Artwork by [Richard Giblett](http://www.richardgiblett.com.au/)*

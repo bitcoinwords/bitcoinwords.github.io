@@ -24,9 +24,9 @@ defaults:
 ### Posted December 11, 2018
 
 **This is post 1 of a 3 part series**
-* [Bitcoin is a Decentralized Organism (Mycelium) — Part 1 / 3]()
+* [Bitcoin is a Decentralized Organism (Mycelium) — Part 1 / 3](https://cryptowords.github.io/bitcoin-is-a-decentralized-organism-1-of-3)
 * [Bitcoin is a Social Creature (Mushroom) — Part 2/3](https://cryptowords.github.io/bitcoin-is-a-social-creature-2-of-3)
-*
+* Post 3 will be listed here when available
 
 ![mushrooms](/assets/images/cy18/cy18q4m12/quit-9.png){: .align-center}*Original Artwork by [Emmaline Bailey](https://www.instagram.com/baileysalchemyartist/?hl=en)*
 
