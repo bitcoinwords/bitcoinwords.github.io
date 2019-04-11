@@ -1,5 +1,5 @@
 ---
-title: "Bitcoin is a Decentralized Organism (Mycelium) — Part 1 / 3"
+title: "Bitcoin is a Decentralized Organism (Mycelium) — Part 1/3"
 permalink: "/bitcoin-is-a-decentralized-organism-1-of-3" 
 
 tags:
