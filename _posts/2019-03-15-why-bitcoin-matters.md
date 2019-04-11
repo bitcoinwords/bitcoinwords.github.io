@@ -4,6 +4,11 @@ permalink: "/why-bitcoin-matters"
 
 tags:
   - CY19 Q1
+  - Aleksandar Svetski
+
+category: 
+  - posts
+  - CY19 Q1
 
 defaults:
   # _posts
