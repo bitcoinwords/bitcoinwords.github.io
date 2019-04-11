@@ -19,7 +19,7 @@ defaults:
       related: false
 ---
 
-# [Bitcoin is a Decentralized Organism (Mycelium) — Part 1 / 3](https://medium.com/@BrandonQuittem/bitcoin-is-a-decentralized-organism-mycelium-part-1-3-6ec58cdcfaa6)
+# [Bitcoin is a Decentralized Organism (Mycelium) — Part 1/3](https://medium.com/@BrandonQuittem/bitcoin-is-a-decentralized-organism-mycelium-part-1-3-6ec58cdcfaa6)
 ### By [Brandon Quittem](https://medium.com/@BrandonQuittem)
 ### Posted December 11, 2018
 
