@@ -1,6 +1,6 @@
 ---
 title: "Skeptic's Guide to Bitcoin: Investing in Bitcoin"
-permalink: "/investing-in-bitcoin" 
+permalink: "/skeptics-guide-to-bitcoin-investing-in-bitcoin" 
 
 tags:
   - CY19 Q1
