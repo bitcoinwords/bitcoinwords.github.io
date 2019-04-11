@@ -4,7 +4,7 @@ permalink: "/bitcoin-two-parts-math-one-part-biology"
 
 tags:
   - CY19 Q1
-  - Dan Held
+  - Hugo Nguyen
 
 defaults:
   # _posts
