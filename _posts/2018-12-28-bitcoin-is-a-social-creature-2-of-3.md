@@ -25,7 +25,7 @@ defaults:
 
 Exploring Hype Cycles, Ethnomycology, and the Cult of Satoshi
 
-![mushrooms btc](/assets/images/cy18/cy19q4m12/quit-1.png){: .align-center}*Original Artwork by [Richard Giblett](http://www.richardgiblett.com.au/)*
+![mushrooms btc](/assets/images/cy18/cy18q4m12/quit-1.png){: .align-center}*Original Artwork by [Richard Giblett](http://www.richardgiblett.com.au/)*
 
 ### Introduction
 
@@ -85,7 +85,7 @@ Amnesiac pundits proudly pile on proclaiming bitcoin has perished ([for the 335t
 
 Roubini celebrates by hosting his 3rd bear market barbecue. Detractors gather to roast the proverbial (bitcoin) mushroom while patting each other on the back.
 
-![Saif tweet](/assets/images/cy18/cy19q4m12/quit-2.png){: .align-center}
+![Saif tweet](/assets/images/cy18/cy18q4m12/quit-2.png){: .align-center}
 
 However to be fair, bitcoin is complicated. Many "crypto people" still think bitcoin is myspace and Ripplecoin is the "standard." Unsurprisingly [most journalists don't grasp what's going on](https://medium.com/s/story/media-coverage-of-bitcoin-is-still-a-total-disaster-7d0d34d98971). Imagine being assigned the "bitcoin beat" as a well intentioned, run-of-the-mill journalist.
 
@@ -114,7 +114,7 @@ However hodlers, new and old, collectively go underground and quietly make bitco
 
 As time goes on, [narratives evolve](https://tokeneconomy.co/crypto-narrative-watch-crypto-winter-edition-bf1cf584def2) as bitcoin continues to reveal herself (himself? itself?) to curious onlookers.
 
-![hodl waves](/assets/images/cy18/cy19q4m12/quit-3.png)
+![hodl waves](/assets/images/cy18/cy18q4m12/quit-3.png)
 
 
 ([Hodl Waves](https://blog.unchained-capital.com/bitcoin-data-science-pt-1-hodl-waves-7f3501d53f63) by Dhruv Bansal at Unchained Capital)
