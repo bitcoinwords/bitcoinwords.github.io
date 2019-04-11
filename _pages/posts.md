@@ -1,7 +1,7 @@
 ---
 title: Posts
 layout: category
-permalink: /categories/Posts/
+permalink: /categories/posts/
 taxonomy: posts
 ---
 
