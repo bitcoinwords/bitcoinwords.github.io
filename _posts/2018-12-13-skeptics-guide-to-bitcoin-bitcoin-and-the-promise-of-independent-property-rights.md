@@ -4,6 +4,8 @@ permalink: "/skeptics-guide-to-bitcoin-bitcoin-and-the-promise-of-independent-pr
 
 tags:
   - CY18 Q4
+  - Su Zhu
+  - Hasu
 
 defaults:
   # _posts

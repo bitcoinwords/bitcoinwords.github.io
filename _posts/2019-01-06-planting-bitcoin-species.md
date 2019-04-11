@@ -4,6 +4,7 @@ permalink: "/planting-bitcoin-species"
 
 tags:
   - CY19 Q1
+  - Dan Held
 
 defaults:
   # _posts

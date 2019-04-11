@@ -4,6 +4,7 @@ permalink: "/bitcoin-timestamp-security"
 
 tags:
   - CY19 Q1
+  - Jameson Lopp
 
 defaults:
   # _posts

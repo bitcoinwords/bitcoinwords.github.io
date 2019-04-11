@@ -4,6 +4,7 @@ permalink: "/a-primer-on-bitcoin-investor-sentiment-and-changes-in-saving-behavi
 
 tags:
   - CY19 Q1
+  - Tuur Demeester
 
 defaults:
   # _posts

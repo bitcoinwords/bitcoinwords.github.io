@@ -4,6 +4,7 @@ permalink: "/tweetstorm-bitcoins-10-year-anniversary"
 
 tags:
   - CY19 Q1
+  - Vijay Boyapati
 
 defaults:
   # _posts

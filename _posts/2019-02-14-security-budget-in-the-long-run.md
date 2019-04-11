@@ -4,6 +4,7 @@ permalink: "/security-budget-in-the-long-run"
 
 tags:
   - CY19 Q1
+  - Paul Stzorc
 
 defaults:
   # _posts

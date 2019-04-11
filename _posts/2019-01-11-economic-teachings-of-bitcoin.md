@@ -4,6 +4,7 @@ permalink: "/economic-teachings-of-bitcoin"
 
 tags:
   - CY19 Q1
+  - Gigi
 
 defaults:
   # _posts

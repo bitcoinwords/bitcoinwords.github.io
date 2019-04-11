@@ -4,6 +4,7 @@ permalink: "/unpacking-bitcoins-assurances"
 
 tags:
   - CY19 Q1
+  - Nic Carter
 
 defaults:
   # _posts

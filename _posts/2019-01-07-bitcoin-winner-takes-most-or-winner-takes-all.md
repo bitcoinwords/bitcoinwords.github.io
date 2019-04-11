@@ -4,6 +4,8 @@ permalink: "/bitcoin-winner-takes-most-or-winner-takes-all"
 
 tags:
   - CY19 Q1
+  - Misir Mahmudov
+  - Yassine Elmandjra
 
 defaults:
   # _posts
@@ -21,7 +23,7 @@ defaults:
 
 # [Bitcoin: Winner Takes Most or Winner Takes All?](https://blog.goodaudience.com/bitcoin-winner-takes-most-or-winner-takes-all-c509aebaa19a)
 ## Exploring market share capture in cryptocurrencies
-### By [Misir Mahmudov](https://blog.goodaudience.com/@misir_mahmudov) and [Yassmine Elmandjra](https://twitter.com/yassineARK)
+### By [Misir Mahmudov](https://blog.goodaudience.com/@misir_mahmudov) and [Yassine Elmandjra](https://twitter.com/yassineARK)
 ### Posted January 7, 2019
 
 This series will explore how the winner-takes-all or winner-takes-most notion applies to the cryptocurrency market. In Part I, we will provide a high-level overview on the evolution of monetary systems up to the inception of cryptocurrencies, shedding light on the limitations of previous forms of money. In Part II, we will explain why the clear winner, likely Bitcoin, should capture most, if not all cryptocurrency market share. In Part III, we will apply this reasoning to the global economy and determine the extent to which the cryptocurrency market may capture a share of global base money.

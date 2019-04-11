@@ -4,6 +4,7 @@ permalink: "/bitcoin-delta-capitalization"
 
 tags:
   - CY19 Q1
+  - David Puell
 
 defaults:
   # _posts

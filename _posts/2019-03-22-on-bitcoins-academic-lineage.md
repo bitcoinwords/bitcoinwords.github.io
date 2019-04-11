@@ -4,6 +4,7 @@ permalink: "/on-bitcoins-academic-lineage"
 
 tags:
   - CY19 Q1
+  - ElSeidy
 
 defaults:
   # _posts

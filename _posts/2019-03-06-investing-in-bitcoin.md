@@ -4,6 +4,8 @@ permalink: "/investing-in-bitcoin"
 
 tags:
   - CY19 Q1
+  - Su Zhu
+  - Hasu
 
 defaults:
   # _posts

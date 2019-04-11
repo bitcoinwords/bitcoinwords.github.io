@@ -4,6 +4,7 @@ permalink: "/philosophical-teachings-of-bitcoin"
 
 tags:
   - CY18 Q4
+  - Gigi
 
 defaults:
   # _posts

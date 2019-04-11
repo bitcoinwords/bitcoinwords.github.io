@@ -4,6 +4,7 @@ permalink: "/cryptocurrency-the-canary-in-the-coal-mine"
 
 tags:
   - CY19 Q1
+  - Jill Carlson
 
 defaults:
   # _posts

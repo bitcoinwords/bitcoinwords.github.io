@@ -4,6 +4,7 @@ permalink: "/bitcoins-incentive-system-or-when-the-stars-align"
 
 tags:
   - CY19 Q1
+  - Misir Mahmudov
 
 defaults:
   # _posts

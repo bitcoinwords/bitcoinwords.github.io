@@ -4,6 +4,8 @@ permalink: "/why-monetary-maximalism-could-fall-short-of-expectations"
 
 tags:
   - CY19 Q1
+  - Su Zhu
+  - Hasu
 
 defaults:
   # _posts

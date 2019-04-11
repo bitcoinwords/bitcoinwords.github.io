@@ -4,6 +4,7 @@ permalink: "/bitcoin-is-a-cult"
 
 tags:
   - CY19 Q1
+  - Kay Kurokawa
 
 defaults:
   # _posts

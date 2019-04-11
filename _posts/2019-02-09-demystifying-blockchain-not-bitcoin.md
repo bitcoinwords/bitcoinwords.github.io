@@ -4,6 +4,7 @@ permalink: "/demystifying-blockchain-not-bitcoin"
 
 tags:
   - CY19 Q1
+  - David Nage
 
 defaults:
   # _posts

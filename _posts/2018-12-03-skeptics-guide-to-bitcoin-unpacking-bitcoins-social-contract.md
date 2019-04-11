@@ -4,6 +4,8 @@ permalink: "/skeptics-guide-to-bitcoin-unpacking-bitcoins-social-contract"
 
 tags:
   - CY18 Q4
+  - Su Zhu
+  - Hasu
 
 defaults:
   # _posts

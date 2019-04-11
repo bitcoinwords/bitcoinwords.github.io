@@ -4,6 +4,8 @@ permalink: "/a-conflict-of-crypto-visions"
 
 tags:
   - CY19 Q1
+  - Yassine Elmandjra
+  - Arjun Balaji
 
 defaults:
   # _posts

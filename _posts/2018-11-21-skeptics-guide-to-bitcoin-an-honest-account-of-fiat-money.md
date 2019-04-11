@@ -4,6 +4,8 @@ permalink: "/skeptics-guide-to-bitcoin-an-honest-account-of-fiat-money"
 
 tags:
   - CY18 Q4
+  - Su Zhu
+  - Hasu
 
 defaults:
   # _posts

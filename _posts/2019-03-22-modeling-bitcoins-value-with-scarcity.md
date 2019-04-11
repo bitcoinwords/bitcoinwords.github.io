@@ -4,6 +4,7 @@ permalink: "/modeling-bitcoins-value-with-scarcity"
 
 tags:
   - CY19 Q1
+  - PlanB
 
 defaults:
   # _posts

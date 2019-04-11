@@ -4,6 +4,8 @@ permalink: "/bitcoin-is-a-hedge-against-the-cashless-society"
 
 tags:
   - CY19 Q1
+  - Su Zhu
+  - Hasu
 
 defaults:
   # _posts

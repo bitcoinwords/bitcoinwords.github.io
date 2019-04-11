@@ -4,6 +4,7 @@ permalink: "/planting-bitcoin-gardening"
 
 tags:
   - CY19 Q1
+  - Dan Held
 
 defaults:
   # _posts
@@ -25,10 +26,10 @@ defaults:
 
 **This is part 4 of a 4 part series**
 
-* [Part 1: Planting Bitcoin - Species]()
-* [Part 2: Planting Bitcoin - Season]()
-* [Part 3: Planting Bitcoin - Soil]()
-* [Part 4: Planting Bitcoin - Gardening]()
+* [Part 1: Planting Bitcoin - Species](https://cryptowords.github.io/planting-bitcoin-species)
+* [Part 2: Planting Bitcoin - Season](https://cryptowords.github.io/planting-bitcoin-season)
+* [Part 3: Planting Bitcoin - Soil](https://cryptowords.github.io/planting-bitcoin-soil)
+* [Part 4: Planting Bitcoin - Gardening](https://cryptowords.github.io/planting-bitcoin-gardening)
 
 <br>
 

@@ -4,6 +4,7 @@ permalink: "/the-lightning-reference-rate"
 
 tags:
   - CY19 Q1
+  - Nik Bhatia
 
 defaults:
   # _posts

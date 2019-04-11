@@ -4,6 +4,7 @@ permalink: "/bitcoin-two-parts-math-one-part-biology"
 
 tags:
   - CY19 Q1
+  - Dan Held
 
 defaults:
   # _posts
@@ -22,6 +23,17 @@ defaults:
 # [Bitcoin: Two Parts Math, One Part Biology](https://medium.com/@hugonguyen/bitcoin-two-parts-math-one-part-biology-b45ef48a0422)
 ### By [Hugo Nguyen](https://medium.com/@hugonguyen)
 ### January 3, 2019
+
+**This is Part 5 of a 5 part series**
+* [Part 1 - The Anatomy of Proof-of-Work](https://bitcointechtalk.com/the-anatomy-of-proof-of-work-98c85b6f6667)
+* [Part 2 - Bitcoin, Chance and Randomness](https://medium.com/@hugonguyen/bitcoin-chance-and-randomness-ba49a6edf933)
+* [Part 3 - How Cryptography Redefines Private Property](https://medium.com/@hugonguyen/how-cryptography-redefines-private-property-34cd93d86036)
+* [Part 4 - Bitcoin's Incentive Scheme and the Rational Individual](https://medium.com/@hugonguyen/bitcoins-incentive-scheme-and-the-rational-individual-dc20effa4715)
+* [Part 5 - Bitcoin: Two Parts Math, One Part Biology](https://cryptowords.github.io/bitcoin-two-parts-math-one-part-biology)
+
+<br>
+
+***
 
 > "The Times 03/Jan/2009 Chancellor on brink of second bailout for banks"
 
@@ -43,7 +55,7 @@ Full index of the series:
 * [Part 2 - Bitcoin, Chance and Randomness](https://medium.com/@hugonguyen/bitcoin-chance-and-randomness-ba49a6edf933)
 * [Part 3 - How Cryptography Redefines Private Property](https://medium.com/@hugonguyen/how-cryptography-redefines-private-property-34cd93d86036)
 * [Part 4 - Bitcoin's Incentive Scheme and the Rational Individual](https://medium.com/@hugonguyen/bitcoins-incentive-scheme-and-the-rational-individual-dc20effa4715)
-* Part 5 - Bitcoin: Two Parts Math, One Part Biology (this article)
+* [Part 5 - Bitcoin: Two Parts Math, One Part Biology](https://medium.com/@hugonguyen/bitcoin-two-parts-math-one-part-biology-b45ef48a0422)
 
 ### The three sublayers of Bitcoin
 

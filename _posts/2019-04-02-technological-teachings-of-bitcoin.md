@@ -2,6 +2,9 @@
 title: "Technological Teachings of Bitcoin"
 permalink: "/technological-teachings-of-bitcoin" 
 
+tags:
+  - Gigi
+  
 defaults:
   # _posts
   - scope:

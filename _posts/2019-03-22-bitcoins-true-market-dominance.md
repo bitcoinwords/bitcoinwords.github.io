@@ -4,6 +4,7 @@ permalink: "/bitcoins-true-market-dominanc"
 
 tags:
   - CY19 Q1
+  - JP Thor
 
 defaults:
   # _posts

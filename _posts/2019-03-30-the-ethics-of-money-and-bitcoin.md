@@ -4,6 +4,7 @@ permalink: "/the-ethics-of-money-and-bitcoin"
 
 tags:
   - CY19 Q1
+  - Nicolas Dorier
 
 defaults:
   # _posts

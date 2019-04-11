@@ -4,6 +4,7 @@ permalink: "/tweetstorm-power-and-money"
 
 tags:
   - CY19 Q1
+  - Saifedean Ammous
 
 defaults:
   # _posts

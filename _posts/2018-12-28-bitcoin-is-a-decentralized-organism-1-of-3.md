@@ -4,6 +4,7 @@ permalink: "/bitcoin-is-a-decentralized-organism-1-of-3"
 
 tags:
   - CY18 Q4
+  - Brandon Quittem
 
 defaults:
   # _posts

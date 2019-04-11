@@ -4,6 +4,7 @@ permalink: "/money-bitcoin-and-time-3-of-3"
 
 tags:
   - CY19 Q1
+  - Robert Breedlove
 
 
 defaults:
@@ -27,8 +28,8 @@ defaults:
 
 **This is part 3 of a 3 part series**
 
-* [Money, Bitcoin and Time: 1 of 3]()
-* [Money, Bitcoin and Time: 2 of 3]()
+* [Money, Bitcoin and Time: 1 of 3](https://cryptowords.github.io/money-bitcoin-and-time-1-of-3)
+* [Money, Bitcoin and Time: 2 of 3](https://cryptowords.github.io/money-bitcoin-and-time-2-of-3)
 * [Money, Bitcoin and Time: 3 of 3](https://cryptowords.github.io/money-bitcoin-and-time-3-of-3)
 
 <br>
