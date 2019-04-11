@@ -114,10 +114,7 @@ However hodlers, new and old, collectively go underground and quietly make bitco
 
 As time goes on, [narratives evolve](https://tokeneconomy.co/crypto-narrative-watch-crypto-winter-edition-bf1cf584def2) as bitcoin continues to reveal herself (himself? itself?) to curious onlookers.
 
-![hodl waves](/assets/images/cy18/cy18q4m12/quit-3.png)
-
-
-([Hodl Waves](https://blog.unchained-capital.com/bitcoin-data-science-pt-1-hodl-waves-7f3501d53f63) by Dhruv Bansal at Unchained Capital)
+![hodl waves](/assets/images/cy18/cy18q4m12/quit-3.png)*([Hodl Waves](https://blog.unchained-capital.com/bitcoin-data-science-pt-1-hodl-waves-7f3501d53f63) by Dhruv Bansal at Unchained Capital)*
 
 Eventually the market bottoms. Hodlers cling together like a [Band of Brothers](https://en.wikipedia.org/wiki/Band_of_Brothers_%28miniseries%29) creating a strong foundation capable of sustaining future growth.
 
