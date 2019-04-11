@@ -19,7 +19,7 @@ defaults:
       related: false
 ---
 
-# Bitcoin is a Social Creature (Mushroom) — Part 2/3
+# [Bitcoin is a Social Creature (Mushroom) — Part 2/3](https://medium.com/@BrandonQuittem/bitcoin-is-a-social-creature-mushroom-part-2-3-6a05c3abe8f0)
 ### By [Brandon Quittem](https://medium.com/@BrandonQuittem)
 ### Posted December 28, 2018
 
