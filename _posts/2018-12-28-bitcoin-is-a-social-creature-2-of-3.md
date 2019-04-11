@@ -138,6 +138,7 @@ Anthropological evidence suggests that humans who partnered with fungi had an ev
 
 Ancient man relied on mushrooms to survive in the Alps of northern Italy. Ötzi, the Ice Man, who died nearly 5,300 years ago, was discovered carrying two mushrooms (Amadou and Birch Polypore) tethered on a leather strap. One of the mushrooms was used to start fires and the other was discovered to be medicinally active against the parasite discovered in his gut.
 
+![shroom](/assets/images/cy18/cy18q4m12/quit-4.png){: .align-center}
 ([source](http://theicemantheory.weebly.com/artifacts.html))
 
 As far back as 19,000 years ago, a particularly high status woman dubbed the "red lady" consumed mushrooms as [evidenced by the spores recovered from her teeth](http://blog.crazyaboutmushrooms.com/paleolithic-red-lady-ate-mushrooms-19000-years-ago/). Whether this mushrooms was for food, religious purposes, or otherwise is unknown.
