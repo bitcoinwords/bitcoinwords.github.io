@@ -114,7 +114,7 @@ author:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:cryptowordsjournal@pm.me"
+      # url: "mailto:cryptowordsjournal@pm.me"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "https://cryptowords.github.io/"
