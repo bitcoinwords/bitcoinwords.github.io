@@ -145,7 +145,7 @@ As far back as 19,000 years ago, a particularly high status woman dubbed the "re
 
 One of our oldest examples of cave paintings was discovered in northern Algeria, estimated to be over 6,000 years old. This painting depicted "bee man" who has mushrooms in his hands and growing out of his body.
 
-_Cave painting: "Bee man" covered in mushrooms. Circa 4,000 BC_
+![bee man](/assets/images/cy18/cy18q4m12/quit-5.png){: .align-center}*Cave painting: "Bee man" covered in mushrooms. Circa 4,000 BC*
 
 In Siberia, the [Koryak people revered the "Fly Agaric"](http://blog.crazyaboutmushrooms.com/amanita-muscaria-koryak-magic-mushrooms-siberia/) mushroom (Amanita Muscaria) which is the iconic "red and white" mushroom famously portrayed in Super Mario Brothers and Alice in Wonderland. The Koryak loved this mushroom so much they would drink the urine of humans and reindeer who recently consumed the mushroom. Apparently you can recycle urine in this way up to 5x while achieving desired effects. How they discovered this phenomenon is another question all together...
 
@@ -153,7 +153,7 @@ Get your tinfoil hat, [the Fly Agaric may have inspired our Christmas traditions
 
 The Mazatec Culture from present day Mexico revered the mushroom as sacred. Discovered relatively recently by Gordon Wasson which he detailed in a famous [article in a 1955 edition of Life Magazine](http://www.imaginaria.org/wasson/life.htm). Many tourists have since visited this region in Mexico seeking to learn from the famous Mushroom Shaman, Maria Sabina, and her kin.
 
-Mushroom artifacts from Central America
+![Mushroom artifacts from Central America](/assets/images/cy18/cy18q4m12/quit-6.png){: .align-center}*Mushroom artifacts from Central America*
 
 Clearly the mushroom has captured the attention of our ancestors.
 
@@ -185,7 +185,7 @@ The answer is no. The essence of bitcoin is intimately tied to the ever evolving
 
 Bitcoin's social contract coalesces around a few simple rules. These agreed upon rules (a Schelling point) are then ratified in the bitcoin protocol automating social consensus.
 
-(Source: Hasu's [Bitcoin as a Social Contract](https://medium.com/s/story/bitcoins-social-contract-1f8b05ee24a9?sk=27e8cf65d45c46ffae1466ce2ac31b48))
+![Bitcoin's Rules](/assets/images/cy18/cy18q4m12/quit-7.png){: .align-center}*(Source: Hasu's [Bitcoin as a Social Contract](https://medium.com/s/story/bitcoins-social-contract-1f8b05ee24a9?sk=27e8cf65d45c46ffae1466ce2ac31b48))*
 
 Let's use the "great scaling debate" as an example. One group (BCH) believed we should focus on "cheap payments" at the expense of "decentralization," while the other (BTC) believed we need to prioritize "decentralization" on the base layer and scale payments off chain.
 
@@ -226,6 +226,8 @@ Price increases → mining becomes more profitable → more miners contribute ha
 ### The Fungus Is Spreading
 
 If the bear market blues make you frown, just look underground. There are countless developments (some listed above) to be optimistic about.
+
+![tweet](/assets/images/cy18/cy18q4m12/quit-8.png){: .align-center}
 
 The bitcoin fungus is quietly spreading underground.
 
