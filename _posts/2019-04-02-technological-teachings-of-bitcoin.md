@@ -5,6 +5,8 @@ permalink: "/technological-teachings-of-bitcoin"
 tags:
   - Gigi
   - CY19 Q2
+
+excerpt: By Gigi, POsted April 2, 2019
   
 defaults:
   # _posts
@@ -23,7 +25,7 @@ defaults:
 # [Technological Teachings of Bitcoin](https://medium.com/@dergigi/technological-teachings-of-bitcoin-20420b459417)
 ## What I've Learned From Bitcoin: Part III
 ### By [Gigi](https://medium.com/@dergigi)
-### Posted Apr 2, 2019
+### Posted April 2, 2019
 
 
 **This is part 3 of a 3 part series**

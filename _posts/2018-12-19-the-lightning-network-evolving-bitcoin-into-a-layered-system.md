@@ -6,6 +6,8 @@ tags:
   - CY18 Q4
   - Jordan Clifford
 
+excerpt: By Jordan Clifford, Posted December 19, 2018 
+
 defaults:
   # _posts
   - scope:
