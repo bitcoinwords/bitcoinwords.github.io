@@ -4,6 +4,7 @@ permalink: "/technological-teachings-of-bitcoin"
 
 tags:
   - Gigi
+  - CY19 Q2
   
 defaults:
   # _posts
