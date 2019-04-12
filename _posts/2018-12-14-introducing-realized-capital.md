@@ -39,6 +39,7 @@ We wanted to create a measure that reflected this, at least for UTXO chains. Our
 
 * De-emphasize lost coins
 * Where possible, maximize generalizability (so reduce reliance on idiosyncratic adjustments)
+* Do not deviate from Market Cap by more than a single order of magnitude
 
 The eureka moment came when Pierre Rochard asked for data on a historically-weighted UTXO market cap for Bitcoin. This was mentioned to Coinmetrics engineer Antoine Le Calvez, who figured out an appropriate methodology and also dubbed it "Realized Capitalization." (It was previously called "Effective Cap".) Realized Cap seemed to fit the bill:
 
