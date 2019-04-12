@@ -6,7 +6,7 @@ tags:
   - CY18 Q4
   - Christopher Bendiksen
 
-excerpt: Part 1 of a 2 part series that looks at some of the FUD surrounding mining, by Christopher Bendiksen , Posted December 6, 2018
+excerpt: Part 1 of a 2 part series that looks at some of the FUD surrounding mining, by Christopher Bendiksen , Posted November 11, 2018
 
 defaults:
   # _posts
