@@ -29,13 +29,12 @@ defaults:
 
 **This is part 1 of a 2 part series**
 
-* Part 1 **[An Honest Explanation of Price, Hashrate & Bitcoin Mining Network Dynamics]()**
-* Part 2 [Beware of Lazy Research: Let's Talk Electricity Waste & How Bitcoin Mining Can Power A Renewable Energy Renaissance]()
+* Part 1 **[An Honest Explanation of Price, Hashrate & Bitcoin Mining Network Dynamics](https://cryptowords.github.io/an-honest-explanation-of-price-hashrate-and-bitcoin-mining-hashrate-and-bitcoin-mining-dynamics-1-of-2)**
+* Part 2 [Beware of Lazy Research: Let's Talk Electricity Waste & How Bitcoin Mining Can Power A Renewable Energy Renaissance](https://cryptowords.github.io/beware-of-lazy-research-lets-talk-electricity-waste-2-of-2)
 
 <br>
 
 ***
-
 
 As a part of our ongoing effort to keep the crypto community knowledgeable on the inner workings and development of the Bitcoin mining network, CoinShares Research just published our latest _Bitcoin Mining Report._
 
@@ -56,13 +55,13 @@ So what does this all mean for the network?
 
 Before we go there, let's 'level set' with a brief primer on CAPEX, OPEX and ROI for non-MBAs. _(Skip ahead to the Results section under the photo if you're already familiar with these concepts.)_
 
-#### Mining capex, opex and ROI for non-MBAs
+### Mining capex, opex and ROI for non-MBAs
 
 For those unfamiliar with the lingo I am about to employ, when I use the term **_capex_** I am referring to **_capital expenditures,_** and when I use the term **_opex_**I am referring to **_operational expenditures_**. _Briefly explained:_
 
 Capex describes all expenditures related to the acquisition of _capital_, such as mining gear, racks, property (if applicable) etc.
 
-Opex describes all _ongoing_expenditures, like wages, electricity cost, rent (if applicable) etc.
+Opex describes all _ongoing_ expenditures, like wages, electricity cost, rent (if applicable) etc.
 
 I will also be using the term **_ROI_**which simply means **_return on investment_**. ROI is positive if an investment is profitable, and negative if it produces losses.
 
@@ -70,7 +69,7 @@ When establishing a mining operation you can structure it between two extremes:
 
 _On one end of the scale,_ you can rent all your equipment, housing, maintenance, etc. and pay-as-you-go for electricity. Under this setup, all expenditures are **opex** and your operation owns no capital. If nothing is contracted, you have no assets and no liabilities.
 
-_On the other end of the scale,_you could decide to buy all of your gear, a plot of land, and fixed electricity and employment contracts. In this structure, all expenditures are pre-paid **capex**. Your operation owns capital (assets) but also has contractual liabilities.
+_On the other end of the scale,_ you could decide to buy all of your gear, a plot of land, and fixed electricity and employment contracts. In this structure, all expenditures are pre-paid **capex**. Your operation owns capital (assets) but also has contractual liabilities.
 
 > **_In reality, most mining operations fall somewhere between these two extremes — a combination of both opex and capex._**
 
@@ -105,16 +104,15 @@ At the risk of repeating myself ad nauseum here, **_this is not the level below 
 
 It is simply the level below which they will lose money on their investment, making them unlikely to remain players in the mining industry over time, unless they have bottomless pockets of investment capital available.
 
+![mining rigs, a ton of them](/assets/images/cy18/cy18q4m11/bend-1.png){: .align-center}*Photo by [Marko Ahtisaari](https://www.flickr.com/photos/moia/), used with permission under [Creative Commons 2.0 license](https://creativecommons.org/licenses/by/2.0/).*
 
-Photo by [Marko Ahtisaari](https://www.flickr.com/photos/moia/), used with permission under [Creative Commons 2.0 license](https://creativecommons.org/licenses/by/2.0/).
+## Now, the results...The Cost to Mine One Bitcoin:
 
-### Now, the results...The Cost to Mine One Bitcoin:
-
-#### Average 'all-in' cost: $6,800/btc | A _verage cash cost:_ $3,400/btc
+### Average 'all-in' cost: $6,800/btc | A _verage cash cost:_ $3,400/btc
 
 In our [June report](https://coinshares.co.uk/bitcoin-mining-cost-june-2018/) we estimated a _market-average all-in_ cost of creation of approximately $6,500 per bitcoin. We arrived at this number by assuming a market-average capex based on all available pricing information, electricity cost of ¢5/kWh and an 18-month depreciation schedule (for a full treatment of the methodology and all assumptions we direct readers to the appendix of our June report).
 
-I need to stress that **_this is an average figure_** _._Not all miners are operating at these assumption levels. Some have it better, some have it worse.
+I need to stress that **_this is an average figure_** _._ Not all miners are operating at these assumption levels. Some have it better, some have it worse.
 
 The figure itself means that _if our assumptions are correct_, the average miner, at the network conditions present in June, would run a positive ROI at bitcoin prices above $6,500. The bitcoin price at the time was approximately $8,500.
 
@@ -122,14 +120,14 @@ In our latest report, _under the same exact assumptions_, we estimate the creati
 
 For reference, we estimate that the opex component of this all-in cost is exactly 50% of the total (at an 18-month depreciation schedule). That means the _market-average cash cost_ at our assumptions is approximately $3,400. Pretty close to current bitcoin prices.
 
-#### So what does that mean?
+### So what does that mean?
 
 Essentially one of two things:
 
 1. Either our assumptions are silly, or...
 2. Many miners are currently feeling the squeeze, with inefficient mining gear and high-cost electricity miners likely to be forced off the network.
 
-#### What does the data say?
+### What does the data say?
 
 Interestingly, the data suggests that the truth lies somewhere between the two — cliché, I know. But let's unpack that a little.
 
@@ -141,7 +139,7 @@ At the time of writing, [Bitcoinwisdom](https://bitcoinwisdom.com/bitcoin/diffic
 
 It is also possible our market average assumed electricity cost of ¢5/kWh could be too high. Or perhaps our cooling cost assumptions are too high? While we can speculate about this, that is also ultimately all we can do.
 
-#### An Important Note: Price and Hashrate Dynamics
+### An Important Note: Price and Hashrate Dynamics
 
 Bitcoin is structured such that the hashrate follows price, slightly modulated by increases in gear efficiency. When the price increases, the hashrate increases, and when the price decreases the hashrate decreases.
 
@@ -159,7 +157,7 @@ The same dynamic does apply in the opposite direction. When cash cost falls belo
 
 
 
-#### "But I thought price follows hashrate?"
+### "But I thought price follows hashrate?"
 
 It doesn't. And moreover, how could that possibly be the case?
 
@@ -171,7 +169,7 @@ At average competitive conditions, increasing your hashrate in a falling market 
 
 In fact, I can only think of one scenario where the hashrate could act as some sort of 'floor' for prices. This is in the unlikely event where miners _are so well capitalised_ that they could refuse to sell their bitcoins at market prices, and cover their costs with liquid capital from their balance sheet while continuing to mine at a loss. You be the judge of that likelihood.
 
-#### So is the mining industry collapsing now?
+### So is the mining industry collapsing now?
 
 No. There is nothing dramatic about what is currently happening. The net effect is that the highest marginal cost producers are booted off the market while the most efficient miners remain.
 
@@ -179,7 +177,7 @@ No. There is nothing dramatic about what is currently happening. The net effect 
 
 The remaining miners then restart a new competitive cycle — both against each other, and against a new wave of prospective outsiders who believe they can mine profitably under new conditions. Through this process, mining migrates ever closer to the cheapest underlying conditions. It's an incredible spectacle of pure free-market dynamics.
 
-Meanwhile, **_bitcoin issuance effectively remains the same_** _._No fewer bitcoins are created, just as no more bitcoins were created during the period of price growth (with the exception of single-digit perturbations caused by the relative over- or- underperformance caused by the growth or shrinkage happening between difficulty resets).
+Meanwhile, **_bitcoin issuance effectively remains the same_** _._ No fewer bitcoins are created, just as no more bitcoins were created during the period of price growth (with the exception of single-digit perturbations caused by the relative over- or- underperformance caused by the growth or shrinkage happening between difficulty resets).
 
 This is a defining characteristic of bitcoin mining and sets it apart from all other commodities — it is also a fundamental driver of volatility.
 
@@ -189,7 +187,7 @@ If the price of gold increases, production will increase until the marginal prod
 
 No such effect in Bitcoin. Issuance is predefined and no market dynamics can significantly influence it.
 
-#### So what happens next?
+### So what happens next?
 
 As price does its thing, hashrate will follow and settle into whatever new market conditions are in stall. Old, inefficient gear and high-cost producers are out; and until price increases again, the hashrate can only increase by miners lowering their opex. They can do this by sourcing cheaper electricity, installing more efficient mining equipment or generally cutting costs.
 
@@ -203,6 +201,8 @@ Perhaps possible, but not a likely scenario in our view.
 Bitcoin isn't dead. Not this time nor the 326 times before.
 
 Now I suggest you have a look at our report, **_some of our other findings might totally surprise you_** (see what I did there?).
+
+![coinshares mining report tweet.](/assets/images/cy18/cy18q4m11/bend-2.png){: .align-center}{Link to report](https://coinshares.co.uk/bitcoin-mining-cost/)
 
 **Disclaimer**
 

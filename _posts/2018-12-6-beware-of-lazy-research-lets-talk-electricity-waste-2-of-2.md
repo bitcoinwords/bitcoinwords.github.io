@@ -29,13 +29,12 @@ defaults:
 
 **This is part 2 of a 2 part series**
 
-* 
-* **Part 2 [Beware of Lazy Research: Let's Talk Electricity Waste & How Bitcoin Mining Can Power A Renewable Energy Renaissance]()**
+* [An Honest Explanation of Price, Hashrate & Bitcoin Mining Network Dynamics](https://cryptowords.github.io/an-honest-explanation-of-price-hashrate-and-bitcoin-mining-hashrate-and-bitcoin-mining-dynamics-1-of-2)
+* **Part 2 [Beware of Lazy Research: Let's Talk Electricity Waste & How Bitcoin Mining Can Power A Renewable Energy Renaissance](https://cryptowords.github.io/beware-of-lazy-research-lets-talk-electricity-waste-2-of-2)**
 
 <br>
 
 ***
-
 If you're reading this, then perhaps you've read the [latest CoinShares Research report on the bitcoin mining network](https://coinshares.co.uk/bitcoin-mining-cost/), [my previous commentary on creation costs](https://medium.com/@cbendiksen/f820d6218bdf), or even better: both!
 
 Or maybe you haven't read either and came straight for the hot sauce.
