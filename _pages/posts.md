@@ -4,9 +4,6 @@ layout: category
 permalink: /categories/posts/
 taxonomy: posts
 
-sidebar:
-	title: "Quarters"
-	nav: sidebar-tags-page
 ---
 
 # All posts are listed here in chronological order.
