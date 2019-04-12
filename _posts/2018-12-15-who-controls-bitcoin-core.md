@@ -121,9 +121,11 @@ Testing is a big deal when it comes to consensus critical software. For particul
 
 BitMEX wrote a great article about the ecosystem of Bitcoin implementations. There are over a dozen different Bitcoin compatible implementations, and even more "competing network" implementations. This is the freedom of open source — anyone who is dissatisfied with the efforts of the Bitcoin Core project is free to start their own project. They can do so from scratch or they can fork the Core software.
 
-[**Competing with Bitcoin Core** _Abstract: We examine the power and dynamics of the "Bitcoin Core" software project and we draw distinctions between the..._blog.bitmex.com](https://blog.bitmex.com/bitcoin-cores-competition/ "https://blog.bitmex.com/bitcoin-cores-competition/")
+[**Competing with Bitcoin Core** Abstract: We examine the power and dynamics of the "Bitcoin Core" software project and we draw distinctions between the...blog.bitmex.com](https://blog.bitmex.com/bitcoin-cores-competition/)
 
 At time of writing, 96% of reachable Bitcoin nodes are running some version of Bitcoin Core. Why is this the case? How can Bitcoin Core have near-monopoly status over the network of nodes if the effort required to switch to another software implementation is minimal? After all, many other implementations provide RPC APIs that are compatible with, or at least highly similar to Bitcoin Core.
+
+![nodes](/assets/images/cy18/cy18q4m12/lopp-3.png){: .align-center}
 
 I believe that this is a result of Bitcoin Core being a focal point for development. It has orders of magnitude more developer time and talent backing it, which means that the code produced by the Bitcoin Core project tends to be the most performant, robust, and secure. Node operators don't want to run the second best software when it comes to managing money. Also, given that this is consensus software and the Bitcoin protocol does not — and arguably can not — have a formal specification because no one has the authority to write one, it's somewhat safer to use the focal point implementation because you're more likely to be bug-for-bug compatible with most of the rest of the network. In this sense, the code of the development focal point is the closest thing to a specification that exists.
 
@@ -141,11 +143,13 @@ Who are the Bitcoin Core maintainers? They are contributors who have built up su
 
 Acting as a Bitcoin Core maintainer is often referred to as janitorial work because maintainers don't actually have the power to make decisions that run contrary to the consensus of contributors or of the users. However, the role can be quite taxing due to the extra attention from the ecosystem at large. For example, Gregory Maxwell gave up his maintainer role in 2017 [for personal reasons](https://www.reddit.com/r/Bitcoin/comments/3x7mrr/gmaxwell_unullc_no_longer_a_bitcoin_committer_on/cy29vkx/), likely due to the public pressure he experienced during the scaling debate. Wladimir wrote a thoughtful post about the stress of being a Core maintainer and why it was appropriate to remove Gavin's commit access, which upset a lot of people.
 
-[**Dazed and confused, but trying to continue** _I'm happy with the job I'm doing, happy to work with a few very smart people on an extremely interesting project..._laanwj.github.io](https://laanwj.github.io/2016/05/06/hostility-scams-and-moving-forward.html "https://laanwj.github.io/2016/05/06/hostility-scams-and-moving-forward.html")
+[**Dazed and confused, but trying to continue** I'm happy with the job I'm doing, happy to work with a few very smart people on an extremely interesting project...laanwj.github.io](https://laanwj.github.io/2016/05/06/hostility-scams-and-moving-forward.html)
 
 Similarly, when [Jeff Garzik](https://medium.com/@jgarzik) was removed from the GitHub organization, he and others were upset about it, but he [had not contributed to Core in two years](https://www.reddit.com/r/Bitcoin/comments/6uec40/jeff_garzik_has_been_removed_from_the_bitcoin/). Leaving his GitHub account with write access to the repository was providing no benefit to the project — it was only creating a security risk and violated the principle of least privilege to which Wladimir referred in his post.
 
 Others may look at Core and believe it to be a technocracy or ivory tower that makes it difficult for new entrants to join. But if you speak to contributors, you'll find that's not the case. While only [a dozen people](https://bitcointalk.org/index.php?topic=1774750.0) have had commit access over the years, hundreds of developers have made contributions. I myself have made a few small contributions; while I don't consider myself a "Core developer" I _technically_ am one. No one can stop you from contributing!
+
+![tweets](/assets/images/cy18/cy18q4m12/lopp-4.png){: .align-center}
 
 One of the most difficult things for people to wrap their mind around seems to be that the focal point for Bitcoin development is **not** simply the structure that is defined by the Bitcoin Core GitHub account. While Bitcoin Core has some structure (it uses centralized communications channels in order to coordinate), the project itself is not subject to being controlled by any of its participants — even those who have escalated privileges on the GitHub repository. While it is _technically_ possible for a maintainer-organized coup to hijack the GitHub repository, censor dissenting developers, and perhaps even maintain the brand name of "Bitcoin Core," the result would be that Bitcoin Core would stop being the development focal point. Developers who disagreed with the actions of the maintainers would simply fork the code and shift their work to a different repository over which the Bitcoin Core maintainers had no administrative privileges.
 
@@ -157,27 +161,33 @@ Even absent a "coup" per se, if a controversial change did somehow make it into 
 
 Forking the code is easy. Shifting the focal point of Bitcoin development is hard — you must convince contributors that their time is better spent contributing to a different project.
 
+![Lopp tweet](/assets/images/cy18/cy18q4m12/lopp-5.png){: .align-center}
+
 It's also hard to convince many people that users do not blindly follow Bitcoin Core's changes — this may be a self reinforcing belief, because if users don't participate in the consensus process by staying aware of their options, they are ceding some of their power to developers. However, the power of the users was exercised during the UASF (User Activated Soft Fork) movement of 2017. An anonymous Bitcoin developer using the pseudonym [shaolinfry](https://medium.com/@shaolinfry) proposed [BIP 148](https://github.com/bitcoin/bips/blob/master/bip-0148.mediawiki), which would force miners to activate Segregated Witness functionality at a block height that would occur near August 1. However, BIP 148 proved to be too controversial to be adopted by Bitcoin Core, so shaolinfry forked Core and made "[Bitcoin UASF](https://github.com/UASF/bitcoin)" software available. This software implementation [gained a nontrivial amount of traction](https://www.uasf.co/) and [seemed to create sufficient pressure](https://hackernoon.com/bip-148-uasf-first-year-anniversary-a-new-system-of-governance-223907ec298b) to convince miners to adopt [BIP 91](https://github.com/bitcoin/bips/blob/master/bip-0091.mediawiki) to activate the fork before the BIP 148 deadline.
 
 In my opinion the best Bitcoin Core contributors are those who practice [extreme ownership](https://www.youtube.com/watch?v=ljqra3BcqWM). Case in point — while [John Newbery](https://medium.com/@jfnewbery) did not write the code that contained this particular consensus bug, he feels responsible for not preventing it from being merged via careful review and for not finding it later while writing test cases.
 
+![tweet](/assets/images/cy18/cy18q4m12/lopp-5.png){: .align-center}
+
 We are all Satoshi.
 
-Visualization of Bitcoin Core development
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DjYbsq3FXfM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+*Visualization of Bitcoin Core development*
 
 ### Contributing to Bitcoin Core
 
 It can feel daunting to start contributing to Core, though there are plenty of resources available to help aspiring developers. The guidelines for contributing [can be found here](https://bitcoincore.org/en/faq/contributing-code/) though you may wish to start off with [Jimmy Song](https://medium.com/@jimmysong)'s gentle introduction:
 
-[**A Gentle Introduction to Bitcoin Core Development** _If you're a developer and you own any Bitcoin at all, contributing to Bitcoin Core can be one of the best things you..._bitcointechtalk.com](https://bitcointechtalk.com/a-gentle-introduction-to-bitcoin-core-development-fdc95eaee6b8 "https://bitcointechtalk.com/a-gentle-introduction-to-bitcoin-core-development-fdc95eaee6b8")
+[**A Gentle Introduction to Bitcoin Core Development** If you're a developer and you own any Bitcoin at all, contributing to Bitcoin Core can be one of the best things you... bitcointechtalk.com](https://bitcointechtalk.com/a-gentle-introduction-to-bitcoin-core-development-fdc95eaee6b8)
 
 Core developer [Eric Lombrozo](https://medium.com/@elombrozo) also penned a piece about understanding how changes take place within the Core repository:
 
-[**The Bitcoin Core Merge Process** _A major point of confusion, especially among people who have not worked a lot on free open source software development..._medium.com](https://medium.com/@elombrozo/the-bitcoin-core-merge-process-74687a09d81d "https://medium.com/@elombrozo/the-bitcoin-core-merge-process-74687a09d81d")
+[**The Bitcoin Core Merge Process** A major point of confusion, especially among people who have not worked a lot on free open source software development... medium.com](https://medium.com/@elombrozo/the-bitcoin-core-merge-process-74687a09d81d)
 
 [Alex B.](https://medium.com/@bergealex4) wrote an excellent article about the philosophy behind Bitcoin development — anyone who wants to become a serious contributor can save themselves a lot of time by reading this.
 
-[**The Tao Of Bitcoin Development** _Over the last few years, the buzz generated by Bitcoin's scaling debate has drawn unprecedented attention towards the..._medium.com](https://medium.com/@bergealex4/the-tao-of-bitcoin-development-ff093c6155cd "https://medium.com/@bergealex4/the-tao-of-bitcoin-development-ff093c6155cd")
+[**The Tao Of Bitcoin Development** Over the last few years, the buzz generated by Bitcoin's scaling debate has drawn unprecedented attention towards the... medium.com](https://medium.com/@bergealex4/the-tao-of-bitcoin-development-ff093c6155cd)
 
 A specific example may be helpful — while writing this article I encountered difficulties while trying to run the verify-commits.py script on my machine in order to audit the integrity of the GitHub commit history. In order to save future developers from having to deal with these issues, I [opened a pull request to improve the documentation](https://github.com/bitcoin/bitcoin/pull/14809). As you can see from the PR history, 4 different developers chimed in with suggestions for how I could improve my pull request. This ranged from using different wiki markup to a simplified bash command to a new parameter that could be used in the verify-commits.py script. I agreed that all of the suggestions made sense, so I incorporated them into my code and pushed an updated version for my pull request. At that point, the developers who were participating in the review acknowledged that they found the PR to be acceptable, and maintainer [Marco Falke](https://github.com/MarcoFalke) tagged it for inclusion in the 0.18 release. After several more days went by with no objections from developers, the code was merged into Core by maintainer Samuel Dobson.
 
@@ -191,8 +201,9 @@ While changes to the Bitcoin protocol itself are usually made via the [Bitcoin I
 
 As difficult as this is to explain and understand, it is a crucial aspect to Bitcoin's antifragility — if there was a single point of control, it would also be a single point of failure that would be exploited by powerful entities that are threatened by Bitcoin's success. Ultimately, each node operator governs themselves by ensuring that no one else on the network is breaking the rules to which they agree. [This security model](http://www.coindesk.com/bitcoins-security-model-deep-dive/) is the foundation for Bitcoin's bottom-up governance.
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_IMzSCSeM68" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-How self governance results in emergent consensus.
+*How self governance results in emergent consensus.*
 
 No one controls Bitcoin.
 
