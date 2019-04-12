@@ -5,7 +5,7 @@ permalink: /categories/posts/
 taxonomy: posts
 
 sidebar:
-	title: "Posts by Quarter"
+	title: "Quarters"
 	nav: sidebar-tags-page
 ---
 
