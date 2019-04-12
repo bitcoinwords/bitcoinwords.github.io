@@ -18,3 +18,15 @@ main:
   #   url: /collection-archive/
   # - title: "Sitemap"
   #   url: /sitemap/
+
+sidebar-tags-page:
+  - title: "Quarters"
+    children:
+      - title: "CY19 Q2"
+        url: /tags/#cy19-q2
+      - title: "CY19 Q1"
+        url: /tags/#cy19-q1
+      - title: "CY18 Q4"
+        url: /tags/#cy18-q4
+      - title: "CY18 Q3"
+        url: /tags/#cy18-q3

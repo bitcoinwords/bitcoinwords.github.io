@@ -3,6 +3,10 @@ title: Posts
 layout: category
 permalink: /categories/posts/
 taxonomy: posts
+
+sidebar:
+	title: "Posts by Quarter"
+	nav: sidebar-tags-page
 ---
 
 # All posts are listed here in chronological order.
