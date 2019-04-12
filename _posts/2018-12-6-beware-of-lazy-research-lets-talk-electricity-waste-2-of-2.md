@@ -6,7 +6,7 @@ tags:
   - CY18 Q4
   - Christopher Bendiksen
 
-excerpt: A look at realized capital by the Coinmetrics Team, Posted December 14, 2018
+excerpt: A two part series that looks at some of the FUD surrounding mining, by Christopher Bendiksen , Posted December 6, 2018
 
 defaults:
   # _posts
