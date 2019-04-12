@@ -6,6 +6,8 @@ tags:
   - CY18 Q4
   - Brandon Quittem
 
+excerpt: By Brandon Quittem, Posted December 28, 2018
+
 defaults:
   # _posts
   - scope:
