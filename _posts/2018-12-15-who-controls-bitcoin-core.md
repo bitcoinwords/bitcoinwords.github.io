@@ -6,7 +6,7 @@ tags:
   - CY18 Q4
   - Jameson Lopp
 
-excerpt: By [Jameson Lopp](https://medium.com/@lopp), Posted December 15, 2018
+excerpt: By Jameson Lopp, Posted December 15, 2018
 
 defaults:
   # _posts
