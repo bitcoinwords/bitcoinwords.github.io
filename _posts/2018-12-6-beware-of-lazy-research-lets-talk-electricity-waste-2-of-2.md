@@ -6,7 +6,7 @@ tags:
   - CY18 Q4
   - Christopher Bendiksen
 
-excerpt: A two part series that looks at some of the FUD surrounding mining, by Christopher Bendiksen , Posted December 6, 2018
+excerpt: Part 2 of a 2 part series that looks at some of the FUD surrounding mining, by Christopher Bendiksen , Posted December 6, 2018
 
 defaults:
   # _posts
@@ -27,20 +27,29 @@ defaults:
 ### By [Christopher Bendiksen](https://medium.com/@cbendiksen)
 ### Posted December 6, 2018
 
+**This is part 2 of a 2 part series**
+
+* 
+* **Part 2 [Beware of Lazy Research: Let's Talk Electricity Waste & How Bitcoin Mining Can Power A Renewable Energy Renaissance]()**
+
+<br>
+
+***
+
 If you're reading this, then perhaps you've read the [latest CoinShares Research report on the bitcoin mining network](https://coinshares.co.uk/bitcoin-mining-cost/), [my previous commentary on creation costs](https://medium.com/@cbendiksen/f820d6218bdf), or even better: both!
 
 Or maybe you haven't read either and came straight for the hot sauce.
 
 Either way, at this point you probably haven't missed it: the hottest narrative in the anti-Bitcoin playbook is the environmentalist attack on Proof-of-Work (PoW) consensus algorithms. Exhibit A:
 
-
+![Nouriel tweet](/assets/images/cy18/cy18q4m12/bend-1.png){: .align-center}
 Oh dear...
 
 While it's encouraging that Bitcoin detractors are clearly running out of ideas, it is nevertheless a powerful narrative — especially for younger generations whose future prosperity not only rests on the reintroduction of sound money, but also on a relatively benign global climate.
 
 Thus we feel compelled to address this narrative with data and methodologies that hold up against both internal and external scrutiny. In our view, this is more than can be said for most (not all) of the research underpinning the narrative that we hope to debunk, once and for all.
 
-### Bitcoin is boiling the oceans!
+## Bitcoin is boiling the oceans!
 
 You've surely heard it. Where did this idea originate?
 
@@ -50,14 +59,13 @@ In fact you'd be hard pressed to find many articles in the press pushing the env
 
 Without spending too much time on Digiconomist, I cannot avoid pointing out that within days of releasing our last mining report — which offered a more granular methodology for estimating the total power draw of bitcoin miners — and after being [called out](https://twitter.com/nic__carter/status/1004423434703646722) in no uncertain terms by [Nic Carter](https://medium.com/@nic__carter) on Twitter, the [Bitcoin Energy Consumption Index](https://digiconomist.net/bitcoin-energy-consumption) on the website mysteriously flatlined **_even though_** the hashrate continued growing. Strange.
 
-
-Screenshot of the Digiconomist website.
+![BTC energy consumption index chart](/assets/images/cy18/cy18q4m12/bend-2.png){: .align-center}*Screenshot of the Digiconomist website.*
 
 I also need to give some praise here though: it takes courage to admit you were wrong. I respect that.
 
 For any journalists who happen to read this — please consider your sources before treating their unsubstantiated opinion as fact in your coverage!
 
-#### The typical anti-PoW argument
+### The typical anti-PoW argument
 
 So let's reconstruct the environmentalist argument, which usually goes something like this:
 
@@ -91,7 +99,9 @@ And while we're on the subject, we'll be the first to admit — **_our resul
 
 Poor research — whether the result of lazy ignorance or outright dishonesty — works to everyone's detriment. We **need** higher quality research in this space.
 
-#### The reality of Bitcoin's energy mix
+![big ass dam](/assets/images/cy18/cy18q4m12/bend-3.png){: .align-center}
+
+### The reality of Bitcoin's energy mix
 
 Bitcoin mining is mainly driven by renewable energy — hydro (by far the largest component), solar, wind and geothermal. Period.
 
@@ -101,7 +111,7 @@ We actually think it's significantly higher than that, but in the name of defens
 
 Everyone seriously involved in bitcoin mining already knows this — and has known for years — but it's been surprisingly hard to quantify so we've kept our heads down in case we were all somehow wrong. The mining industry is notoriously secretive which makes it exceptionally tough to find or extract quality data.
 
-#### So how'd we do it?
+### So how'd we do it?
 
 First, we decided to turn the commonly employed top-down methodology on its head and go bottom-up instead.
 
@@ -121,13 +131,15 @@ This doesn't even consider the renewables penetration in their energy mix, which
 
 As [Dan Held](https://medium.com/@danhedl) would implore: somebody call the electricity police!
 
-Here's another one for ya.
+![Dan's tweet about energy consumption](/assets/images/cy18/cy18q4m12/bend-4.png){: .align-center}*Here's another one for ya.*
 
-#### You were talking about renewables though?
+### You were talking about renewables though?
 
 I was indeed. This was a tough nut to crack. And while we searched and prayed for shortcuts to quantify the renewables penetration in the energy mix of miners, there is none. So we had to do it manually.
 
 Over that same year, we also mapped out every relevant global mining region. The result looks like this (full source list in the report):
+
+![mining map](/assets/images/cy18/cy18q4m12/bend-5.png){: .align-center}
 
 We then teamed up with some friends at [Three Body Capital](http://threebody.capital/), who were able to source provincial-level curtailment rates and renewables penetrations in China. We combined this with publicly available renewables data for the non-Chinese regions and thus were able to arrive at a lower bound for the renewables penetration. What did we find?
 
@@ -137,7 +149,7 @@ By inference, Bitcoin is therefore 'cleaner' than almost every other industry.
 
 _(I know I keep saying this, but for a full overview of our numbers and figures, please check out the paper itself)_
 
-#### Doesn't this just displace other demand onto fossil electricity?
+### Doesn't this just displace other demand onto fossil electricity?
 
 The short answer: for wind and solar, possibly — but this is only if miners that rely on them wish to mine 24/7 _and are located in fossil-dependent regions_(miners like that might exist, but are rare in the industry).
 
@@ -153,7 +165,7 @@ While this may seem reasonable on the surface, in reality it is not so straightf
 
 I will restrict this discussion to hydro power as this is the largest component of global renewables generation and an even bigger component of Bitcoin mining. Most of this also applies to geothermal power which suffers from many of the same geographical issues as hydro.
 
-#### Working with nature
+### Working with nature
 
 > **Hydro power, while awesome, comes with the enormous drawback that you cannot build it wherever you want.**
 
@@ -169,13 +181,13 @@ Americans, however, do not tend to live in the mountains — they live predo
 
 > **This causes a problem. You simply cannot transmit electricity from the Pacific Northwest to California, Texas, or the East Coast while maintaining the same cost profile.**
 
-#### Why not?
+### Why not?
 
-Whenever electricity is sent through a medium, _electrical resistance_will cause the medium to heat up while consuming some of the electrical power (unless the medium is a superconductor). This is how incandescent light bulbs and many electrical heaters work — it is also the reason your computer gets hot.
+Whenever electricity is sent through a medium, _electrical resistance_ will cause the medium to heat up while consuming some of the electrical power (unless the medium is a superconductor). This is how incandescent light bulbs and many electrical heaters work — it is also the reason your computer gets hot.
 
 The [EIA](https://iea-etsap.org/E-TechDS/PDF/E12_el-t&d_KV_Apr2014_GSOK.pdf) lists transmission losses for High Voltage Direct Current (HVDC) lines at 3% per 1000 km, versus 7% per 1000 km for High Voltage Alternating Current (HVAC) lines.
 
-HVAC is cheaper than HVDC and is normally used for short distances, whereas the latter is more expensive and used for longer distances. Lest you get the wrong idea though, they are _both_expensive, just one even more so than the other. Also, transmitting power over long distances often involves a bit of both.
+HVAC is cheaper than HVDC and is normally used for short distances, whereas the latter is more expensive and used for longer distances. Lest you get the wrong idea though, they are both expensive, just one even more so than the other. Also, transmitting power over long distances often involves a bit of both.
 
 HVDC lines act as 'superhighways' of power transmission and run along certain highly trafficked routes, while HVAC 'access roads' connect them to the wider region. Further driving up the cost — nobody wants them nearby. They're ugly, and some people believe they cause all sorts of exotic pathological conditions.
 
@@ -187,7 +199,7 @@ Transmission losses effectively increase the cost of electricity as you transpor
 
 
 
-#### Stranded hydro
+### Stranded hydro
 
 Often then, before hydro power can reach large population centres, transmission losses can make its price rise above that of competing fossil or nuclear power plants.
 
@@ -197,14 +209,13 @@ While this is unfortunate from an environmental standpoint, consumers tend to pr
 
 We can gain some insight to the overall usage of already installed hydro power plants by looking at their _capacity factors._According to the International Renewable Energy Agency, global hydro capacity factors between 2010 and 2016 were 49%, meaning that global hydro plants _on average_ produced at **less than half** of their capacity.
 
-
-[https://www.irena.org/-/media/Files/IRENA/Agency/Publication/2018/Jan/IRENA_2017_Power_Costs_2018.pdf](https://www.irena.org/-/media/Files/IRENA/Agency/Publication/2018/Jan/IRENA_2017_Power_Costs_2018.pdf)
+![hydro capacity utilization](/assets/images/cy18/cy18q4m12/bend-6.png){: .align-center}[https://www.irena.org/-/media/Files/IRENA/Agency/Publication/2018/Jan/IRENA_2017_Power_Costs_2018.pdf](https://www.irena.org/-/media/Files/IRENA/Agency/Publication/2018/Jan/IRENA_2017_Power_Costs_2018.pdf)
 
 Now this does _not_ _necessarily_ mean that out of the total global installed hydro power capacity of 1,121 GW, more than half is wasted (for comparison, remember that the Bitcoin network currently draws 4.7 GW, or 0.4% of that).
 
 Plants may be built to accommodate variable daily demand peaking with human waking hours, or seasonal supply of water peaking with cyclical rainy seasons. This is also one of the reasons we chose to use annual net power produced — **_not installed capacity_** — in our calculations, as the latter skews the numbers in favour of renewables.
 
-#### Wasted hydro
+### Wasted hydro
 
 That being said, there are still multiple sources that _do_ suggest that **_enormous_** **_amounts of hydro power is actually wasted_** (by simply letting water flow over the dams) every year.
 
@@ -214,7 +225,7 @@ Things are not much better in neighbouring Sichuan — home of an estimated 
 
 By the way, if you're curious how this economic quagmire came to be, first consider the information asymmetry between central planning committees and the distributed free market; then go read this [excellent piece](https://blog.bitmex.com/mining-incentives-part-2-why-is-china-dominant-in-bitcoin-mining/)by our colleagues at BitMEX Research.
 
-#### But wait, there's more
+### But wait, there's more
 
 I'll preface by saying that we have not been able to conclusively prove this thesis (yet), but it has been postulated by other [researchers](https://blog.picks.co/pow-is-efficient-aa3d442754d3) and deductive reasoning suggests it is indeed true.
 
@@ -250,7 +261,7 @@ As soon as these projects are connected to legacy industries or retail demand, t
 
 In this manner, bitcoin mining — which offers the possibility of immediate electricity monetisation independent of grid connection — can play a vital part in the renewables development cycle.
 
-#### The Takeaways
+### The Takeaways
 
 * Contrary to what you've heard in the media, bitcoin mining is not an environmental disaster. In fact, it is one of the cleanest billion-dollar industries on the planet.
 * The combined total bitcoin mining network draws less power than global gaming consoles running 4 hours per day.
