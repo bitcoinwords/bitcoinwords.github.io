@@ -19,7 +19,6 @@ defaults:
       related: false
 ---
 
-
 # [Could Bitcoin fix the stagnant political and economic landscape?](https://medium.com/@genesisnode/could-bitcoin-fix-the-stagnant-political-and-economic-landscape-68db48b64b27)
 ### By [Genesis Node](https://medium.com/@genesisnode)
 ### Posted February 15, 2019
