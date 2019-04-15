@@ -33,7 +33,7 @@ As a follow-up to [Willy Woo](https://twitter.com/woonomic)'s recently-introduce
 1. Where is the bottom?
 2. When is the next bull run coming along?
 
-#### Something's Amiss
+### Something's Amiss
 
 Two sets of items originated the search for what later became delta cap:
 
@@ -42,7 +42,7 @@ Two sets of items originated the search for what later became delta cap:
 
 This initiated the search for a metric that both adapted to Bitcoin's rapid, high-velocity parabolic moves and accounted for its overall trend decay over time. Two other valuation models seemed to provide a tentative answer: realized cap for the former and average cap for the latter.
 
-#### Delta Capitalization
+### Delta Capitalization
 
 Delta cap is, as seen next, a hybrid of sorts — half "fundamental," half "technical." It is calculated through the following formula, measuring the difference between two long-term Bitcoin moving averages:
 
@@ -67,7 +67,7 @@ The aforementioned substraction of the two in turn provides the following delta 
 
 As seen at first glance, delta cap provides an excellent framework for catching global bottoms — or at the very least bottoms near the floor of the bear cycle. Please see the caveats of this indicator below to have a more nuanced view of the current state of affairs, since _having just touched delta cap does not guarantee that we have bottomed._
 
-#### Time Analysis
+### Time Analysis
 
 Another interesting (and still experimental) exploration of delta cap emerges when comparing it to its parent inputs through a logarithmic view, as follows:
 
@@ -79,7 +79,7 @@ The good news? If this pattern continues, people will have lots of time to buy u
 
 It goes without saying that we lack enough bottom samples to claim this as a certainty, but long-term investors must stay mentally prepared for this possible delay. It is further evidence that suggests Bitcoin's cycles are elongating.
 
-#### Yes, Another Ratio: MVDV
+### Yes, Another Ratio: MVDV
 
 Since most will be curious about how the Market-Value-to-Delta-Value (MVDV) Ratio looks like, here it goes:
 
@@ -91,26 +91,26 @@ A few notes on it:
 2. Major bearish divergences seem to announce global tops (red circles) while differentiating them from previous local tops of the same cycle.
 3. The bottoms seem to maintain a steadier horizontal longitudinal threshold at 1 (green line). If market cap were to revisit delta cap today at a lower low, the oscillator would present this event as a double bottom.
 
-#### Caveats
+### Caveats
 
 1. _Having touched delta cap recently does not imply a global bottom:_One must remember that delta cap is currently sloping down — and it will continue to do so for several months — so the likelihood of market cap revisiting it is not out of the question. Add to that the fact that the NVT tools are still just slowly trending into normal historical conditions and velocity remains weak. Touching delta cap on a lower low in the following months is still a likely possibility. Every penetration of market cap into delta cap should be best used as one componet of an averaging-in strategy over a prolonged period of time.
 2. _Despite timeboxed halving days, the Bitcoin cycle seems to be elongating:_ This makes perfect sense, since larger bull runs require larger liquidity. The experiment here is to continue evaluating delta cap as a mean that keeps adjusting to Bitcoin's curved trend. That being said, the time analysis section of this article remains highly speculative, especially for signaling the breakout events, so let's take it one day at a time.
 3. _The market currently holds a major dissonance:_That of delta cap providing a good "baseline" for a relatively optimistic market floor, versus the current state of velocity as seen on [NVT Ratio](http://charts.woobull.com/bitcoin-nvt-ratio/),[Network Momentum](http://charts.woobull.com/bitcoin-network-momentum/), and [NVT Caps](http://charts.woobull.com/bitcoin-valuations/)— on life support relative to price.
 4. _Delta cap remains experimental:_ Just as with most technical and on-chain tools, these indicators should be used with prudence and in the company of other trading mechanisms and a sound risk management strategy. Past events don't reflect future outcomes.
 
-#### Acknowledgements
+### Acknowledgements
 
 Many thanks to the following individuals:
 
 1. [Willy Woo](https://twitter.com/woonomic), for the beautiful charts and valuable feedback.
 2. [Murad Mahmudov](https://twitter.com/MustStopMurad),[Phil Bonello](https://twitter.com/PhilJBonello),[Hans Hauge](https://twitter.com/hansthered),[PositiveCrypto](https://twitter.com/PositiveCrypto), and [Plan B](https://twitter.com/100trillionUSD), whose comments helped perfect this article.
 
-#### **Sources**
+### **Sources**
 
 1. [_Woobull.com_](http://charts.woobull.com/) _:_ Charts and early market cap data archeology.
 2. [_Coinmetrics.io_](https://coinmetrics.io/charts/) _:_ Realized cap data.
 3. [_Blockchain.com_](https://www.blockchain.com/en/charts/) _:_ Market cap data.
 
-#### Author
+### Author
 
 [David Puell](https://twitter.com/kenoshaking), Head of Research @ Adaptive Capital

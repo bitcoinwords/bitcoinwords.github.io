@@ -37,7 +37,7 @@ Digital payments solutions do not utilize physical cash but also do not prevent 
 
 We will argue that the elimination of cash, even if most payments are already digital, will make society more vulnerable to surveillance, financial control, and authoritarianism.
 
-#### **Why do countries go cashless?**
+### **Why do countries go cashless?**
 
 In a cashless society, the government seeks to discourage or even criminalize the holding and using of cash itself. In [Sweden](https://www.weforum.org/agenda/2018/11/sweden-cashless-society-is-no-longer-a-utopia/), it happened largely without coercion. In [India](https://en.wikipedia.org/wiki/2016_Indian_banknote_demonetisation), the government demonetized the 500 and 1,000 Rupee denominations of notes.
 
@@ -55,7 +55,7 @@ Recently, central banks have started to brush everyone who prefers cash with the
 
 Indeed, the use of cash in larger denominations has become so stigmatized in the US and Europe that withdrawing or carrying above a certain amount requires explicit government permission.
 
-#### Problems of the cashless society
+### Problems of the cashless society
 
 A society without cash has no ability to transact value without the omnipresence of government actors. By going cashless, societies double down on the properties of digital payments but lose all access to the unique properties of cash.
 
@@ -67,7 +67,7 @@ Because all transactions require the consent of an intermediary, they can easily
 
 Cash may not be the right tool for the majority of transactions, but the elimination of it removes an important choice, and safeguard against government abuse, for the people.
 
-#### Bitcoin as a hedge against the cashless society
+### Bitcoin as a hedge against the cashless society
 
 When cash is gone, where will you turn to transact with a basic level of privacy? What money do you hold when negative interest rates start eating away at your bank account?
 

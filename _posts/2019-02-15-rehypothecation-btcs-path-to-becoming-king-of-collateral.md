@@ -24,7 +24,7 @@ defaults:
 ### By [Patrick Dugan](https://twitter.com/duganist?lang=en)
 ### Posted February 15, 2019
 
-#### Quick Take
+## Quick Take
 
 * Concerns about rehypothecation in layer 2 protocols for Bitcoin are overblown, we just need to accurately price its risk premiums
 * In the default model of the Lightning Network, lots of BTC is needed in a fully-collateralized fashion to facilitate payments, earning a low yield from routing fees of generally under 1% per annum
