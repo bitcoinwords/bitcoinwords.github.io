@@ -3,6 +3,7 @@ title: Journals
 layout: category
 permalink: /categories/journals/
 taxonomy: journals
+entries_layout: grid
 
 ---
 
