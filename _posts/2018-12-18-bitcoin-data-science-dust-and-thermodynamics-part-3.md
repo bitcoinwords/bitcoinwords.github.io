@@ -26,6 +26,13 @@ defaults:
 ### By [Dhruv Bansal](https://blog.unchained-capital.com/@shrubvandal)
 ### Posted December 18, 2018
 
+**This is part 3 of a series**
+
+* Part 1
+* Part 2
+* [Bitcoin Data Science (Pt. 3): Dust & Thermodynamics]()
+
+
 **tl;dr:** We examine the history and future of _dust_: containers (UTXOs) of bitcoin that cost more to spend in fees than they hold.
 
 The amount of dust in the blockchain is determined by the current UTXO set and transaction fee market. At peak fees (~ December 2017), between 25–50% of the UTXOs in the Bitcoin blockchain could have been called dust! At the same time, the amount of BTC contained in these dusty UTXOs was small: only a few tens of millions of dollars. So, depending on how you measure it, dust is either a huge problem or a trivial one. Either way, we discuss possible solutions for minimizing new dust and cleaning up existing dust.
