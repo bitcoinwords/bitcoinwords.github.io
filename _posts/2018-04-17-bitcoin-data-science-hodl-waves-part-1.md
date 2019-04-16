@@ -29,9 +29,9 @@ defaults:
 
 **This is part 1 of a series**
 
-* [Bitcoin Data Science (Pt. 1): HODL Waves]()
-* [Bitcoin Data Science (Pt. 2): The Geology of Lost Coins]()
-* [Bitcoin Data Science (Pt. 3): Dust & Thermodynamics]()
+* [Bitcoin Data Science (Pt. 1): HODL Waves](https://cryptowords.github.io/bitcoin-data-science-hodl-waves-part-1)
+* [Bitcoin Data Science (Pt. 2): The Geology of Lost Coins](https://cryptowords.github.io/bitcoin-data-science-the-geology-of-lost-coins-part-3)
+* [Bitcoin Data Science (Pt. 3): Dust & Thermodynamics](https://cryptowords.github.io/bitcoin-data-science-dust-and-thermodynamics-part-3)
 
 ***
 
