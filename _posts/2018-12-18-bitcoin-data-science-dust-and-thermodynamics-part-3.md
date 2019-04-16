@@ -29,9 +29,10 @@ defaults:
 **This is part 3 of a series**
 
 * Part 1
-* Part 2
+* [Bitcoin Data Science (Pt. 2): The Geology of Lost Coins]()
 * [Bitcoin Data Science (Pt. 3): Dust & Thermodynamics]()
 
+***
 
 **tl;dr:** We examine the history and future of _dust_: containers (UTXOs) of bitcoin that cost more to spend in fees than they hold.
 
