@@ -29,7 +29,7 @@ defaults:
 
 **This is part 2 of a 2 part series**
 
-* [An Honest Explanation of Price, Hashrate & Bitcoin Mining Network Dynamics](https://cryptowords.github.io/an-honest-explanation-of-price-hashrate-and-bitcoin-mining-hashrate-and-bitcoin-mining-dynamics-1-of-2)
+* Part 1 [An Honest Explanation of Price, Hashrate & Bitcoin Mining Network Dynamics](https://cryptowords.github.io/an-honest-explanation-of-price-hashrate-and-bitcoin-mining-hashrate-and-bitcoin-mining-dynamics-1-of-2)
 * **Part 2 [Beware of Lazy Research: Let's Talk Electricity Waste & How Bitcoin Mining Can Power A Renewable Energy Renaissance](https://cryptowords.github.io/beware-of-lazy-research-lets-talk-electricity-waste-2-of-2)**
 
 <br>
@@ -264,7 +264,7 @@ In this manner, bitcoin mining — which offers the possibility of immediate
 
 * Contrary to what you've heard in the media, bitcoin mining is not an environmental disaster. In fact, it is one of the cleanest billion-dollar industries on the planet.
 * The combined total bitcoin mining network draws less power than global gaming consoles running 4 hours per day.
-* Bitcoin mining is mainly powered on renewable energy, at levels more than four times higher than the global average (>77.6% vs ~18.2%).
+* Bitcoin mining is mainly powered on renewable energy, at levels more than four times higher than the global average (>77.6% vs ~ 18.2%).
 * Every year, enough hydro power is wasted in Yunnan and Sichuan alone to power the Bitcoin mining network many times over.
 * Bitcoin miners are highly mobile and can therefore serve as cornerstone demand for low-cost stranded renewables.
 * By increasing profitability and lowering reliance on subsidies, bitcoin mining can positively contribute to the development and scaling of renewable energy projects wherever conditions are the most favourable.
