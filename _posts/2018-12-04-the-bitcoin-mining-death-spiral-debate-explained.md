@@ -27,7 +27,6 @@ defaults:
 ### By [Arjun Balaji](https://www.theblockcrypto.com/author/arjun_tb/)
 ### Posted December 4, 2018
 
-
 ## Quick Take
 
 * Bitcoin is not going into a miner-induced death spiral
