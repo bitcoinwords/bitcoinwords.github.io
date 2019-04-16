@@ -1,5 +1,5 @@
 ---
-title: "The "Bitcoin mining death spiral" debate explained"
+title: The "Bitcoin mining death spiral" debate explained
 permalink: "/the-bitcoin-mining-death-spiral-debate-explained" 
 
 tags:
@@ -23,7 +23,7 @@ defaults:
 ---
 
 
-# The "Bitcoin mining death spiral" debate explained
+# [The "Bitcoin mining death spiral" debate explained](https://www.theblockcrypto.com/2018/12/04/the-bitcoin-mining-death-spiral-debate-explained/)
 ### By [Arjun Balaji](https://www.theblockcrypto.com/author/arjun_tb/)
 ### Posted December 4, 2018
 
