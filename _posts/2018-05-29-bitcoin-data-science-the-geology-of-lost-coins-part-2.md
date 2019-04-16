@@ -1,6 +1,6 @@
 ---
 title: "Bitcoin Data Science (Pt. 2): The Geology of Lost Coins"
-permalink: "/bitcoin-data-science-the-geology-of-lost-coins-part-3" 
+permalink: "/bitcoin-data-science-the-geology-of-lost-coins-part-2" 
 
 tags:
   - Dhruv Bansal
