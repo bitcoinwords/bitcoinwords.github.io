@@ -8,8 +8,8 @@ header:
   overlay_filter: "0.5"
   overlay_image: /assets/images/home/splash-header-1.jpg
   actions:
-    - label: "Read the latest additions here"
-      url: "https://cryptowords.github.io/categories/posts/"
+    - label: "Read the latest journals here"
+      url: "https://cryptowords.github.io/categories/journals/"
   caption: ""
 excerpt: "A collection of Bitcoin commentary from the brightest minds in the crypto community."
 intro: 
