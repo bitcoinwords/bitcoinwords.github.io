@@ -29,7 +29,7 @@ defaults:
 **This is part 2 of a 4 part series. See additional articles below**
 
 * Part 1 [Skeptic's Guide to Bitcoin: An Honest Account of Fiat Money](https://cryptowords.github.io/cy18q4m11#skeptics-guide-to-bitcoin-an-honest-account-of-fiat-money)
-* Part 2 [Skeptic's Guide to Bitcoin: Unpacking Bitcoin's Social Contract](https://cryptowords.github.io/cy18q4m12#skeptics-guide-to-bitcoin-unpacking-bitcoins-social-contract)
+* **Part 2 [Skeptic's Guide to Bitcoin: Unpacking Bitcoin's Social Contract](https://cryptowords.github.io/cy18q4m12#skeptics-guide-to-bitcoin-unpacking-bitcoins-social-contract)**
 * Part 3 [Skeptic's Guide to Bitcoin: Bitcoin and the Promise of Independent Property Rights](https://cryptowords.github.io/cy18q4m12#skeptics-guide-to-bitcoin-bitcoin-and-the-promise-of-independent-property-rights)
 * Part 4 [Investing in Bitcoin](https://cryptowords.github.io/cy19q1m3#skeptics-guide-to-bitcoin-investing-in-bitcoin)
 
@@ -73,7 +73,7 @@ When Satoshi Nakamoto invented bitcoin, he did not invent a new social contract.
 * There will only be 21 million bitcoins, issued on a predictable schedule (inflation resistance)
 * All users should be able to verify the rules of bitcoin (counterfeit resistance)
 
-![rules of Bitocin](/assets/images/cy18/cy19q4m12/hasu-2.png){: .align-center}
+![rules of Bitocin](/assets/images/cy18/cy18q4m12/hasu-2.png){: .align-center}
 
 ### Bitcoin as a New Form of Social Institution
 
@@ -82,7 +82,7 @@ Money presents an important lesson: The larger and more valuable a social instit
 Satoshi attempted to break this vicious cycle in two ways: First, instead of getting its security from a powerful central party (like a government), bitcoin creates a hypercompetitive market for its own protection. It turns security into a commodity and the security providers (miners) into toothless commodity producers. And, second, Satoshi found a way for these competing security providers to come to consensus over who owns what at any given time.
 
 The bitcoin protocol automates the contract agreed upon on the social layer, while the social layer determines the rules of bitcoin, based on the consensus of its users. They are symbiotic: Neither of them would be sufficient without the other. The social layer and its rules are the heart of bitcoin. But the protocol layer makes them enforceable for the first time, while simultaneously making the social contract more credible to outsiders.
-![The social contract](/assets/images/cy18/cy19q4m12/hasu-3.png){: .align-center}
+![The social contract](/assets/images/cy18/cy18q4m12/hasu-3.png){: .align-center}
 Seeing bitcoin as a social contract, enabled and automated by a technical layer, has many benefits. And it can help us answer the philosophical questions about bitcoin.
 
 ### Who Can Change the Rules of Bitcoin?
@@ -118,9 +118,3 @@ If you wanted to fork bitcoin—and not have the new network die immediately—y
 Again, the key is in understanding that all value for tokens is purely a social construct. The tokens do not have any value; they receive their value from social consensus. Forking the protocol doesn't equal forking the social contract, so the new token is worthless by default. In the rare case that the social contract itself splits (like when bitcoin cash split off from bitcoin), you end up with two weaker social contracts—each agreed to by fewer people than the old one.
 
 Money in general and Bitcoin in particular can be seen as social contracts between people in society. Bitcoin is not a new contract either; it's just a new implementation of a contract that can be traced back [hundreds of years](https://www.soundmoneydefense.org/sound-money-explained). In comparison to previous attempts, the bitcoin implementation is a dramatic improvement because it creates a hypercompetitive market for its own security. Bitcoin's social layer and the protocol layer are mutually reinforcing, and their relationship gives us insight into little-understood concepts like rule changes, forks, or protocol bugs.
-
-This article is part of an ongoing series — the Bitcoin skeptic's framework. Follow me on [Twitter](https://twitter.com/hasufl) and [Medium](https://medium.com/@hasufly) to be notified when the next episode hits.
-
-* [Part I — An Honest Account of Fiat Money](https://medium.com/@hasufly/why-bitcoin-3fdee2328759)
-* **Part II — Unpacking Bitcoin's Social Contract**
-* [Part III — Bitcoin and the Promise of Independent Property Rights](https://medium.com/@hasufly/bitcoin-and-the-promise-of-independent-property-rights-8f10e5c7efa8)

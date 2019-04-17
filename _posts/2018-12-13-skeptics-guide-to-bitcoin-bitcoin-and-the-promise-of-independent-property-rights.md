@@ -30,11 +30,11 @@ defaults:
 
 * Part 1 [Skeptic's Guide to Bitcoin: An Honest Account of Fiat Money](https://cryptowords.github.io/cy18q4m11#skeptics-guide-to-bitcoin-an-honest-account-of-fiat-money)
 * Part 2 [Skeptic's Guide to Bitcoin: Unpacking Bitcoin's Social Contract](https://cryptowords.github.io/cy18q4m12#skeptics-guide-to-bitcoin-unpacking-bitcoins-social-contract)
-* Part 3 [Skeptic's Guide to Bitcoin: Bitcoin and the Promise of Independent Property Rights](https://cryptowords.github.io/skeptics-guide-to-bitcoin-bitcoin-and-the-promise-of-independent-property-rights)
-* Part 4 [Investing in Bitcoin](https://cryptowords.github.io/cy19q1m3#skeptics-guide-to-bitcoin-investing-in-bitcoin)
+* **Part 3 [Skeptic's Guide to Bitcoin: Bitcoin and the Promise of Independent Property Rights](https://cryptowords.github.io/skeptics-guide-to-bitcoin-bitcoin-and-the-promise-of-independent-property-rights)**
+* Part 4 [Skeptic's Guide to Bitcoin: Investing in Bitcoin](https://cryptowords.github.io/cy19q1m3#skeptics-guide-to-bitcoin-investing-in-bitcoin)
 
 ***
-![bitcoin image](/assets/images/cy18/cy19q4m12/hasu-4.png){: .align-center}*Photo by [Thought Catalog](https://unsplash.com/@thoughtcatalog?utm_source=medium&utm_medium=referral) on [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=referral)*
+![bitcoin image](/assets/images/cy18/cy18q4m12/hasu-4.png){: .align-center}*Photo by [Thought Catalog](https://unsplash.com/@thoughtcatalog?utm_source=medium&utm_medium=referral) on [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=referral)*
 
 In the [second part](https://medium.com/s/story/bitcoins-social-contract-1f8b05ee24a9?source=friends_link&sk=27e8cf65d45c46ffae1466ce2ac31b48), we showed how Bitcoin is a novel social and economic institution. But the question remains: **Who is going to use it?** Is there a place for Bitcoin among other institutions, and if so, where is it? Is Bitcoin just a terribly inefficient competitor to PayPal and Visa, like the media wants you to believe, or something more?
 
@@ -66,7 +66,7 @@ Having well-defined and strongly protected property rights is the basis for all 
 
 We need a monopoly on violence to have a legal system, and we need a legal system to have property rights. We need property rights to have markets and firms, and we need markets and firms to have capitalism. It is through the invention of new institutions, each building on the existing ones, that civilization advances. Here is a simplified image of the institutional stack:
 
-![institutional stack](/assets/images/cy18/cy19q4m12/hasu-5.png){: .align-center}
+![institutional stack](/assets/images/cy18/cy18q4m12/hasu-5.png){: .align-center}
 
 By streamlining human interactions, social institutions break the prisoner's dilemma and have us worry less about being harmed by others. The resulting increase of mutual predictability allows us to extend our trust to strangers and enable cooperation beyond Dunbar's number.
 
@@ -84,7 +84,7 @@ That is the key innovation of Bitcoin: **It detaches property rights from the le
 
 Property rights used to depend firmly on other layers of the social institution stack, specifically the monopoly on violence and the legal system. If the bottom of this stack is shaky, you cannot have strong property rights. But because Bitcoin stands entirely on its own, it can bring the highest level of property rights to anyone in the world, no matter the quality of their lower-level institutions, the government or legal system.
 
-![institutional stack with bitcoin](/assets/images/cy18/cy19q4m12/hasu-6.png){: .align-center}
+![institutional stack with bitcoin](/assets/images/cy18/cy18q4m12/hasu-6.png){: .align-center}
 
 Bitcoin unlocks a different dimension of value. In the same way that boats unlocked transport over water, and airplanes through the air, Bitcoin unlocks a new, alternate layer to store and move value — as the first native digital asset. It is the ability to exist solely in that digital world, from which Bitcoin derives all of its properties. It cannot be attacked in the physical space the way that physical assets can.
 
@@ -101,18 +101,12 @@ Using Bitcoin gives these people the ability to cooperate more effectively, incr
 
 Bitcoin can also benefit those who never use it. As a hedge against central bank error, it makes the global financial system more resilient. Ironically, it can also improve other monetary and property systems around the world. _What?_ Yes, that is the effect that competition has on a market. If you are a customer of Apple, you benefit from Samsung releasing a new phone, because it forces Apple to improve the quality of their product to stay competitive.
 
-![competition stack](/assets/images/cy18/cy19q4m12/hasu-7.png){: .align-center}
+![competition stack](/assets/images/cy18/cy18q4m12/hasu-7.png){: .align-center}
 
 As a result, we could witness a quality improvement in monetary and property systems, because bitcoin opened the door for competition and created a market. This also shapes our understanding of what Bitcoin is NOT: a competitor to VISA or PayPal. It competes with local governments, legal systems and property rights — the fundamental layers of the existing stack — not with the payment processors that sit on top of it.
 
 Civilization scales through cooperation, but cooperation between strangers is inherently hard. Social institutions can solve this prisoner's dilemma and allow us to cooperate on a larger scale. At the bottom of the stack, we need a stable and benevolent monopoly on violence, to enforce the rules of the legal system and establish property rights. Until now, it was impossible to have strong property rights in places with a weak local government. Bitcoin does not depend on the existing system in any way and can give us the highest form of property rights, no matter who and where we are.
 
-This article is part of an ongoing series — the Bitcoin skeptic's framework. Follow us on Twitter ([Su Zhu](https://twitter.com/zhusu), [Hasu](https://twitter.com/hasufl) ) and [Medium](https://medium.com/@hasufly) to be notified when the next episode hits.
-
-* [Part I — An Honest Account of Fiat Money](https://medium.com/@hasufly/why-bitcoin-3fdee2328759)
-* [Part II — Unpacking Bitcoin's Social Contract](https://medium.com/s/story/bitcoins-social-contract-1f8b05ee24a9)
-* **Part III — Bitcoin and the Promise of Independent Property Rights**
-
-Acknowledgments
+**Acknowledgments**
 
 I want to thank [Yassine Elmandjra](https://twitter.com/yassineARK), [Nic Carter](https://twitter.com/nic__carter) and [Miles Suter](https://twitter.com/WahWhoWah) for their contributions.

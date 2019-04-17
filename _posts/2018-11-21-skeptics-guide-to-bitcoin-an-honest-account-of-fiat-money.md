@@ -28,7 +28,7 @@ defaults:
 
 **This is part 1 of a 4 part series. See additional articles below**
 
-* Part 1 [Skeptic's Guide to Bitcoin: An Honest Account of Fiat Money](https://cryptowords.github.io/cy18q4m11#skeptics-guide-to-bitcoin-an-honest-account-of-fiat-money)
+* **Part 1 [Skeptic's Guide to Bitcoin: An Honest Account of Fiat Money](https://cryptowords.github.io/cy18q4m11#skeptics-guide-to-bitcoin-an-honest-account-of-fiat-money)**
 * Part 2 [Skeptic's Guide to Bitcoin: Unpacking Bitcoin's Social Contract](https://cryptowords.github.io/cy18q4m12#skeptics-guide-to-bitcoin-unpacking-bitcoins-social-contract)
 * Part 3 [Skeptic's Guide to Bitcoin: Bitcoin and the Promise of Independent Property Rights](https://cryptowords.github.io/cy18q4m12#skeptics-guide-to-bitcoin-bitcoin-and-the-promise-of-independent-property-rights)
 * Part 4 [Skeptic's Guide to Bitcoin: Investing in Bitcoin](https://cryptowords.github.io/cy19q1m3#skeptics-guide-to-bitcoin-investing-in-bitcoin)
