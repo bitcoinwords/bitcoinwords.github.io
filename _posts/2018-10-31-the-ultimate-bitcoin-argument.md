@@ -22,7 +22,7 @@ defaults:
       related: false
 ---
 
-# **Murad Mahmudov: The Ultimate Bitcoin Argument**
+# [Murad Mahmudov: The Ultimate Bitcoin Argument](https://medium.com/@apompliano/murad-mahmudov-the-ultimate-bitcoin-argument-b205a1987408)
 ### [Anthony Pompliano](https://medium.com/@apompliano) interviews [Murad Mahmudov](https://medium.com/@muradmahmudov)
 ### Posted October 31, 2018
 
