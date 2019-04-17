@@ -34,7 +34,7 @@ defaults:
 * Part 4 [Investing in Bitcoin](https://cryptowords.github.io/cy19q1m3#skeptics-guide-to-bitcoin-investing-in-bitcoin)
 
 ***
-![a god with btc as face](/assets/images/cy18/cy19q4m12/hasu-1.png){: .align-center}*Illustration: engraving by Abraham Bosse via [Wikimedia](https://en.wikipedia.org/wiki/Leviathan_%28Hobbes_book%29#/media/File:Leviathan_by_Thomas_Hobbes.jpg)*
+![a god with btc as face](/assets/images/cy18/cy18q4m12/hasu-1.png){: .align-center}*Illustration: engraving by Abraham Bosse via [Wikimedia](https://en.wikipedia.org/wiki/Leviathan_%28Hobbes_book%29#/media/File:Leviathan_by_Thomas_Hobbes.jpg)*
 
 Bitcoin is a novel social and economic institution. It is so different from our existing institutions that we should be skeptical and ask as many hard, pressing questions as we can before trusting it with any economic value. Some answers will only reveal themselves with time (or [Lindy](https://medium.com/incerto/an-expert-called-lindy-fdb30f146eaf), as the cool kids say), but that doesn't mean we can't come up with theories or frameworks. One such framework that has helped me a lot in understanding bitcoin is social contract theory.
 
