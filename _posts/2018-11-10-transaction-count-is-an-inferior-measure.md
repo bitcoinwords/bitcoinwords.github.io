@@ -22,7 +22,7 @@ defaults:
       related: false
 ---
 
-# Transaction count is an inferior measure
+# [Transaction count is an inferior measure](https://medium.com/@nic__carter/transaction-count-is-an-inferior-measure-fba2d5ac97f1)
 ### By [Nic Carter](https://medium.com/@nic__carter)
 ### Posted November 10, 2018
 
