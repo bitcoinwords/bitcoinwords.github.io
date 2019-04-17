@@ -22,7 +22,7 @@ defaults:
       related: false
 ---
 
-# Bitcoin's Existential Crisis
+# [Bitcoin's Existential Crisis](https://medium.com/s/story/what-is-it-like-to-be-a-bitcoin-56109f3e6753)
 ## Cryptocurrencies lack leaders — they have no single source of truth. Philosophically, this can get complicated.
 ### By [Nic Carter](https://medium.com/@nic__carter)
 ### Posted October 31, 2018
