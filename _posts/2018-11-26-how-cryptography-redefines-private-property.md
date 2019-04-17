@@ -6,6 +6,8 @@ tags:
   - CY18 Q4
   - Hugo Nguyen
 
+excerpt: By Hugo Nguyen, posted November 26, 2018. This is part 3 of a 5 part series.
+
 defaults:
   # _posts
   - scope:

@@ -7,6 +7,8 @@ tags:
   - Su Zhu
   - Hasu
 
+excerpt: By Su Zhu and Hasu, Posted November 21, 2018. This is part 1 of a 4 part series.
+
 defaults:
   # _posts
   - scope:
