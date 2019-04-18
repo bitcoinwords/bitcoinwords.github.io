@@ -137,7 +137,7 @@ The opposite of Bitcoin maximalism is currency competition. It's not a utopian f
 
 Bitcoin is still the best candidate we have today as an alternative to government-issued money in terms of liquidity and adoption. I think of existing alternatives to Bitcoin as necessary test cases for permissionless innovation, as well as insurance against a state-wide attack on Bitcoin or Bitcoin users. The market and the passage of time will naturally punish currencies with poor fundamentals and reward those with strong fundamentals.
 
-I want to see Bitcoin win, and I will continue to build and support businesses that make Bitcoin better, stronger and more accessible. In this process, we must never lose sight of the goal. Bitcoin is not the end-goal; it's a means to our goal of censorship-resistant, permissionless, denationalized money that we can opt in and out voluntarily, not by coercion, social engineering or threats of violence.
+I want to see Bitcoin win, and I will continue to build and support businesses that make Bitcoin better, stronger and more accessible. In this process, we must never lose sight of the goal. Bitcoin is not the en-dgoal; it's a means to our goal of censorship-resistant, permissionless, denationalized money that we can opt in and out voluntarily, not by coercion, social engineering or threats of violence.
 
 True decentralization is when there are many competing money projects, not just one.
 
