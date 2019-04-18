@@ -24,7 +24,7 @@ defaults:
 
 # Exploring Liquid Sidechain
 ### [Joe Kendzicky](https://blog.goodaudience.com/@jkendzicky16)
-### POsted November 15, 2018
+### Posted November 15, 2018
 
 ## Overview
 
