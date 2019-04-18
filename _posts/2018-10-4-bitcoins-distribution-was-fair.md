@@ -7,7 +7,7 @@ tags:
   - CY18 Q4
 
 excerpt: Dan Held's take on Bitcoin's distribution, posted October 4, 2018
-teaser: "/assets/images/words.png"
+
 defaults:
   # _posts
   - scope:

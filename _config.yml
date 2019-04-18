@@ -287,6 +287,8 @@ defaults:
       path: ""
       type: posts
     values:
+      header:
+        teaser: "/assets/images/words.png"
       layout: single
       category: "posts"
       author_profile: true
