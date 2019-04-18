@@ -29,3 +29,15 @@ There exists a gap in Bitcoin publishing.  For authors with commentary and schol
 This generation of Bitcoin thinkers have limited places to submit thought pieces for publication. Content is scattered across the web, and in some cases behind paywalls which prevent the free flow of information. With the advent of the Twitter and blogging, authors also now have the option of self-publishing: they post the content to their own site or some private site, link it in a blog post, or post a working paper. But this is obviously not the best way to document and publish. What is needed is a journal that takes full advantage of the possibilities of the digital age as a go to resource for think pieces in the Bitcoin space. 
 
 Enter *Crypto Words*. Published independently, *Crypto Words* is a journal that welcomes submissions on a range of topics of interest to the Bitcoin community.  In addition to conventional research articles, we welcome review essays blog posts, tweets as well as papers in other formats, such as distinguished lectures. Finally, wherever possible, content on this site is licensed under a [Creative Commons Attribution 4.0 License](https://creativecommons.org/licenses/by/4.0/). Authors retain ownership without restriction of all rights under copyright in their articles. Crypto *Words* is open access, and we encourage readers to “[read, download, copy, distribute, print, search, or link to the full texts of these articles… or use them for any other lawful purpose.](https://doaj.org/faq#definition)” We want our ideas read, spread, and copied. 
+
+## Donations
+Look, this site isn't for profit. But it does take time and we (I) love spreading the good word. Hell, this really isn't even my site since all the content was created by others. This is a curation project for the community. 
+
+**BUT**
+
+IF you want to donate some sats... I won't turn em down. Afterall, time is Bitcoin.
+
+<!-- Beginning of tippin.me Button -->
+<div id="tippin-button" data-dest="_joerodgers"></div>
+<script src="https://tippin.me/buttons/tip.js" type="text/javascript"></script>
+<!-- End of tippin.me Button -->
