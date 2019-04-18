@@ -202,7 +202,7 @@ Bitcoin isn't dead. Not this time nor the 326 times before.
 
 Now I suggest you have a look at our report, **_some of our other findings might totally surprise you_** (see what I did there?).
 
-![coinshares mining report tweet.](/assets/images/cy18/cy18q4m11/bend-2.png){: .align-center}{Link to report](https://coinshares.co.uk/bitcoin-mining-cost/)
+![coinshares mining report tweet.](/assets/images/cy18/cy18q4m11/bend-2.png){: .align-center}[Link to report](https://coinshares.co.uk/bitcoin-mining-cost/)
 
 **Disclaimer**
 
