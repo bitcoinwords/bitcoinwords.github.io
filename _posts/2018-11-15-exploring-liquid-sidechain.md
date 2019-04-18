@@ -22,7 +22,7 @@ defaults:
       related: false
 ---
 
-# Exploring Liquid Sidechain
+# [Exploring Liquid Sidechain](https://blog.goodaudience.com/overview-7b9ea0b0d5af)
 ### [Joe Kendzicky](https://blog.goodaudience.com/@jkendzicky16)
 ### Posted November 15, 2018
 
