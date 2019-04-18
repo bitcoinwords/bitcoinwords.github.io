@@ -29,8 +29,8 @@ defaults:
 
 In the first part of this series I discussed how Lightning Network (LN) is making money programmable and setting the foundation for a world powered by digital, state-less, debt-free money. In this part I'll discuss how individuals today and in the future will be using the Lightning Network.
 
-* [Part 1 —The Lightning Network — Programmable Money]()
-* **[Part 2 — Using the Lightning Network as a user]()**
+* [Part 1 —The Lightning Network — Programmable Money](https://cryptowords.github.io/powered-by-lightning-part-1-programmable-money)
+* **[Part 2 — Using the Lightning Network as a user](https://cryptowords.github.io/powered-by-lightning-part-2-using-lightning-network-as-a-user)**
 * Part 3 — Using the Lightning Network as a business
 * Part 4 — Using the Lightning Network as a country
 * Part 5 — When the world is powered by Bitcoin

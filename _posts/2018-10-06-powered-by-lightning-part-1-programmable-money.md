@@ -3,7 +3,7 @@ title: "Powered by Lightning - Part 1, Programmable Money"
 permalink: "/powered-by-lightning-part-1-programmable-money" 
 
 tags:
-  - Ferdous Bhai
+  - JP Thor
   - CY18 Q4
 
 excerpt: This is part 1 of a 5 part series. By JP Thor, posted October 13, 2018. A quick primer on the Lightning Network and how it is making money programmable.
@@ -27,8 +27,8 @@ defaults:
 ### [JP Thor [ ₿ ⚡️]](https://twitter.com/jpthor__)
 ### Oct 6, 2018
 
-* **[Part 1 — Programmable Money]()**
-* [Part 2— Using the LN as an individual]()
+* **[Part 1 — Programmable Money](https://cryptowords.github.io/powered-by-lightning-part-1-programmable-money)**
+* [Part 2— Using the LN as an individual](https://cryptowords.github.io/powered-by-lightning-part-2-using-lightning-network-as-a-user)
 * Part 3— Using the LN as a business
 * Part 4— Using the LN as a country
 * Part 5— When the world is powered by LN
