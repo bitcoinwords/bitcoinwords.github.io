@@ -6,7 +6,7 @@ tags:
   - Erik Torenberg
   - CY18 Q4
 
-excerpt: enter excerpt here
+excerpt: En examination at the changing narrative around "crypto". Erik Torenberg defines two camps in the space that are here to stay. Posted October 1, 2018
 
 defaults:
   # _posts
