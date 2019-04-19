@@ -7,7 +7,7 @@ tags:
   - Murad Mahmudov
   - CY18 Q4
 
-excerpt: enter excerpt here
+excerpt: David Puell and Murad Mahmudov propose MVRV as an important mettric for Bitcoin. Posted October 1, 2018
 
 defaults:
   # _posts
