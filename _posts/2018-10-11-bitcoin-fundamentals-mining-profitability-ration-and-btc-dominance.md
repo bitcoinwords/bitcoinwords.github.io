@@ -22,7 +22,7 @@ defaults:
       related: false
 ---
 
-# Bitcoin Fundamentals: Mining Profitability Ratio & BTC Dominance
+# [Bitcoin Fundamentals: Mining Profitability Ratio & BTC Dominance](https://blog.goodaudience.com/bitcoin-fundamentals-mining-profitability-ratio-btc-dominance-96a032695e20)
 ### By [cryptopoiesis](https://blog.goodaudience.com/@cryptopoiesis)
 ### Posted October 11, 2018
 

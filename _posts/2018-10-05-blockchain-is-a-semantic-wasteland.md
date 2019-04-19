@@ -22,7 +22,7 @@ defaults:
       related: false
 ---
 
-# Blockchain Is a Semantic Wasteland
+# [Blockchain Is a Semantic Wasteland](https://medium.com/s/story/blockchain-is-a-semantic-wasteland-9450b6e5012)
 ## Why haven't we abandoned it?
 ### By [Nic Carter](https://medium.com/@nic__carter)
 ### Posted October 5, 2018

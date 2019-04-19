@@ -22,7 +22,6 @@ defaults:
       related: false
 ---
 
-
 # [Post-Bitcoin-Maximalism: A call for embracing the currency competition](https://hackernoon.com/post-bitcoin-maximalism-19f392610d67)
 ### [Ferdous Bhai](https://hackernoon.com/@ferdousbhai)
 ### Posted Oct 15, 2018

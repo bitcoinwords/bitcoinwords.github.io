@@ -22,7 +22,7 @@ defaults:
       related: false
 ---
 
-# Money Crypto vs. Tech Crypto
+# [Money Crypto vs. Tech Crypto](https://www.tokendaily.co/blog/money-crypto-vs-tech-crypto)
 ### By [Erik Torenberg](https://www.tokendaily.co/user/eriktorenberg)
 ### Posted in October, 2018
 
