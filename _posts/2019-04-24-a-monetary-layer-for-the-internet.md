@@ -6,7 +6,7 @@ tags:
   - Thib
   - CY19 Q2
 
-excerpt: enter excerpt here
+excerpt: Thib pulls back the curtains to look at the emerging layers in the Bitcoin network. Posted April 24, 2019.
 
 defaults:
   # _posts
