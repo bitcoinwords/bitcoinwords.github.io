@@ -1,5 +1,5 @@
 ---
-title: ""
+title: "The Return of the Deniers and the Revenge of Patoshi"
 permalink: "/the-return-of-the-deniers-and-the-revenge-of-patoshi" 
 
 tags:
