@@ -7,7 +7,7 @@ entries_layout: grid
 
 ---
 
-You've made it! The ultimate collection of Bitcoin think pieces are at your fingertips. We've collected influential writings by month published and bundled them in a handy .pdf or fir viewing right in browser. 
+You've made it! The ultimate collection of Bitcoin think pieces are at your fingertips. We've collected influential writings and bundled them in a handy .pdf or you can view right here in your browser. 
 
 <br>
 
