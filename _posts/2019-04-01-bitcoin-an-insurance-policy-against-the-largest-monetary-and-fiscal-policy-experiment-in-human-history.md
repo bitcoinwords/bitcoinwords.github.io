@@ -6,7 +6,7 @@ tags:
   - Travis Kling
   - CY19 Q2
 
-excerpt: enter excerpt here
+excerpt: We're in a transformational time which calls for new financial models. Enter Bitcoin. Travis lays out a case for holding Bitcoin. Posted April 1, 2019.
 
 defaults:
   # _posts
@@ -55,6 +55,4 @@ Does the world need a new form of money? We have an interesting backdrop for a n
 
 It would be naïve to think this 'experiment' is going to end without significant market stress. A bet on Bitcoin is opting out of this experiment. Whether it's 1%, 5% or 25% of a portfolio, a bet on Bitcoin means there's a chance this experiment could go very wrong, and portfolio protection from that downside scenario is warranted. 
 
-Bitcoin prices have been understandably volatile. It makes complete sense that the world is having a hard time understanding, and in turn valuing, Bitcoin. A new form of money doesn't come around very often. It is in fact exceedingly rare for an entirely new and superior store of value to emerge. Ancient civilizations used seashells, salt, and heavy rocks for thousands of years to store value – each eventually failed to maintain purchasing power. Then gold was discovered, deemed superior, mass adopted and propelled to be the global monetary standard. 
-
-Today global gold supplies are valued at $8 trillion. If the world decides Bitcoin is a superior store of value to gold, the price of Bitcoin will likely increase significantly from current levels. In the meantime, central banks and governments around the world are proving the profound need for a non-sovereign, hard-capped supply, global, immutable, decentralized, digital store of value.
+Bitcoin prices have been understandably volatile. It makes complete sense that the world is having a hard time understanding, and in turn valuing, Bitcoin. A new form of money doesn't come around very often. It is in fact exceedingly rare for an entirely new and superior store of value to emerge. Ancient civilizations used seashells, salt, and heavy rocks for thousands of years to store value – each eventually failed to maintain purchasing power. Then gold was discovered, deemed superior, mass adopted and propelled to be the global monetary standard. Today global gold supplies are valued at $8 trillion. If the world decides Bitcoin is a superior store of value to gold, the price of Bitcoin will likely increase significantly from current levels. In the meantime, central banks and governments around the world are proving the profound need for a non-sovereign, hard-capped supply, global, immutable, decentralized, digital store of value.

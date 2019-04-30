@@ -22,7 +22,7 @@ defaults:
       related: false
 ---
 
-# I'm Not an International Drug Dealer
+# [I'm Not an International Drug Dealer](https://medium.com/@Melt_Dem/im-not-an-international-drug-dealer-3e8e3c75c57c)
 ## So Why Do I Need Privacy?
 ### By [Meltem Demirors](https://medium.com/@Melt_Dem)
 ### Posted April 15, 2019
@@ -83,7 +83,7 @@ Now over time, B seems to be used more and more, so B is what is talked about, t
 
 Yes, this is a grossly simplistic view. Yes, path dependence is still a contested area of study.
 
-Let's say that by time _n,_the world has changed drastically, and a growing group of people recognize the standard B is actually harmful to their interests, and devises an alternative, D, that is better for this group's interests. There will be a tremendous amount of energy requires to (1) demonstrate B is in fact inferior in some way, and (2) prove D is superior and install it as the standard.
+Let's say that by time _n,_ the world has changed drastically, and a growing group of people recognize the standard B is actually harmful to their interests, and devises an alternative, D, that is better for this group's interests. There will be a tremendous amount of energy requires to (1) demonstrate B is in fact inferior in some way, and (2) prove D is superior and install it as the standard.
 
 This "energy" may include marketing, PR, regulation, legal action and other types of economic, political, or social activity, including acceptable and less acceptable practices, like bribery, collusion, or say, outright revolution.
 

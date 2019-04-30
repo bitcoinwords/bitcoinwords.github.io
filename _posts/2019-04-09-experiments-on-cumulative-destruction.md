@@ -7,7 +7,7 @@ tags:
   - Willy Woo
   - CY19 Q2
 
-excerpt: enter excerpt here
+excerpt: David Puell and Willy Woo lay out new models for the concept of destruction into price analysis. Posted April 9, 2019.
 
 defaults:
   # _posts

@@ -6,7 +6,7 @@ tags:
   - Joe Kendzicky
   - CY19 Q2
 
-excerpt: enter excerpt here
+excerpt: Joe Kendzicky makes a case to define "bitcoins" the noun form. Posted April 17, 2019.
 
 defaults:
   # _posts
@@ -60,4 +60,5 @@ In a way, we are "uploading" scarcity from the physical world to the digital rea
 So sure, you can try and secure money, produce, diplomas or Pokemon cards with your latest "efficient" or "eco-friendly" consensus algorithm. But these blockchains are only as strong as the opportunity cost of inputs forgone.
 
 Like a cheap Chinese import, cost savings on the frontend reveal themselves on the backend; in our case, equally marginalized security. Owning bitcoins, in short, means possessing provably scarce lines of monetized code, tethered to billions of dollars in unrecoverable physical capital, all done as an effort to generate strong assurance.
+
 _Joe researches cryptographic protocols and is on twitter at [@JKendzicky](https://twitter.com/jkendzicky?lang=en)_

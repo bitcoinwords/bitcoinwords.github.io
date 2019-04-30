@@ -6,7 +6,7 @@ tags:
   - Anthony Pompliano
   - CY19 Q2
 
-excerpt: enter excerpt here
+excerpt: Pomp posts another fire post. If you like charts, you'll love this one. Posted April 23, 2019.
 
 defaults:
   # _posts

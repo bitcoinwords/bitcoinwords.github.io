@@ -6,7 +6,7 @@ tags:
   - Gigi
   - CY19 Q2
 
-excerpt: By Gigi, Posted April 2, 2019
+excerpt: Part 3 of 3 from Gigi, Posted April 2, 2019.
   
 defaults:
   # _posts

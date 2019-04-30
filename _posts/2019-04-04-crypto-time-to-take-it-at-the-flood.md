@@ -6,7 +6,7 @@ tags:
   - Rayne Steinberg
   - CY19 Q2
 
-excerpt: enter excerpt here
+excerpt: Rayne Steinberg pen's a quick read on why you should get in sooner than later. Posted April 4, 2019.
 
 defaults:
   # _posts

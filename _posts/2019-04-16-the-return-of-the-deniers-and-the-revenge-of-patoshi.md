@@ -6,7 +6,7 @@ tags:
   - Sergio Demian Lerner
   - CY19 Q2
 
-excerpt: enter excerpt here
+excerpt: Sergio Demian Lerner shares thoughts and evidence of a single person acting as Satoshi in regarding to mining. Posted April 16, 2019.
 
 defaults:
   # _posts

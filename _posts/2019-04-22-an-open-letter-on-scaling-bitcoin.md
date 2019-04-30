@@ -26,7 +26,7 @@ defaults:
 ### By [Joseph Dallago](https://medium.com/@_jayd3e)
 ### Posted April 22, 2019
 
-This is in response to Nic Carter's piece, [How to scale Bitcoin (without changing a thing)](https://cryptowords.github.io/how-to-scale-bitcoin-without-changing-a-thing)
+This is in response to Nic Carter's piece, [How to scale Bitcoin (without changing a thing)](https://cryptowords.github.io/how-to-scale-bitcoin-without-changing-a-thing).
 
 ***
 
