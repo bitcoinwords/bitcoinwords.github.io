@@ -26,6 +26,12 @@ defaults:
 ### By [Joseph Dallago](https://medium.com/@_jayd3e)
 ### Posted April 22, 2019
 
+This is in response to Nic Carter's piece, [How to scale Bitcoin (without changing a thing)](https://cryptowords.github.io/how-to-scale-bitcoin-without-changing-a-thing)
+
+***
+
+<br>
+
 Open letter to @nic__carter,
 
 I just got around to reading your piece on [scaling Bitcoin via institutions](https://medium.com/@nic__carter/how-to-scale-bitcoin-without-changing-a-thing-bc4750dd16c7), and it has quickly skyrocketed to one of my favorite essays in the space in recent memory. I think it's a brilliant piece of work. It distills a lot of the current conversation around an important question:

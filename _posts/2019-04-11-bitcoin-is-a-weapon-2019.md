@@ -6,7 +6,7 @@ tags:
   - Hector Rosenkrans
   - CY19 Q2
 
-excerpt: Hector Rosenkrans looks at his own life experiences and tells 	us why Bitcoin is a weapon to take the power back.
+excerpt: Hector Rosenkrans looks at his own life experiences and tells 	us why Bitcoin is a weapon to take the power back. Posted April 11, 2019.
 
 defaults:
   # _posts

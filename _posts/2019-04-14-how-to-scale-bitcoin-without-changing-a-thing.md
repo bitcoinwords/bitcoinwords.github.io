@@ -22,7 +22,7 @@ defaults:
       related: false
 ---
 
-# How to scale Bitcoin (without changing a thing)
+# [How to scale Bitcoin (without changing a thing)](https://medium.com/@nic__carter/how-to-scale-bitcoin-without-changing-a-thing-bc4750dd16c7)
 ## Why Bitcoin banks need to prove their solvency
 ### By [Nic Carter](https://medium.com/@nic__carter)
 ### Posted April 14, 2019
