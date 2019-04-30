@@ -34,8 +34,6 @@ defaults:
 To answer the mystery of early NVT moonage, come with me on a trip down memory lane and visit the transactional data of Bitcoin's early years.
 
 ## How Bitcoin transactions work
-
-
 First on our journey we must understand how a Bitcoin transactions work...
 
 All transactions on the network consists of  shards of BTC value (called UXTOs) moving between wallets. This is what a typical transaction might look like...
@@ -59,8 +57,6 @@ This transaction has no inputs, and one output. This happens when a new coin is 
 Great, after that primer we we can revisit Bitcoin, the early years...
 
 ## The early investment market
-
-
 In the early era, the network was dominated by mining. Coins were either mined straight into wallets and held, or moved from one wallet to another. We can see this because the average outputs hovered around 1.
 
 ![](/assets/images/cy19/cy19q2m4/woo-5.png){: .align-center}
@@ -74,13 +70,11 @@ On 25th May 2010, a second market opened called Bitcoin Market. It also traded a
 The third exchange to open was the infamous MtGox, launching one month later in July 2010. It's here we see the price leap again, and the average outputs per transactions start to climb towards 2, this is where the early investment market starts to develop. Average outputs climbing to 2 was the telltale sign that transactions between investors were outnumbering those from mining.
 
 ## Breaking down the early market under the lens of NVT
-
-
 Now we can move onto the NVT domain and look at the actions the market took in its early history. Here's the NVT Ratio chart using the latest volume estimates from [Coin Metrics](https://coinmetrics.io/) Pro.
 
 ![](/assets/images/cy19/cy19q2m4/woo-6.png){: .align-center}
 
-Breaking this down:
+**Breaking this down:**
 
 1. **The Great Inflation**. This is the period where the sheer volume of new coins arriving via coinbase transactions meant the value flowing on the blockchain was high in comparison to the money supply. (NVT Ratio by definition is the ratio of the money supply to the coins flowing on-chain). As the money supply increased the impact of the coinbase transactions got diluted and you can see the NVT Ratio climbing steeply as the ratio of money supply outstrips the new coins moving into existence.
 2. **The early market begins**. In June 2009 interestingly before even the first prices of BTC was published by New Liberty Standard, we see activity between different HODLers, likely OTC trades. Enough coins move on-chain to bring NVT Ratio downwards over time, we can also confirm this as a blip on the outputs per transaction chart further above. (One could suggest this was also testing by early supporters of the network, but the volumes and time period of sustained activity look too consistent and high for this to be a viable reason in my opinion).
