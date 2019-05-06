@@ -3,10 +3,10 @@ title: "Bitcoin, Chance and Randomness"
 permalink: "/bitcoin-chance-and-randomness" 
 
 tags:
-  - CY18 Q3
   - Hugo Nguyen
+  - CY18 Q3
 
-excerpt: By Hugo Nguyen, posted August 25, 2018. This is part 2 in a 5 part series.
+excerpt: Hugo Nguyen looks at the virtues of randomness and examines how it powers PoW. Posted August 25, 2018.
 
 defaults:
   # _posts
@@ -24,32 +24,26 @@ defaults:
 
 # [Bitcoin, Chance and Randomness](https://medium.com/@hugonguyen/bitcoin-chance-and-randomness-ba49a6edf933)
 ### By [Hugo Nguyen](https://medium.com/@hugonguyen)
-### August 25, 2018
+### Posted August 25, 2018
 
-**This is Part 2 of a 5 part series**
-* [Part 1 - The Anatomy of Proof-of-Work](https://cryptowords.github.io/the-anatomy-of-proof-of-work)
-* [Part 2 - Bitcoin, Chance and Randomness](https://cryptowords.github.io/bitcoin-chance-and-randomness)
-* [Part 3 - How Cryptography Redefines Private Property](https://cryptowords.github.io/how-cryptography-redefines-private-property)
-* [Part 4 - Bitcoin's Incentive Scheme and the Rational Individual](https://cryptowords.github.io/bitcoins-incentive-scheme-and-the-rational-individual)
-* [Part 5 - Bitcoin: Two Parts Math, One Part Biology](https://cryptowords.github.io/bitcoin-two-parts-math-one-part-biology)
+![](/assets/images/cy18/cy18q3m8/hugo-1.png){: .align-center}
+The same rule governs this pair of dice & Bitcoin PoW
 
-<br>
+Randomness forms the cornerstone of Bitcoin's Proof-of-Work (PoW). But how did we get here?
 
-***
-
-![Dice](/assets/images/cy18/cy18q3m8/hugo-1.png){: .align-center}*Randomness forms the cornerstone of Bitcoin’s Proof-of-Work (PoW). But how did we get here?*
-
-### A brief history of the study of randomness [1]
+## A brief history of the study of randomness [1]
 
 Randomness has always been an essential part of life. Many ancient divination rituals were based on chance: the tossing of astragali (animal knucklebones) by the Greeks, Kau Cim sticks by the Chinese, Opele chain by West Africans. The use of dice-like devices in games & gambling also goes back thousands of years.
 
-![Kau Cim sticks](/assets/images/cy18/cy18q3m8/hugo-2.png){: .align-center}*Kau Cim sticks*
+![](/assets/images/cy18/cy18q3m8/hugo-2.png){: .align-center}
+Kau Cim sticks
 
 Yet, it was not until the 16th century that we started gaining the necessary tools and languages to really understand chance and randomness. Those tools include arithmetic concepts such as fractions and the number zero.
 
 Our study of chance and randomness began in earnest with a man named Gerolamo Cardano [2]. Born in Italy in 1501, Cardano was a polymath and one of the most influential mathematicians of the Renaissance. He was also a notorious gambling addict. Due to his gambling problem, Cardano eventually sunk into abject poverty and obscurity. It was his experience with gambling, however, that led him to write the "Book on Games of Chance" — the first systematic treatment of chance and randomness. Interestingly, Cardano intended to keep the book secrets to himself. The "Book on Games of Chance" was published a century after it was written, long after Cardano's death.
 
-![Gerolamo Cardano](/assets/images/cy18/cy18q3m8/hugo-3.png){: .align-center}*Gerolamo Cardano (1501–1576)*
+![](/assets/images/cy18/cy18q3m8/hugo-3.png){: .align-center}
+Gerolamo Cardano (1501–1576)
 
 Cardano's main contribution to our understanding of chance and randomness was the idea of [sample space](https://en.wikipedia.org/wiki/Sample_space). At the most basic level, calculating the probability of an event involves the simple task of counting the number of scenarios that could lead to said event, then divide that by the total number of all possible scenarios (the "sample space"), assuming all scenarios are equally likely. This assumption only holds true for problems like dice rolling, but it was a good start.
 
@@ -73,7 +67,8 @@ List of notable milestones in our journey of cracking chance and randomness:
 * Monte Carlo simulation
 * Pseudorandomness
 
-![distribution curve](/assets/images/cy18/cy18q3m8/hugo-4.png){: .align-center}*Normal Distribution a.k.a. the "Bell Curve" — image by [Dan Kernler](https://commons.wikimedia.org/w/index.php?title=User:Mathprofdk&action=edit&redlink=1 "User:Mathprofdk (page does not exist)")/ [CC 4.0](https://creativecommons.org/licenses/by-sa/4.0)*
+![](/assets/images/cy18/cy18q3m8/hugo-4.png){: .align-center}
+Normal Distribution a.k.a. the "Bell Curve" — image by [Dan Kernler](https://commons.wikimedia.org/w/index.php?title=User:Mathprofdk&action=edit&redlink=1 "User:Mathprofdk (page does not exist)")/ [CC 4.0](https://creativecommons.org/licenses/by-sa/4.0)
 
 Two major developments stand out: [_Monte Carlo simulation_](https://en.wikipedia.org/wiki/Monte_Carlo_method) and [_Pseudorandomness_](https://en.wikipedia.org/wiki/Pseudorandomness). Particularly because they're highly relevant in today's world.
 
@@ -89,7 +84,7 @@ The rising popularity of Monte Carlo methods was what spurred the development of
 
 Which brings us to Bitcoin.
 
-### The role of randomness in Bitcoin
+## The role of randomness in Bitcoin
 
 One of the major innovations in Bitcoin is the use of Proof-of-Work in establishing distributed consensus. PoW provides an objective yardstick which Bitcoin network participants can rely on to come to consensus, without trusting anyone on the network. This is unlike schemes like Proof-of-Stake which relies on a [subjective interpretation of consensus](https://medium.com/@hugonguyen/proof-of-stake-the-wrong-engineering-mindset-15e641ab65a2). This section assumes PoW is the only secure way to implement a blockchain. (For a refresher on PoW, read part 1: [the Anatomy of Proof-of-Work](https://bitcointechtalk.com/the-anatomy-of-proof-of-work-98c85b6f6667).)
 
@@ -103,7 +98,7 @@ In simple terms, what a typical PoW scheme does is (a) it poses a problem whose 
 
 So the randomness of the hash function determines how strong the proof is.
 
-### Hashing (provides) → Randomness (backs) → Proof-of-Work
+## Hashing (provides) → Randomness (backs) → Proof-of-Work
 
 > "...a good puzzle gives every miner the chance of winning the next puzzle solution in proportion to the amount of hash power they contribute. Imagine throwing a dart at a board randomly, with different sized targets corresponding to the mining power held by different miners."— Arvind Narayanan [3]
 
@@ -128,7 +123,7 @@ If Bitcoin succeeds in being money of the future, it would represent our most si
 
 _*This is part 2 of the Bitcoin Fundamentals series. Check out the full series here:_ [_part 1_](https://bitcointechtalk.com/the-anatomy-of-proof-of-work-98c85b6f6667) _,_ [_part 2_](https://medium.com/@hugonguyen/bitcoin-chance-and-randomness-ba49a6edf933) _,_ [_part 3_](https://medium.com/@hugonguyen/how-cryptography-redefines-private-property-34cd93d86036) _,_ [_part 4_](https://medium.com/@hugonguyen/bitcoins-incentive-scheme-and-the-rational-individual-dc20effa4715) _, and_ [_part 5_](https://medium.com/@hugonguyen/bitcoin-two-parts-math-one-part-biology-b45ef48a0422) _._
 
-### Acknowledgments
+## Acknowledgments
 
 _Thanks_ [_Steve Lee_](https://twitter.com/moneyball) _&_ [_Nic Carter_](https://twitter.com/nic__carter) _for the valuable feedback._
 
@@ -142,7 +137,3 @@ _[4]: A couple of potential issues with memory-bound PoW schemes:_
 
 * _Memory-bound PoW still requires computations, but operates under the assumption that memory technology has already plateaued, which makes memory the primary bottleneck in mining operation. But if this assumption is broken, instead of facing centralization forces on one front (ASIC), you'd potentially face centralization forces on two fronts (ASIC and memory)._
 * _The memory used in memory-bound PoW is likely to be repurposable beyond mining. This might have a negative impact on network security because that opens up the possibility of an attacker renting memory from others (since anything repurposable would likely have an abundance of supply and occasional supply surpluses), which reduces the cost of a majority attack._ _Hardware repurposability in general is_ [_not desirable_](https://medium.com/@hugonguyen/bitcoin-stock-flow-c4d4db98b751) _for Bitcoin security._
-
-
-
-Thanks to [Nic Carter](https://medium.com/@nic__carter?source=post_page).

@@ -23,7 +23,7 @@ defaults:
 ---
 
 
-# Bitcoin Data Science (Pt. 1): HODL Waves
+# [Bitcoin Data Science (Pt. 1): HODL Waves](https://blog.unchained-capital.com/bitcoin-data-science-pt-1-hodl-waves-7f3501d53f63)
 ### By [Dhruv Bansal](https://blog.unchained-capital.com/@shrubvandal)
 ### Posted April 17, 2018
 

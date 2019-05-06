@@ -22,7 +22,7 @@ defaults:
       related: false
 ---
 
-# Bitcoin Data Science (Pt. 2): The Geology of Lost Coins
+# [Bitcoin Data Science (Pt. 2): The Geology of Lost Coins](https://blog.unchained-capital.com/bitcoin-data-science-pt-2-the-geology-of-lost-coins-79e5a0dc6d1)
 ### By [Dhruv Bansal](https://blog.unchained-capital.com/@shrubvandal)
 ### Posted May 29, 2018
 

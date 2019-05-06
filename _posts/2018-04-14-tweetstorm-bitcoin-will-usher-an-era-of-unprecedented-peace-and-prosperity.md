@@ -21,6 +21,7 @@ defaults:
       share: true
       related: false
 ---
+
 # [Tweetstorm: Bitcoin will usher an era of unprecedented peace and prosperity](https://twitter.com/MustStopMurad/status/985335762421010434?s=09)
 ### By [Murad Mahmudov](https://twitter.com/MustStopMurad)
 ### Posted April 14, 2018
