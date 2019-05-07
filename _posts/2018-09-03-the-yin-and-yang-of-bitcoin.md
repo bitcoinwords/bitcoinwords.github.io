@@ -27,9 +27,9 @@ defaults:
 ### Posted September 3, 2018
 
 **This is post 2 of 3 in a series**
-* [Gravity]()
-* [The Yin and Yang of Bitcoin]()
-* [Cliffhangers]()
+* [Gravity](https://cryptowords.github.io/gravity)
+* [The Yin and Yang of Bitcoin](https://cryptowords.github.io/the-yin-and-yang-of-bitcoin)
+* [Cliffhangers](https://cryptowords.github.io/cliffhangers)
 
 ***
 
