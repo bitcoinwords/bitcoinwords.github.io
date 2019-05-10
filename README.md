@@ -16,3 +16,7 @@ Another part of this project is going back in time to document the best content 
 Stephan at [Libertarian Papers](http://libertarianpapers.org/) for hopping on the phone to hammer out some of the challenges with launching and operating a journal. 
 
 [@NLW](https://twitter.com/nlw) for his dedication to the space and masterful curation.
+
+And last but not least, the studs at [Satoshi Nakamoto Institute](https://nakamotoinstitute.org/). Read everything on the website.
+
+You can ping me on twitter [@_joerodgers](https://twitter.com/_joerodgers)
