@@ -31,7 +31,7 @@ defaults:
 <time>1 May 2019</time>[medium.com](https://medium.com/@dergigi/bitcoins-gravity-e1674ad9f8e4 "Also published on medium.com")
 
 
-![](/assets/images/cy19/cy19q2m5/gigi-.png){: .align-center}
+![](/assets/images/cy19/cy19q2m5/gigi-1.png){: .align-center}
 
 Bitcoin is different things to different people. Whatever it might be to you, it is undoubtedly an opinionated and polarizing phenomenon. There are certain ideas embedded in the essence of Bitcoin, and you might be intrigued by some or all of them.
 
@@ -68,7 +68,7 @@ All great things start small, and Bitcoin was no exception. In the beginning, it
 
 The Bitcoin network is a complex piece of machinery. The constituents of the network — part technology, part biology — make it inherently difficult to describe and understand. While the following doesn't claim to be a complete description of the system by any means, I think it's helpful to focus on some constituents in more detail. In particular, I want to focus on the following four: **ideas**, **people**, **code**, and **nodes**.
 
-![](/assets/images/cy19/cy19q2m5/gigi2-.png){: .align-center}Bitcoin's ingredients: two parts software, two parts hardware. 
+![](/assets/images/cy19/cy19q2m5/gigi-2.png){: .align-center}Bitcoin's ingredients: two parts software, two parts hardware. 
 
 On the physical layer, the network is made up of interconnecting _nodes_. Bitcoin's consensus rules are embodied in its software, i.e. the _code_ which is running on its nodes. Ultimately, _people_ are choosing which software to run, a decision which is shaped by the set of _ideas_ they hold.
 
