@@ -1,5 +1,5 @@
 ---
-permalink: /donate/
+permalink: /beer-fund/
 defaults:
   # _pages
   - scope:
