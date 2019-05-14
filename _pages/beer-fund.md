@@ -10,11 +10,13 @@ defaults:
       author_profile: true
 ---
 
-## We're not in it for the money, but we won't turn down beer!
 
 ![](/assets/images/site-images/tip-for-crypto-words.png){: .align-center}
 
 BTC Address: 32JViWrrUvVx1tWQ7EM1q5vTZkbpwoddaD
+
+## We're not in it for the money, but we won't turn down beer!
+
 
 ***
 
