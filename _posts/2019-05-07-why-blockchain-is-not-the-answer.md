@@ -22,7 +22,7 @@ defaults:
       related: false
 ---
 
-# Why Blockchain is Not the Answer
+# [Why Blockchain is Not the Answer](https://medium.com/@jimmysong/why-blockchain-is-not-the-answer-3b7d5f612d11)
 ### By [Jimmy Song](https://medium.com/@jimmysong)
 ### Posted May 7, 2019
 
