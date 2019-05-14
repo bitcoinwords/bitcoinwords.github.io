@@ -8,6 +8,7 @@ tags:
 
 excerpt: A reexamination at a failed narrative. Jimmy Song makes the case that blockchain is nothing without Bitcoin.
 Posted May 7, 2019.
+
 defaults:
   # _posts
   - scope:
