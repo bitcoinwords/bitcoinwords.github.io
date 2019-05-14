@@ -10,6 +10,8 @@ main:
     url: https://cryptowords.github.io/contact/
   - title: "Submisssions"
     url: https://cryptowords.github.io/submissions/
+  - title: "Beer Fund"
+    url: https://cryptowords.github.io/beer-fund/  
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
