@@ -110,7 +110,7 @@ author:
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "DYOR. BTFD. HOLD."
   location         : "Little Rock, AR"
-  email            : "cryptowordsjournal@pm.me"
+  email            : # "cryptowordsjournal@pm.me"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
@@ -126,7 +126,7 @@ author:
       # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/cryptowords"
+      # url: "https://github.com/cryptowords"
     - label: "Beer Fund"
       icon: "fas fa-beer"
       url: "https://cryptowords.github.io/beer-fund/"
