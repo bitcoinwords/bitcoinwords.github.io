@@ -10,6 +10,10 @@ defaults:
       author_profile: true
 ---
 
+<figure class="align-center">
+  <img src="https://cryptowords.github.io/assets/images/tip.png" alt="Buy me a beer">
+  <figcaption>I am thirsty.</figcaption>
+</figure> 
 
 ![](/assets/images/tip.png){: .align-center}
 
