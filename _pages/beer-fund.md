@@ -15,7 +15,7 @@ defaults:
   <figcaption>I am thirsty.</figcaption>
 </figure> 
 
-![](/assets/images/jpg.png){: .align-center}
+![](/assets/images/tip.jpg){: .align-center}
 
 BTC Address: 32JViWrrUvVx1tWQ7EM1q5vTZkbpwoddaD
 
