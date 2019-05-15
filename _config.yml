@@ -308,3 +308,5 @@ defaults:
       comments: # true
       share: false
       related: true
+      header:
+        teaser: "/assets/images/words.png"
