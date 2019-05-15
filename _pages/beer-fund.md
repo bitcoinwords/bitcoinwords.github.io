@@ -11,7 +11,7 @@ defaults:
 ---
 
 
-![](/assets/images/tips.png){: .align-center}
+![](/assets/images/tip.png){: .align-center}
 
 BTC Address: 32JViWrrUvVx1tWQ7EM1q5vTZkbpwoddaD
 
