@@ -3,7 +3,7 @@ permalink: /beer-fund/
 defaults:
   # _pages
   - scope:
-      path: "About"
+      path: "Beer Fund"
       type: pages
     values:
       layout: single
@@ -11,11 +11,11 @@ defaults:
 ---
 
 <figure class="align-center">
-  <img src="https://cryptowords.github.io/assets/images/tip.png" alt="Buy me a beer">
+  <img src="https://cryptowords.github.io/assets/images/tip.jpg" alt="Buy me a beer">
   <figcaption>I am thirsty.</figcaption>
 </figure> 
 
-![](/assets/images/tip.png){: .align-center}
+![](/assets/images/jpg.png){: .align-center}
 
 BTC Address: 32JViWrrUvVx1tWQ7EM1q5vTZkbpwoddaD
 
