@@ -25,5 +25,5 @@ BTC Address: 32JViWrrUvVx1tWQ7EM1q5vTZkbpwoddaD
 
 <!-- Beginning of tippin.me Button -->
 <div id="tippin-button" data-dest="_joerodgers"></div>
-<script src="https://tippin.me/buttons/tip.js" type="text/javascript"></script>
+<script src="https://tippin.me/buttons/tip.js" type="text/javascript"></script>{: .align-center}
 <!-- End of tippin.me Button -->
