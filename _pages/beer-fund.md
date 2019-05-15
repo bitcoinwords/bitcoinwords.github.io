@@ -25,3 +25,7 @@ BTC Address: 32JViWrrUvVx1tWQ7EM1q5vTZkbpwoddaD
 <br>
 
 **We're not in it for the money, but we won't turn down beer!**
+
+<br> 
+
+The tip jar was inspired be the legendary [Willy Woo](https://twitter.com/woonomic) on his fantastic [charts page](http://charts.woobull.com/).
