@@ -15,12 +15,12 @@ defaults:
 
 BTC Address: 32JViWrrUvVx1tWQ7EM1q5vTZkbpwoddaD
 
-## We're not in it for the money, but we won't turn down beer!
+**We're not in it for the money, but we won't turn down beer!**
 
 
 ***
 
-## Or help me stack some sats
+**Or help me stack some sats**
 
 
 <!-- Beginning of tippin.me Button -->
