@@ -10,6 +10,8 @@ defaults:
       author_profile: true
 ---
 
+![](/assets/images/about-image.png){: .align-center}
+
 *Crypto Words* is an attempt to archive commentary from the Bitcoin community. For the uninitiated, getting up to speed on the Bitcoin space can be daunting. Content is all over the place and there's not an easy way to digest relavant commentary. That's why we made this journal. 
 
 We are hand curating the content. This means reading a ton of tweets, following a ton of RSS feeds, and reading a ton of email newsletters. Our hope is to one day be community curated and peer reviewed. Until then, we'll keep reading and archiving.
