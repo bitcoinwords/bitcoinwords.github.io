@@ -1,5 +1,4 @@
 ---
-title: "Beer Fund"
 permalink: /beer-fund/
 defaults:
   # _pages
@@ -11,6 +10,8 @@ defaults:
       author_profile: true
 ---
 
+# Beer Fund
+{: .align-center}
 
 ![](/assets/images/tip.jpg)
 {: .align-center}
