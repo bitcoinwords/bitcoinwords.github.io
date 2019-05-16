@@ -3,10 +3,10 @@ title: "The Bitcoin Analyst Brain: A Primer"
 permalink: "/the-bitcoin-analyst-brain-a-primer" 
 
 tags:
-  - Christopher Bendkinsen
+  - Christopher Bendiknsen
   - CY18 Q3
 
-excerpt: A look into the psyche of a Bitcoin analyst from Christopher Bendkinsen. Posted September 22, 2018.
+excerpt: A look into the psyche of a Bitcoin analyst from Christopher Bendiksen. Posted September 22, 2018.
 
 defaults:
   # _posts
