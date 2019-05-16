@@ -26,10 +26,10 @@ defaults:
 
 <br>
 
-**We're not in it for the money, but we won't turn down beer!**
+**We're not in it for the money, but we won't turn down free beer!**
 {: style="text-align: center;"}
 
 <br> 
 
-The tip jar was inspired be the legendary [Willy Woo](https://twitter.com/woonomic) on his fantastic [charts page](http://charts.woobull.com/).
+The tip jar was inspired be the legendary [Willy Woo](https://twitter.com/woonomic) and his fantastic [charts page](http://charts.woobull.com/).
 {: style="text-align: center;"}
