@@ -10,16 +10,6 @@ excerpt: By Hugo Nguyen, posted February 10, 2018. This is part 1 of a 5 part se
 
 defaults:
   # _posts
-  - scope:
-      path: ""
-      type: posts
-    values:
-      layout: single
-      author_profile: true
-      read_time: true
-      comments: false
-      share: true
-      related: false
 ---
 
 # [The Anatomy of Proof-of-Work](https://bitcointechtalk.com/the-anatomy-of-proof-of-work-98c85b6f6667)
