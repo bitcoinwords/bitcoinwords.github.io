@@ -10,8 +10,6 @@ defaults:
       author_profile: true
 ---
 
-# Beer Fund
-{: .align-center}
 
 ![](/assets/images/tip.jpg)
 {: .align-center}
