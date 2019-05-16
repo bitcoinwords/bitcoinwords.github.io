@@ -13,7 +13,7 @@ defaults:
 
 ![](/assets/images/tip.jpg){: .align-center}
 
-BTC Address: 32JViWrrUvVx1tWQ7EM1q5vTZkbpwoddaD
+<i class="fab fa-bitcoin"></i> BTC Address: 32JViWrrUvVx1tWQ7EM1q5vTZkbpwoddaD
 
 **Or help me stack some sats**
 
