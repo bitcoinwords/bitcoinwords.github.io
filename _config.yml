@@ -127,7 +127,7 @@ author:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       # url: "https://github.com/cryptowords"
-    - label: "Beer Fund"
+    - label: " Beer Fund"
       icon: "fas fa-beer"
       url: "https://cryptowords.github.io/beer-fund/"
 
