@@ -293,7 +293,7 @@ defaults:
       category: "posts"
       author_profile: # true
       read_time: true
-      comments: # true
+      comments: false
       share: true
       related: false
       tags: ""
