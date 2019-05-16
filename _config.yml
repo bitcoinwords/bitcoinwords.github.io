@@ -291,7 +291,7 @@ defaults:
         teaser: "/assets/images/words.png"
       layout: single
       category: "posts"
-      author_profile: true
+      author_profile: # true
       read_time: true
       comments: # true
       share: true
@@ -303,7 +303,7 @@ defaults:
       type: pages
     values:
       layout: single
-      author_profile: true
+      author_profile: # true
       read_time: false
       comments: # true
       share: false
