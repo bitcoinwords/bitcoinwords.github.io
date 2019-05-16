@@ -6,7 +6,7 @@ tags:
   - Deniz Özgür
   - CY19 Q2
 
-excerpt: enter excerpt here
+excerpt: Deniz Özgür shares a report that lays out crypto from start to finish. Posted May 14, 2019.
 
 defaults:
   # _posts
