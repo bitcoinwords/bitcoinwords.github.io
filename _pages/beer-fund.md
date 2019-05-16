@@ -1,4 +1,5 @@
 ---
+title: "Beer Fund"
 permalink: /beer-fund/
 defaults:
   # _pages
