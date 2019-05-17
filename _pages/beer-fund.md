@@ -20,8 +20,7 @@ defaults:
 <i class="fas fa-bolt"></i> [**Or help me stack some sats**](https://tippin.me/@_joerodgers) <i class="fas fa-bolt"></i>
 {: style="text-align: center;"}
 
-<div id="tippin-button" data-dest="_joerodgers" text-align="center"></div><script src="https://tippin.me/buttons/tip.js" type="text/javascript"></script>
-{: style="text-align: center;"}
+ <div id="tippin-button" data-dest="_joerodgers" text-align="center"></div><script src="https://tippin.me/buttons/tip.js" type="text/javascript"></script>{: style="text-align: center;"}
 
 <br>
 
