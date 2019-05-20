@@ -1,5 +1,5 @@
 ---
-title: "Crypto Words - A journal of Bitcoin commentary."
+title: "Crypto Words // A journal of Bitcoin commentary."
 layout: splash
 permalink: /
 date: 2019-03-01
