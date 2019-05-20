@@ -29,12 +29,12 @@ feature_row:
     url: "#test-link"
     btn_label: "Read More"
     btn_class: "btn--primary"
-  - image_path: /assets/images/unsplash-gallery-image-3-th.jpg
-    alt: "placeholder image 3"
-    title: "Submissions"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
-    url: "#test-link"
-    btn_label: "Read More"
+  - image_path: /assets/images/splash-beer-fund.png
+    alt: "Beer Fund"
+    title: "Beer Fund"
+    excerpt: "If you find this useful, consider buying me a beer..."
+    url: "https://cryptowords.github.io/beer-fund/"
+    btn_label: "Beer Fund"
     btn_class: "btn--primary"
 
 ---
