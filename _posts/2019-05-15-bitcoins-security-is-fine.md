@@ -21,8 +21,7 @@ defaults:
       related: false
 ---
 
-
-# Bitcoin's Security is Fine
+# [Bitcoin's Security is Fine](https://blog.picks.co/bitcoins-security-is-fine-93391d9b61a8)
 ## **Fears over the declining block reward are overblown**
 ### By [Dan Held](https://blog.picks.co/@danhedl)
 ### Posted May 15, 2019

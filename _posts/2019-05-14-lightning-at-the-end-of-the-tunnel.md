@@ -22,7 +22,7 @@ defaults:
 ---
 
 
-# Lightning at the End of the Tunnel
+# [Lightning at the End of the Tunnel](https://medium.com/breez-technology/lightning-at-the-end-of-the-tunnel-overcoming-bitcoins-ux-challenges-5738171c759e)
 ## Overcoming Bitcoin's UX Challenges
 ### By [Roy Sheinfeld](https://medium.com/@kingonly)
 ### Posted May 14, 2019
