@@ -6,7 +6,7 @@ tags:
   - Dan Held
   - CY19 Q2
 
-excerpt: enter excerpt here
+excerpt: Dan Held examines the growing Bitcoin network and explains how it's security is growing and how it will be sustained over time via fees rather than block subsidies. Posted May 15, 2019. 
 
 defaults:
   # _posts
