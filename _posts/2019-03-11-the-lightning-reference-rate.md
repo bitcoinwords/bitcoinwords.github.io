@@ -6,6 +6,8 @@ tags:
   - CY19 Q1
   - Nik Bhatia
 
+excerpt: Part 4 of 4 in Nik Bhatia's piece defining and laying out proposed guidelines for measuring Lightning Network fees. Posted March 11, 2019.
+
 defaults:
   # _posts
   - scope:
@@ -20,11 +22,18 @@ defaults:
       related: false
 ---
 
-# The Lightning Network Reference Rate
+# [The Lightning Network Reference Rate](https://medium.com/@timevalueofbtc/the-lightning-network-reference-rate-98e41a9dadfa)
 ### [Nik Bhatia](https://medium.com/@timevalueofbtc)
 ### Posted March 11, 2019
 
-_The Lightning Network Reference Rate, Part 4 of 4_
+1. [1/4 The Bitcoin Second Layer](https://medium.com/@timevalueofbtc/the-bitcoin-second-layer-d503949d0a06)
+2. [2/4 The Time Value of Bitcoin](https://medium.com/@timevalueofbtc/the-time-value-of-bitcoin-3807b91f02d2)
+3. [3/4 The Bitcoin Risk Spectrum](https://medium.com/@timevalueofbtc/the-bitcoin-risk-spectrum-949f6abec290)
+4. **[4/4 The Lightning Network Reference Rate](https://cryptowords.github.io/the-lightning-reference-rate)**
+
+***
+
+<br>
 
 ![code](/assets/images/cy19q1/cy19q1m3/nik-1.png){: .align-center}
 

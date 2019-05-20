@@ -6,7 +6,7 @@ tags:
   - Nik Bhatia
   - Cy18 Q3
 
-excerpt: enter excerpt here
+excerpt: Nik Bhatia lays out a the baseline for a 4 part series on Lightning Network. In this post, he draws similarities between LN and paper gold, with differences. Posted August 7, 2018.
 
 defaults:
   # _posts
@@ -21,22 +21,20 @@ defaults:
       related: false
 ---
 
-
 # [The Bitcoin Second Layer](https://medium.com/@timevalueofbtc/the-bitcoin-second-layer-d503949d0a06)
+### By [Nik Bhatia](https://medium.com/@timevalueofbtc)
+### Posted August 7, 2018
 
-[Nik Bhatia](https://medium.com/@timevalueofbtc)<time>Aug 7, 2018</time>
-
-_The Lightning Network Reference Rate, Part 1 of 4_
-
-1. 1/4 The Bitcoin Second Layer
-2. 
-3. 
-4. 
-
+1. **[1/4 The Bitcoin Second Layer](https://medium.com/@timevalueofbtc/the-bitcoin-second-layer-d503949d0a06)**
+2. [2/4 The Time Value of Bitcoin](https://medium.com/@timevalueofbtc/the-time-value-of-bitcoin-3807b91f02d2)
+3. [3/4 The Bitcoin Risk Spectrum](https://medium.com/@timevalueofbtc/the-bitcoin-risk-spectrum-949f6abec290)
+4. [4/4 The Lightning Network Reference Rate](https://cryptowords.github.io/the-lightning-reference-rate)
 
 ***
 
 <br>
+
+![](/assets/images/cy18/cy18q3m8/nb-1.png){: .align-center}
 
 Bitcoin's antifragile protocol and its exponentially increasing network effects make it a behemoth, gradually swallowing up global economic activity. The latest of these network effects is a second layer protocol called Lightning Network, which uses bitcoin's base layer protocol as its security. The concept of layered money is not new in monetary history. In this writing, I'll be using gold as an analogy to describe why bitcoin will evolve in layers on its way to world reserve currency status.
 
