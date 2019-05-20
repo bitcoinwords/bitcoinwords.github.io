@@ -22,12 +22,12 @@ feature_row:
     url: "https://cryptowords.github.io/categories/posts/"
     btn_label: "Posts"
     btn_class: "btn--primary"
-  - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
-    alt: "placeholder image 2"
-    title: "Posts"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
-    url: "#test-link"
-    btn_label: "Read More"
+  - image_path: /assets/images/splash-about.png
+    alt: "About"
+    title: "About"
+    excerpt: "Crypto Words is on a mission to curate and archive the brightest commentary on Bitcoin. We're just getting started."
+    url: "https://cryptowords.github.io/about/"
+    btn_label: "More About Crypto Words"
     btn_class: "btn--primary"
   - image_path: /assets/images/splash-beer-fund.png
     alt: "Beer Fund"
