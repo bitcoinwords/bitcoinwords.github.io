@@ -15,12 +15,12 @@ excerpt: "A collection of Bitcoin commentary from the brightest minds in the cry
 intro: 
   - excerpt: "It's a beautiful thing, the destruction of words. - George Orwell"
 feature_row:
-  - image_path: assets/images/unsplash-gallery-image-1-th.jpg
-    alt: "placeholder image 1"
-    title: "Journals"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
-    url: "#test-link"
-    btn_label: "Read More"
+  - image_path: assets/images/splash-posts.png
+    alt: "Posts"
+    title: "Posts"
+    excerpt: "Here you will find all the featured content in chronological order. From there you can dig into authors and quarter posted."
+    url: "https://cryptowords.github.io/categories/posts/"
+    btn_label: "Posts"
     btn_class: "btn--primary"
   - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
     alt: "placeholder image 2"
