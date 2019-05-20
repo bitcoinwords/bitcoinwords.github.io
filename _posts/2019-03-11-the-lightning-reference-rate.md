@@ -1,5 +1,5 @@
 ---
-title: "The Lightning Reference Rate"
+title: "The Lightning Network Reference Rate"
 permalink: "/the-lightning-reference-rate" 
 
 tags:
@@ -26,7 +26,7 @@ defaults:
 ### [Nik Bhatia](https://medium.com/@timevalueofbtc)
 ### Posted March 11, 2019
 
-1. [1/4 The Bitcoin Second Layer](https://medium.com/@timevalueofbtc/the-bitcoin-second-layer-d503949d0a06)
+1. [1/4 The Bitcoin Second Layer](https://cryptowords.github.io/the-bitcoin-second-layer)
 2. [2/4 The Time Value of Bitcoin](https://medium.com/@timevalueofbtc/the-time-value-of-bitcoin-3807b91f02d2)
 3. [3/4 The Bitcoin Risk Spectrum](https://medium.com/@timevalueofbtc/the-bitcoin-risk-spectrum-949f6abec290)
 4. **[4/4 The Lightning Network Reference Rate](https://cryptowords.github.io/the-lightning-reference-rate)**
