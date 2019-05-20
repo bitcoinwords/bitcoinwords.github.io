@@ -6,7 +6,7 @@ tags:
   - Merwane Draï
   - CY19 Q2
 
-excerpt: enter excerpt here
+excerpt: A short essay from Merwane Draï on the power of Bitcoin over the state. Posted May 18, 2019.
 
 defaults:
   # _posts
