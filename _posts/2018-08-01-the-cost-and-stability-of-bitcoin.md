@@ -138,6 +138,7 @@ Dec-2014<sup>52</sup> Jun-2018<sup>53</sup>
 
 Table 2 - Distribution of Coins (by wallet balance)
 
+![](/assets/images/cy18/cy18q3m8/hass-1.png){: .align-center}
 Figure 1 - Distribution of Coins (by wallet balance)
 
 It should be noted that all wallets with a balance of over 100,000 coins belong to identified exchanges / custodial wallets<sup>53</sup> . The identifiable custodial wallets, alongside their "total wallet balance rank", is as follows:
@@ -164,32 +165,17 @@ Most importantly, in a perfectly competitive environment, marginal cost to produ
 
 The Porter's Five (or Six) Forces<sup>58</sup> framework is a mainstay of the MBA Curriculum. The forces within the Bitcoin mining market are illustrated below.
 
+![](/assets/images/cy18/cy18q3m8/hass-2.png){: .align-center}
 Figure 2 - Porter's Five Forces Analysis of the Bitcoin Mining Industry
 
 Mapped out, prospects look quite daunting for an industry competitor. They cannot easily protect themselves from new miners or substitute products such as other digital currencies. They are price takers with little power over their buyers, and unless they are an innovation leader in the fields of hardware manufacture and research-and-development, data centre ownership, and/or electricity provision, they have little control over their suppliers too. As mentioned previously, collaborators (i.e. other ecosystem participants) currently have equal potential for benefit and detriment whilst the market is still susceptible to shocks. Competition is stiff within the mining industry, and a prompt extinction awaits if you are not a cost or innovation leader<sup>57</sup> . This is expected - economic profit tends to zero in long-term equilibrium in a perfectly competitive landscape<sup>34</sup>, and the marginal cost of producing and the market price oscillate around an equilibrium point<sup>34</sup>, with evolution and improvement the only way to stay in business. In such competitive markets, there is also a natural tendency for the market to be dominated by three or four players<sup>59,60</sup> . The Pareto Principle, also known as the 80/20 rule<sup>61</sup>, states 20% of the market participants control 80% of the market. In November 2015, the 5 largest pools provided 79% of mining power. In June 2018, the largest 5 provided 70% of hash rate, with 78% of power coming from the top 6. That said, the pools are not monolithic entities.
 
+![](/assets/images/cy18/cy18q3m8/hass-3.png){: .align-center}Figure3 - Bitcoin Network Hash Rate (NHR) Distribution
+
 In a perfectly competitive market, a firm's decisions are predictable. All firms need to decide to start up, how to run their business as cost-effectively as possible, and whether to stay in business or not. In the Bitcoin world, the decision-making process relies on market price of bitcoin, operating expenditure, and the network hash rate, i.e., how much competing "mining" power exists on the network. It also indirectly relies on the continued faith and investment of miners in the value of their commodity i.e. continued research, development, capital expenditure, and strategic partnerships with collaborators. Table 4 shows the relationship between hash rate and price and shows the outcomes for miners in six different scenarios.
 
-PRICE
 
-INCREASE CONSTANT DECREASE
-
-|  |
-
-| • • | Short-term profit
-
-New miners enter | • • | Leaders emerge
-
-Profits Decrease | • Inefficient miners exit
-
-•        Miners buy coins instead of mine them |
-| • • | High Short-term profit
-
-New miners enter | • • | Short-term profit
-
-New miners enter | • Miners exit until some are profitable |  |
-
-Table 4 - Price - Hash Rate Relationship Matrix
+![](/assets/images/cy18/cy18q3m8/hass-4.png){: .align-center}Table 4 - Price - Hash Rate Relationship Matrix
 
 Effectively, if price of the commodity (i.e. demand) increases well beyond the cost to mine the commodity, miners will enter the market until the price and cost are equal. If price decreases, miners leave the industry until there are only profitable miners (i.e. either cost or innovation leaders) remaining. If price is dramatically lower than cost to mine, some miners may elect to simply buy bitcoin up to the current cost to mine. If the market is flat, profit tends towards zero until the market is shaken up again. This is similar to the workings of physical commodity miners in the commodity<sup>63</sup> and oil<sup>64</sup> industries. The difference is that a Bitcoin firm's decisions take hours and days to implement, and days and weeks to take effect, instead of months and years. The same is true regarding the time taken to reach equilibrium after a price shock; "two-to-four times the duration of the production-to-storage cycle" (i.e. months to years) for commodities<sup>65</sup>, weeks for Bitcoin.
 
@@ -232,6 +218,7 @@ As a result of the constant hash rate increases, the difficulty cycle is rarely 
 
 Should Bitcoin ever scale and reach its potential, it is almost certain that mining equipment will exponentially increase in processing efficiency in line with Moore's Law for at least another 5 years<sup>70</sup> and exponentially increase in power efficiency in line with Koomey's Law for at least another 25 years<sup>71</sup> .
 
+![](/assets/images/cy18/cy18q3m8/hass-5.png){: .align-center}
 Figure 4 - Network Hash Rate - All-time Data (Log Scale)
 
 _August 2018 Edition_ 10
@@ -363,64 +350,12 @@ The following tables shows the outputs from the economic model, which is based o
 
 #### CAPEX
 
-| Market Composition |  | NOTES |
-| Retail Miners |  | 65% | See _Mining Mix – "The Network Average Miner"_ on page 13 for details |
-| ChipFab Miners |  | 35% |
-| ChipFab Margin |  | 60% |
-|  |  |
-| Bitmain Antminer S9i |  |
-| Hash power (GH/s) |  | 14000 |
-| Energy Usage (W.h) |  | 1372 |
-| W.h/GH (also J/GH) |  | 0.098 |
-| RRP Price |  | $654.00 |
-| Mkt Avg $/GH |  | $0.037 |
-
-| Network Statistics |  |
-| Hash rate (GH/s) | 42,587,731,568 | Network has been rationalised into S9i equivalents for easier visualisation as hash rate numbers are so large. No of equivalents is found by dividing the network hash rate by the hash power provided by one S9i.
-
-See _Coins Mined_ on page 12 for assumptions on coins mined per period |
-| S9i Equivalents | 3041980 |
-| Coins Mined Per Period (BTC) | <u>25200</u> |
-| Avg Difficulty Increase (YTD) | 7.20% |
-| Avg Fees / period (BTC) (YTD) | 650 |
-
-| Cost Assumptions |  |  |
-| Average Period Length (hours) |  | 312 | See _Hash Rate Growth_ on page 9 for details |
-| Average Price/GH |  | $0.037 | Difficulty Period CAPEX = Avg Difficulty Increase x
-
-Average Price/GH x S9i equivalents. See _CAPEX_ on page 11 for details |
-| Average W.h/GH |  | 0.098 |
-| Difficulty Period CAPEX |  | $113,160,226.59 |
-
-|  | Per Coin Cos | ts |  |
-| CAPEX per coin |  | $4,337.57 | Difficulty Period CAPEX ÷ (Coins Mined Per Period (BTC) + Avg Fees / period (BTC) (YTD)) |
-
+![](/assets/images/cy18/cy18q3m8/hass-6.png){: .align-center}
 Table 11 - Bitcoin's Economic Costs - CAPEX
 
 #### OPEX
 
-| OPEX | NOTES |
-| S9i Equivalent Energy Data |  |
-| Cooling as a % of total power | 20% | See _OPEX_ on page 11 for cooling assumptions |
-| S9i kWh/period | 428.06 | The Hash Rate of an S9i x average difficulty period length |
-| Cooling/S9i kWh/period | 107.02 | Cooling power as a proportion of total power used |
-| Total kWh/period/S9i | 535.08 | S9i kWh/period + Cooling/S9i kWh/period |
-| S9i Equivalents | 3041980 |  |
-| Total Network GWh/period | 1627.70 | Total kWh/period/S9i x S9i equivalents |
-
-| Cost Assumptions |  |
-| Large (Discount) Miner $/kWh | $0.02 | See _OPEX_ on page 11 for electricity price assumptions |
-|  |  |
-| Retail Miner $/kWh | $0.04 |  |
-| Market Avg $/kWh | $0.033 | Weighted average based on the Network Average Miner (See _Mining Mix – "The Network Average Miner"_ on page 13 for details) |
-| Period Electricity Cost | $53,714,202.32 | Total Network GWh/period by Market Avg $/kWh |
-
-Difficulty Period OPEX divided by total coins mined / fees
-
-OPEX per coin $2,077.92
-
-earned
-
+![](/assets/images/cy18/cy18q3m8/hass-7.png){: .align-center}
 Table 12 - Bitcoin's Economic Costs - OPEX
 
 ### Total Cost of a Bitcoin
@@ -429,37 +364,7 @@ Adding the CAPEX figure of $4,337.57 to the OPEX figure of $2,077.92 results in 
 
 ### Environmental Costs
 
-| ENVIRONMENTAL IMP | ACT |  | NOTES |
-| GLOBAL DATA |  |  |  |
-| World avg. Mt/GWh CO<sub>2</sub> | 0.6 | See Table 8 |  |
-| Global Power Generated (TWh/yr.) | 160000 | See Executive Summary |  |
-| Global Gt CO<sub>2</sub> | 53.5 |
-
-| CAPEX |  |
-| Manufacturing Energy per S9i Data |
-| S9i equivalents added / period | 219023 |
-| kWh per S9 manufactured | 703.00 | See CAPEX on page 15 |
-| Manufacture kg CO<sub>2</sub>/period | 421.80 | World avg. Mt/GWh CO<sub>2</sub> x kWh per S9 manufactured |
-| Manufacture MWh/year | 19.75 | Number of manufacturing cycles per year (_365.25 days x 24 hours per day ÷ average cycle length_) x kWh per S9 manufactured |
-| Manufacture t CO<sub>2</sub>/year | 11.85 | World avg. Mt/GWh CO<sub>2</sub> x kWh per S9 manufactured |
-
-| OPEX |  |
-| S9i Equivalent Energy + Cooling Data |
-| S9i kg CO<sub>2</sub>/period | 256.02 | S9i kWh/period x World avg. Mt/GWh CO<sub>2</sub> |
-| S9i MWh/year | 12.03 | S9i kWh/period x Periods/year |
-| S9i t CO<sub>2</sub>/year | 7.22 | S9i MWh/year x World avg. Mt/GWh CO<sub>2</sub> |
-| Cooling kg CO<sub>2</sub>/period | 64.00 | Cooling kWh/period x World avg. Mt/GWh CO<sub>2</sub> |
-| Cooling MWh/year | 3.01 | Cooling kWh/period x Periods/year |
-| Cooling t CO<sub>2</sub>/year | 1.80 | Cooling MWh/year x World avg. Mt/GWh CO<sub>2</sub> |
-
-| Total Network Energy Da | ta |  |
-| S9i Equivalents | 3041980 |
-| Network GWh/period | 3766.21 | (S9i kWh/period + Cooling kWh/period) x S9i Equivalents |
-| Network TWh/year | 105.82 | Network GWh/period x Periods/year |
-| BTC % of Global Consumption | 0.0661% | Network TWh/year ÷ Global Power Generated (TWh/yr.) |
-| Network Gt CO<sub>2</sub> | 0.063 | Network TWh/year x World avg. Mt/GWh CO<sub>2</sub> |
-| BTC % of Global CO<sub>2</sub> Emissions | 0.12% | Network Gt CO<sub>2</sub> ÷ Global Gt CO<sub>2</sub> |
-
+![](/assets/images/cy18/cy18q3m8/hass-8.png){: .align-center}
 Table 13 - Bitcoin's Energy Use & Emissions
 
 #### Environmental Impact Factors
