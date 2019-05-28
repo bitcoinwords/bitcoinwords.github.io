@@ -20,10 +20,10 @@ feature_row:
     title: "Posts"
     excerpt: "Here you will find all the featured content in chronological order. From there you can dig into authors and quarter posted."
     url: "https://cryptowords.github.io/categories/posts/"
-    btn_label: "Posts"
+    btn_label: "Read Posts"
     btn_class: "btn--primary"
   - image_path: /assets/images/splash-about.png
-    alt: "About"
+    alt: "Read About"
     title: "About"
     excerpt: "Crypto Words is on a mission to curate and archive the brightest commentary on Bitcoin. We're just getting started."
     url: "https://cryptowords.github.io/about/"
@@ -34,7 +34,7 @@ feature_row:
     title: "Beer Fund"
     excerpt: "If you find this useful, consider buying me a beer..."
     url: "https://cryptowords.github.io/beer-fund/"
-    btn_label: "Beer Fund"
+    btn_label: "Buy a Beer Fund"
     btn_class: "btn--primary"
 
 ---
