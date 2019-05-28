@@ -182,7 +182,7 @@ Double entry accounting has survived 600–700 years and has more than capably s
 
 Why? Because the opportunity to invest in Proof of Work + Triple Entry accounting is available via Bitcoin. The ability to provide absolute assurance from an accounting perspective is unique historically and completely underappreciated by the market at large. Nonsense from the "Blockchain, not Bitcoin" era of 2015–2016 scared people off from the accounting side of the coin, but it's time we come full circle to fully appreciate Bitcoin for the accounting beast that it is. This robust accounting layer enables everything that we appreciate about Bitcoin and will likely propel it forward in the global money battle that is already well underway. For this reason it is imperative that all involved understand Bitcoin as a money AND accounting revolution.
 
-_Big thank you to Oke Pearson (@OkePearson on Twitter) for his help in reviewing this piece + all accounting related material included within._
+_Big thank you to Oke Pearson ([@OkePearson](https://twitter.com/OkePearson) on Twitter) for his help in reviewing this piece + all accounting related material included within._
 
 Sources:
 1. [**Triple Entry Accounting** _The digitally signed receipt, an innovation from financial cryptography, presents a challenge to classical double entry..._ nakamotoinstitute.org](https://nakamotoinstitute.org/triple-entry-accounting/) 
