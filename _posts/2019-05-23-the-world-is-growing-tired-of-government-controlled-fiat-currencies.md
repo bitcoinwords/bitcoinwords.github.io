@@ -6,7 +6,7 @@ tags:
   - Douglas French
   - CY19 Q2
 
-excerpt: Austrian economist, Douglas French, ex
+excerpt: Austrian economist, Douglas French, discusses the people's desire to get out of fiat and governments trying to keep their power. Posted May 23, 2019. 
 
 defaults:
   # _posts
