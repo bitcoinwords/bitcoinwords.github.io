@@ -69,7 +69,7 @@ Organizational decision-makers set their strategies in line with their firm's mi
 * Microeconomy: All other Bitcoin mining firms
 * Macroeconomy: All other Bitcoin ecosystem members
 
-#### • Global-Macroeconomy: All other digital and non-digital assets and global fiat monetary systems
+### • Global-Macroeconomy: All other digital and non-digital assets and global fiat monetary systems
 
 This chapter defines the nature of competition within these three contexts and will assert that the nature of competition in the Bitcoin mining industry is perfectly competitive in the long term. This will lead into discussion on the strategic machinations of bitcoin mining firms, through comparison of empirical data and academic theory on firms in perfect competition.
 
@@ -242,7 +242,7 @@ Calculating the costs of Bitcoin can be modelled quite simply through the relati
 
 ### Economic Cost Inputs / Drivers
 
-##### CAPEX
+#### CAPEX
 
 CAPEX is the capital expenditure required to maintain a proportional share of mining rewards upon an increase in difficulty. This is typically the purchase of additional GH/s at a particular $/GH rate. This is demonstrated in the below example, assuming the average of 7.2% difficulty increase discussed above:
 
@@ -259,15 +259,15 @@ There are other elements of CAPEX whose life-cycles are much longer than mining 
 * Power Supply Units (PSU) for mining equipment typically last as long as the mining equipment due to planned obsolesces, with hardware manufacturers regularly changing the required PSU wattage with each new generation of miner.
 * Server Racking / Data Centre Construction & Fitout Costs (typically last for decades). Server Racks / Data Centres could also come under Operational Expenses (OPEX) if the Data Centre is being rented / leased. Regardless, these costs are negligible compared to the costs of electricity.
 
-##### OPEX
+#### OPEX
 
 OPEX is the expenditure required to remain operational. At scale, this is effectively just the cost of power to the mining equipment and air conditioning within a data centre. It is estimated that cooling can consume 30<sup>72</sup> to 40%<sup>73</sup> of overall energy consumption, with 21% a benchmark for the most efficient cooling systems<sup>74</sup> . Technologies such as immersive cooling will reduce energy consumption as a trade-off for a large initial capital outlay. One should take in account the "Iceland Factor", where Bitcoin mining uses as much power as all of Iceland's homes<sup>75</sup> due to it being cold enough for data centres to meaningfully reduce cooling costs and having clean and cheap hydro-electricity. At 840 GWh/yr., tiny Iceland would account for about 1% of the world's mining power. While Iceland is only a very small share of the market, miners have access to several other cold places with cheap electricity<sup>76</sup> . For the purposes of this model, we will assume cooling contributes to 20% of the total power consumption, in line with the laws of perfect competition and the technological gravitation towards maximum efficiency.
 
-###### Difficulty Cycle Length
+#### Difficulty Cycle Length
 
 Network difficulty changes every 2016 blocks. At a fixed hash rate, blocks will take 10 minutes (on average) to mine. This results in a difficulty cycle of 14 days. However, as the network hash rate increases 7.2% on average, blocks will be mined, on average, 7.2% quicker. Therefore, the time-period used to calculate the cost of mining a bitcoin will be the average time between difficulty changes will be taken as 13 days (14 days x 92.8% = 13.00), or, 312 hours.
 
-###### Coins Mined
+#### Coins Mined
 
 This is a fixed number – there are 2016 blocks of 12.5 bitcoins mined every difficulty cycle – 25,200 bitcoins. In addition to the mining rewards, mining fees are not insignificant either<sup>77</sup> . The SegWit Wars of the first half of 2017 had fees averaging over 200BTC per day, and the fee madness during the hype cycle of December 2017/ January 2018 had a revenue average of over 550BTC per day over those two months. With the SegWit wars over, and the hype now well settled, a relatively consistent 40 BTC per day has been earned in the 6 months leading to July 31, 2018 (st dev = 35, n=180). Daily average fee revenue trends over time are shown in the table below. For this model, we will use a figure of 650 BTC collected in fees each cycle (i.e. about 50/day for the average 13-day cycle time).
 
@@ -278,7 +278,7 @@ This is a fixed number – there are 2016 blocks of 12.5 bitcoins mined every di
 
 Table 7 - Daily average fee revenue over time
 
-###### Power Cost & Emissions
+#### Power Cost & Emissions
 
 To evaluate power costs and emissions, we don't have much of a choice but to use world-wide weighted average figures, due to the dispersion of miners all over the world. That said, thanks to the rules of perfect competition, particularly perfect factor mobility, miners will move to places with the cheapest electricity costs. The statistics are as follows<sup>78,79,80,81</sup> . The emissions figures consider CO2 equivalents, such as methane, and nitrous oxide.
 
@@ -321,13 +321,13 @@ Due to the laws of perfect competition discussed earlier, it can be assumed that
 
 Table 9 - Rationalised Weighted "Network-Average" Miner
 
-###### Network Hash rate
+#### Network Hash rate
 
 As at the date of this report, total network hash rate is 42,587,731,568 GH/s. Miners need to successfully forecast hash rate and difficulty increases when planning future capital expenditure and setting strategy and targets.
 
 ### Environmental Cost Inputs & Drivers
 
-##### CAPEX
+#### CAPEX
 
 To better assess the overall impact of the bitcoin mining industry, we should also consider the CO<sub>2</sub> emissions from the manufacture and recycling of mining equipment.
 
@@ -349,7 +349,7 @@ Table 10 - Energy Required for ASIC manufacture
 
 As 98% of electronic waste is completely recyclable<sup>95</sup>, and an estimated energy saving of 90% on the recovery of metals and silicon<sup>96</sup>, we will reduce the "Bulk Materials" energy use by 90%, to result in a total of 703 kWh. Recycling of ASICs is a fair assumption due to the short life of mining equipment, and the value to be extracted out of quickly obsolete equipment through means of recycling.
 
-##### OPEX
+#### OPEX
 
 Environmental Impact from operations is effectively pure energy use. If miners are using cheap hydroelectricity to mine, emissions are insignificant. If miners are using dirty coal with no carbon capture, environmental impact is much higher.
 
