@@ -3,10 +3,10 @@ title: "The Cost and Sustainability of Bitcoin"
 permalink: "/the-cost-and-stability-of-bitcoin" 
 
 tags:
-  - author
-  - cy+quarter
+  - Hass McCook
+  - CY18 Q3
 
-excerpt: enter excerpt here
+excerpt: Hass MCCook provides a systematic methodology of modelling the environmental and economic costs of Bitcoin. Posted August 2018.
 
 defaults:
   # _posts
@@ -21,7 +21,7 @@ defaults:
       related: false
 ---
 
-# The Cost & Sustainability of Bitcoin
+# [The Cost & Sustainability of Bitcoin](https://www.academia.edu/37178295/The_Cost_and_Sustainability_of_Bitcoin_August_2018_)
 ### By [Hass McCook](https://twitter.com/HassMcCook)
 ### Posted August 1, 2018
 

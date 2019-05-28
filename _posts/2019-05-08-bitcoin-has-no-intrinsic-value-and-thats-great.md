@@ -4,7 +4,7 @@ permalink: "/bitcoin-has-no-intrinsic-value-and-thats-great"
 
 tags:
   - Conner Brown
-  - Cy19 Q2
+  - CY19 Q2
 
 excerpt: Conner Brown makes the case that Bitcoin is the ultimate store of wealth BECAUSE it has no intrinsic value. Posted May 8, 2019.
 
