@@ -22,7 +22,7 @@ defaults:
 ---
 
 # [Satoshi's vision for bitcoin as told by its predecessors](https://www.tonysheng.com/design-goals-bitcoin-predecessors)
-### By [Tony Sheng]()
+### By [Tony Sheng](https://twitter.com/tonysheng)
 ### Posted May 28, 2019
 
 While bitcoin often gets credit for being "first"<sup>[1](https://www.tonysheng.com/design-goals-bitcoin-predecessors#fn:poll)</sup> , there were a number of predecessors<sup>[2](https://www.tonysheng.com/design-goals-bitcoin-predecessors#fn:ht)</sup> that contributed to Satoshi's thinking. Most notably:
