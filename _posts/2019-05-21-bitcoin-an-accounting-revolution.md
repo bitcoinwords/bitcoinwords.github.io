@@ -186,7 +186,7 @@ _Big thank you to Oke Pearson (@OkePearson on Twitter) for his help in reviewing
 
 Sources:
 1. [**Triple Entry Accounting** _The digitally signed receipt, an innovation from financial cryptography, presents a challenge to classical double entry..._ nakamotoinstitute.org](https://nakamotoinstitute.org/triple-entry-accounting/) 
-2. [**Formalizing and Securing Relationships on Public Networks | Satoshi Nakamoto Institute** _Computers make possible the running of algorithms heretofore prohibitively costly, and networks the quicker..._ nakamotoinstitute.org](https://nakamotoinstitute.org/formalizing-securing-relationships/)
+2. [**Formalizing and Securing Relationships on Public Networks - Satoshi Nakamoto Institute** _Computers make possible the running of algorithms heretofore prohibitively costly, and networks the quicker..._ nakamotoinstitute.org](https://nakamotoinstitute.org/formalizing-securing-relationships/)
 3. [**The Ricardian Contract** _Describing digital value for payment systems is not a trivial task. Simplistic methods of using numbers or country..._ nakamotoinstitute.org](https://nakamotoinstitute.org/the-ricardian-contract/) 
 4, [**Money, Blockchains, and Social Scalability** _Blockchains are all the rage. The oldest and biggest blockchain of them all is Bitcoin, which over its eight-year..._ nakamotoinstitute.org](https://nakamotoinstitute.org/money-blockchains-and-social-scalability/) 
 5. [**A History of Accounting and Accountants** _Edit description_ books.google.com](https://books.google.com/books/about/A_History_of_Accounting_and_Accountants.html?id=al7OAAAAMAAJ&printsec=frontcover&source=kp_read_button#v=onepage&q&f=false) 
