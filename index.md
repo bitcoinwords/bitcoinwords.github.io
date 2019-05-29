@@ -23,11 +23,11 @@ feature_row:
     btn_label: "Read Posts"
     btn_class: "btn--primary"
   - image_path: /assets/images/splash-about.png
-    alt: "Read About"
-    title: "About"
-    excerpt: "Crypto Words is on a mission to curate and archive the brightest commentary on Bitcoin. We're just getting started."
-    url: "https://cryptowords.github.io/about/"
-    btn_label: "More About Crypto Words"
+    alt: "Read the Journals"
+    title: "Journals"
+    excerpt: "Crypto Words is on a mission to curate and archive the brightest commentary on Bitcoin. We're producing a monthly journal and just getting started."
+    url: "https://cryptowords.github.io/categories/journals/"
+    btn_label: "Read Journals"
     btn_class: "btn--primary"
   - image_path: /assets/images/splash-beer-fund.png
     alt: "Beer Fund"
