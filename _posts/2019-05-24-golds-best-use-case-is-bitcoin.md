@@ -84,4 +84,4 @@ Bitcoin does not need another intrinsic form of value like jewelry. Bitcoin's in
 
 Bitcoin will best at being one thing.....Sound Money!
 
-#DropGold #BuyBitcoin
+DropGold BuyBitcoin

@@ -45,7 +45,7 @@ A re-org is costly for the miner who mined on the side that ceases to exist, sin
 
 [Binance CEO considered](https://twitter.com/binance/status/1125959459782553600) to offer the stolen funds to miner who build an alternate chain of blocks. He can offer those funds in the alternate chain since they would remain in his control there. He [rejected the plan](https://twitter.com/cz_binance/status/1126002001093939200) as he thought it was impractical. It is impractical if considered within the bounds of collusion between his friends and network, but would have been possible if he was prepared, knowledgeable and quick.
 
-#### How to bribe the miners
+### How to bribe the miners
 
 Besides calling friends Binance CEO could have done the following as soon as the breach is noticed:
 
@@ -72,12 +72,12 @@ I know that above rescue is technically feasible. It would work if those who can
 
 Exchanges could commit in advance to use this procedure in the unlikely event of losing funds, so miner are also prepared to act swiftly on the offers.
 
-#### Consequences?
+### Consequences?
 
 Consequences of miners acting on a bribe could be severe as the re-org can disrupt regular transaction processing and diminish trust into the block chains immutability.
 
 Damages would be proportional to the length of the re-org. I think damage would be negligible if the rescue maneuver is executed within hours as a re-org of a few blocks is not an event in the technical sense and would not noticeably delay regular transaction processing.
 
-#### Addendum
+### Addendum
 
 _After publishing above, I participated in a few public discussions and the most prominent objection against the described procedure was that the hacker could counter the bribe on the original chain. While this is technically correct, it neglects that miner who would take that offer would become complicit and target of lawsuits. Even anonymous miner were vary of taking those coins as they could not be sold in short term to cover their electricity cost, also being associated with coins in high interest could dox them._

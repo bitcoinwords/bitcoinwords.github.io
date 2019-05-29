@@ -21,7 +21,7 @@ defaults:
       related: false
 ---
 
-# Bitcoin Has No Intrinsic Value — and That's Great.
+# [Bitcoin Has No Intrinsic Value — and That's Great.](https://medium.com/coinmonks/bitcoin-has-no-intrinsic-value-and-thats-great-e6994adbfe0f)
 ### By [Conner Brown](https://twitter.com/_ConnerBrown_)
 ### Posted May 8, 2019
 
