@@ -25,7 +25,8 @@ defaults:
 ### By [Hass McCook](https://twitter.com/HassMcCook)
 ### Posted August 1, 2018
 
-This paper was transcribed from a .pdf and the editor did his best to make sure all charts came over in correct fashion. Please I wanted to include a direct download link to Hass' paper in case you'd like to see this in the raw whitepaper form.
+
+This paper was transcribed from a .pdf and the editor did his best to make sure all charts came over in correct fashion. We wanted to include a direct download link to Hass' paper in case you'd like to see this in the raw whitepaper form.
 
 [Download](https://www.academia.edu/37178295/The_Cost_and_Sustainability_of_Bitcoin_August_2018_){: .btn .btn--primary}
 
