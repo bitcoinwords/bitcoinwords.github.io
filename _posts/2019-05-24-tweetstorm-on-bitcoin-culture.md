@@ -21,7 +21,7 @@ defaults:
       related: false
 ---
 
-# [Tweetstorm: On Bitcoin Culture]https://mobile.twitter.com/nwoodfine/status/1132138203769581568)
+# [Tweetstorm: On Bitcoin Culture](https://mobile.twitter.com/nwoodfine/status/1132138203769581568)
 ### By [Neil Woodfine](https://mobile.twitter.com/nwoodfine)
 ### Posted May 24, 2019
 
