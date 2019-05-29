@@ -65,8 +65,6 @@ This paper serves to update the assumptions used in a prior version of this rese
 
 Thank you to Lena Klaaßen for her review of my methodology and calculations.
 
-Table of Contents
-
 ## Bitcoin Economics
 
 Organizational decision-makers set their strategies in line with their firm's microeconomic, macroeconomic, and global competitive contexts. In the case of a Bitcoin mining firm, the context is as follows:
@@ -74,7 +72,7 @@ Organizational decision-makers set their strategies in line with their firm's mi
 * Microeconomy: All other Bitcoin mining firms
 * Macroeconomy: All other Bitcoin ecosystem members
 
-### • Global-Macroeconomy: All other digital and non-digital assets and global fiat monetary systems
+### Global-Macroeconomy: All other digital and non-digital assets and global fiat monetary systems
 
 This chapter defines the nature of competition within these three contexts and will assert that the nature of competition in the Bitcoin mining industry is perfectly competitive in the long term. This will lead into discussion on the strategic machinations of bitcoin mining firms, through comparison of empirical data and academic theory on firms in perfect competition.
 
@@ -98,11 +96,11 @@ Bitcoin's ecosystem is still small and fragile, but its incentive structure beco
 
 The example of "the hypothetical firm in a perfectly competitive market" is taught in most introductory economics classes. A literature review of primary academic texts<sup>34,35,36,37,38,39</sup> identifies nine conditions that define a perfectly competitive market:
 
-* Homogeneous products                     no barriers to entry or exit
-* guaranteed property rights               many buyers and sellers
-* non-increasing returns to scale                       perfect information
-* zero transaction costs                         no externalities
-* perfect factor mobility
+| Homogeneous products | no barriers to entry or exit |
+| guaranteed property rights | many buyers and sellers |
+| non-increasing returns to scale | perfect information |
+| zero transaction costs | no externalities |
+| perfect factor mobility | |
 
 When compared with real world data, the Bitcoin mining market (BMM) does not meet all aforementioned conditions of perfect competition, due to a relatively low number of ecosystem participants, currently resulting in wealth and information asymmetry. However, the BMM is trending towards becoming perfectly competitive as the wider Bitcoin macroeconomy grows, which will now be demonstrated.
 
@@ -119,7 +117,7 @@ The satisfaction of the final three conditions relies solely on the growth of th
 | Spain | 41.5 | 2% | 0.83 |
 | Switzerland | 7.6 | 2% | 0.15 |
 | Benelux | 25.8 | 2% | 0.52 |
-|  |  |  | Total 54.5 |
+|  |  |  | **Total 54.5** |
 
 Table 1 - No. of Bitcoin Users - High Estimate
 
@@ -148,13 +146,19 @@ Figure 1 - Distribution of Coins (by wallet balance)
 
 It should be noted that all wallets with a balance of over 100,000 coins belong to identified exchanges / custodial wallets<sup>53</sup> . The identifiable custodial wallets, alongside their "total wallet balance rank", is as follows:
 
-| Rank | Custodian | Qty BTC |  | Rank | Custodian | Qty BTC |
-| 1, 441 | Bitfinex | 175,172 | 55, 58, 117, 125, 167 | Kraken | 70,805 |
-| 2 | Binance | 174,759 | 177, 447 | Xapo | 8,911 |
-| 3 | Bittrex | 117,203 | 264 | AnxPro | 4,712 |
-| 4 | Huobi | 98,042 | 353 | Bitmain | 3,372 |
-| 5 | Bitstamp | 97,848 | 255 | BitX.co | 4,966 |
-| 28 | Coincheck | 34,277 | Identifiable Coins in Custody | 790,067 |
+| Rank | Custodian | Qty BTC | Rank | Custodian | Qty BTC |
+| 1, 441 | Bitfinex | 175,172 |
+| 2 | Binance | 174,759 |
+| 3 | Bittrex | 117,203 |
+| 4 | Huobi | 98,042 |
+| 5 | Bitstamp | 97,848 |
+| 28 | Coincheck | 34,277 |
+| 55, 58, 117, 125, 167 | Kraken | 70,805 |
+| 177, 447 | Xapo | 8,911 |
+| 264 | AnxPro | 4,712 |
+| 353 | Bitmain | 3,372 |
+| 255 | BitX.co | 4,966 |
+| Identifiable Coins in Custody |  | 790,067 |
 
 Table 3 - Bitcoin Held in Identifiable Custodial Accounts
 
@@ -387,15 +391,11 @@ _Acidification_
 | Country<sup>100</sup> | Acidification (g SO<sub>2</sub> eq/kWh) | Energy Mix |
 | Turkey | 9.79 | 43.6% Natural Gas, 28.1% Coal, 24.2% Hydro, 4.1% other (71.7% total fossil fuels) |
 | Portugal | 1.22 | 22% Coal, 22% Gas, 24% Hydro, 22% Wind, 2% Solar, 6% Biowaste, 2% Oil<sup>101</sup> (46% fossil fuels) |
-| Spain | 4.93 | 22% Nuclear, 14% Coal, 20% Gas, 6% Oil, 13% Hydro, 18% Wind, 5% Solar, 2%
-
-Biofuel<sup>101</sup> (40% total fossil fuels) |
+| Spain | 4.93 | 22% Nuclear, 14% Coal, 20% Gas, 6% Oil, 13% Hydro, 18% Wind, 5% Solar, 2% Biofuel<sup>101</sup> (40% total fossil fuels) |
 | Belgium | 1 | 53% Nuclear, 24% Renewables, 26% Gas, 3% Coal, 0.1% Oil<sup>101</sup> (29.1% total fossil fuels) |
 | Tanzania | 4.53 | 45% Natural Gas, 42% Hydro, 13% Liquid Fuel<sup>102</sup> (58% fossil fuels) |
 | Nigeria | 0.22 | 82.2% Biomass & Waste, 10.6% Oil, 6.8% Natural Gas, 0.4% Hydro<sup>103</sup> (17.4% fossil fuels) |
-| Mexico | 6.59 | 34.45% Natural Gas, 4.89% Coal, 34.83% Oil, 15.75% Gasoline, 7.79% Renewable,
-
-0.78% Nuclear, 1.5% other<sup>104</sup> (89.92% Fossil Fuels) |
+| Mexico | 6.59 | 34.45% Natural Gas, 4.89% Coal, 34.83% Oil, 15.75% Gasoline, 7.79% Renewable, 0.78% Nuclear, 1.5% other<sup>104</sup> (89.92% Fossil Fuels) |
 | Average | 4.04 |  |
 
 Table 14 - Bitcoin's Environmental Impact - Acidification
