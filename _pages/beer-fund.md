@@ -31,3 +31,15 @@ We post regularly on Twitter and use it as our main form of communication. — W
 If these sorts of things interest you, follow along on:
 
 [<i class="fab fa-twitter"></i> Twitter](https://twitter.com/_cryptowords){: .btn .btn--info}
+
+## Subscribe to our newsletter
+
+We publish our journal monthly and share it via Twitter and via newsletter.
+
+### Our pledge
+
+* <i class="fas fa-check-square"></i> We will never sell you out.
+* <i class="fas fa-check-square"></i> We will never shill you shitcoins.
+* <i class="fas fa-check-square"></i> We will only deliver what is promised.
+
+[<i class="fab fa-mailchimp"></i> Subscribe](https://mailchi.mp/2731ce628dba/cryptowordsnewsletter){: .btn .btn--primary}
