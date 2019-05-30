@@ -19,7 +19,7 @@ The posts and journals published here have been carefully curated and crafted as
   <a href="https://www.paypal.me/mmistakes" onclick="ga('send', 'event', 'link', 'click', 'Send PayPal');" title="Send PayPal" class="btn">
     <svg class="icon icon--paypal" width="16px" height="16px"><use xlink:href="{{ 'icons.svg#icon-paypal' | prepend: 'assets/icons/' | relative_url }}"></use></svg> PayPal.me
   </a>
-  <a href="https://cash.app/$joerodgers76" onclick="ga('send', 'event', 'link', 'click', 'Send Square Cash');" title="Send Square Cash" class="btn">Square Cash</a>
+  <a href="https://cash.app/$joerodgers76" onclick="ga('send', 'event', 'link', 'click', 'Send CashApp Cash');" title="Send Square Cash" class="btn">Square Cash</a>
   <a href="/assets/images/bitcoin-qr.png" onclick="ga('send', 'event', 'link', 'click', 'Send Bitcoin');" class="btn" title="32JViWrrUvVx1tWQ7EM1q5vTZkbpwoddaD">Bitcoin (BTC)</a>
 </div>
 
