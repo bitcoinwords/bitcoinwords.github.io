@@ -26,9 +26,9 @@ The posts and journals published here have been carefully curated and crafted as
 <a href="/assets/tip.png" onclick="ga('send', 'event', 'link', 'click', 'Send Bitcoin');" class="btn--warning" title="32JViWrrUvVx1tWQ7EM1q5vTZkbpwoddaD"><svg class="icon icon--bitcoin" width="16px" height="16px"><use xlink:href="{{ 'icons.svg#icon-bitcoin' | prepend: 'assets/icons/' | relative_url }}"></use></svg>Bitcoin</a><div id="tippin-button" data-dest="_joerodgers" text-align="center"></div><script src="https://tippin.me/buttons/tip.js" type="text/javascript"></script>
 </div>
 
-<div markdown="0" class="btn--group">
+
 [<i class="fab fa-paypal"></i> Send PayPal](https://www.paypal.me/bucwolfser){: .btn .btn--info} [Send CashApp](https://cash.app/$joerodgers76){: .btn .btn--success}
-</div>
+
 
 ![](/assets/images/tip.jpg)
 {: .align-center}
