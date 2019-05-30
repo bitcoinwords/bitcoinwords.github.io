@@ -16,12 +16,19 @@ The posts and journals published here have been carefully curated and crafted as
 ## Send a donation
 
 <div markdown="0" class="btn--group">
-  <a href="https://www.paypal.me/mmistakes" onclick="ga('send', 'event', 'link', 'click', 'Send PayPal');" title="Send PayPal" class="btn">
-    <svg class="icon icon--paypal" width="16px" height="16px"><use xlink:href="{{ 'icons.svg#icon-paypal' | prepend: 'assets/icons/' | relative_url }}"></use></svg> PayPal.me
-  </a>
+  <a href="https://www.paypal.me/bucwolfser" onclick="ga('send', 'event', 'link', 'click', 'Send PayPal');" title="Send PayPal" class="btn">
+    <svg class="icon icon--paypal" width="16px" height="16px"><use xlink:href="{{ 'icons.svg#icon-paypal' | prepend: 'assets/icons/' | relative_url }}"></use></svg> PayPal.me</a>
   <a href="https://cash.app/$joerodgers76" onclick="ga('send', 'event', 'link', 'click', 'Send CashApp Cash');" title="Send Square Cash" class="btn">Square Cash</a>
-  <a href="/assets/images/bitcoin-qr.png" onclick="ga('send', 'event', 'link', 'click', 'Send Bitcoin');" class="btn" title="32JViWrrUvVx1tWQ7EM1q5vTZkbpwoddaD">Bitcoin (BTC)</a>
 </div>
+
+
+<div markdown="0" class="btn--group">
+<a href="/assets/images/tip.png" onclick="ga('send', 'event', 'link', 'click', 'Send Bitcoin');" class="btn" title="32JViWrrUvVx1tWQ7EM1q5vTZkbpwoddaD"><svg class="icon icon--bitcoin" width="16px" height="16px"><use xlink:href="{{ 'icons.svg#icon-bitcoin' | prepend: 'assets/icons/' | relative_url }}"></use></svg>Bitcoin</a>
+<div id="tippin-button" data-dest="_joerodgers" text-align="center"></div><script src="https://tippin.me/buttons/tip.js" type="text/javascript"></script>
+</div>
+
+
+
 
 ![](/assets/images/tip.jpg)
 {: .align-center}
@@ -32,7 +39,7 @@ The posts and journals published here have been carefully curated and crafted as
 <i class="fas fa-bolt"></i> [**Or help me stack some sats**](https://tippin.me/@_joerodgers) <i class="fas fa-bolt"></i>
 {: style="text-align: center;"}
 
- <div id="tippin-button" data-dest="_joerodgers" text-align="center"></div><script src="https://tippin.me/buttons/tip.js" type="text/javascript"></script>{: style="text-align: center;"}
+ <div id="tippin-button" data-dest="_joerodgers" text-align="center"></div><script src="https://tippin.me/buttons/tip.js" type="text/javascript"></script>
 
 <br>
 
