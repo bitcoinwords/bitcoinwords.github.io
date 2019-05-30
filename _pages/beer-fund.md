@@ -17,21 +17,8 @@ The posts and journals published here have been carefully curated and crafted as
 
 ## Send a donation
 
-
 [<i class="fab fa-paypal"></i> Send PayPal](https://www.paypal.me/bucwolfser){: .btn .btn--info} [<i class="fas fa-money-check-alt"></i> Send CashApp](https://cash.app/$joerodgers76){: .btn .btn--success}
 [<i class="fab fa-bitcoin"></i> Send Bitcoin](/assets/images/tipjar.png){: .btn .btn--warning} [<i class="fas fa-bolt"></i> tippin.me](https://tippin.me/@_joerodgers){: .btn .btn--primary}
-
-![](/assets/images/tipjar.png){: .align-center}
-
-<i class="fab fa-bitcoin"></i> BTC Address: 32JViWrrUvVx1tWQ7EM1q5vTZkbpwoddaD
-
-<i class="fas fa-bolt"></i> [**Or help me stack some sats**](https://tippin.me/@_joerodgers) <i class="fas fa-bolt"></i>
-{: style="text-align: center;"}
-
- <div id="tippin-button" data-dest="_joerodgers" text-align="center"></div><script src="https://tippin.me/buttons/tip.js" type="text/javascript"></script>
-
-The tip jar was inspired be the legendary [Willy Woo](https://twitter.com/woonomic) and his fantastic [charts page](http://charts.woobull.com/).
-{: style="text-align: center;"}
 
 ## Spread the word
 
