@@ -22,7 +22,7 @@ The posts and journals published here have been carefully curated and crafted as
 
 ## Spread the word
 
-Have a website or use social networking sites like Twitter, Facebook, or LinkedIn? Please consider sharing the content found on Made Mistakes or linking to [https://cryptowords.github.io](https://cryptowords.github.io).
+Have a website or use social networking sites like Twitter, Facebook, or LinkedIn? Please consider sharing the content found on Crypto Words or linking to [https://cryptowords.github.io](https://cryptowords.github.io).
 
 ## Follow us on social media
 
