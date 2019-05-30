@@ -38,8 +38,8 @@ We publish our journal monthly and share it via Twitter and via newsletter. Cons
 
 ### Our pledge
 
-* <i class="fas fa-check-square"></i> We will never sell you out.
-* <i class="fas fa-check-square"></i> We will never shill you shitcoins.
-* <i class="fas fa-check-square"></i> We will only deliver what is promised.
+<i class="fas fa-check-square"></i> We will never sell you out.
+<i class="fas fa-check-square"></i> We will never shill you shitcoins.
+<i class="fas fa-check-square"></i> We will only deliver what is promised.
 
 [<i class="fab fa-mailchimp"></i> Subscribe](https://mailchi.mp/2731ce628dba/cryptowordsnewsletter){: .btn .btn--primary}
