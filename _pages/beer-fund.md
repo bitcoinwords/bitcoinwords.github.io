@@ -34,7 +34,7 @@ If these sorts of things interest you, follow along on:
 
 ## Subscribe to our newsletter
 
-We publish our journal monthly and share it via Twitter and via newsletter.
+We publish our journal monthly and share it via Twitter and via newsletter. Consider subscribing to the newsletter. If you're not on Twitter all day, it might make sense to subscribe so you never miss a publication.
 
 ### Our pledge
 
