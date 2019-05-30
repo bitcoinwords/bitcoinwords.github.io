@@ -1,5 +1,6 @@
 ---
 permalink: /beer-fund/
+title: "Show your support"
 defaults:
   # _pages
   - scope:
@@ -10,6 +11,17 @@ defaults:
       author_profile: true
 ---
 
+The posts and journals published here have been carefully curated and crafted as a true labor of love. If you've found any of this content useful here's how to show your thanks and keep the project going.
+
+## Send a donation
+
+<div markdown="0" class="btn--group">
+  <a href="https://www.paypal.me/mmistakes" onclick="ga('send', 'event', 'link', 'click', 'Send PayPal');" title="Send PayPal" class="btn">
+    <svg class="icon icon--paypal" width="16px" height="16px"><use xlink:href="{{ 'icons.svg#icon-paypal' | prepend: 'assets/icons/' | relative_url }}"></use></svg> PayPal.me
+  </a>
+  <a href="https://cash.app/$joerodgers76" onclick="ga('send', 'event', 'link', 'click', 'Send Square Cash');" title="Send Square Cash" class="btn">Square Cash</a>
+  <a href="/assets/images/bitcoin-qr.png" onclick="ga('send', 'event', 'link', 'click', 'Send Bitcoin');" class="btn" title="32JViWrrUvVx1tWQ7EM1q5vTZkbpwoddaD">Bitcoin (BTC)</a>
+</div>
 
 ![](/assets/images/tip.jpg)
 {: .align-center}
