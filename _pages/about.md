@@ -10,7 +10,7 @@ defaults:
       author_profile: true
 ---
 
-![](/assets/images/about-image.png){: .align-center}
+![](/assets/images/splash-about.png){: .align-center}
 
 *Crypto Words* is an attempt to archive commentary from the Bitcoin community. For the uninitiated, getting up to speed on the Bitcoin space can be daunting. Content is all over the place and there's not an easy way to digest relavant commentary. That's why we made this journal. 
 
