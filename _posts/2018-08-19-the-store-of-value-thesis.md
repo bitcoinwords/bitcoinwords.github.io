@@ -27,8 +27,6 @@ defaults:
 ### By [Qiao Wang](https://tokeneconomy.co/@QwQiao) and [Dan McArdle](https://medium.com/@robustus) 
 ### Posted August 19, 2018
 
-
-
 ## Introduction
 
 One way of thinking about cryptoasset valuation says that only assets that can become a store of value (SoV) are deserving of high network value. This is a mental model that has been around for a while, and one that we largely hold when making investment decisions. So let's unpack it.
