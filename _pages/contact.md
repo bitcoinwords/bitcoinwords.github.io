@@ -1,5 +1,6 @@
 ---
 permalink: /contact/
+title: "Contact"
 defaults:
   # _pages
   - scope:
