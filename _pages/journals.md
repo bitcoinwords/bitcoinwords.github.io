@@ -13,5 +13,6 @@ If you know a fantastic article or piece that needs to be included, please head 
 
 ## Distribution
 We distribute *Crypto Words* monthly via Twitter and email newsletter. Please consider subscribing and/or following us on Twitter.
+
 [Subscribe](https://mailchi.mp/2731ce628dba/cryptowordsnewsletter){: .btn .btn--primary}
 [<i class="fab fa-twitter"></i> Twitter](https://twitter.com/_cryptowords){: .btn .btn--info}
