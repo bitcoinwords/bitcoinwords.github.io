@@ -6,7 +6,7 @@ tags:
   - Pierre Rochard
   - CY18 Q3
 
-excerpt: Pierre Rochard . Posted July 8, 2018.
+excerpt: Pierre Rochard lays out how Bitcoin governance works in a decentralized manner. Posted July 8, 2018.
 
 defaults:
   # _posts
