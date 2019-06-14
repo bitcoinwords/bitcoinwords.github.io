@@ -22,7 +22,7 @@ defaults:
       related: false
 ---
 
-# Visions of Bitcoin
+# [Visions of Bitcoin](https://medium.com/@nic__carter/visions-of-bitcoin-4b7b7cbcd24c)
 ## How major Bitcoin narratives changed over time
 ### By [Nic Carter](https://medium.com/@nic__carter) & [Hasu](https://twitter.com/hasufl)
 ### Posted July 29, 2018

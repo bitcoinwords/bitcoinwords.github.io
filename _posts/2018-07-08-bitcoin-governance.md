@@ -22,11 +22,13 @@ defaults:
 ---
 
 
-# Bitcoin Governance
-
-[Pierre Rochard](https://medium.com/@pierre_rochard)<time>Jul 8, 2018</time>
+# [Bitcoin Governance](https://medium.com/@pierre_rochard/bitcoin-governance-37e86299470f)
+### By [Pierre Rochard](https://medium.com/@pierre_rochard)
+### Posted July 8, 2018
 
 My speech at the Chain-In conference that this medium post is based on:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yzQ4OPjPPP0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Why do we care?
 

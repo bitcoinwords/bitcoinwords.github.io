@@ -21,7 +21,7 @@ defaults:
       related: false
 ---
 
-# Cryptocurrencies are money, not equity
+# [Cryptocurrencies are money, not equity](https://tokeneconomy.co/cryptocurrencies-are-money-not-equity-30ff8d0491bb)
 ## Developer incentivization and the power of holders
 ### By [Brendan Bernstein](https://tokeneconomy.co/@BMBernstein)
 ### Posted July 22, 2018
