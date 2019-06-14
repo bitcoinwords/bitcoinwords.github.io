@@ -21,7 +21,6 @@ defaults:
       related: false
 ---
 
-
 # [Bitcoin Governance](https://medium.com/@pierre_rochard/bitcoin-governance-37e86299470f)
 ### By [Pierre Rochard](https://medium.com/@pierre_rochard)
 ### Posted July 8, 2018
