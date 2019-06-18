@@ -11,23 +11,23 @@ header:
     - label: "Subscribe"
       url: "https://mailchi.mp/2731ce628dba/cryptowordsnewsletter"
   caption: ""
-excerpt: "Subscribe and get the monthly journal delivered to your inbox."
+excerpt: "Subscribe to have the monthly journal delivered to your inbox."
 intro: 
   - excerpt: "It's a beautiful thing, the destruction of words. - George Orwell"
 feature_row:
-  - image_path: assets/images/splash-posts.png
-    alt: "Posts"
-    title: "Posts"
-    excerpt: "Here you will find all the featured content in chronological order. From there you can dig into authors and quarter posted."
-    url: "https://cryptowords.github.io/categories/posts/"
-    btn_label: "Read Posts"
-    btn_class: "btn--primary"
   - image_path: /assets/images/splash-about.png
     alt: "Read the Journals"
     title: "Journals"
     excerpt: "Crypto Words is on a mission to curate and archive the brightest commentary on Bitcoin. We're producing a monthly journal and just getting started."
     url: "https://cryptowords.github.io/categories/journals/"
     btn_label: "Read Journals"
+    btn_class: "btn--primary"
+  - image_path: assets/images/splash-posts.png
+    alt: "Posts"
+    title: "Posts"
+    excerpt: "Here you will find all the featured content in chronological order. From there you can dig into authors and quarter posted."
+    url: "https://cryptowords.github.io/categories/posts/"
+    btn_label: "Read Posts"
     btn_class: "btn--primary"
   - image_path: /assets/images/splash-beer-fund.png
     alt: "Beer Fund"
