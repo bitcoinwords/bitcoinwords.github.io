@@ -11,7 +11,7 @@ header:
     - label: "Subscribe"
       url: "https://mailchi.mp/2731ce628dba/cryptowordsnewsletter"
   caption: ""
-excerpt: "Subscribe to have the monthly journal delivered to your inbox."
+excerpt: "Subscribe to the Crypto Words monthly journal, delivered straight to your inbox"
 intro: 
   - excerpt: "It's a beautiful thing, the destruction of words. - George Orwell"
 feature_row:
@@ -25,16 +25,16 @@ feature_row:
   - image_path: assets/images/splash-posts.png
     alt: "Posts"
     title: "Posts"
-    excerpt: "Here you will find all the featured content in chronological order. From there you can dig into authors and quarter posted."
+    excerpt: "The journal is built on articles collected from across the internet, from Twitter to Medium to essays, anywhere there's thoughtful commentary."
     url: "https://cryptowords.github.io/categories/posts/"
-    btn_label: "Read Posts"
+    btn_label: "Read Articles"
     btn_class: "btn--primary"
   - image_path: /assets/images/splash-beer-fund.png
     alt: "Beer Fund"
     title: "Beer Fund"
-    excerpt: "If you find this useful, consider buying me a beer..."
+    excerpt: "We could use the supporrt. If you find this useful, consider buying us a beer!"
     url: "https://cryptowords.github.io/beer-fund/"
-    btn_label: "Buy a Beer Fund"
+    btn_label: "Support Crypto Words"
     btn_class: "btn--primary"
 
 ---
