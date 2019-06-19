@@ -21,7 +21,7 @@ defaults:
       related: false
 ---
 
-# Bitcoin Miners Beware: Invalid Blocks Need Not Apply
+# [Bitcoin Miners Beware: Invalid Blocks Need Not Apply](https://hackernoon.com/bitcoin-miners-beware-invalid-blocks-need-not-apply-51c293ee278b)
 ## Bitcoin is an impenetrable fortress of validation.
 ### [StopAndDecrypt](https://hackernoon.com/@StopAndDecrypt)
 ### Posted June 1, 2018
