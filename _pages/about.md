@@ -26,5 +26,8 @@ This generation of Bitcoin thinkers have limited places to submit thought pieces
 
 Enter *Crypto Words*. Published independently, *Crypto Words* is a journal that welcomes submissions on a range of topics of interest to the Bitcoin community.  In addition to conventional research articles, we welcome review essays blog posts, tweets as well as papers in other formats, such as distinguished lectures. Finally, wherever possible, content on this site is licensed under a [Creative Commons Attribution 4.0 License](https://creativecommons.org/licenses/by/4.0/). Authors retain ownership without restriction of all rights under copyright in their articles. Crypto *Words* is open access, and we encourage readers to “[read, download, copy, distribute, print, search, or link to the full texts of these articles… or use them for any other lawful purpose.](https://doaj.org/faq#definition)” We want our ideas read, spread, and copied. 
 
-## Beer Fund
-This isn't a charity, [but we do like beer](https://cryptowords.github.io/beer-fund/)....
+## Editor
+The journal's founder and editor is Joe Rodgers. He currently works at HPE and has 8 years of enterprise technology sales and marketing experience. He holds a BSBA in Marketing from Christian Brothers University located in Memphis, TN. 
+
+[Joe's Website](https://joe-rodgers.github.io){: .btn .btn--primary}
+[<i class="fab fa-twitter"></i> Twitter](https://twitter.com/_joerodgers){: .btn .btn--info} 
