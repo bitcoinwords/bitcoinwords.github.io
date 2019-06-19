@@ -1,7 +1,5 @@
 # main links
 main:
-  - title: "Posts"
-    url: https://cryptowords.github.io/categories/posts/
   - title: "Journals"
     url: https://cryptowords.github.io/categories/journals/
   - title: "About"
