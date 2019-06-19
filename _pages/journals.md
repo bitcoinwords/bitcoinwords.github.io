@@ -7,12 +7,14 @@ entries_layout: grid
 
 ---
 
-Here you will find monthly collections of Bitcoin think pieces. You will notice the backlog continue to populate as we are working backwards to archive the writings of the past. 
+_Crypto Words_ [articles](https://cryptowords.github.io/tags/) are collected into monthly journals.
 
-If you know a fantastic article or piece that needs to be included, please head over to the [submissions page](https://cryptowords.github.io/submissions/) and get a hold of us! Thanks for all the [support](https://cryptowords.github.io/beer-fund/).
+[Browse Articles](https://cryptowords.github.io/tags/){: .btn .btn--primary}
+
+Please head over to the [submissions page](https://cryptowords.github.io/submissions/) if you would like to have your article/essay/tweet considered for the journal. We are building out a backlog of journals back to the genesis block and will be updating published journals periodically with content that should have been included. 
 
 ## Distribution
-We distribute *Crypto Words* monthly via Twitter and email newsletter. Please consider subscribing and/or following us on Twitter.
+We distribute *Crypto Words* monthly via Twitter and email newsletter. Consider subscribing and/or following us on Twitter.
 
 [Subscribe](https://mailchi.mp/2731ce628dba/cryptowordsnewsletter){: .btn .btn--primary}
 [<i class="fab fa-twitter"></i> Twitter](https://twitter.com/_cryptowords){: .btn .btn--info}
