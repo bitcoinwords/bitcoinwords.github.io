@@ -25,7 +25,7 @@ baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : "/assets/images/og-cryptowords.png"
 logo                     : "/assets/images/cryptowords88.png"
-masthead_title           : "A journal of Bitcoin commentary."
+masthead_title           : "A journal of Bitcoin commentary"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
