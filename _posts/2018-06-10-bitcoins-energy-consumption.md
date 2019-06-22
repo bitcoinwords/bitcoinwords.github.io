@@ -21,7 +21,7 @@ defaults:
       related: false
 ---
 
-# Bitcoin's Energy Consumption
+# [Bitcoin's Energy Consumption](https://dergigi.com/2018/06/10/bitcoin-s-energy-consumption/)
 ## A shift in perspective
 ### By [Gigi](https://twitter.com/dergigi)
 ### June 10, 2018
