@@ -21,7 +21,7 @@ defaults:
       related: false
 ---
 
-# There Can Be Only One
+# [There Can Be Only One](https://medium.com/@tamas.blummer/there-can-be-only-one-8300fb13d31c)
 ### By [Tamas Blummer](https://medium.com/@tamas.blummer)
 ### Posted June 18, 2019
 
