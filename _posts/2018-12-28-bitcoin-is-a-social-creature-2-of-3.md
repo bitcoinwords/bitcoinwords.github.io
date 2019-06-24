@@ -1,6 +1,6 @@
 ---
-title: "Bitcoin is a Social Creature (Mushroom) — Part 2/3"
-permalink: "/bitcoin-is-a-social-creature-2-of-3" 
+title: "Bitcoin is a Social Creature (Mushroom) — Part 2/4"
+permalink: "/bitcoin-is-a-social-creature" 
 
 tags:
   - CY18 Q4
@@ -22,14 +22,16 @@ defaults:
       related: false
 ---
 
-# [Bitcoin is a Social Creature (Mushroom) — Part 2/3](https://medium.com/@BrandonQuittem/bitcoin-is-a-social-creature-mushroom-part-2-3-6a05c3abe8f0)
+# [Bitcoin is a Social Creature (Mushroom) — Part 2/4](https://medium.com/@BrandonQuittem/bitcoin-is-a-social-creature-mushroom-part-2-3-6a05c3abe8f0)
 ### By [Brandon Quittem](https://medium.com/@BrandonQuittem)
 ### Posted December 28, 2018
 
-**This is post 1 of a 3 part series**
-* [Bitcoin is a Decentralized Organism (Mycelium) — Part 1 / 3](https://cryptowords.github.io/bitcoin-is-a-decentralized-organism-1-of-3)
-* [Bitcoin is a Social Creature (Mushroom) — Part 2/3](https://cryptowords.github.io/bitcoin-is-a-social-creature-2-of-3)
-* Post 3 will be listed here when available
+* [Part 1 - Bitcoin is a Decentralized Organism](https://cryptowords.github.io/bitcoin-is-a-decentralized-organism-1-of-3)
+* [**Part 2 - Bitcoin is a Social Creature**](https://cryptowords.github.io/bitcoin-is-a-social-creature-2-of-3)
+* [Part 3 - Bitcoin is the Antivirus](https://cryptowords.github.io/bitcoin-is-the-antivirus-mushroom-medicine)
+* Part 4- To Be Posted
+
+***
 
 Exploring Hype Cycles, Ethnomycology, and the Cult of Satoshi
 
