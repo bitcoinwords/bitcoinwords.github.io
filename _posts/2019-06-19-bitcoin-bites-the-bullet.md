@@ -128,7 +128,7 @@ Something to note is the fact that all blockchains which are more decentralized 
 
 Ultimately public blockchains that have no single steward that is responsible for resolving disputes have to face these problems of Theseus. So the option on the right is a painful one. But again, it is a tradeoff that Bitcoin is happy to make.
 
-#### Discretionary/nondiscretionary monetary policy
+### Discretionary/nondiscretionary monetary policy
 
 If you are an artist or engineer, you may have noticed that restriction is the mother of creativity. Narrowing the design or opportunity space of a problem often forces you to discover an innovative solution. In more abstract terms, if you have more available resources, you are less likely to be careful with how you deploy them, and more likely to be profligate.
 
