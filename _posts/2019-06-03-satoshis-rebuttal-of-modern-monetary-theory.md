@@ -6,7 +6,7 @@ tags:
   - Jack Purdy
   - CY18 Q3
 
-excerpt: Jack Purdy , 2019.
+excerpt: Jack Purdy makes the case for Bitcoin as a sound money alternative to todays easy money. Posted June 3, 2019.
 
 defaults:
   # _posts
