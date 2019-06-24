@@ -14,7 +14,7 @@ defaults:
       path: ""
       type: posts
     values:
-      layout: single
+      layout: wide
       read_time: true
       comments: false
       share: true
