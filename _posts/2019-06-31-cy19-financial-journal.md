@@ -32,6 +32,7 @@ defaults:
       related: false
 ---
 
+# About CY19 Financial Journal
 This special journal is a collection of Bitcoin valuation models and indicators. Special thanks to [Adam Taché](https://twitter.com/Adam_Tache) for your epic tweetstorms collecting these models. 
 
 [CY19 Financial Journal](/assets/publications/Crypto-Words-CY19-Financial-Journal.pdf){: .btn .btn--primary}
