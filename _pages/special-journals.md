@@ -2,7 +2,7 @@
 title: Special Journals
 layout: category
 permalink: /categories/special-journals/
-taxonomy: journals
+taxonomy: special-journals
 entries_layout: grid
 
 ---
