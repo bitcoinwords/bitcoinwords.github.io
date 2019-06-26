@@ -3,12 +3,12 @@ title: "CY19 Financial Journal"
 permalink: "/cy19-financial-journal" 
 
 header:
-  teaser: /assets/images/covers/CY19M5-cover-1000.png
-  overlay_image: /assets/images/covers/CY19M5-cover-header.png
+  teaser: /assets/images/covers/Crypto-Words-CY19-Financial-Journal-cover-1000.png
+  overlay_image: /assets/images/covers/Crypto-Words-CY19-Financial-Journal-cover-header.png
   overlay_filter: 0.50
   actions:
     - label: "Download CY19 Financial Journal"
-      url: "/assets/publications/CY19M5.pdf"
+      url: "/assets/publications/Crypto-Words-CY19-Financial-Journal.pdf"
 
 category: "special-journals"
 excerpt: A comprehensive collection of on and off chain indicators and valuation models for Bitcoin.
@@ -339,10 +339,6 @@ Many thanks to the following individuals:
 1. [_Woobull.com_](http://charts.woobull.com/) _:_ Charts and early market cap data archeology.
 2. [_Coinmetrics.io_](https://coinmetrics.io/charts/) _:_ Realized cap data.
 3. [_Blockchain.com_](https://www.blockchain.com/en/charts/) _:_ Market cap data.
-
-### Author
-
-[David Puell](https://twitter.com/kenoshaking), Head of Research @ Adaptive Capital
 
 ***
 
