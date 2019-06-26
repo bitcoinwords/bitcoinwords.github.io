@@ -29,12 +29,12 @@ feature_row:
     url: "https://cryptowords.github.io/categories/posts/"
     btn_label: "Read Articles"
     btn_class: "btn--primary"
-  - image_path: /assets/images/splash-beer-fund.png
-    alt: "Beer Fund"
-    title: "Beer Fund"
-    excerpt: "We could use the supporrt. If you find this useful, consider buying us a beer!"
-    url: "https://cryptowords.github.io/beer-fund/"
-    btn_label: "Support Crypto Words"
+  - image_path: /assets/images/moon.png
+    alt: "CY19 Financial Journal"
+    title: "CY19 Financial Journal"
+    excerpt: "A comprehensive collection of on and off chain indicators and valuation models for Bitcoin."
+    url: "https://cryptowords.github.io/cy19-financial-journal"
+    btn_label: "Read the Financial Journal"
     btn_class: "btn--primary"
 
 ---
