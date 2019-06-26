@@ -21,11 +21,9 @@ defaults:
       related: false
 ---
 
-# Introducing ... The Bitcoin "MVRV Z" Metric That Predicts Market Tops with 90%+ Accuracy
-### By [Awe & Wonder](https://medium.com/@Awe_andWonder)
+# [Introducing ... The Bitcoin "MVRV Z" Metric That Predicts Market Tops with 90%+ Accuracy](https://medium.com/@Awe_andWonder/introducing-the-bitcoin-mvrv-z-score-metric-that-predicts-market-tops-with-90-accuracy-89d90df043d7)
+### By [Awe & Wonder](https://twitter.com/Awe_andWonder)
 ### Posted October 9, 2018
-
-By: [Awe & Wonder](https://twitter.com/Awe_andWonder)
 
 _Disclaimer: Not investment advice. Past performance is not indicative of future results._
 
