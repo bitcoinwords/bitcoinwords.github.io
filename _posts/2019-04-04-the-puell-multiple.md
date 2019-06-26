@@ -78,4 +78,4 @@ All reference data used throughout this article has been sourced from:
 > Bitcoin is Beautiful! 
 
 ![](/assets/images/cy19/cy19q2m4/crypto-11.png){: .align-center}
-**Bitcoin's Non-Linear Regression Curve by Renato Shirakashi & Multiple SMA by TusenPi*
+**Bitcoin's Non-Linear Regression Curve by Renato Shirakashi & Multiple SMA by TusenPi**
