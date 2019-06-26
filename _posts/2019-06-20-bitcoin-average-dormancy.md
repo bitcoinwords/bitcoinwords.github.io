@@ -27,6 +27,9 @@ defaults:
 ### By [David Puell](https://twitter.com/kenoshaking) & [Reginald Smith](https://twitter.com/SupremeVinegar)
 ### Posted June 20, 2019
 
+*Download Reginald's research paper:*
+[Bitcoin Average Dormancy](/assets/downloads/Bitcoin-Average-Dormancy.pdf){: .btn .btn--primary}
+
 _Disclaimer: Nothing here should be considered trading or investment advice._
 
 So what is average dormancy (or simply, "dormancy")? [First proposed by this article's co-author Reginald Smith in 2018](https://arxiv.org/pdf/1712.10287.pdf), it has not been given enough attention relative to its importance as one of the foremost metrics of BTC's long-term economic health. In summary, dormancy is the average number of days destroyed per coin transacted in any given day, as per the following formula:
