@@ -37,6 +37,11 @@ This special journal is a collection of Bitcoin valuation models and indicators.
 
 [CY19 Financial Journal](/assets/publications/Crypto-Words-CY19-Financial-Journal.pdf){: .btn .btn--primary}
 
+## This journal will be broken into two sections:
+
+* [On-Chain Valuation Models](https://cryptowords.github.io/cy19-financial-journal#on-chain-valuation-models)
+* [On & Off-Chain Valuation Indicators]()
+
 # On-Chain Valuation Models
 In an effort to 
 
@@ -187,6 +192,26 @@ So how well does it work? Well, it's still not perfect, because the other day I 
 Image from the [Bitcoin wiki](https://en.bitcoin.it/wiki/File:June-17th-days-destroyed.png). The above graph is in percentage of bitcoin days destroyed and a little out of date--for a regularly updated version in bitcoin days destroyed check out [Bitcoin Days Destroyed - Active Chart](https://www.quandl.com/data/BCHAIN/BCDDE-Bitcoin-Days-Destroyed) instead!
 
 ***
+
+
+
+
+
+
+***
+
+# On & Off-Chain Valuation Indicators
+
+***
+
+
+
+
+
+
+
+
+
 
 
 
