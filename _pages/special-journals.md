@@ -7,9 +7,7 @@ entries_layout: grid
 
 ---
 
-_Crypto Words_ [articles](https://cryptowords.github.io/tags/) are collected into monthly journals.
-
-[Browse Articles](https://cryptowords.github.io/tags/){: .btn .btn--primary}
+_Crypto Words_ publishes [monthly journals](https://cryptowords.github.io/categories/journals/) of Bitcoin commentary, and will occasionally publish _Special Journals_. _Special Journals_ focus on a specific topic and include artciles from a broad time range. 
 
 ## Submissions
 Please head over to the [submissions page](https://cryptowords.github.io/submissions/) if you would like to have your article, essay, or tweet considered for the journal. We are building out a backlog of journals back to the genesis block and will be updating published journals periodically with content that should have been included. 
