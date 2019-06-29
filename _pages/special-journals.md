@@ -22,5 +22,5 @@ We distribute *Crypto Words* monthly via Twitter and email newsletter. Consider 
 
 ## Support _Crypto Words_
 
-[<i class="fab fa-paypal"></i> Send PayPal](https://www.paypal.me/bucwolfser){: .btn .btn--info} [<i class="fas fa-money-check-alt"></i> Send CashApp](https://cash.app/$joerodgers76){: .btn .btn--success}
 [<i class="fab fa-bitcoin"></i> Send Bitcoin](/assets/images/tipjar.png){: .btn .btn--warning} [<i class="fas fa-bolt"></i> tippin.me](https://tippin.me/@_joerodgers){: .btn .btn--primary}
+[<i class="fab fa-paypal"></i> Send PayPal](https://www.paypal.me/bucwolfser){: .btn .btn--info} [<i class="fas fa-money-check-alt"></i> Send CashApp](https://cash.app/$joerodgers76){: .btn .btn--success}
