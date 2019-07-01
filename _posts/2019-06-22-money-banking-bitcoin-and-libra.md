@@ -4,7 +4,7 @@ permalink: "/money-banking-bitcoin-and-libra"
 
 tags:
   - Allen Farrington
-  - CY18 Q3
+  - CY19 Q2
 
 excerpt: Allen Farrington paints a dystopian future and makes the case for money that is open, permissionless, neutral, private, and sound. Posted June 22, 2019.
 
