@@ -4,7 +4,7 @@ permalink: "/there-can-be-only-one"
 
 tags:
   - Tamas Blummer
-  - CY18 Q3
+  - CY19 Q2
 
 excerpt: Tamas Blummer makes his case for Bitcoin's strongest argument, the definition of time with computation. Posted June 18, 2019.
 

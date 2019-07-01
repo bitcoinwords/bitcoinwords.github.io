@@ -5,7 +5,7 @@ permalink: "/bitcoin-average-dormancy"
 tags:
   - David Puell
   - Reginald Smith
-  - CY18 Q3
+  - CY19 Q2
 
 excerpt: David Puell and Reginald Smith explore dormancy as a metric of Bitcoin's long-term economic health. Posted June 20, 2019.
 

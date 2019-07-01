@@ -4,7 +4,7 @@ permalink: "/the-golden-ratio-multiplier"
 
 tags:
   - Philip Swift
-  - CY18 Q3
+  - CY19 Q2
 
 excerpt: Philip Swift shares the Golden Ratio Multiplier which he believes will be a useful investment tool in this coming market cycle for identifying areas of profit-taking. Posted June 17, 2019.
 

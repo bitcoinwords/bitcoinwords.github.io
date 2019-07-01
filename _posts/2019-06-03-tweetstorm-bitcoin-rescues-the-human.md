@@ -4,10 +4,10 @@ permalink: "/tweetstorm-bitcoin-rescues-the-human"
 
 tags:
   - Conner Brown
-  - CY18 Q3
+  - CY19 Q3
   - Tweetstorm
 
-excerpt: Hasu makes the case for money being the most important field of study over the next 20 years. Posted June 6, 2019.
+excerpt: Conner Brown shares a brief tweetstorm on Bitcoin rescuing humanity from itself. Posted June 3, 2019.
 
 defaults:
   # _posts

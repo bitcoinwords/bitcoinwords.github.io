@@ -4,7 +4,7 @@ permalink: "/bitcoin-bites-the-bullet"
 
 tags:
   - Nic Carter
-  - CY18 Q3
+  - CY19 Q2
 
 excerpt: Nic Carter reviews some tradeoffs and how Bitcoin doesn't take the easy road. Posted June 19, 2019.
 
@@ -20,7 +20,6 @@ defaults:
       share: true
       related: false
 ---
-
 
 # [Bitcoin bites the bullet](https://medium.com/@nic__carter/bitcoin-bites-the-bullet-8005a2a62d29)
 ## Some of its most puzzling tradeoffs explained

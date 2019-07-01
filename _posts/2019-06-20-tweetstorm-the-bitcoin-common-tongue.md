@@ -4,7 +4,7 @@ permalink: "/the-bitcoin-common-tongue"
 
 tags:
   - Robert Breedlove
-  - CY18 Q3
+  - CY19 Q2
   - Tweetstorm
 
 excerpt: Robert Breedlove shed's some light on the Bitcoin and cryptoasset universe in an exoteric nutshell. Posted June 19, 2019.

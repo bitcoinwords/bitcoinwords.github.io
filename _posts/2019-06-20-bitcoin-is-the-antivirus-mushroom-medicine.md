@@ -4,7 +4,7 @@ permalink: "/bitcoin-is-the-antivirus-mushroom-medicine"
 
 tags:
   - Brandon Quittem
-  - CY18 Q3
+  - CY19 Q2
 
 excerpt: Brandon Quittem expands on his 4 part series drawing comparisons between mushrooms and Bitcoin. Posted June 20, 2019.
 

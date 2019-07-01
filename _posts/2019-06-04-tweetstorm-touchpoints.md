@@ -4,7 +4,7 @@ permalink: "/tweetstorm-touchpoints"
 
 tags:
   - Vijay Boyapati
-  - CY18 Q3
+  - CY19 Q2
   - Tweetstorm
 
 excerpt: Vijay Boyapati shares a strategy for engaging people with Bitcoin. Posted June 4, 2019.

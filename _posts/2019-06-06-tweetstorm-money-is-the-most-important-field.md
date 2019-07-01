@@ -4,7 +4,7 @@ permalink: "/tweetstorm-money-is-the-most-important-field"
 
 tags:
   - Hasu
-  - CY18 Q3
+  - CY19 Q2
   - Tweetstorm
 
 excerpt: Hasu makes the case for money being the most important field of study over the next 20 years. Posted June 6, 2019.
