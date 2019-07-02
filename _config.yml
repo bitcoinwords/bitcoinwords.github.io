@@ -288,7 +288,7 @@ defaults:
       type: posts
     values:
       header:
-        teaser: "/assets/images/words.png"
+        teaser: "/assets/images/words-card.png"
       layout: single
       category: "posts"
       author_profile: # true
@@ -309,4 +309,4 @@ defaults:
       share: false
       related: true
       header:
-        teaser: "/assets/images/words.png"
+        teaser: "/assets/images/words-card.png"
