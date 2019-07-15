@@ -2,6 +2,8 @@
 title: "Tweetstorm: Bitcoin is Secure Money"
 permalink: "/tweetstorm-bitcoinm-is-secure-money" 
 
+author: JW Weatherman
+
 tags:
   - JW Weatherman
   - CY19 Q2
