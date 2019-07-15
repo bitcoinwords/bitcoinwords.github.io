@@ -310,3 +310,8 @@ defaults:
       related: true
       header:
         teaser: "/assets/images/words-card-200.png"
+
+# Collections
+  collections:
+    authors:
+      output: true
