@@ -109,7 +109,7 @@ author:
   name             : Crypto Words
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "DYOR. BTFD. HOLD."
-  location         : "Little Rock, AR"
+  location         : # "Little Rock, AR"
   email            : # "cryptowordsjournal@pm.me"
   links:
     - label: "Email"
@@ -291,7 +291,7 @@ defaults:
         teaser: "/assets/images/words-card.png"
       layout: single
       category: "posts"
-      author_profile: # true
+      author_profile: true
       read_time: true
       comments: false
       share: true
