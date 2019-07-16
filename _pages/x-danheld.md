@@ -1,8 +1,7 @@
 ---
 title: Dan Held
-layout: category
+layout: single
 permalink: /danheld/
-taxonomy: posts
 ---
 
 {% for author in site.data.authors %}
