@@ -279,10 +279,20 @@ compress_html:
   ignore:
     envs: development
 
+# Collections
+  collections:
+    authors:
+      output: true
+
 
 # Defaults
 defaults:
   # _posts
+  - scope:
+    path: ""
+    type: "authors"
+  values:
+    layout: "author"
   - scope:
       path: ""
       type: posts
@@ -311,7 +321,3 @@ defaults:
       header:
         teaser: "/assets/images/words-card-200.png"
 
-# Collections
-  collections:
-    authors:
-      output: true

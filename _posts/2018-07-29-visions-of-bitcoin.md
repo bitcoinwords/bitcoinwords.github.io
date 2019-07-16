@@ -2,6 +2,8 @@
 title: "Visions of Bitcoin"
 permalink: "/visions-of-bitcoin" 
 
+author: niccarter
+
 tags:
   - Nic Carter
   - Hasu
