@@ -288,12 +288,7 @@ compress_html:
 # Defaults
 defaults:
   # _posts
-  - scope:
-    path: ""
-    type: "authors"
-  values:
-    layout: "author"
-  - scope:
+   - scope:
       path: ""
       type: posts
     values:

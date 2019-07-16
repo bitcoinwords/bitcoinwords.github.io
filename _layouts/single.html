@@ -33,15 +33,6 @@ layout: default
         </header>
       {% endunless %}
 
-      <p>
-        {{ page.date | date_to_string }}
-        {% assign author = site.authors | where: 'short_name', page.author | first %}
-        {% if author %}
-          - <a href="{{ author.url }}">{{ author.name }}</a>
-        {% endif %}
-      </p>
-
-
       <section class="page__content" itemprop="text">
         {% if page.toc %}
           <aside class="sidebar__right {% if page.toc_sticky %}sticky{% endif %}">
