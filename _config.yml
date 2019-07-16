@@ -279,11 +279,6 @@ compress_html:
   ignore:
     envs: development
 
-# Collections
-  collections:
-    authors:
-      output: true
-
 
 # Defaults
 defaults:
@@ -296,7 +291,7 @@ defaults:
         teaser: "/assets/images/words-card-200.png"
       layout: single
       category: "posts"
-      author_profile: false
+      author_profile: true
       read_time: true
       comments: false
       share: true

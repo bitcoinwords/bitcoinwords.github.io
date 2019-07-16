@@ -2,7 +2,7 @@
 title: "Hodlers are the Revolutionaries"
 permalink: "/hodlers-are-the-revolutionaries" 
 
-author: danheld
+author: Dan Held
 
 tags:
   - Dan Held
@@ -11,16 +11,8 @@ tags:
 excerpt: Dan Held explains why hodlers are important to Bitcoin's network. Posted August 31, 2018.
 
 defaults:
-  # _posts
   - scope:
-      path: ""
       type: posts
-    values:
-      layout: single
-      read_time: true
-      comments: false
-      share: true
-      related: false
 ---
 
 
