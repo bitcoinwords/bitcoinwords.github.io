@@ -2,7 +2,7 @@
 title: "Hodlers are the Revolutionaries"
 permalink: "/hodlers-are-the-revolutionaries" 
 
-author: Dan Held
+author: "Dan Held"
 
 tags:
   - Dan Held
