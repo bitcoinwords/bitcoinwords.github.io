@@ -2,6 +2,8 @@
 title: "Tweetstorm: Bitcoin as SoV"
 permalink: "/tweetstorm-bitcoin-as-sov" 
 
+author: "Dan Held"
+
 tags:
   - CY19 Q1
   - Dan Held
