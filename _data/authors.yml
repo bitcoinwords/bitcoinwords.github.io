@@ -1,7 +1,7 @@
 # /_data/authors.yml
 
 Dan Held:
-  name        : "Dan Held"
+  name        : Dan Held
   bio         : "Dan Held the Hodler"
   avatar      : # "/assets/images/bio-photo-2.jpg"
   links:
@@ -15,7 +15,7 @@ Dan Held:
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/danheld"
 
-# Cornelius Fiddlebone:
+Cornelius Fiddlebone:
   name        : #"Cornelius Fiddlebone"
   bio         : #"I ordered what?"
   avatar      : #"/assets/images/bio-photo.jpg"
