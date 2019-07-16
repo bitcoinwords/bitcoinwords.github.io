@@ -9,17 +9,9 @@ tags:
   - Dan Held
 
 defaults:
-  # _posts
   - scope:
       path: ""
       type: posts
-    values:
-      layout: single
-      author_profile: true
-      read_time: true
-      comments: false
-      share: true
-      related: false
 ---
 
 # [Tweetstorm: Bitcoin as SoV](https://twitter.com/danheld/status/1084848063947071488?lang=en)
