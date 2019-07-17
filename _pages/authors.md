@@ -1,11 +1,8 @@
 ---
 title: Authors
-layout: category
+layout: default
 permalink: /authors/
-taxonomy: posts
-
 ---
-
 
 {% for author in site.data.authors %}
   {% for post in site.posts | where:"author",{{author.name}} %}
