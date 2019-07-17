@@ -23,7 +23,7 @@ defaults:
 
 # [The Bitcoin Lightning Network: A Technical Primer](https://blog.usejournal.com/the-bitcoin-lightning-network-a-technical-primer-d8e073f2a82f)
 ### By [Joe Kendzicky](https://blog.usejournal.com/@jkendzicky16)
-### POsted June 5, 2018
+### Posted June 5, 2018
 
 ### TL;DR:
 
