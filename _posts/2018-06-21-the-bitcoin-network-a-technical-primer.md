@@ -1,5 +1,5 @@
 ---
-title: ""
+title: "The Bitcoin Lightning Network: A Technical Primer"
 permalink: "/the-bitcoin-network-a-technical-primer" 
 
 tags:
