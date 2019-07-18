@@ -26,7 +26,7 @@ feature_row:
     alt: "Posts"
     title: "Posts"
     excerpt: "The journal is built on articles collected from across the internet, from Twitter to Medium to essays, anywhere there's thoughtful commentary."
-    url: "https://cryptowords.github.io/categories/posts/"
+    url: "https://cryptowords.github.io/tags/"
     btn_label: "Read Articles"
     btn_class: "btn--primary"
   - image_path: /assets/images/moon.png
