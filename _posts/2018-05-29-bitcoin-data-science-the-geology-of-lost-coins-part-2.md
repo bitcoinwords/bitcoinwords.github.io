@@ -2,6 +2,8 @@
 title: "Bitcoin Data Science (Pt. 2): The Geology of Lost Coins"
 permalink: "/bitcoin-data-science-the-geology-of-lost-coins-part-2" 
 
+author: dhruvbansal
+
 tags:
   - Dhruv Bansal
   - CY18 Q2
@@ -9,17 +11,9 @@ tags:
 excerpt: By Dhruv Bansal, Posted May 29, 2018
   
 defaults:
-  # _posts
   - scope:
-      path: ""
       type: posts
-    values:
-      layout: single
-      author_profile: true
-      read_time: true
-      comments: false
-      share: true
-      related: false
+
 ---
 
 # [Bitcoin Data Science (Pt. 2): The Geology of Lost Coins](https://blog.unchained-capital.com/bitcoin-data-science-pt-2-the-geology-of-lost-coins-79e5a0dc6d1)

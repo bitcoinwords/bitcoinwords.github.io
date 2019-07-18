@@ -4,6 +4,8 @@ main:
     url: https://mailchi.mp/2731ce628dba/cryptowordsnewsletter
   - title: "Journals"
     url: https://cryptowords.github.io/categories/journals/
+  - title: "Posts"
+    url: https://cryptowords.github.io/tags/
   - title: "About"
     url: https://cryptowords.github.io/about/
   - title: "Contact"
