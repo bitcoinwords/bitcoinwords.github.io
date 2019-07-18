@@ -6,7 +6,7 @@ author: alexsvetski
 
 tags:
   - CY19 Q1
-  - Alex
+  - Alex Svetski
 
 defaults:
   # _posts
