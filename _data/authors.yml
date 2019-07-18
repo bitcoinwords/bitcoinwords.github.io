@@ -1,5 +1,20 @@
 # /_data/authors.yml
 
+alexsvetski:
+  name        : Alex Svetski
+  bio         : "Hairless chimp interested in Money, Bitcoin, ⚡️, Anthropology, History, Economics & Business. I also write...when I get time. (link: https://tippin.me/@AleksSvetski) tippin.me/@AleksSvetski"
+  avatar      : # "/assets/images/bio-photo-2.jpg"
+  links:
+    - label: # "Email"
+      icon: #"fas fa-fw fa-envelope-square"
+      url: #"mailto:billyrick@rick.com"
+    - label: #"Website"
+      icon: #"fas fa-fw fa-link"
+      url: #"https://thewhip.com"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/AleksSvetski"
+
 danheld:
   name        : Dan Held
   bio         : "Dan Held the Hodler"
@@ -30,6 +45,22 @@ niccarter:
 spencerbogart:
   name        : Spencer Bogart
   bio         : "General Partner at Blockchain Capital. Investing in people, companies, and protocols building future of crypto. Former Bitcoin Analyst and VP at Needham & Co."
+  avatar      : # "/assets/images/bio-photo-2.jpg"
+  links:
+    - label: # "Email"
+      icon: #"fas fa-fw fa-envelope-square"
+      url: #"mailto:billyrick@rick.com"
+    - label: #"Website"
+      icon: #"fas fa-fw fa-link"
+      url: #"https://thewhip.com"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/CremeDeLaCrypto"
+
+adamtacheandmuradmahmudov:
+  name        : Adam Taché and Murad Mahmudov
+  bio         : "Murad is Cryptocurrency Analyst. CIO @adaptivefund. Mostly fundamentals, occasional charts. Bitcoin, not Blockchain. Monetary Econ. Prev 
+@princeton"
   avatar      : # "/assets/images/bio-photo-2.jpg"
   links:
     - label: # "Email"
