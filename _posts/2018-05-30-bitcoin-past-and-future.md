@@ -119,10 +119,8 @@ This is not to say that miners don't have any control at all. Both full node ope
 
 A User Activated Soft Fork (UASF) [event](http://www.uasf.co/?source=post_page---------------------------) in 2017 demonstrated that users operating full nodes were able to push miners to activate SegWit despite only a minority of miners initially signaling that they were in favor of the update.
 
-<figure>
-  <a href="https://twitter.com/Xentagz/status/1000625196057886720"><img src="http://cryptowords.github.io/assets/images/cy18.cy18q2m5/am-2.png"></a>
-  <figcaption><a href="https://twitter.com/Xentagz/status/1000625196057886720" title="The perspective of big blockers (Bitcoin Cash project)">The perspective of "big blockers" (Bitcoin Cash project)</a>.</figcaption>
-</figure>
+![](/assets/images/cy18/cy18q2m5/am-2.png){: .align-center}
+_The perspective of "big blockers" (Bitcoin Cash project)_
 
 Bitcoin Cash proponents look to scale toward unlimited block size and do not believe in the importance of full nodes being cheap to run for all. They claim the best version of Bitcoin was outlined by Satoshi Nakamoto in his original whitepaper, blog posts, and emails. They believe Satoshi only considered miners to be the network and that consensus should be handled purely through hash power.
 
@@ -142,10 +140,8 @@ BCH proponents equate decentralization to competition and the network topology o
 
 ### Addressing "Satoshi's Original Vision"
 
-<figure>
-  <img src="http://cryptowords.github.io/assets/images/cy18/cy18q2m5/am-4.png">
-  <figcaption>The perspective of "small blockers" (Bitcoin project)</figcaption>
-</figure>
+![](/assets/images/cy18/cy18q2m5/am-4.png){: .align-center}
+_The perspective of "small blockers" (Bitcoin project)_
 
 BTC proponents believe that appealing to Satoshi's words is a logical fallacy of appealing to authority, and that Satoshi should no longer matter.
 
