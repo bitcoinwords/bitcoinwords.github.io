@@ -30,6 +30,21 @@ danheld:
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/danheld"
 
+dmirtykalichkin:
+  name        : Dmitry Kalichkin
+  bio         : "Partner @cryptolabcap. Proud math nerd and coder since the age of 12. Formerly @FJLabs, @Stanford, @lamoda_rus, @rocketberlin"
+  avatar      : # "/assets/images/bio-photo-2.jpg"
+  links:
+    - label: # "Email"
+      icon: #"fas fa-fw fa-envelope-square"
+      url: #"mailto:billyrick@rick.com"
+    - label: #"Website"
+      icon: #"fas fa-fw fa-link"
+      url: #"https://thewhip.com"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/Kalichkin"
+
 niccarter:
   name        : Nic Carter
   bio         : #"I ordered what?"
