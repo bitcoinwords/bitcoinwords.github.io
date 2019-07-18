@@ -13,8 +13,6 @@ excerpt: Posted May 20, 2018, Spencer Bogart explains the importance of Bitcoin,
 defaults:
   - scope:
       type: posts
-
-
 ---
 
 # [The Internet's Magna Carta Moment: Bitcoin & The Value of Strong Assurances](https://medium.com/blockchain-capital-blog/the-internets-magna-carta-moment-bitcoin-the-value-of-strong-assurances-56fb86887b8a)
