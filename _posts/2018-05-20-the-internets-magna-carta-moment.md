@@ -30,7 +30,7 @@ Symbolically, the Magna Carta marked a long-standing movement toward broader app
 
 By providing stronger assurances regarding property rights and rule-of-law, this movement changed economic incentives in favor of investment and growth which ultimately, hundreds of years later, led to the UK's Bill of Rights, the industrial revolution, and a vast improvement in the human condition.
 
-<mark>Similarly, highly decentralized networks are providing an open foundation with strong assurances for objective property rights, impersonal rules and consistent enforcement.</mark>
+Similarly, highly decentralized networks are providing an open foundation with strong assurances for objective property rights, impersonal rules and consistent enforcement.
 
 An important difference, however, is that with the Magna Carta, the powers on high decided to relinquish some of their privileges and rights — first to nobles and elites and, eventually, to everyone.
 
@@ -62,7 +62,7 @@ In particular the main transmission channels that lead from strong property righ
 
 2. **Reducing the risk of unfavorable rule changes**: Investors and operators are more likely to invest and build when the rules of the system are less likely to shift beneath their feet.
 
-3. **<mark>Reducing the cost of protecting assets</mark>**: If ownership is ill-defined, participants must allocate greater time and resources to engaging in activities that _might_ subsequently define ownership (or risk that others will). For example, if private keys define ownership, then users can focus time toward securing private keys (instead of myriad activities that might subsequently redefine ownership).
+3. **Reducing the cost of protecting assets**: If ownership is ill-defined, participants must allocate greater time and resources to engaging in activities that _might_ subsequently define ownership (or risk that others will). For example, if private keys define ownership, then users can focus time toward securing private keys (instead of myriad activities that might subsequently redefine ownership).
 
 4. **Increasing the opportunities to realize gains from trade:** With clearly defined and publicly recognizable property rights, owners can engage in contractual arrangements for the asset and more fully utilize the asset to maximize value production.
 
@@ -70,7 +70,7 @@ In particular the main transmission channels that lead from strong property righ
 
 As we move to a world where people increasingly build in the cloud, economic activity will migrate to a digital equivalent: an accessible digital foundation that offers strong assurances and consistently enforces clearly defined (digital) property rights. Such a platform will be increasingly valuable as the frontier of economic activity pushes further into the digital world.
 
-Considering there's billions of dollars and millions of man-hours dedicated to building [the parallel world of crypto-finance](https://www.forbes.com/sites/spencerbogart/2017/09/26/bitcoin-ethereum-and-the-parallel-world-of-crypto-finance/?source=post_page---------------------------#efc42735e5f7), the foundational platform(s) — the highly decentralized networks — that underpin it all are mission critical. <mark>The networks that attract and retain builders in the medium to long-term will be the ones that deliver a track record of strong assurances — a track record of consistent and objective rule enforcement.</mark>
+Considering there's billions of dollars and millions of man-hours dedicated to building [the parallel world of crypto-finance](https://www.forbes.com/sites/spencerbogart/2017/09/26/bitcoin-ethereum-and-the-parallel-world-of-crypto-finance/?source=post_page---------------------------#efc42735e5f7), the foundational platform(s) — the highly decentralized networks — that underpin it all are mission critical. The networks that attract and retain builders in the medium to long-term will be the ones that deliver a track record of strong assurances — a track record of consistent and objective rule enforcement.
 
 Historically, strong assurances of this sort have only been possible via strong and credible central authorities that commit to defending stated rights and rules with vast resources (e.g. powerful nation states).
 
