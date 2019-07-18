@@ -8,18 +8,11 @@ tags:
   - CY19 Q1
   - Alex Svetski
 
+excerpt: POsted March 15, 2019 by Alex Svetski, this article explains why Bitcoin matters.
+
 defaults:
-  # _posts
   - scope:
-      path: ""
       type: posts
-    values:
-      layout: single
-      author_profile: true
-      read_time: true
-      comments: false
-      share: true
-      related: false
 ---
 
 # [Why Bitcoin Matters](https://hackernoon.com/why-bitcoin-matters-c8bf733b9fad)
