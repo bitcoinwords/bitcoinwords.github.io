@@ -5,7 +5,7 @@ permalink: "/homo-sapiens-evolution-money-and-bitcoin"
 author: alexsvetski
 
 tags:
-  - Alex Svetski
+  - Alexander Svetski
   - CY18 Q1
 
 excerpt: Posted March 28, 2018, Alex Svetski gives an explanation of why Bitcoin exists.
