@@ -8,14 +8,14 @@ tags:
   - Aaron van Wirdum
   - CY18 Q2
 
-excerpt: enter excerpt here
+excerpt: Posted May 2, 2018, Aaron van Wirdum looks at the potential for Bitcoin Lightning Network.
 
 defaults:
   - scope:
       type: posts
 ---
 
-# The Future of Bitcoin: What Lightning Could Look Like
+# [The Future of Bitcoin: What Lightning Could Look Like](https://bitcoinmagazine.com/articles/future-bitcoin-what-lightning-could-look)
 ### By [Aaron van Wirdum](https://twitter.com/aaronvanw)
 ### Posted May 2, 2018
 
