@@ -2,14 +2,14 @@
 title: "Visions of Bitcoin"
 permalink: "/visions-of-bitcoin" 
 
-author: niccarter
+author: hasunic
 
 tags:
   - Nic Carter
   - Hasu
   - CY18 Q3
 
-excerpt: Nic Carter's fantastic review of how narrative around Bitcoin usage has changed over time. Posted July 29, 2018.
+excerpt: Hasu and Nic Carter's fantastic review of how narrative around Bitcoin usage has changed over time. Posted July 29, 2018.
 
 defaults:
   # _posts

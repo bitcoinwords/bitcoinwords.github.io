@@ -2,6 +2,8 @@
 title: "Skeptic's Guide to Bitcoin: Bitcoin and the Promise of Independent Property Rights"
 permalink: "/skeptics-guide-to-bitcoin-bitcoin-and-the-promise-of-independent-property-rights" 
 
+author: hasusu
+
 tags:
   - CY18 Q4
   - Su Zhu

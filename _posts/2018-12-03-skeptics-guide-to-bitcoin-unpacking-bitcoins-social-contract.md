@@ -2,6 +2,8 @@
 title: "Skeptic's Guide to Bitcoin: Unpacking Bitcoin's Social Contract"
 permalink: "/skeptics-guide-to-bitcoin-unpacking-bitcoins-social-contract" 
 
+author: hasusu
+
 tags:
   - CY18 Q4
   - Su Zhu

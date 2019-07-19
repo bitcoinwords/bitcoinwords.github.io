@@ -2,6 +2,8 @@
 title: "Skeptic's Guide to Bitcoin: Investing in Bitcoin"
 permalink: "/skeptics-guide-to-bitcoin-investing-in-bitcoin" 
 
+author: hasusu
+
 tags:
   - CY19 Q1
   - Su Zhu

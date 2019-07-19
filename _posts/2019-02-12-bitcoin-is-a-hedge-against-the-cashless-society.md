@@ -2,6 +2,8 @@
 title: "Bitcoin is a hedge against the cashless society"
 permalink: "/bitcoin-is-a-hedge-against-the-cashless-society" 
 
+author: hasusu
+
 tags:
   - CY19 Q1
   - Su Zhu

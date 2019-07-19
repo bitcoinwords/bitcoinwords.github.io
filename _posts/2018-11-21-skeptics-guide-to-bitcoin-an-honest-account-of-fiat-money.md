@@ -2,6 +2,8 @@
 title: "Skeptic's Guide to Bitcoin: An Honest Account of Fiat Money"
 permalink: "/skeptics-guide-to-bitcoin-an-honest-account-of-fiat-money" 
 
+author: hasusu
+
 tags:
   - CY18 Q4
   - Su Zhu

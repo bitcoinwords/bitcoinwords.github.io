@@ -2,6 +2,8 @@
 title: "Tweetstorm: Money is the most important field"
 permalink: "/tweetstorm-money-is-the-most-important-field" 
 
+author: hasu
+
 tags:
   - Hasu
   - CY19 Q2

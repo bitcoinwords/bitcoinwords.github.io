@@ -2,6 +2,8 @@
 title: "Why Monetary Maximalism could fall short of expectations"
 permalink: "/why-monetary-maximalism-could-fall-short-of-expectations" 
 
+author: hasusu
+
 tags:
   - CY19 Q1
   - Su Zhu
