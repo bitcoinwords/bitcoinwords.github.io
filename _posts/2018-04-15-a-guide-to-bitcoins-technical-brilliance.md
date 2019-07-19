@@ -15,7 +15,7 @@ defaults:
       type: posts
 ---
 
-# A Guide To Bitcoin's Technical Brilliance (For Non-Programmers)
+# [A Guide To Bitcoin's Technical Brilliance (For Non-Programmers)](https://medium.com/digitalassetresearch/a-guide-to-bitcoins-technical-brilliance-for-non-programmers-e28211e797c0)
 ### By [Lucas Nuzzi](https://medium.com/@LucasNuzzi?source=post_page---------------------------)
 ### April 15, 2018
 

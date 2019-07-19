@@ -16,7 +16,7 @@ defaults:
       type: posts
 ---
 
-# The Many Faces of Bitcoin
+# [The Many Faces of Bitcoin](https://hackernoon.com/the-many-faces-of-bitcoin-1c298570d191)
 ### By [Murad Mahmudov](https://twitter.com/muststopmurad) & [Adam Taché](https://twitter.com/adam_tache)
 ### Posted April 10, 2018
 

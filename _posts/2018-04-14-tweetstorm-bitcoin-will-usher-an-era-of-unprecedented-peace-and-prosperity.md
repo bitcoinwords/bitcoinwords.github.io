@@ -2,6 +2,8 @@
 title: "Tweetstorm: Bitcoin will usher an era of unprecedented peace and prosperity"
 permalink: "/tweetstorm-bitcoin-will-usher-an-era-of-unprecedented-peace-and-prosperity" 
 
+author: muradmahmudov
+
 tags:
   - Murad Mahmudov
   - CY18 Q2
