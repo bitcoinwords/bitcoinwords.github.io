@@ -2,26 +2,29 @@
 title: "Meditations on Fraud Proofs"
 permalink: "/meditations-on-fraud-proof" 
 
-author: 
+author: paulsztorc
 
 tags:
-  - author
-  - cy+quarter
+  - Paul Sztorc
+  - CY18 Q2
 
-excerpt: enter excerpt here
+excerpt: Paul Sztorc explains the ins and outs of Fraud proofs. Fraud Proofs address the problem of learning that a Bitcoin header is invalid (despite it being PoW valid). Posted April 14, 2018.
 
 defaults:
   - scope:
       type: posts
 ---
-# Meditations on Fraud Proofs
 
-14 Apr 2018
+# [Meditations on Fraud Proofs](http://www.truthcoin.info/blog/fraud-proofs/)
+### By [Paul Sztorc](https://twitter.com/truthcoin)
+### Posted April 14, 2018
 
-> Toward a coveted O(log(n)) blockchain validation, for (?) ~$50 a month. Plus: compensation for full nodes. Fraud proofs are a very complex, nasty business.
+> Toward a coveted O(log(n)) blockchain validation, for (?) ~ $50 a month. Plus: compensation for full nodes. Fraud proofs are a very complex, nasty business.
 
 But if you would to learn my thoughts, sit here by the river and we may meditate together.
-![images](http://www.truthcoin.info/images/link-river.jpg) ( River art [by Benihime Morgan](https://www.zerochan.net/723126))
+
+![](/assets/images/cy18/cy18q2m4/ps-1.png){: .align-center}
+( River art [by Benihime Morgan](https://www.zerochan.net/723126))
 
 ### tl;dr
 
@@ -69,7 +72,10 @@ But, otherwise, in the real world, we find it far too difficult to 100% validate
 ### C. Theoretical Problems with Alerts
 
 The problem with alerts is that Satoshi never actually implemented them, as you can see from [this tweet from Eric Lombrozo](https://twitter.com/eric_lombrozo/status/941789354703204352) last month.
-![image](http://www.truthcoin.info/images/lombrozo-fraud-proofs.png) Here are some of the outstanding puzzles:
+
+![](/assets/images/cy18/cy18q2m4/ps-2.png){: .align-center}
+
+Here are some of the outstanding puzzles:
 
 1. **DoS Resistance:** Bitcoin full nodes are robust to DoS thanks to huge asymmetries in proof of work – namely, that it takes ~10 minutes to make a block but far less than 10 min to validate one. However, is this the case for alerts? Do they have PoW? Who pays for it? If not, what prevents a malicious agent from spamming innumerable false alerts at all times, making any true alerts un-discoverable?
 2. **Proving a Negative:** a malicious/negligent miner can just discard parts of the block. But, even more extreme, a miner can actually mine a block without knowing _anything_ about what is inside of it! If these "unknown" parts of the block contain bad txns, how can **we** ever learn about it? If no one can _learn_ of them, how can we warn others?
@@ -191,7 +197,7 @@ So we need to add some overhead – making a kind of "SPV Plus" mode (or "Surrou
 
 How many extra bytes? Well, we can't know for sure, but if coinbase txns average 1000 bytes, and 'last txns' average 280 bytes, and each block contains about 5000 txns, then the overhead would rise to 2192 bytes per block<sup>[4](http://www.truthcoin.info/blog/fraud-proofs/#fn:4)</sup>, instead of a mere 80. And the overhead grows at O(log(n)) instead of O(1).
 
-At 52,596 blocks per year, the annual overhead would be ~115 MB instead of ~4 MB. This is a big relative increase, but small absolute one. Furthermore, Sally only needs to download this extra data for the blocks which she wants to _fully check_ for validity: this could be the last 6 months of blocks, or all of the blocks in which she receives BTC (and the ~10 blocks surrounding it), and/or perhaps some random audits strewn here and there.
+At 52,596 blocks per year, the annual overhead would be ~ 115 MB instead of ~4 MB. This is a big relative increase, but small absolute one. Furthermore, Sally only needs to download this extra data for the blocks which she wants to _fully check_ for validity: this could be the last 6 months of blocks, or all of the blocks in which she receives BTC (and the ~10 blocks surrounding it), and/or perhaps some random audits strewn here and there.
 
 #### Class IV
 
@@ -248,11 +254,13 @@ For simplicity, the story focuses on Class I and II flaws. ( Class III flaws sho
 * S: "Wow, I guess I knew more than I thought! Do I really know all of that?"
 * F: "Yes."
 
-![images](http://www.truthcoin.info/images/fp-n-from-d.png)
+![](/assets/images/cy18/cy18q2m4/ps-3.png){: .align-center}
 
 * F: "All items need to be the same _depth_ into the Merkle Tree. Or else there will be a mismatch – a situation where one is taxed with finding X that, when hashed twice, produces a value that is equal to hashing "a real txn" once. In other words, an 'uneven Merkle tree' would require its maker to find X such that h(h(X)) = h(transaction). But this is a 'hash collision' (considered impossible) – such an X cannot be found."
 
-![images](http://www.truthcoin.info/images/fp-known-and-unknowable.png) Fun fact: something cannot be both a Sha256 hash and also be a valid Bitcoin txn. For starters, the [minimum Bitcoin txn size is 60 bytes](https://bitcoin.stackexchange.com/questions/68811/what-is-the-absolute-smallest-size-of-the-data-bytes-that-a-blockchain-transac) (too big to be a 32-byte hash).
+![](/assets/images/cy18/cy18q2m4/ps-4.png){: .align-center} 
+
+Fun fact: something cannot be both a Sha256 hash and also be a valid Bitcoin txn. For starters, the [minimum Bitcoin txn size is 60 bytes](https://bitcoin.stackexchange.com/questions/68811/what-is-the-absolute-smallest-size-of-the-data-bytes-that-a-blockchain-transac) (too big to be a 32-byte hash).
 
 * S: "I think I understand – a Merkle Tree is geometrically similar to an [Isosceles Triangle](http://mathworld.wolfram.com/IsoscelesTriangle.html) when there are no duplicates, and it approaches a [Right Triangle](https://en.wikipedia.org/wiki/Right_triangle#/media/File:Rtriangle.svg) when the last transaction is duplicated many times. The depth of the final transaction is depth of the triangle itself. And because of the Repeat Rule, if I just know the right edge, I know how many of the base elements (elements at the base of the triangle) are duplicates."
 * F: "You do indeed! This block, the one with your 300 BTC txn, has a Merkle Tree that is eleven units deep – ie a triangle that is 11 units tall. And, from the final txn (I just sent you), you know that you only double-hashed once, and only at the very end. So you know that this Merkle tree contains exactly 2047 elements."
@@ -280,7 +288,7 @@ For simplicity, the story focuses on Class I and II flaws. ( Class III flaws sho
 * S: "Ok!"
 * F: "Great. In our payment channel, we are currently at pair (A,B). You will need to make pair (C,D), and then reveal the random integers after we move there."
 
-![images](http://www.truthcoin.info/images/ln-figure-8.png)
+![](/assets/images/cy18/cy18q2m4/ps-5.png){: .align-center}
 
 ### VI
 
@@ -345,7 +353,10 @@ While before we actually sent "emails", with channels we instead keep multiple "
 You and I will update these drafts together, by cycling the parallel pair of drafts through alternating states, that I call "potential" and "kinetic".
 
 Channels mostly remain at rest, unchanging, in the Potential state. But occasionally users will want to alter the channel, and when they do this they will move the channel to a Kinetic state, and then quickly return it to a new Potential state.
-![images](http://www.truthcoin.info/images/ln-kinetic-potential.png) Above: The state is "kinetic" – the 2 BTC amount (pink, double-boxed) is up for grabs, but [in practice] only very temporarily. The channel will spend most of its time in "potential" states, which reflect the most recent BTC balances.
+
+![](/assets/images/cy18/cy18q2m4/ps-6.png){: .align-center} 
+
+Above: The state is "kinetic" – the 2 BTC amount (pink, double-boxed) is up for grabs, but [in practice] only very temporarily. The channel will spend most of its time in "potential" states, which reflect the most recent BTC balances.
 
 As I said above, regular transactions are said to have happened, if 'the blockchain' contains a copy of your "email".
 
@@ -383,7 +394,9 @@ Channels are useful for fraud proofs, because they:
 4. Can _prove negatives_, by: [1] asking for something, [2] offering a tiny reward for it, and [3] giving the counterparty a long time to provide it. If they don't meet the challenge, it is very likely that it is because they _can't_.
 
 Now I can explain "invalidity insurance" and "fullness audits".
-![images](http://www.truthcoin.info/images/river-fontaine.jpg) ( River art [by Max Pixel](https://www.maxpixel.net/Fontaine-Lisle-sur-la-sorgue-Sorgue-River-Viaduct-1460487))
+
+![](/assets/images/cy18/cy18q2m4/ps-7.png){: .align-center}
+( River art [by Max Pixel](https://www.maxpixel.net/Fontaine-Lisle-sur-la-sorgue-Sorgue-River-Viaduct-1460487))
 
 ## 5. Invalidity Insurance
 
@@ -573,7 +586,7 @@ We see that, if "n", is the first column, then the second column is "2^(n-1)" an
 
 So the third column [the "whole triangle"] tends to always be twice the size of the second column [the triangle's "base"]. So, if we store the whole triangle instead of just the base, the storage requirements [for hashes] only increase by a factor of two.
 
-And remember that full nodes are storing whole transactions, in addition to the txn-hashes. An 8 GB block, hypothetically, might consist of 32,000,000 250-byte txns. So the "triangle base" would be 32,000,000 32-byte hashes, or 1.024 GB. And, by the logic of the preceding paragraph, the "rest" of the triangle would only be ~1.024 GB. So instead of 9.024 GB, the storage / memory requirements for the full triangle would increase 10.048 GB.
+And remember that full nodes are storing whole transactions, in addition to the txn-hashes. An 8 GB block, hypothetically, might consist of 32,000,000 250-byte txns. So the "triangle base" would be 32,000,000 32-byte hashes, or 1.024 GB. And, by the logic of the preceding paragraph, the "rest" of the triangle would only be ~ 1.024 GB. So instead of 9.024 GB, the storage / memory requirements for the full triangle would increase 10.048 GB.
 
 (And, once the "whole" tree is obtained, the requirements go back down to their usual level of 9.024 GB.)
 
@@ -632,7 +645,10 @@ I will start with a hard fork accumulator, because it is easier to explain.
 Instead, we might have each txn "x" be described by "y = h( h(x), h(z1, z2) )". The second item would be an "accumulator" – for example, z1 and z2 would describe the starting and ending size-coordinates of the transaction (along the entire vector of all txns).
 
 ( More precisely, z1 and z2 would themselves lists [of multiple information], because they would need to describe, not only the byte-size of the transaction, but also its SigOps-use, txn fees paid, and any change made to drivechain's Withdrawal_DB. )
-![images](http://www.truthcoin.info/images/accumulators.png) The new information z1 and z2 does not actually need to be broadcast over the network at all, or even stored. It can be generated and validated locally using just the sequence of x's, just as it is done today. Miners are still 100% free to arrange the txn in any order they like, at any time [before the block is found].
+
+![](/assets/images/cy18/cy18q2m4/ps-8.png){: .align-center} 
+
+The new information z1 and z2 does not actually need to be broadcast over the network at all, or even stored. It can be generated and validated locally using just the sequence of x's, just as it is done today. Miners are still 100% free to arrange the txn in any order they like, at any time [before the block is found].
 
 Anyway, this data structure ("cumulative Merkle tree"?) is helpful because it makes it very easy to demonstrate fraud. Recall that we need to submit both a "bad txn" and "evidence" that the txn is bad. We will already have "y" itself, when we describe a path to a "bad txn". So now we just need to supply its preimage [h(x),z1,z2] and then disregard the first 32-bytes.
 
@@ -648,7 +664,7 @@ But second, you'd need one to the block's coinbase txn; and then, third, you'd n
 
 And all of that would be just one part of a big channel script! What a crazy redeem script that would be!! Thank heavens for [Ivy](https://blog.chain.com/ivy-for-bitcoin-a-smart-contract-language-that-compiles-to-bitcoin-script-bec06377141a). And I guess that this txn, if broadcast on chain, would probably be at least ten times as large as a normal txn. I shudder at the thought! But I suppose "cumbersome awkward txns" has never stopped us before...
 
-A second technique would be to require every txn to be paired with a mindless "zombie txn" – one that doesn't actually move any money, but only exists so that we can put an OP Return in there with the commitment to the second witness. This idea is quite horrible, as it wastes ~80 (?) on-chain bytes for every txn, and the median txn is already near-250 bytes. So txns would be about 30% bigger! How horrible! I only provide this idea to help stimulate thought for other soft fork ideas. (Note that we can't put the commitment in an OP Return inside its own txn, because users cannot easily know "where" their txn will be positioned in the block without interacting with a miner, which would be much too annoying.)
+A second technique would be to require every txn to be paired with a mindless "zombie txn" – one that doesn't actually move any money, but only exists so that we can put an OP Return in there with the commitment to the second witness. This idea is quite horrible, as it wastes ~ 80 (?) on-chain bytes for every txn, and the median txn is already near-250 bytes. So txns would be about 30% bigger! How horrible! I only provide this idea to help stimulate thought for other soft fork ideas. (Note that we can't put the commitment in an OP Return inside its own txn, because users cannot easily know "where" their txn will be positioned in the block without interacting with a miner, which would be much too annoying.)
 
 ## 8. Economics
 
@@ -701,11 +717,20 @@ So the security parameter needs to vary with how long it takes until _the first_
 What is the cost of locking up a dollar of working capital for 12 hours? It depends on the market interest rate. Since an Honest Fred has no "risk" associated with this project, the rate should be the [theoretically-minimal] "risk free rate", and since BTC is a deflationary unit of money, it does not need to appreciate to compensate the investor [to offset the inflation tax]. So the required rate of [annual] interest on this "project" could possibly be very low, it could be 2% or 1% – it depends on what other investment projects are out there [with this risk-reward profile]. Currently, _nothing_ is out there, so the market rate could be arbitrarily close to zero.
 
 Below I have rescaled some interest rates from annual to daily, hourly, and per 10 mins:
-![images](http://www.truthcoin.info/images/rates-rescaled.png) In addition to deciding the _duration_ of coverage, a second security parameter is _how much coverage_ one would like to buy. I have assumed $1000 worth. When a seller sets his $1000 up against a few cents, it implies that the seller earnestly believes that there is a >99.99% chance that the block is valid.
+
+![](/assets/images/cy18/cy18q2m4/ps-9.png){: .align-center}
+
+In addition to deciding the _duration_ of coverage, a second security parameter is _how much coverage_ one would like to buy. I have assumed $1000 worth. When a seller sets his $1000 up against a few cents, it implies that the seller earnestly believes that there is a >99.99% chance that the block is valid.
 
 Finally, for ease of interpretation, I will assume that Sally always insures _every_ blockheader. This helps compare her level of paranoia to that of a regular 'full node' user (who would also check every single block).
-![images](http://www.truthcoin.info/images/fraud-coverage-assumptions.png) Thus, we can see the monthly cost of buying all of this invalidity insurance, for different interest rates.
-![images](http://www.truthcoin.info/images/monthly-fraud-insurance-cost.png) And we see that it may cost as little as $29.93 a month.
+
+![](/assets/images/cy18/cy18q2m4/ps-10.png){: .align-center} 
+
+Thus, we can see the monthly cost of buying all of this invalidity insurance, for different interest rates.
+
+![](/assets/images/cy18/cy18q2m4/ps-11.png){: .align-center}
+
+And we see that it may cost as little as $29.93 a month.
 
 #### Total Cost
 
@@ -740,7 +765,9 @@ Moreover, this post expresses many ideas, and each of them would be its own medi
 To be honest with you, I wrote this post mostly as an "exhaust valve" to get these thoughts out of my head! They were driving me crazy!
 
 But now that we've meditated I feel better. I hope you've enjoyed reading!
-![images](http://www.truthcoin.info/images/river-sunset.jpg) ( Sunset art [from Max Pixel](https://www.maxpixel.net/Romantic-Water-Scenic-River-Sunset-Dark-177194))
+
+![](/assets/images/cy18/cy18q2m4/ps-12.png){: .align-center} 
+( Sunset art [from Max Pixel](https://www.maxpixel.net/Romantic-Water-Scenic-River-Sunset-Dark-177194))
 
 ***
 
