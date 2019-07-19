@@ -2,23 +2,17 @@
 title: "The Bitcoin Second Layer"
 permalink: "/the-bitcoin-second-layer" 
 
+author: nikbhatia
+
 tags:
   - Nik Bhatia
-  - Cy18 Q3
+  - CY18 Q3
 
 excerpt: Nik Bhatia lays out a the baseline for a 4 part series on Lightning Network. In this post, he draws similarities between LN and paper gold, with differences. Posted August 7, 2018.
 
 defaults:
-  # _posts
   - scope:
-      path: ""
       type: posts
-    values:
-      layout: single
-      read_time: true
-      comments: false
-      share: true
-      related: false
 ---
 
 # [The Bitcoin Second Layer](https://medium.com/@timevalueofbtc/the-bitcoin-second-layer-d503949d0a06)

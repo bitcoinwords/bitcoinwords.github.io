@@ -2,24 +2,17 @@
 title: "A Modest Privacy Protection Proposal"
 permalink: "/a-modest-privacy-protection-proposal" 
 
+author: jamesonlopp
+
 tags:
   - Jameson Lopp
-  - Cy18 Q3
+  - CY18 Q3
 
 excerpt: Jameson Lopp has been doxxed and wants to help you stay safe. In this post, he lays out a framework to protect your privacy. Posted September 29, 2018.
 
 defaults:
-  # _posts
   - scope:
-      path: ""
       type: posts
-    values:
-      layout: single
-      author_profile: true
-      read_time: true
-      comments: false
-      share: true
-      related: false
 ---
 
 

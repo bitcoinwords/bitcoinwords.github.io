@@ -75,17 +75,45 @@ dmirtykalichkin:
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/Kalichkin"
 
+jamesonlopp:
+  name        : Jameson Lopp
+  bio         : "Cypherpunk · CTO @CasaHODL
+ · creator of (link: https://statoshi.info) statoshi.info, (link: https://bitcoin.page) bitcoin.page, (link: https://lightning.how) lightning.how"
+  avatar      : # "/assets/images/bio-photo-2.jpg"
+  links:
+    - label: # "Email"
+      icon: #"fas fa-fw fa-envelope-square"
+      url: #"mailto:billyrick@rick.com"
+    - label: #"Website"
+      icon: #"fas fa-fw fa-link"
+      url: #"https://thewhip.com"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/lopp"
+
 niccarter:
   name        : Nic Carter
-  bio         : #"I ordered what?"
+  bio         : "bitcoin-native financial theory"
   avatar      : #"/assets/images/bio-photo.jpg"
   links:
     - label: #"Email"
       icon: #"fas fa-fw fa-envelope-square"
       url: #"mailto:cornelius@thewhip.com"
-    - label: #"Twitter"
-      icon: #"fab fa-fw fa-twitter-square"
-      url: #"https://twitter.com/rhymeswithsackit"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/nic__carter"
+
+nikbhatia:
+  name        : Nik Bhatia
+  bio         : "the"
+  avatar      : #"/assets/images/bio-photo.jpg"
+  links:
+    - label: #"Email"
+      icon: #"fas fa-fw fa-envelope-square"
+      url: #"mailto:cornelius@thewhip.com"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/timevalueofbtc"
 
 spencerbogart:
   name        : Spencer Bogart
