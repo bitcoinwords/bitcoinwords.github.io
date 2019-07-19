@@ -2,9 +2,11 @@
 title: "Security Budget in the Long Run"
 permalink: "/security-budget-in-the-long-run" 
 
+author: paulsztorc
+
 tags:
   - CY19 Q1
-  - Paul Stzorc
+  - Paul Sztorc
 
 defaults:
   # _posts
