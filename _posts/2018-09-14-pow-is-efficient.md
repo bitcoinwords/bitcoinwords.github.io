@@ -2,6 +2,8 @@
 title: "PoW is Efficient"
 permalink: "/pow-is-efficient" 
 
+author: danheld
+
 tags:
   - Dan Held
   - CY18 Q3

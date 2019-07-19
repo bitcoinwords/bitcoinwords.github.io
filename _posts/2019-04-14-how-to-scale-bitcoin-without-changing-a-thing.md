@@ -2,6 +2,8 @@
 title: "How to scale Bitcoin (without changing a thing)"
 permalink: "/how-to-scale-bitcoin-without-changing-a-thing" 
 
+author: niccarter
+
 tags:
   - Nic Carter
   - CY19 Q2

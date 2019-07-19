@@ -2,6 +2,8 @@
 title: "Bitcoin Data Science (Pt. 3): Dust & Thermodynamics"
 permalink: "/bitcoin-data-science-dust-and-thermodynamics-part-3" 
 
+author: dhruvbansal
+
 tags:
   - Dhruv Bansal
   - CY18 Q4

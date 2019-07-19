@@ -2,6 +2,8 @@
 title: "Unpacking Bitcoin's Assurances"
 permalink: "/unpacking-bitcoins-assurances" 
 
+author: niccarter
+
 tags:
   - CY19 Q1
   - Nic Carter

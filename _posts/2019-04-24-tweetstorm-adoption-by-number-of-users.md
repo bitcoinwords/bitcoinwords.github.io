@@ -2,6 +2,8 @@
 title: "Tweetstorm: Adoption by number of users"
 permalink: "/tweetstorm-adoption-by-number-of-users" 
 
+author: niccarter
+
 tags:
   - Nic Carter
   - CY19 Q2

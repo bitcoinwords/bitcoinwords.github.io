@@ -2,6 +2,8 @@
 title: "A modest proposal regarding Bitcoin mining"
 permalink: "/a-modest-proposal-regarding-bitcoin-mining" 
 
+author: niccarter
+
 tags:
   - Nic Carter
   - CY19 Q2

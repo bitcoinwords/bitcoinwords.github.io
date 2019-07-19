@@ -2,6 +2,8 @@
 title: "Planting Bitcoin — Season"
 permalink: "/planting-bitcoin-season" 
 
+author: danheld
+
 tags:
   - CY19 Q1
   - Dan Held

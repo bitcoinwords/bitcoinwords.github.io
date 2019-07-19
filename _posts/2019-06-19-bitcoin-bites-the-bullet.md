@@ -2,6 +2,8 @@
 title: "Bitcoin bites the bullet"
 permalink: "/bitcoin-bites-the-bullet" 
 
+author: niccarter
+
 tags:
   - Nic Carter
   - CY19 Q2

@@ -2,6 +2,8 @@
 title: "Planting Bitcoin — Soil"
 permalink: "/planting-bitcoin-soil" 
 
+author: danheld
+
 tags:
   - CY19 Q1
   - Dan Held

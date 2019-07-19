@@ -2,6 +2,8 @@
 title: "Planting Bitcoin — Gardening"
 permalink: "/planting-bitcoin-gardening" 
 
+author: danheld
+
 tags:
   - CY19 Q1
   - Dan Held

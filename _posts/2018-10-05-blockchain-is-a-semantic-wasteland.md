@@ -2,6 +2,8 @@
 title: "Blockchain Is a Semantic Wasteland"
 permalink: "/blockchain-is-a-semantic-wasteland" 
 
+author: niccarter
+
 tags:
   - Nic Carter
   - CY18 Q4

@@ -2,6 +2,8 @@
 title: "Bitcoin's Security is Fine"
 permalink: "/bitcoins-security-is-fine" 
 
+author: danheld
+
 tags:
   - Dan Held
   - CY19 Q2

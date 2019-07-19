@@ -2,6 +2,8 @@
 title: "Expensive Privacy is Useless Privacy"
 permalink: "/expensive-privacy-is-useless-privacy" 
 
+author: paulsztorc
+
 tags:
   - Paul Sztorc
   - CY18 Q3

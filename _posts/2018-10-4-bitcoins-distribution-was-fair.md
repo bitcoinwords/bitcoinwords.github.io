@@ -2,6 +2,8 @@
 title: "Bitcoin's Distribution was Fair"
 permalink: "/bitcoins-distribution-was-fair" 
 
+author: danheld
+
 tags:
   - Dan Held
   - CY18 Q4

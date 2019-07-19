@@ -2,6 +2,8 @@
 title: "Bitcoin's Existential Crisis"
 permalink: "/bitcoins-existential-crisis" 
 
+author: niccarter
+
 tags:
   - Nic Carter
   - CY18 Q4

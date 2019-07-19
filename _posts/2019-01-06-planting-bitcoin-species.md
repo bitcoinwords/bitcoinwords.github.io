@@ -2,6 +2,8 @@
 title: "Planting Bitcoin — Species"
 permalink: "/planting-bitcoin-species" 
 
+author: danheld
+
 tags:
   - CY19 Q1
   - Dan Held

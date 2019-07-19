@@ -2,6 +2,8 @@
 title: "Bitcoin Data Science (Pt. 1): HODL Waves"
 permalink: "/bitcoin-data-science-hodl-waves-part-1" 
 
+author: dhruvbansal
+
 tags:
   - Dhruv Bansal
   - CY18 Q2

@@ -2,6 +2,8 @@
 title: "Transaction count is an inferior measure"
 permalink: "/transaction-count-is-an-inferior-measure" 
 
+author: niccarter
+
 tags:
   - Nic Carter
   - CY18 Q4
