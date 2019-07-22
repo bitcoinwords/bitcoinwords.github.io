@@ -12,7 +12,7 @@ defaults:
 *Crypto Words* welcomes original research from a wide variety of fields, especially philosophy, politics, and economics, but also legal theory, history, literary criticism, and social or cultural analysis. Submissions should be interesting to the Bitcoin community, criticisms of Bitcoin ideas are also welcome. Authors are expected to submit a polished and professional manuscript, essay, tweetstorm. Since this is a one man shop, submissions will be reviewed by the editor and he will use best judgement on whether or not to include the content in the quarterly journal. We also encourage debate with previously-published papers in the journal.
 
 ## Submissions
-If you would like to have your article, essay, or tweet considered for the journal. We are building out a backlog of journals back to the genesis block and will be updating published journals periodically with content that should have been included. 
+Connect with us if you would like to have your article, essay, or tweet considered for the journal. We are building out a backlog of journals back to the genesis block and will be updating published journals periodically with content that should have been included. 
 
 [Email the editor](mailto:cryptowordsjournal@gmail.com){: .btn .btn--primary}
 
