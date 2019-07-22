@@ -217,7 +217,7 @@ Incentives in Bitcoin are not always perfectly aligned.
 
 Below I present some Bitcoin ideas/events/projects, and sort these into the groups that support them: Miners, Users, and [Republican] Developers.
 
-![](/assets/images/cy18/cy18q2m4/am-14.png){: .align-center}
+![](/assets/images/cy18/cy18q2m4/ps-14.png){: .align-center}
 
 ### Alignment
 
@@ -249,7 +249,7 @@ For better or for worse, the dumb people of the world form an [intransigent mino
 
 The fact of the matter is that anything with network effects is going to ultimately be ruled by _the middle_ of the bell curve: the average people.
 
-![](/assets/images/cy18/cy18q2m4/am-15.png){: .align-center} 
+![](/assets/images/cy18/cy18q2m4/ps-15.png){: .align-center} 
 
 > "Think of how stupid the average person is, and realize half of them are stupider than that." – George Carlin
 
