@@ -15,7 +15,7 @@ defaults:
       type: posts
 ---
 
-# Bitcoin, The Dollar And Facebook's Cryptocurrency: Price Volatility Versus Systemic Volatility
+# [Bitcoin, The Dollar And Facebook's Cryptocurrency: Price Volatility Versus Systemic Volatility](https://www.forbes.com/sites/caitlinlong/2019/06/29/bitcoin-the-dollar-and-facebooks-cryptocurrency-price-volatility-versus-systemic-volatility/#32e43c9a88b8)
 ### By [Caitlin Long](https://twitter.com/CaitlinLong_)
 ### Posted July 1, 2019
 
