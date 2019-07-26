@@ -2,7 +2,7 @@
 title: "Why God Loves Bitcoin"
 permalink: "/why-god-loves-bitcoin" 
 
-author: 
+author: adampaulmoore
 
 tags:
   - Adam Paul Moore
