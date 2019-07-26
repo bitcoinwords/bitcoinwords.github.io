@@ -30,6 +30,51 @@ alexsvetski:
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/AleksSvetski"
 
+anthonypompliano:
+  name        : Anthony Pompliano
+  bio         : "Co-founder & Partner at Morgan Creek Digital. I write a daily letter analyzing crypto news for institutional investors: (link: http://offthechain.substack.com) offthechain.substack.com"
+  avatar      : # "/assets/images/bio-photo-2.jpg"
+  links:
+    - label: # "Email"
+      icon: #"fas fa-fw fa-envelope-square"
+      url: #"mailto:billyrick@rick.com"
+    - label: #"Website"
+      icon: #"fas fa-fw fa-link"
+      url: #"https://thewhip.com"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/APompliano"
+
+benprentice
+  name        : Ben Prentice
+  bio         : "Artist, linguist, time chain maximalist, understanding the paradigm of a world with ₿itcoin in it."
+  avatar      : # "/assets/images/bio-photo-2.jpg"
+  links:
+    - label: # "Email"
+      icon: #"fas fa-fw fa-envelope-square"
+      url: #"mailto:billyrick@rick.com"
+    - label: #"Website"
+      icon: #"fas fa-fw fa-link"
+      url: #"https://thewhip.com"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/mrcoolbp"
+
+caitlinlong
+  name        : Caitlin Long
+  bio         : "I’m a 22-year Wall Street veteran who has been active in bitcoin since 2012, and whose passion is a fair and stable financial system."
+  avatar      : # "/assets/images/bio-photo-2.jpg"
+  links:
+    - label: # "Email"
+      icon: #"fas fa-fw fa-envelope-square"
+      url: #"mailto:billyrick@rick.com"
+    - label: #"Website"
+      icon: #"fas fa-fw fa-link"
+      url: #"https://thewhip.com"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/CaitlinLong_"
+
 danheld:
   name        : Dan Held
   bio         : "Dan Held the Hodler"
