@@ -45,8 +45,8 @@ alexsvetski:
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/AleksSvetski"
 
-almkglor:
-  name        : almkglor
+alanmanuelkgloria:
+  name        : Alan Manuel K. Gloria
   bio         : ""
   avatar      : # "/assets/images/bio-photo-2.jpg"
   links:
@@ -59,6 +59,21 @@ almkglor:
     - label: # "Twitter"
       icon: #"fab fa-fw fa-twitter-square"
       url: #"https://twitter.com/AleksSvetski"
+
+angelawalch:
+  name        : Angela Walch
+  bio         : "Prof. @StMarys_Law . Research Fellow UCL Centre for #Blockchain Technologies @uclcbt . #Money, #tech, #finance, #risk, #governance. Own no #crypto."
+  avatar      : # "/assets/images/bio-photo-2.jpg"
+  links:
+    - label: # "Email"
+      icon: #"fas fa-fw fa-envelope-square"
+      url: #"mailto:billyrick@rick.com"
+    - label: #"Website"
+      icon: #"fas fa-fw fa-link"
+      url: #"https://thewhip.com"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/angela_walch"
 
 anthonypompliano:
   name        : Anthony Pompliano
