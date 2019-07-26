@@ -45,6 +45,21 @@ alexsvetski:
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/AleksSvetski"
 
+almkglor:
+  name        : almkglor
+  bio         : ""
+  avatar      : # "/assets/images/bio-photo-2.jpg"
+  links:
+    - label: # "Email"
+      icon: #"fas fa-fw fa-envelope-square"
+      url: #"mailto:billyrick@rick.com"
+    - label: "Reddit"
+      icon: "fas fa-fw fa-link"
+      url: "https://www.reddit.com/user/almkglor/"
+    - label: # "Twitter"
+      icon: #"fab fa-fw fa-twitter-square"
+      url: #"https://twitter.com/AleksSvetski"
+
 anthonypompliano:
   name        : Anthony Pompliano
   bio         : "Co-founder & Partner at Morgan Creek Digital. I write a daily letter analyzing crypto news for institutional investors: (link: http://offthechain.substack.com) offthechain.substack.com"
