@@ -15,6 +15,21 @@ aaronvanwirdum:
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/aaronvanw"
 
+adampaulmoore:
+  name        : Adam Paul Moore
+  bio         : "Digital Marketer. Stacking sats, strapped with gats, high in bacon fats. I once touched the #Liberty Bell and it gave me powers. Rowan, UPenn alum."
+  avatar      : # "/assets/images/bio-photo-2.jpg"
+  links:
+    - label: # "Email"
+      icon: #"fas fa-fw fa-envelope-square"
+      url: #"mailto:billyrick@rick.com"
+    - label: #"Website"
+      icon: #"fas fa-fw fa-link"
+      url: #"https://thewhip.com"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/AdamPaulMoore"
+
 alexsvetski:
   name        : Alex Svetski
   bio         : "Hairless chimp interested in Money, Bitcoin, ⚡️, Anthropology, History, Economics & Business. I also write...when I get time. (link: https://tippin.me/@AleksSvetski) tippin.me/@AleksSvetski"
