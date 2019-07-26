@@ -135,7 +135,7 @@ hasu:
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/hasufl/"
 
-jakecervinsky:
+jakechervinsky:
   name        : Jake Chervinsky
   bio         : "Lawyer, but not yours. General Counsel @CompoundFinance
 . Adjunct Professor @GeorgetownLaw. Tweets are my own and not legal or financial advice."
@@ -228,6 +228,18 @@ paulsztorc:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/timevalueofbtc"
+
+petervanvalkenburgh:
+  name        : Peter Van Valkenburgh
+  bio         : "Cryptolawyer | Director of Research @CoinCenter | Board Member @ZcashFoundation | JD @NYULaw"
+  avatar      : #"/assets/images/bio-photo.jpg"
+  links:
+    - label: #"Email"
+      icon: #"fas fa-fw fa-envelope-square"
+      url: #"mailto:cornelius@thewhip.com"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/valkenburgh"
 
 spencerbogart:
   name        : Spencer Bogart
