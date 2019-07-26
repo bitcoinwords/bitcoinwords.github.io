@@ -135,6 +135,22 @@ hasu:
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/hasufl/"
 
+jakecervinsky:
+  name        : Jake Chervinsky
+  bio         : "Lawyer, but not yours. General Counsel @CompoundFinance
+. Adjunct Professor @GeorgetownLaw. Tweets are my own and not legal or financial advice."
+  avatar      : # "/assets/images/bio-photo-2.jpg"
+  links:
+    - label: # "Email"
+      icon: #"fas fa-fw fa-envelope-square"
+      url: #"mailto:billyrick@rick.com"
+    - label: #"Website"
+      icon: #"fas fa-fw fa-link"
+      url: #"https://thewhip.com"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/jchervinsky"
+
 jamesonlopp:
   name        : Jameson Lopp
   bio         : "Cypherpunk · CTO @CasaHODL
