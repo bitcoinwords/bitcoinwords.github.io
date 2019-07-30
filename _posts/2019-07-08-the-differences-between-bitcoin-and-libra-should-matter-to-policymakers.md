@@ -16,7 +16,7 @@ defaults:
 ---
 
 
-# The differences between Bitcoin and Libra should matter to policymakers
+# [The differences between Bitcoin and Libra should matter to policymakers](https://coincenter.org/entry/the-differences-between-bitcoin-and-libra-should-matter-to-policymakers)
 ### By [Peter Van Valkenburgh](https://twitter.com/valkenburgh)
 ### Posted July 8, 2019
 
@@ -28,7 +28,7 @@ Recently Congress has taken a strong interest in the newly announced Libra digit
 
 Our answer is that Bitcoin and Libra are very different projects that use very different technologies and, as a consequence, each project faces different regulatory and legal challenges. It's important that policymakers understand these differences so that they may appropriately tailor any necessary policy response. If they overlook these differences, policymakers risk adopting a one-size-fits-all response that would inevitably result in unintended consequences to the detriment of the public. So, we want to make sure policymakers don't confuse Libra with Bitcoin and similar cryptocurrencies. Let's look at the design goals of each project, the technologies they use, and conclude with a high-level comparison of the relevant laws and regulations.
 
-## <b>Different Design Goals and Priorities</b>
+## Different Design Goals and Priorities
 
 To get a sense of their respective goals and priorities, it's instructive to compare the first sentence of each project's white paper.
 **[Bitcoin:](https://bitcoin.org/bitcoin.pdf)** *"A purely peer-to-peer version of electronic cash would allow online payments to be sent directly from one party to another without going through a financial institution."*

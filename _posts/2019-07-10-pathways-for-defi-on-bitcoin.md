@@ -15,7 +15,7 @@ defaults:
       type: posts
 ---
 
-# Pathways for DeFi on Bitcoin
+# [Pathways for DeFi on Bitcoin](https://medium.com/tokendaily/pathways-for-defi-on-bitcoin-a68563c4c95)
 ### By [Mohamed Fouda](https://twitter.com/MohamedFFouda)
 ### Posted July 10, 2019
 
