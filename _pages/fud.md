@@ -18,7 +18,7 @@ defaults:
 ---
 
 # How to use this page
-This page is intended to be a place you can reference when you encounter FUD online and IRL.
+This page is intended to be a place you can reference when you encounter FUD online and IRL. H/T to [Inner-Smile](https://www.inner-smile.com/bitcoin-fud.phtml)
 
 # Bitcoin is controlled by miners
 
@@ -29,8 +29,11 @@ This page is intended to be a place you can reference when you encounter FUD onl
 
 # Bitcoin is bad for the environment
 
+Bitcoin energy usage is all about utilizing the most cost efficient energy, this means using renewables at near zero cost or even capturing energy that would otherwise be wasted, like natural gas flaring.
 
-[PoW is Efficient](https://www.danheld.com/blog/2019/1/5/pow-is-efficent)
+Yes, it's true that Bitcoin uses energy just like every other money and human activity. A key difference is that Bitcoin uses energy to secure the hardest money mankind has ever known. 
+
+When someone says it is wasteful, they are placing themselves on a morally superior pedistal by trying to tell you what's the best way to use energy. There's nothing immoral about using energy to run Bitcoin.
 
 # Bitcoin is a waste
 
