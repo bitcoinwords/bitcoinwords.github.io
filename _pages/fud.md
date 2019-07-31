@@ -17,7 +17,6 @@ toc_icon: "bookmark"  # corresponding Font Awesome icon name (without fa prefix)
 
 defaults:
   - scope:
-  		path: "Bitcoin FUD"
     	type: pages
     values:
       author_profile: true
