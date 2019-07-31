@@ -6,7 +6,7 @@ author: yassineelmandjra
 
 tags:
   - Yassine Elmandjra
-  - cy+quarter
+  - CY19 Q3
 
 excerpt: Yassine Elmandjra posts a post that sums it all up. Posted July 23, 2019.
 
