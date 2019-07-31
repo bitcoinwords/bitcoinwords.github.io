@@ -26,7 +26,7 @@ repository               : "cryptowords/cryptowords.github.io"
 teaser                   : "/assets/images/og-cryptowords.png"
 logo                     : "/assets/images/cryptowords88.png"
 masthead_title           : "A journal of Bitcoin commentary"
-# breadcrumbs            : false # true, false (default)
+breadcrumbs              : true
 words_per_minute         : 200
 comments:
   provider               : # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "custom"
