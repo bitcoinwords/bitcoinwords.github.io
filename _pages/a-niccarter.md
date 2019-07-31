@@ -1,6 +1,6 @@
 ---
 title: "Nic Carter"
-layout: tags
+layout: archive
 permalink: /tags/nic-carter/
 author_profile: true
 author: niccarter
