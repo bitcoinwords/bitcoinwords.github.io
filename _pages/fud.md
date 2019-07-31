@@ -22,15 +22,24 @@ This page is intended to be a place you can reference when you encounter FUD onl
 
 # Bitcoin is controlled by miners
 
+
 # Bitcoin is too slow
 
 # Bitcoin is too expensive
 
 # Bitcoin is bad for the environment
 
+
+[PoW is Efficient](https://www.danheld.com/blog/2019/1/5/pow-is-efficent)
+
+# Bitcoin is a waste
+
+> "Gold mining is a waste, but that waste is far less than the utility of having gold available as a medium of exchange. I think the case will be the same for Bitcoin." - Satoshi
+
 # Bitcoin is centralized by Core devs
 
 # Bitcoin has no intrinsic value
+We believe Bitcoin having no intrinsic value is a good thing. 
 
 # Bitcoin doesn't scale
 
@@ -51,3 +60,7 @@ This page is intended to be a place you can reference when you encounter FUD onl
 # Bitcoin transactions aren't private
 
 # Bitcoin supply cap is a flaw
+
+# Bitcoin distribution isn't fair
+
+[Bitcoin’s Distribution was Fair](https://www.danheld.com/blog/2019/1/6/bitcoins-distribution-was-fair)
