@@ -17,7 +17,8 @@ toc_icon: "bookmark"  # corresponding Font Awesome icon name (without fa prefix)
 
 defaults:
   - scope:
-      type: pages
+  		path: "Bitcoin FUD"
+    	type: pages
     values:
       author_profile: true
 ---
@@ -53,4 +54,6 @@ This page is intended to be a place you can reference when you encounter FUD onl
 
 # Bitcoin will get banned and/or regulated to death
 
-# Bitcoin transactions aren't private  
+# Bitcoin transactions aren't private
+
+# Bitcoin supply cap is a flaw
