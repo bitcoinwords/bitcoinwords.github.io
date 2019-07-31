@@ -13,7 +13,7 @@ defaults:
 
 The posts and journals published here have been carefully curated and crafted as a true labor of love. If you've found any of this content useful here's how to show your thanks and keep the project going.
 
-**We're not in it for the money, but we won't turn down free beer!**
+The costs of the Journal are met through donations, which are invited in any amount.
 
 ## Send a donation
 
