@@ -10,11 +10,6 @@ header:
     - label: "How to deal with Bitcoin FUD - insert cheatsheet download here"
       url: "/assets/publications/CY19M7.pdf"
 
-toc: true
-toc_sticky: true
-toc_label: " Contents"
-toc_icon: "bookmark"  # corresponding Font Awesome icon name (without fa prefix)
-
 defaults:
   - scope:
       type: pages
