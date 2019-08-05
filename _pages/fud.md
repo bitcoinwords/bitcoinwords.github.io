@@ -67,3 +67,7 @@ We believe Bitcoin having no intrinsic value is a good thing.
 # Bitcoin distribution isn't fair
 
 [Bitcoin’s Distribution was Fair](https://www.danheld.com/blog/2019/1/6/bitcoins-distribution-was-fair)
+
+# Test Area for Charts
+
+<iframe class="highcharts-iframe" src="https://cloud.highcharts.com/embed/anDcC1rSH/" style="border: 0; width: 100%; height: 500px"></iframe>
