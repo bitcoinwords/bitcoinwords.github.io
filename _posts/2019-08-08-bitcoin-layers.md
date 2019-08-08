@@ -20,7 +20,7 @@ defaults:
 ### Posted August 8, 2019
 
 
-I feel like the past few weeks there have been several good threads about Bitcoin’s scaling layers and everything else. Two camps are emerging as they try to define the stack. While this has no real implications and the market will ultimately decide on the best way to define layers, I wanted to put a post together to show the two camps.
+The past few weeks there have been several good threads about Bitcoin’s scaling layers. Two camps have emerged as they try to define the stack. While this has no real implications and the market will ultimately decide on the best way to define layers, I wanted to put a post together to show the two camps.
 
 ## Any Tech Stack
 Any technology that allows you to move Bitcoin around without making a Bitcoin L1 transaction, and settles directly on L1.
