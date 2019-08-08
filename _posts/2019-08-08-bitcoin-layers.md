@@ -25,7 +25,7 @@ I feel like the past few weeks there have been several good threads about Bitcoi
 ## Any Tech Stack
 Any technology that allows you to move Bitcoin around without making a Bitcoin L1 transaction, and settles directly on L1.
 
-![](/assets/images/cy19/cy19m8/jr-1.png){: .align-center}
+![](/assets/images/cy19/cy19m8/jr-1.PNG){: .align-center}
 [*link to tweet*](https://twitter.com/Mario_Gibney/status/1156021229255417857)
 
 This is consistent with our friends at Blockstream, they have put out a simple graphic with their view on things.
@@ -40,7 +40,7 @@ On the other side of the spectrum is the camp of folks who believe Bitcoin scali
 
 Lightning Network is a Bitcoin L2 solution because it is trustless, that is you can retrieve your funds at any time and no one holds them for you.
 
-![](/assets/images/cy19/cy19m8/jr-3.png){: .align-center}
+![](/assets/images/cy19/cy19m8/jr-3.PNG){: .align-center}
 
 * Bitcoin L1 (Layer 1) - The Bitcoin chain, upon which additional layers and trust solutions are built.
 * Bitcoin L2 (Layer 2) - Allows you to move Bitcoin without making a L1 transaction.
