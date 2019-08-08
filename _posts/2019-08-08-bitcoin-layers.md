@@ -19,6 +19,7 @@ defaults:
 ### By [Joe Rodgers](https://twitter.com/_joerodgers)
 ### Posted August 8, 2019
 
+
 I feel like the past few weeks there have been several good threads about Bitcoin’s scaling layers and everything else. Two camps are emerging as they try to define the stack. While this has no real implications and the market will ultimately decide on the best way to define layers, I wanted to put a post together to show the two camps.
 
 ## Any Tech Stack
