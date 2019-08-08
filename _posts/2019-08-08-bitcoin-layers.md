@@ -55,6 +55,6 @@ I believe trust is a fundamental part of defining Bitcoin scaling technology. It
 
 There is no doubt that Sidechains and IOU Solutions will play a vital role in the scalability of Bitcoin, but let's not call them L2.
 
-Markets clear.
+**Markets clear.**
 
 Thanks to [6102](https://twitter.com/6102bitcoin) for helping me think through this.
