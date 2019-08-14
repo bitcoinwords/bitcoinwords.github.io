@@ -1469,7 +1469,7 @@ Special thanks to David Puell.
 ***
 
 # [Modeling Bitcoin's Value with Scarcity](https://medium.com/@100trillionUSD/modeling-bitcoins-value-with-scarcity-91fa0fc03e25)
-### By [PlanB](https://medium.com/@100trillionUSD)
+### By [PlanB](https://medium.com/@100trillionUSD) [@100trillionUSD](https://twitter.com/100trillionUSD)
 ### Posted March 22, 2019
 
 ### Introduction
@@ -1478,7 +1478,7 @@ Satoshi Nakamoto published the bitcoin white paper 31/Oct 2008 [1], created the 
 
 Bitcoin is the first scarce digital object the world has ever seen. It is scarce like silver & gold, and can be sent over the internet, radio, satellite etc.
 
-> " As a thought experiment, imagine there was a base metal as **scarce as gold**but with the following properties: boring grey in colour, not a good conductor of electricity, not particularly strong [..], not useful for any practical or ornamental purpose .. and one special, magical property: **can be transported over a communications channe**l" — Nakamoto [2]
+> " As a thought experiment, imagine there was a base metal as **scarce as gold** but with the following properties: boring grey in colour, not a good conductor of electricity, not particularly strong [..], not useful for any practical or ornamental purpose .. and one special, magical property: **can be transported over a communications channe** l" — Nakamoto [2]
 
 Surely this digital scarcity has value. But how much? In this article I quantify scarcity using stock-to-flow, and use stock-to-flow to model bitcoin's value.
 
@@ -1488,9 +1488,9 @@ Dictionaries usually define scarcity as 'a situation in which something is not e
 
 Nick Szabo has a more useful definition of scarcity: 'unforgeable costliness'.
 
-> "What do antiques, time, and gold have in common? They are costly, due either to their original cost or the improbability of their history, and it is difficult to spoof this costliness. [..] There are some problems involved with implementing **unforgeable costliness**on a computer. If such problems can be overcome, we can achieve bit gold." — Szabo [3]
+> "What do antiques, time, and gold have in common? They are costly, due either to their original cost or the improbability of their history, and it is difficult to spoof this costliness. [..] There are some problems involved with implementing **unforgeable costliness** on a computer. If such problems can be overcome, we can achieve bit gold." — Szabo [3]
 
-> "Precious metals and collectibles have an **unforgeable scarcity**due to the costliness of their creation. This once provided money the value of which was largely independent of any trusted third party. [..][but] you can't pay online with metal. Thus, it would be very nice if there were a protocol whereby unforgeably costly bits could be created online with minimal dependence on trusted third parties, and then securely stored, transferred, and assayed with similar minimal trust. Bit gold." — Szabo [4]
+> "Precious metals and collectibles have an **unforgeable scarcity** due to the costliness of their creation. This once provided money the value of which was largely independent of any trusted third party. [..][but] you can't pay online with metal. Thus, it would be very nice if there were a protocol whereby unforgeably costly bits could be created online with minimal dependence on trusted third parties, and then securely stored, transferred, and assayed with similar minimal trust. Bit gold." — Szabo [4]
 
 Bitcoin has unforgeable costliness, because it costs a lot of electricity to produce new bitcoins. Producing bitcoins cannot be easily faked. Note that this is different for fiat money and also for altcoins that have no supply cap, have no proof-of-work (PoW), have low hashrate, or have a small group of people or companies that can easily influence supply etc.
 
@@ -1500,9 +1500,9 @@ Saifedean Ammous talks about scarcity in terms of stock-to-flow (SF) ratio. He e
 
 > "It is this consistently low rate of supply of gold that is the fundamental reason it has maintained its monetary role throughout human history."
 
-> "The high **stock-to-flow ratio**of gold makes it the commodity with the lowest price elasticity of supply."
+> "The high **stock-to-flow ratio** of gold makes it the commodity with the lowest price elasticity of supply."
 
-> "The existing stockpiles of Bitcoin in 2017 were around 25 times larger than the new coins produced in 2017. This is still less than half of the ratio for gold, but around the year 2022, Bitcoin's **stock-to-flow ratio**will overtake that of gold" — Ammous[5]
+> "The existing stockpiles of Bitcoin in 2017 were around 25 times larger than the new coins produced in 2017. This is still less than half of the ratio for gold, but around the year 2022, Bitcoin's **stock-to-flow ratio** will overtake that of gold" — Ammous[5]
 
 So, scarcity can be quantified by SF.
 
