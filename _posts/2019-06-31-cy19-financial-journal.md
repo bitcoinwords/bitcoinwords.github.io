@@ -8,7 +8,7 @@ header:
   overlay_filter: 0.50
   actions:
     - label: "Download CY19 Financial Journal"
-      url: "/assets/publications/Crypto-Words-CY19-Financial-Journal.pdf"
+      url: "/assets/publications/Crypto-Words-CY19-Financial-Journalv2.pdf"
 
 category: "special-journals"
 excerpt: A comprehensive collection of on and off chain indicators and valuation models for Bitcoin.
@@ -35,13 +35,14 @@ defaults:
 # About CY19 Financial Journal
 This special journal is a collection of Bitcoin valuation models and indicators. Special thanks to [Adam Taché](https://twitter.com/Adam_Tache) for your epic tweetstorms collecting these models. 
 
+
 ![](/assets/images/covers/Crypto-Words-CY19-Financial-Journal-cover-150.png){: .align-left}
 ## Financial Journal Sections:
 * [On-Chain Valuation Models](https://cryptowords.github.io/cy19-financial-journal#on-chain-valuation-models)
 * [On & Off-Chain Valuation Indicators](https://cryptowords.github.io/cy19-financial-journal#on--off-chain-valuation-indicators)
 
 
-[CY19 Financial Journal](/assets/publications/Crypto-Words-CY19-Financial-Journal.pdf){: .btn .btn--primary}
+[CY19 Financial Journal](/assets/publications/Crypto-Words-CY19-Financial-Journalv2.pdf){: .btn .btn--primary}
 
 # On-Chain Valuation Models 
 
