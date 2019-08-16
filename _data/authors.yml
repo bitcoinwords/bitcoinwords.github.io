@@ -335,6 +335,18 @@ niccarter:
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/nic__carter"
 
+nickszabo:
+  name        : Nick Szabo
+  bio         : "the"
+  avatar      : #"/assets/images/bio-photo.jpg"
+  links:
+    - label: #"Email"
+      icon: #"fas fa-fw fa-envelope-square"
+      url: #"mailto:cornelius@thewhip.com"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/NickSzabo4"
+
 nikbhatia:
   name        : Nik Bhatia
   bio         : "bitcoin-native financial theory"
