@@ -17,7 +17,7 @@ defaults:
       type: posts
 ---
 
-# An Open Letter to Banks about Bitcoin and Cryptocurrencies
+# [An Open Letter to Banks about Bitcoin and Cryptocurrencies](https://hackernoon.com/an-open-letter-to-banks-about-bitcoin-and-cryptocurrencies-b0c7ef9b7c62)
 ### By [Peter McCormack](https://twitter.com/PeterMcCormack)
 ### Posted March 4th 2018
 
