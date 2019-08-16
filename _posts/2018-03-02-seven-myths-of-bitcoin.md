@@ -17,10 +17,8 @@ defaults:
 ---
 
 # Seven Myths of Bitcoin
-
-[George Kikvadze](https://medium.com/@BitfuryGeorge?source=post_page-----2e3a66d37e64----------------------)
-
-[Mar 2, 2018](https://medium.com/@BitfuryGeorge/seven-myths-of-bitcoin-2e3a66d37e64?source=post_page-----2e3a66d37e64----------------------) · 6 min read
+### By [George Kikvadze](https://medium.com/@BitfuryGeorge)
+### Posted March 2, 2018
 
 _First they ignore you. Then they laugh at you. Then they fight you. Then you win. Mahatma Gandhi_
 

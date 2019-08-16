@@ -18,7 +18,6 @@ defaults:
       type: posts
 ---
 
-
 # [Are Bitcoin Bubbles Predictable?](https://hackernoon.com/are-bitcoin-bubbles-predictable-6aa5b830f41a)
 ### By [Tobias Huber](https://twitter.com/TobiasAHuber)
 ### Posted March 16th 2018

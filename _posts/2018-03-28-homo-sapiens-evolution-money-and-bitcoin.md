@@ -7,6 +7,8 @@ author: alexsvetski
 tags:
   - Alex Svetski
   - CY18 Q1
+  - Money
+  - History
 
 excerpt: Posted March 28, 2018, Alex Svetski gives an explanation of why Bitcoin exists.
 
