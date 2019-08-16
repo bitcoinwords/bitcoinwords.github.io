@@ -7,8 +7,11 @@ author: tobiashuber
 tags:
   - Tobias Huber
   - CY18 Q1
+  - Financial Journal
+  - TA
+  - Modeling
 
-excerpt: enter excerpt here
+excerpt: Tobias Huber lays out a basic model for predicting bitcoin price bubbles. Posted March 16, 2018.
 
 defaults:
   - scope:

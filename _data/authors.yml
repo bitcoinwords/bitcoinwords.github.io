@@ -180,6 +180,21 @@ dmirtykalichkin:
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/Kalichkin"
 
+georgekikvadze:
+  name        : George Kikvadze
+  bio         : "@BitFuryGroup | @Wharton | @SAISHopkins | @YPO | @BlockChainSum | @GBBCouncil | @BlockchainTA | @ExonumPlatform | @Hut8Mining | @FinalFrontierio"
+  avatar      : # "/assets/images/bio-photo-2.jpg"
+  links:
+    - label: # "Email"
+      icon: #"fas fa-fw fa-envelope-square"
+      url: #"mailto:billyrick@rick.com"
+    - label: #"Website"
+      icon: #"fas fa-fw fa-link"
+      url: #"https://thewhip.com"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/BitfuryGeorge"
+
 georgioskonstantopoulos:
   name        : Georgios Konstantopoulos
   bio         : "Partner @cryptolabcap. Proud math nerd and coder since the age of 12. Formerly @FJLabs, @Stanford, @lamoda_rus, @rocketberlin"
