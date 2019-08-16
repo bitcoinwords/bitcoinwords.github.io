@@ -337,7 +337,7 @@ niccarter:
 
 nickszabo:
   name        : Nick Szabo
-  bio         : "the"
+  bio         : "Blockchain, cryptocurrency, and smart contracts pioneer. (RT/Fav/Follow does not imply endorsement). Blog: http://unenumerated.blogspot.com"
   avatar      : #"/assets/images/bio-photo.jpg"
   links:
     - label: #"Email"
@@ -463,6 +463,21 @@ suzhu:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/zhusu"
+
+tobiashuber:
+  name        : Tobias Huber
+  bio         : "Technology / Markets / Philosophy"
+  avatar      : # "/assets/images/bio-photo-2.jpg"
+  links:
+    - label: # "Email"
+      icon: #"fas fa-fw fa-envelope-square"
+      url: #"mailto:billyrick@rick.com"
+    - label: #"Website"
+      icon: #"fas fa-fw fa-link"
+      url: #"https://thewhip.com"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/TobiasAHuber"
 
 vijayboyapati:
   name        : Vijay Boyapati
