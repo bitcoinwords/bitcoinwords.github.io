@@ -7,6 +7,7 @@ author: georgekikvadze
 tags:
   - George Kikvadze
   - CY18 Q1
+  - FUD
 
 excerpt: George Kikvadze kills some common FUD. Posted March 2, 2018.
 
