@@ -45,7 +45,7 @@ You should visit these websites, click links, read, and follow the creators on T
 
 [10 Hours of Bitcoin](https://10hoursofbitcoin.com/){: .btn .btn--primary}
 
-**Bitcoin Snippets** archives the best content from [r/bitcoin](https://www.reddit.com/r/Bitcoin/). It is maintained by [Sam Wouters](https://twitter.com/SDWouters).
+**Bitcoin Snippets** archives the best content from [r/bitcoin](https://www.reddit.com/r/Bitcoin/). It is maintained by [Sam Wouters](https://twitter.com/SDWouters). [Bitcoin Snippets](http://bitcoinsnippets.com/){: .btn .btn--primary}
 {: .notice--primary}
 
 [Bitcoin Snippets](http://bitcoinsnippets.com/){: .btn .btn--primary}
