@@ -13,7 +13,7 @@ defaults:
 
 
 <figure class="half">
-    <a href="https://10hoursofbitcoin.com/"><img src="/assets/images/blogroll/10.png"></a>
-    <a href="https://21lessons.com/"><img src="/assets/images/blogroll/21.png"></a>
+    <a href="/assets/images/blogroll/10.png"><img src="/assets/images/blogroll/10.png"></a>
+    <a href="/assets/images/blogroll/10.png"><img src="/assets/images/blogroll/21.png"></a>
     <figcaption>Caption describing these two images.</figcaption>
 </figure>
