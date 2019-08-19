@@ -45,7 +45,12 @@ You should visit these websites, click links, read, and follow the creators on T
 
 [10 Hours of Bitcoin](https://10hoursofbitcoin.com/){: .btn .btn--primary}
 
-**Bitcoin Snippets** archives the best content from [r/bitcoin](https://www.reddit.com/r/Bitcoin/). It is maintained by [Sam Wouters](https://twitter.com/SDWouters). [Bitcoin Snippets](http://bitcoinsnippets.com/){: .btn .btn--primary}
+**Bitcoin Snippets** archives the best content from [r/bitcoin](https://www.reddit.com/r/Bitcoin/). It is maintained by [Sam Wouters](https://twitter.com/SDWouters).
 {: .notice--primary}
 
 [Bitcoin Snippets](http://bitcoinsnippets.com/){: .btn .btn--primary}
+
+**Infominer** is manually indexing crypto content and other areas of interest like decentralized identity and other open source projects. There is SOOO much information in his projects and there's way more coming. Maintained by [Infominer](https://twitter.com/infominer33)
+ {: .notice--primary}
+
+ [Infominer](https://infominer.id/){: .btn .btn--primary}
