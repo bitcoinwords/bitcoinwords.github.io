@@ -11,9 +11,9 @@ header:
     - label: "Subscribe"
       url: "https://mailchi.mp/2731ce628dba/cryptowordsnewsletter"
   caption: ""
-excerpt: "Subscribe to the Crypto Words monthly journal, delivered straight to your inbox"
+excerpt: "Subscribe to get the Crypto Words journal delivered straight to your inbox"
 intro: 
-  - excerpt: "It's a beautiful thing, the destruction of words. - George Orwell"
+  - excerpt: "All signal, no noise. We're the best place to read about Bitcoin."
 feature_row:
   - image_path: /assets/images/splash-about.png
     alt: "Read the Journals"
@@ -40,5 +40,9 @@ feature_row:
 ---
 
 {% include feature_row id="intro" type="center" %}
+
+# A Beautiful Monthly Bitcoin Journal
+[![Journal Example for Home Page](/assets/images/splash-page-journal.png)](https://cryptowords.github.io/categories/journals/){: .align-center}
+Each entry in *Crypto Words* is hand selected and carefully styled in the journal.  
 
 {% include feature_row %}
