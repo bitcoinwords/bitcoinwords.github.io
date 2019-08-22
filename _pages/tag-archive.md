@@ -2,6 +2,8 @@
 title: "Posts by Tag"
 permalink: /tags/
 layout: tags
+author_profile: true
+
 ---
 
 All the posts for _Crypto Words_ are found below. You can browse via tag on this page or you can head head over to the [chronological posts page](https://cryptowords.github.io/categories/posts/).
