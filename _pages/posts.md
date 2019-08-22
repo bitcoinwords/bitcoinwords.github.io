@@ -8,7 +8,7 @@ taxonomy: posts
 
 All the posts for _Crypto Words_ are found below in **chronological order**. You can also browse via [tags](https://cryptowords.github.io/tags/).
 
-Posts are randomly added as we come across them.
+Posts are added randomly as we come across them.
 
 To achieve maximum enlightenment, consider subscribing to Journal newsletter and follow us on Twitter.
 
