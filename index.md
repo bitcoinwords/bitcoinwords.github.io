@@ -43,6 +43,8 @@ feature_row:
 
 # A Beautiful Monthly Bitcoin Journal
 [![Journal Example for Home Page](/assets/images/splash-journal-image.png)](https://cryptowords.github.io/categories/journals/){: .align-center}
-Each entry in *Crypto Words* is hand selected and carefully styled in the journal.  
+
+Each entry in *Crypto Words* is hand selected and carefully styled for the journal. Our goal is to educate Bitcoiners and archive commentary for future scholars. 
+[Journals](https://cryptowords.github.io/categories/journals/){: .btn .btn--primary}
 
 {% include feature_row %}
