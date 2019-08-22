@@ -42,7 +42,9 @@ feature_row:
 {% include feature_row id="intro" type="center" %}
 
 # A Beautiful Monthly Bitcoin Journal
-[![Journal Example for Home Page](/assets/images/splash-journal-image.png)](https://cryptowords.github.io/categories/journals/){: .align-center}
+
+[![Journal Example for Home Page](/assets/images/splash-journal-image.png)](https://cryptowords.github.io/categories/journals/)
+{: .align-center}
 
 <br>
 
