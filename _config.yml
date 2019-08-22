@@ -107,8 +107,8 @@ analytics:
 # Site Author
 author:
   name             : "Crypto Words"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "DYOR. BTFD. HOLD."
+  avatar           : /assets/images/words-card-200.png"
+  bio              : "A journal of Bitcoin commentary"
   location         : # "Little Rock, AR"
   email            : "cryptowordsjournal@gmail.com"
   links:
