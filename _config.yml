@@ -134,6 +134,9 @@ author:
 # Site Footer
 footer:
   links:
+    - label: "Subscribe"
+      icon: "fas fa-fw fa-link"
+      url: "https://mailchi.mp/2731ce628dba/cryptowordsnewsletter"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: https://twitter.com/_cryptowords
