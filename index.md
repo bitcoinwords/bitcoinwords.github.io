@@ -36,10 +36,20 @@ feature_row:
     url: "https://cryptowords.github.io/cy19-financial-journal"
     btn_label: "Read the Financial Journal"
     btn_class: "btn--primary"
+feature_row4:
+  - image_path: /assets/images/splash-journal-image.png
+    alt: "Journal Example Images"
+    title: "A Beautiful Monthly Bitcoin Journal"
+    excerpt: 'Each entry in *Crypto Words* is hand selected and carefully styled for the journal. Our goal is to educate Bitcoiners and archive commentary for future scholars.'
+    url: "https://cryptowords.github.io/categories/journals/"
+    btn_label: "Journals"
+    btn_class: "btn--primary"
 
 ---
 
 {% include feature_row id="intro" type="center" %}
+
+{% include feature_row id="feature_row4" type="center" %}
 
 # A Beautiful Monthly Bitcoin Journal
 
