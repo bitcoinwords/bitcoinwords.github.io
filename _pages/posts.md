@@ -3,6 +3,7 @@ title: Chronological Posts
 layout: category
 permalink: /categories/posts/
 taxonomy: posts
+author_profile: true
 
 ---
 
@@ -10,7 +11,7 @@ All the posts for _Crypto Words_ are found below in **chronological order**. You
 
 Posts are added randomly as we come across them.
 
-To achieve maximum enlightenment, consider subscribing to Journal newsletter and follow us on Twitter.
+**To achieve maximum enlightenment**, consider subscribing to Journal newsletter and follow us on Twitter.
 
 [Subscribe](https://mailchi.mp/2731ce628dba/cryptowordsnewsletter){: .btn .btn--primary} [<i class="fab fa-twitter"></i> Twitter](https://twitter.com/_cryptowords){: .btn .btn--info}
 
