@@ -51,19 +51,4 @@ feature_row4:
 
 {% include feature_row id="feature_row4" type="center" %}
 
-# A Beautiful Monthly Bitcoin Journal
-
-[![Journal Example for Home Page](/assets/images/splash-journal-image.png)](https://cryptowords.github.io/categories/journals/)
-{: .align-center}
-
-<br>
-
-Each entry in *Crypto Words* is hand selected and carefully styled for the journal. Our goal is to educate Bitcoiners and archive commentary for future scholars. 
-
-<br>
-
-[Journals](https://cryptowords.github.io/categories/journals/){: .btn .btn--primary}
-
-<br>
-
 {% include feature_row %}
