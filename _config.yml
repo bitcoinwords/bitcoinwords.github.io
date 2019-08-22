@@ -115,7 +115,7 @@ author:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       # url: "mailto:cryptowordsjournal@pm.me"
-    - label: "Website"
+    - label: "Subscribe"
       icon: "fas fa-fw fa-link"
       url: "https://mailchi.mp/2731ce628dba/cryptowordsnewsletter"
     - label: "Twitter"
