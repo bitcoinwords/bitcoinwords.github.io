@@ -11,7 +11,7 @@ header:
     - label: "Subscribe"
       url: "https://mailchi.mp/2731ce628dba/cryptowordsnewsletter"
   caption: ""
-excerpt: "Subscribe to get the Crypto Words journal delivered straight to your inbox"
+excerpt: "We've been doing a Bitcoin only newsletter every month for the past year - curated blogs, tweets, and essays for a wide range of topics related to Bitcoin. There are a ton of really smart subscribers. You should sign up too - apparently it's pretty good."
 intro: 
   - excerpt: "All signal, no noise. We're the best place to read about Bitcoin."
 feature_row:

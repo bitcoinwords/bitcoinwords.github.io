@@ -13,7 +13,7 @@ defaults:
 
 The posts and journals published here have been carefully curated and crafted as a true labor of love. If you've found any of this content useful here's how to show your thanks and keep the project going.
 
-The costs of the Journal are met through donations, which are invited in any amount.
+The costs of the journal are met through donations, which are invited in any amount.
 
 ## Send a donation
 
@@ -22,7 +22,7 @@ The costs of the Journal are met through donations, which are invited in any amo
 
 ## Spread the word
 
-Have a website or use social networking sites like Twitter, Facebook, or LinkedIn? Please consider sharing the content found on Crypto Words or linking to [https://cryptowords.github.io](https://cryptowords.github.io).
+Have a website or use social networking sites like Twitter, Facebook, or LinkedIn? Please consider sharing the content found on *Crypto Words* or linking to [https://cryptowords.github.io](https://cryptowords.github.io).
 
 ## Follow us on social media
 
