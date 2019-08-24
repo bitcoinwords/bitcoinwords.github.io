@@ -9,6 +9,7 @@ tags:
   - CY18 Q1
   - PoS
   - PoW
+  - Technology
 
 excerpt: Hugo Nguyen explains why PoS is flawed. Posted March 18,2018.
 
