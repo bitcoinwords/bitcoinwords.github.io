@@ -9,6 +9,7 @@ tags:
   - CY18 Q1
   - Money
   - Monetary History
+  - Economics
 
 excerpt: Nick Szabo examines the traditions and history of non-governmental money. Posted March 23, 2018.
 

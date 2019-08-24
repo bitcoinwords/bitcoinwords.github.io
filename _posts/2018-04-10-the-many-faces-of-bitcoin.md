@@ -8,6 +8,7 @@ tags:
   - Adam Taché
   - Murad Mahmudov
   - CY18 Q2
+  - Economics
 
 excerpt: Adam Taché and Murad Mahmudov discuss four schools of thought related to Bitcoin. Posted April 10, 2018. 
 
@@ -206,7 +207,7 @@ Many of Wilcox's arguments, therefore, are based on seeing Bitcoin as a platform
 Wilcox and DeSantis typically argue against the traditional supply and demand outlook of economic markets for blockchains. Wilcox discusses the implications of Proof of Work for transaction processing and scalability in his blog, including [Fundamental Misconceptions](http://markwilcox.com/articles/03/?source=post_page---------------------------). Computational markets sitting atop Bitcoin are particularly likely to expand if they prove to achieve cheaper and more efficient computation than established behemoths of the industry.
 
 ![](/assets/images/cy18/cy18q2m4/am-13.png){: .align-center}
-Source: [Twitter](https://twitter.com/mwilcox/status/915781401487671296?source=post_page---------------------------)
+Source: [Twitter](https://twitter.com/mwilcox/status/915781401487671296)
 
 ## Conclusion
 
@@ -214,4 +215,4 @@ The four schools of thought presented in this article do not necessarily contrad
 
 Similarly, the Second Theory — Bitcoin Cash being a dominant peer-to-peer digital cash — and the Fourth Theory — Bitcoin being the key element in further developing information theory — have many of the same supporting points and arguments, with the key difference being that the latter is not fork-biased and believes that any possible fork that can happen, will happen, and they will compete against each other.
 
-_Thanks to_ [armor123123](https://twitter.com/armor123123?source=post_page---------------------------) _and others for giving us feedback on earlier versions of this post._
+_Thanks to_ [armor123123](https://twitter.com/armor123123) _and others for giving us feedback on earlier versions of this post._

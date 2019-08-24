@@ -9,6 +9,7 @@ tags:
   - CY18 Q1
   - Essential Reading
   - Bitcoin Canon
+  - Economics
 
 excerpt: Posted March 2, 2018 by Vijay Boyapati. Essential reading for anyone interested in Bitcoin.
 

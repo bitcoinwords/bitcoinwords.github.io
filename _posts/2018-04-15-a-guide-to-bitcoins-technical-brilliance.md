@@ -7,6 +7,7 @@ author: lucasnuzzi
 tags:
   - Lucas Nuzzi
   - CY18 Q2
+  - Technology
 
 excerpt: Lucas Nuzzi attempts to provide a semi-technical guide to key aspects of Bitcoin’s technology. Posted April 15, 2018
 

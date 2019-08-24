@@ -7,8 +7,10 @@ author: paulsztorc
 tags:
   - Paul Sztorc
   - CY18 Q2
+  - Game Theory
+  - Network Effects
 
-excerpt: Paul Sztorc lays out what happens after everyone is a Bitcoin macimalist, when the disagreements inevitably creep back in and offers a solution to scale. Posted April 7, 2018.
+excerpt: Paul Sztorc lays out what happens after everyone is a Bitcoin maximalist, when the disagreements inevitably creep back in and offers a solution to scale. Posted April 7, 2018.
 
 defaults:
   - scope:
@@ -243,7 +245,7 @@ I could have included more groups, especially "Industry", "Democratic Developers
 
 ## Network Effects as "Rule of the Average"
 
-## Qwerty and Esperanto
+### Qwerty and Esperanto
 
 For better or for worse, the dumb people of the world form an [intransigent minority](https://medium.com/incerto/the-most-intolerant-wins-the-dictatorship-of-the-small-minority-3f1f83ce4e15), because they literally _cannot_ appreciate good ideas. This is one reason why we are stuck with the QWERTY keyboard, for example (even those who type in Dvorak are doing so _on_ a QWERTY keyboard layout). English is the international language, despite being awkward and hard to learn – Esperanto, in contrast, is very easy to learn but is spoken by no one. If you disqualify Esperanto, then consider French: it is easy to learn (compared to English), and was once the international language of diplomacy, once learned internationally by the upper classes and backed by a powerful nation. Yet today they all speak English in Quebec.
 
@@ -253,7 +255,7 @@ The fact of the matter is that anything with network effects is going to ultimat
 
 > "Think of how stupid the average person is, and realize half of them are stupider than that." – George Carlin
 
-## The Centrality of Timing
+### The Centrality of Timing
 
 In these analyses, **timing** is important: every project starts with zero users, so networks effects are small (and meritocratic effects dominate). But as time goes on, the project will attract more users, and so the network effects will become more important. Eventually, the network effects outweigh the meritocratic effects.
 

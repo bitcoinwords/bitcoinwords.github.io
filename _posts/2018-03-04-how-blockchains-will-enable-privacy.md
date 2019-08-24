@@ -10,6 +10,7 @@ tags:
   - Privacy
   - Human Rights
   - Encryption
+  - Politics
 
 excerpt: Shaan Ray describes a private future enabled by blockchain. Posted March 3, 2018.
 

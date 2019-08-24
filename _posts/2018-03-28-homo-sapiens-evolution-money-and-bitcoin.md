@@ -9,6 +9,7 @@ tags:
   - CY18 Q1
   - Money
   - History
+  - Economics
 
 excerpt: Posted March 28, 2018, Alex Svetski gives an explanation of why Bitcoin exists.
 

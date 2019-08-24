@@ -10,6 +10,7 @@ tags:
   - Financial Journal
   - TA
   - Modeling
+  - Finance
 
 excerpt: Tobias Huber lays out a basic model for predicting bitcoin price bubbles. Posted March 16, 2018.
 

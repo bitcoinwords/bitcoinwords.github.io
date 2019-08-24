@@ -7,6 +7,8 @@ author: paulsztorc
 tags:
   - Paul Sztorc
   - CY18 Q2
+  - Technology
+  - Fraud Proofs
 
 excerpt: Paul Sztorc explains the ins and outs of Fraud proofs. Fraud Proofs address the problem of learning that a Bitcoin header is invalid (despite it being PoW valid). Posted April 14, 2018.
 

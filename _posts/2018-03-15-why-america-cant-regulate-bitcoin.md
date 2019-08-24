@@ -10,6 +10,7 @@ tags:
   - Regulation
   - Human Rights
   - Freedom
+  - Politics
 
 excerpt: Beautyon explains why Bitcoin is unregulatable. Posted March 15, 2018.
 

@@ -16,7 +16,7 @@ defaults:
       type: posts
 ---
 
-# Seven Myths of Bitcoin
+# [Seven Myths of Bitcoin](https://medium.com/@BitfuryGeorge/seven-myths-of-bitcoin-2e3a66d37e64)
 ### By [George Kikvadze](https://medium.com/@BitfuryGeorge)
 ### Posted March 2, 2018
 

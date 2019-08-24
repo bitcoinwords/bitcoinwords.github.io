@@ -7,6 +7,8 @@ author: muradmahmudov
 tags:
   - Murad Mahmudov
   - CY18 Q2
+  - Tweetstorm
+  - Politics
 
 excerpt: Essential tweetstorm from Murad on a great vision of a Bitcoin future. Posted April 14, 2018.
 
