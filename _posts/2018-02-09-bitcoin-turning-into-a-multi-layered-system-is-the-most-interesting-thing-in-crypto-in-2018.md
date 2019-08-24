@@ -21,7 +21,6 @@ defaults:
 ### By [Bèr Kessels](https://twitter.com/berkes/)
 ### Posted February 2, 2018
 
-
 When you use Tinder, and you swipe someone, you probably don't sit there thinking "Let's create some TCP packages and send them over IP, hoping they reach the phone of that nice looking fellow there". You probably just think in terms of "lets swipe this nice fellow, Leo"
 
 I'm bringing Tinder into this story to show the power of a layered architecture. You can swipe Leo because the Internet is made out of layers that You, Tinder, your phone, apps, your browser, can use for "free". Disclaimer: I don't actually have a Tinder, so I actually don't know if "swiping" is the right term. But, well, this is a story about Bitcoin.
@@ -71,4 +70,3 @@ By _not_ implementing features, by choosing to be conservative, Bitcoin remains 
 As a closing note, I'd like to stress that there certainly are altcoin-projects that are completely layered by design. Quite some "cryptocurrency projects" are actually an application layer on top of another transport layer: a vast majority of altcoins are basically tokens on Ethereum: they _are the Application layer_ on top of Ethereum! So: I'm not saying that all altcoins are wrong and only Bitcoin get's it right: I'm only offering an alternative way to view Bitcoin: not as a polished, finished, fancy project to be downloaded from the iTunes store, but as a single, technical layer. An important component in a vast and rapidly changing new field: managing value online.
 
 Positive feedback, as well as images of cats, calling me _literally hitler_ for hating on your beloved altcoins, or other comments are very welcome at [my twitter](https://twitter.com/berkes) or [on reddit](https://www.reddit.com/u/berkes).
-
