@@ -54,3 +54,4 @@ You should visit these websites, click links, read, and follow the creators on T
  {: .notice--primary}
 
  [Infominer](https://infominer.id/){: .btn .btn--primary}
+ 
