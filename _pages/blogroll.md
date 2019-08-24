@@ -54,13 +54,3 @@ You should visit these websites, click links, read, and follow the creators on T
  {: .notice--primary}
 
  [Infominer](https://infominer.id/){: .btn .btn--primary}
-
- | Header1 | Header2 | Header3 |
-|:--------|:-------:|--------:|
-| **Infominer** is manually indexing crypto content and other areas of interest like decentralized identity and other open source projects. There is SOOO much information in his projects and there's way more coming. Maintained by [Infominer](https://twitter.com/infominer33)   | [Infominer](https://infominer.id/){: .btn .btn--primary}   | cell3   |
-| cell4   | cell5   | cell6   |
-|-----------------------------|
-| cell1   | cell2   | cell3   |
-| cell4   | cell5   | cell6   |
-|=============================|
-| Foot1   | Foot2   | Foot3   |
