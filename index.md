@@ -37,7 +37,7 @@ feature_row:
     btn_label: "Read the Financial Journal"
     btn_class: "btn--primary"
 feature_row4:
-  - image_path: /assets/images/splash-journal-example.png
+  - image_path: /assets/images/splash-journal-example.PNG
     alt: "Journal Example Images"
     title: "A Beautiful Monthly Bitcoin Journal"
     excerpt: 'Each entry in *Crypto Words* is hand selected and carefully styled for the journal. Our goal is to educate Bitcoiners and archive commentary for future scholars.'
