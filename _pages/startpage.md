@@ -2,7 +2,7 @@
 permalink: /start/
 title: "Start"
 type: pages
-uthor_profile: true
+author_profile: true
 layout: splash
 
 feature_row_journals:
