@@ -1,5 +1,5 @@
 ---
-permalink: /fud/
+permalink: /start/
 title: "Bitcoin FUD"
 
 header:
