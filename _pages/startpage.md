@@ -3,6 +3,7 @@ permalink: /start/
 title: "Start"
 type: pages
 uthor_profile: true
+layout: splash
 
 feature_row_journals:
   - image_path: /assets/images/splash-journal-example.PNG
