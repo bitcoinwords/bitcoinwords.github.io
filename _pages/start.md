@@ -1,5 +1,5 @@
 ---
-permalink: /boot/
+permalink: /start/
 title: "Start"
 defaults:
   # _pages
