@@ -6,7 +6,7 @@ defaults:
   - scope:
       path: "Start"
       type: pages
-    values:
+  - values:
       layout: single
       author_profile: true
 feature_row_journals:
