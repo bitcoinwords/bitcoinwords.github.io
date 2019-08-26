@@ -1,13 +1,12 @@
 ---
 permalink: /start/
 title: "Start"
+
 defaults:
-  # _pages
   - scope:
       path: "Start"
       type: pages
     values:
-      layout: single
       author_profile: true
 
 feature_row_journals:
@@ -29,9 +28,8 @@ feature_row_tags:
     btn_class: "btn--primary"
 ---
 
-`# What is Crypto Words?
+# What is Crypto Words?
 *Crypto Words* is a monthly Bitcoin journal. New journals are published monthly and older journals are published as we get to them. This project began in the spring of 2019, so there's a decade worth of content that needs to be archived. This could take a while!
-
 
 {% include feature_row id="feature_row_journals" type="right" %}
 
