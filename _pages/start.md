@@ -9,7 +9,6 @@ defaults:
     values:
       layout: single
       author_profile: true
-
 feature_row_journals:
   - image_path: /assets/images/splash-journal-example.PNG
     alt: "Journal Example Images"
