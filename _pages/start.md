@@ -35,7 +35,7 @@ feature_row_tags:
 
 {% include feature_row id="feature_row_journals" type="right" %}
 
-{% include feature_row id="feature_row_journals" type="left" %}
+{% include feature_row id="feature_row_tags" type="left" %}
 
 
 
