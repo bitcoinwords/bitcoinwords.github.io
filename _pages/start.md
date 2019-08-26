@@ -29,7 +29,7 @@ feature_row_tags:
     btn_class: "btn--primary"
 ---
 
-## What is Crypto Words?
+`# What is Crypto Words?
 *Crypto Words* is a monthly Bitcoin journal. New journals are published monthly and older journals are published as we get to them. This project began in the spring of 2019, so there's a decade worth of content that needs to be archived. This could take a while!
 
 
