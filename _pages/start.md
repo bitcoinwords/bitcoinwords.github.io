@@ -1,31 +1,11 @@
 ---
 permalink: /start/
 title: "Start"
-layout: splash
 defaults:
   - scope:
       type: pages
     values:
       author_profile: true
-
-
-feature_rowjournals:
-  - image_path: /assets/images/splash-journal-example.PNG
-    alt: "Journal Example Images"
-    title: "A Beautiful Monthly Bitcoin Journal"
-    excerpt: 'Each entry in *Crypto Words* is hand selected and carefully styled for the journal. Our goal is to educate Bitcoiners and archive commentary for future scholars.'
-    url: "https://cryptowords.github.io/categories/journals/"
-    btn_label: "Journals"
-    btn_class: "btn--primary"
-
-feature_rowtags:
-  - image_path: /assets/images/tags.PNG
-    alt: "Journal Example Images"
-    title: "Browse by Tags"
-    excerpt: 'From the beginning of the project, we knew content tagging and organization would be important for users. We began with author and quarter published tags and have now begun to tag articles based on keywords and it's Bitcoin discipline.'
-    url: "https://cryptowords.github.io/tags/"
-    btn_label: "Tags"
-    btn_class: "btn--primary"
 ---
 
 # What is Crypto Words?
