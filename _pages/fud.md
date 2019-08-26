@@ -10,12 +10,49 @@ header:
     - label: "How to deal with Bitcoin FUD - insert cheatsheet download here"
       url: "/assets/publications/CY19M7.pdf"
 
+feature_row_journals:
+  - image_path: /assets/images/splash-journal-example.PNG
+    alt: "Journal Example Images"
+    title: "A Beautiful Monthly Bitcoin Journal"
+    excerpt: 'Each entry in *Crypto Words* is hand selected and carefully styled for the journal. Our goal is to educate Bitcoiners and archive commentary for future scholars.'
+    url: "https://cryptowords.github.io/categories/journals/"
+    btn_label: "Journals"
+    btn_class: "btn--primary"
+
+feature_row_tags:
+  - image_path: /assets/images/tags.PNG
+    alt: "Journal Example Images"
+    title: "Browse by Tags"
+    excerpt: 'From the beginning of the project, we knew content tagging and organization would be important for users. We began with author and quarter published tags and have now begun to tag articles based on keywords and it's Bitcoin discipline.'
+    url: "https://cryptowords.github.io/tags/"
+    btn_label: "Tags"
+    btn_class: "btn--primary"
+
 defaults:
   - scope:
       type: pages
     values:
       author_profile: true
 ---
+
+# What is Crypto Words?
+*Crypto Words* is a monthly Bitcoin journal. New journals are published monthly and older journals are published as we get to them. This project began in the spring of 2019, so there's a decade worth of content that needs to be archived. This could take a while!
+
+{% include feature_row id="feature_row_journals" type="right" %}
+
+# Distribution & Format
+Our journals are first distributed to our email subscribers and later pushed to followers on Twitter and other social networks. Each publication is available for view as a webpage or pdf download. The journal in pdf format is very readable and all posts are uniform. We're big fans of pdf format because you can easily download journals for safe keeping and sharing with friends.
+
+Check out this PDF journal for reference:
+[CY18 March Journal](/assets/publications/CY18M3.pdf){: .btn .btn--primary}
+
+{% include feature_row id="feature_row_tags" type="left" %}
+
+
+
+
+
+
 
 # How to use this page
 This page is intended to be a place you can reference when you encounter FUD online and IRL. H/T to [Inner-Smile](https://www.inner-smile.com/bitcoin-fud.phtml)
