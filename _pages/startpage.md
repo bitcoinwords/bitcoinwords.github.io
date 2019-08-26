@@ -9,7 +9,7 @@ defaults:
       author_profile: true
 
 
-feature_row_journals:
+feature_rowjournals:
   - image_path: /assets/images/splash-journal-example.PNG
     alt: "Journal Example Images"
     title: "A Beautiful Monthly Bitcoin Journal"
@@ -18,7 +18,7 @@ feature_row_journals:
     btn_label: "Journals"
     btn_class: "btn--primary"
 
-feature_row_tags:
+feature_rowtags:
   - image_path: /assets/images/tags.PNG
     alt: "Journal Example Images"
     title: "Browse by Tags"
@@ -31,7 +31,7 @@ feature_row_tags:
 # What is Crypto Words?
 *Crypto Words* is a monthly Bitcoin journal. New journals are published monthly and older journals are published as we get to them. This project began in the spring of 2019, so there's a decade worth of content that needs to be archived. This could take a while!
 
-{% include feature_row id="feature_row_journals" type="right" %}
+{% include feature_row id="feature_rowjournals" type="right" %}
 
 # Distribution & Format
 Our journals are first distributed to our email subscribers and later pushed to followers on Twitter and other social networks. Each publication is available for view as a webpage or pdf download. The journal in pdf format is very readable and all posts are uniform. We're big fans of pdf format because you can easily download journals for safe keeping and sharing with friends.
@@ -39,7 +39,7 @@ Our journals are first distributed to our email subscribers and later pushed to 
 Check out this PDF journal for reference:
 [CY18 March Journal](/assets/publications/CY18M3.pdf){: .btn .btn--primary}
 
-{% include feature_row id="feature_row_tags" type="left" %}
+{% include feature_row id="feature_rowtags" type="left" %}
 
 
 
