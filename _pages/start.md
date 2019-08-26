@@ -35,6 +35,12 @@ feature_row_tags:
 
 {% include feature_row id="feature_row_journals" type="right" %}
 
+# Distribution & Format
+Our journals are first distributed to our email subscribers and later pushed to followers on Twitter and other social networks. Each publication is available for view as a webpage or pdf download. The journal in pdf format is very readable and all posts are uniform. We're big fans of pdf format because you can easily download journals for safe keeping and sharing with friends.
+
+Check out this PDF journal for reference:
+[CY18 March Journal](/assets/publications/CY18M3.pdf){: .btn .btn--primary}
+
 {% include feature_row id="feature_row_tags" type="left" %}
 
 
