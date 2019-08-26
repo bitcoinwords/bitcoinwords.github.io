@@ -1,12 +1,13 @@
 ---
 permalink: /start/
 title: "Start"
-
 defaults:
+  # _pages
   - scope:
       path: "Start"
       type: pages
     values:
+      layout: single
       author_profile: true
 
 feature_row_journals:
