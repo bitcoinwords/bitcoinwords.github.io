@@ -1,34 +1,11 @@
 ---
 permalink: /start/
 title: "Start"
-layout: single
 defaults:
   - scope:
       type: pages
     values:
-      author_profile: true
-feature_row2:
-  - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
-    alt: "placeholder image 2"
-    title: "Placeholder Image Left Aligned"
-    excerpt: 'This is some sample content that goes here with **Markdown** formatting. Left aligned with `type="left"`'
-    url: "#test-link"
-    btn_label: "Read More"
-    btn_class: "btn--primary"
-feature_row3:
-  - image_path: /assets/images/tags.PNG
-    alt: "Tags"
-    title: "Browse by Tags"
-    excerpt: 'This is some sample content that goes here with **Markdown** formatting. Right aligned with `type="right"`'
-    url: "#test-link"
-    btn_label: "Read More"
-    btn_class: "btn--primary"
 ---
-
-{% include feature_row id="feature_row2" type="left" %}
-
-{% include feature_row id="feature_row3" type="right" %}
-
 
 # What is Crypto Words?
 *Crypto Words* is a monthly Bitcoin journal. New journals are published monthly and older journals are published as we get to them. This project began in the spring of 2019, so there's a decade worth of content that needs to be archived. This could take a while!
@@ -41,7 +18,12 @@ Our journals are first distributed to our email subscribers and later pushed to 
 Check out this PDF journal for reference:
 [CY18 March Journal](/assets/publications/CY18M3.pdf){: .btn .btn--primary}
 
-{% include feature_row id="feature_rowtags" type="left" %}
+# Start with the Journals
+
+# Browse Posts by Tags
+![[CY18 March Journal](/assets/publications/tags.PNG)](https://cryptowords.github.io/tags/){: .align-center}
+
+
 
 
 
