@@ -10,7 +10,6 @@ header:
     - label: "How to deal with Bitcoin FUD - insert cheatsheet download here"
       url: "/assets/publications/CY19M7.pdf"
 
-    btn_class: "btn--primary"
 defaults:
   - scope:
       type: pages
