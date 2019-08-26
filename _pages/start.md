@@ -21,7 +21,7 @@ Check out this PDF journal for reference:
 # Start with the Journals
 
 # Browse Posts by Tags
-[![CY18 March Journal](/assets/publications/tags.PNG)](https://cryptowords.github.io/tags/){: .align-center}
+[![Browse by Tags](/assets/images/tags.PNG)](https://cryptowords.github.io/tags/){: .align-center}
 
 
 
