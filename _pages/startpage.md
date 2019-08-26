@@ -1,9 +1,13 @@
 ---
 permalink: /start/
 title: "Start"
-type: pages
-author_profile: true
 layout: splash
+defaults:
+  - scope:
+      type: pages
+    values:
+      author_profile: true
+
 
 feature_row_journals:
   - image_path: /assets/images/splash-journal-example.PNG
