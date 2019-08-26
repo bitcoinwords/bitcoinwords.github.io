@@ -1,7 +1,7 @@
 ---
 permalink: /start/
 title: "Start"
-layout: splash
+layout: single
 defaults:
   - scope:
       type: pages
