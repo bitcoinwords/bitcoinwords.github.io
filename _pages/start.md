@@ -7,6 +7,9 @@ defaults:
     values:
 ---
 
+**WORK IN PROGRESS** This page is under development. It will serve as a on boarding place holder and tutorial on how to get themost from the website.
+{: .notice--danger}
+
 # What is Crypto Words?
 *Crypto Words* is a monthly Bitcoin journal. New journals are published monthly and older journals are published as we get to them. This project began in the spring of 2019, so there's a decade worth of content that needs to be archived. This could take a while!
 
