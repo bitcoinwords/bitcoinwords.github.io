@@ -1,5 +1,5 @@
 ---
-title: "Tweet: Proof od Work Equivalent Days"
+title: "Tweet: Proof of Work Equivalent Days"
 permalink: "/tweet-proof-of-work-equivalent-days" 
 
 author: niccarter
@@ -18,7 +18,7 @@ defaults:
       type: posts
 ---
 
-# [Tweet: Proof od Work Equivalent Days](https://twitter.com/nic__carter/status/1156941194968162306)
+# [Tweet: Proof of Work Equivalent Days](https://twitter.com/nic__carter/status/1156941194968162306)
 ### By [Nic Carter](https://twitter.com/nic__carter)
 ### Posted August 1, 2019
 

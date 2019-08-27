@@ -531,6 +531,22 @@ spencerbogart:
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/CremeDeLaCrypto"
 
+stadicus:
+  name        : Stadicus
+  bio         : "Tinkering / learning / mind boggled."
+  avatar      : # "/assets/images/bio-photo-2.jpg"
+  links:
+    - label: # "Email"
+      icon: #"fas fa-fw fa-envelope-square"
+      url: #"mailto:billyrick@rick.com"
+    - label: #"Website"
+      icon: #"fas fa-fw fa-link"
+      url: #"https://thewhip.com"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/Stadicus3000"
+
+
 stopanddecrypt:
   name        : Stop and Decrypt
   bio         : "[Bacon Fan][Byzantine Fault Tolerance Abstractionist][Bitcoin Harbinger][Deadlift Maximalist][Guerrilla Journalist][Reddit Moderator][Wannabe Philosopher]"
