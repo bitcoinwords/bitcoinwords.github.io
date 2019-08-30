@@ -36,7 +36,7 @@ It should be obvious, but as an explicit disclosure: I am long Bitcoin.
 
 It's an exceptional time in economics. Negative-yielding bonds have passed the $16 trillion mark for the first time ever. Germany's flagship 30 year bond yield has gone negative, also for the first time in history.
 
-![](assets/images/cy19/cy19m8/jo-2.png){: .align-center}
+[![](assets/images/cy19/cy19m8/jo-2.png)](https://twitter.com/trevornoren/status/1165156281646243840){: .align-center}
 
 This means that investors are paying governments (and some companies) for the privilege of lending them money. I pay the German government $10,000 today and in thirty years I get back $11 less. Intuitively this doesn't make much sense: given the time-value of money, cash I have on hand now should be worth more than theoretical cash in 30 years, at the very least because I may not be around in 30 years to spend it.
 
