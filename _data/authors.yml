@@ -287,6 +287,21 @@ jakechervinsky:
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/jchervinsky"
 
+jamesobeirne:
+  name        : James O'Beirne
+  bio         : "Engineer @ChaincodeLabs. Your friendly neighborhood permabear. TANSTAAFL. http://bitcoinperf.com"
+  avatar      : # "/assets/images/bio-photo-2.jpg"
+  links:
+    - label: # "Email"
+      icon: #"fas fa-fw fa-envelope-square"
+      url: #"mailto:billyrick@rick.com"
+    - label: #"Website"
+      icon: #"fas fa-fw fa-link"
+      url: #"https://thewhip.com"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/jamesob"
+
 jamesonlopp:
   name        : Jameson Lopp
   bio         : "Cypherpunk · CTO @CasaHODL
@@ -444,6 +459,18 @@ olegandreev:
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/oleganza/"
 
+parkerlewis:
+  name        : Parker Lewis
+  bio         : "Joined bitcoin, left facebook"
+  avatar      : #"/assets/images/bio-photo.jpg"
+  links:
+    - label: #"Email"
+      icon: #"fas fa-fw fa-envelope-square"
+      url: #"mailto:cornelius@thewhip.com"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/parkeralewis"
+
 paulsztorc:
   name        : Paul Sztorc
   bio         : "Independent Bitcoiner, Blog: (link: http://truthcoin.info) truthcoin.info, Projects: (link: http://drivechain.info) drivechain.info, (link: http://BitcoinHivemind.com) BitcoinHivemind.com, Retweet != endorse PGP 16C81597 E76E86E6 C01EF037 AA4B3330 F162C410"
@@ -454,7 +481,7 @@ paulsztorc:
       url: #"mailto:cornelius@thewhip.com"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/timevalueofbtc"
+      url: "https://twitter.com/Truthcoin"
 
 petervanvalkenburgh:
   name        : Peter Van Valkenburgh
