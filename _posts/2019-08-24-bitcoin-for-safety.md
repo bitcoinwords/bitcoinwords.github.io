@@ -19,8 +19,7 @@ defaults:
 ### By [James O'Beirne](https://twitter.com/jamesob) 
 ### Posted August 24, 2019
 
-![](https://jameso.be/images/fin-fed.png) 
-
+![](assets/images/cy19/cy19m8/jo-1.png){: .align-center}
 
 The fed funds rate (blue) vs. S&P500 (green), and chairs of the Federal Reserve. Starting in 2008, central banks injected an unprecedented amount of new money into the global financial system. Along with big gaps in wealth distribution, this has created profound systemic risk. The last few months have shown indications that this risk is starting to come to the surface.
 
@@ -28,30 +27,42 @@ The setup in front of us is not for a garden variety recession. It's for potenti
 
 As I've watched the following events play out, some of the only optimism I feel is due to the emergence of Bitcoin as a nascent asset class. I see this new tool as one of the only potential safeguards that people in normal income brackets have against the kind of trouble I'm forecasting.
 
-| As I lay out the narrative I've watched unfold over the past few years, I'll occasionally interject with observations (formatted like this) on why I think Bitcoin is going to become increasingly important, even relative to traditional safe-haven assets like gold. After reading a draft of this post, my brother lovingly dubbed this "the shill zone," and I don't disagree. |
-| It should be obvious, but as an explicit disclosure: I am long Bitcoin. |
+As I lay out the narrative I've watched unfold over the past few years, I'll occasionally interject with observations (formatted like this) on why I think Bitcoin is going to become increasingly important, even relative to traditional safe-haven assets like gold. After reading a draft of this post, my brother lovingly dubbed this "the shill zone," and I don't disagree.
+It should be obvious, but as an explicit disclosure: I am long Bitcoin.
+{: .notice--primary}
 
 ### Welcome to negative
 
 It's an exceptional time in economics. Negative-yielding bonds have passed the $16 trillion mark for the first time ever. Germany's flagship 30 year bond yield has gone negative, also for the first time in history.
 
-    This means that investors are paying governments (and some companies) for the privilege of lending them money. I pay the German government $10,000 today and in thirty years I get back $11 less. Intuitively this doesn't make much sense: given the time-value of money, cash I have on hand now should be worth more than theoretical cash in 30 years, at the very least because I may not be around in 30 years to spend it.
+![](assets/images/cy19/cy19m8/jo-2.png){: .align-center}
 
-    And besides, there's what we call "counterparty risk:" the possibility that the German government might not repay me (admittedly a low likelihood) or the possibility that the euro will have suffered significant inflation since then, reducing the real purchasing power of my $10,000 (a much higher likelihood). The risks of lending money for 30 years should be offset by some reward, but with negative yields the lender is penalized for assuming this risk.
+This means that investors are paying governments (and some companies) for the privilege of lending them money. I pay the German government $10,000 today and in thirty years I get back $11 less. Intuitively this doesn't make much sense: given the time-value of money, cash I have on hand now should be worth more than theoretical cash in 30 years, at the very least because I may not be around in 30 years to spend it.
 
-    This may not seem like such a big deal, or at most a weird abstraction more or less confined to finance people, the kind of people who worry about bond yields and think in basis points.
+And besides, there's what we call "counterparty risk:" the possibility that the German government might not repay me (admittedly a low likelihood) or the possibility that the euro will have suffered significant inflation since then, reducing the real purchasing power of my $10,000 (a much higher likelihood). The risks of lending money for 30 years should be offset by some reward, but with negative yields the lender is penalized for assuming this risk.
 
-    If only.
+This may not seem like such a big deal, or at most a weird abstraction more or less confined to finance people, the kind of people who worry about bond yields and think in basis points.
 
-    Negative yields dramatically affect, for example, retirees because traditionally retirees have held a lot of money in "fixed income," or bonds. The deal was that you spent your prime years earning, saving, and maybe investing in risky assets (equities) and as you got closer to retirement age, you [flipped most of your allocation](https://www.thebalance.com/new-investing-bonds-rule-4129178) to less risky investments that yield a consistent return - i.e. bonds. This ensured that your hard-earned savings wouldn't evaporate in an equities downturn.
+If only.
 
-    Since negative rates eat at savings instead of paying out, retirees—and pension funds, but we'll talk about those later—are driven towards keeping their money in risk, or equities and lower quality credit, and basically having their savings exposed to the stock market and all its associated drama:
+Negative yields dramatically affect, for example, retirees because traditionally retirees have held a lot of money in "fixed income," or bonds. The deal was that you spent your prime years earning, saving, and maybe investing in risky assets (equities) and as you got closer to retirement age, you [flipped most of your allocation](https://www.thebalance.com/new-investing-bonds-rule-4129178) to less risky investments that yield a consistent return - i.e. bonds. This ensured that your hard-earned savings wouldn't evaporate in an equities downturn.
 
-> These low rates have been great for borrowers including countries, companies and mortgage holders, since the cost of servicing debt has dropped. On the flip side low and negative interest rates have been bad for pensions and retirees who are trying to generate enough income from their assets to meet their liabilities through lower volatility bonds. These groups need to buy riskier assets and embrace that they will need to accept more volatility in order to achieve their goals. **The bottom line is that no one really knows how this will end up since we've never seen it before.** [Forbes](https://www.forbes.com/sites/stephenchen/2019/08/19/what-negative-interest-rates-mean-for-your-retirement/#2b34397d55f3) Negative rates are strange and disconcerting in themselves, but reconstructing their cause reveals other big problems as we'll see in a bit.
-<b>This is what Bitcoin is for.</b> Bitcoin, like gold, is a "non-productive" asset, a commodity. This means that it doesn't in itself generate yield, though obviously there's been plenty of price appreciation over its ten year life.
+Since negative rates eat at savings instead of paying out, retirees—and pension funds, but we'll talk about those later—are driven towards keeping their money in risk, or equities and lower quality credit, and basically having their savings exposed to the stock market and all its associated drama:
+
+> These low rates have been great for borrowers including countries, companies and mortgage holders, since the cost of servicing debt has dropped. On the flip side low and negative interest rates have been bad for pensions and retirees who are trying to generate enough income from their assets to meet their liabilities through lower volatility bonds. These groups need to buy riskier assets and embrace that they will need to accept more volatility in order to achieve their goals. **The bottom line is that no one really knows how this will end up since we've never seen it before.** [Forbes](https://www.forbes.com/sites/stephenchen/2019/08/19/what-negative-interest-rates-mean-for-your-retirement/#2b34397d55f3) 
+
+Negative rates are strange and disconcerting in themselves, but reconstructing their cause reveals other big problems as we'll see in a bit.
+
+**This is what Bitcoin is for.** Bitcoin, like gold, is a "non-productive" asset, a commodity. This means that it doesn't in itself generate yield, though obviously there's been plenty of price appreciation over its ten year life.
+{: .notice--primary}
+
+![](assets/images/cy19/cy19m8/jo-3.png){: .align-center}
+
 For reasons I'll describe shortly, this new asset is a possible tool for countering increasingly negative yields and diversifying savings. A 1 to 5% allocation lets you simultaneously cordon off risk to a small percentage of your portfolio but retain exposure to considerable upside. It's the [barbell doctrine](https://www.investopedia.com/articles/investing/013114/barbell-investment-strategy.asp) incarnate.
-
-> Owning bitcoins is one of the few asymmetric bets that people across the entire world can participate in. [Vijay Boyapati](https://twitter.com/real_vijay/status/969591986662424576) Instead of risking a huge portion of your savings in equities for positive return, you can use a small amount of Bitcoin as a metaphorical call option on a new asset class – an asset class that isn't affected by the same vulnerabilities that have created the negative rate conundrum, in addition to the other maladies we'll get around to later.
+> Owning bitcoins is one of the few asymmetric bets that people across the entire world can participate in. [Vijay Boyapati](https://twitter.com/real_vijay/status/969591986662424576) 
+Instead of risking a huge portion of your savings in equities for positive return, you can use a small amount of Bitcoin as a metaphorical call option on a new asset class – an asset class that isn't affected by the same vulnerabilities that have created the negative rate conundrum, in addition to the other maladies we'll get around to later.
+{: .notice--primary}
+![](assets/images/cy19/cy19m8/jo-4.png){: .align-center}
 
 ### How did we get here?
 
