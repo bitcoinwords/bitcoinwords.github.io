@@ -59,8 +59,9 @@ Negative rates are strange and disconcerting in themselves, but reconstructing t
 
 ![](assets/images/cy19/cy19m8/jo-3.png){: .align-center}
 
-For reasons I'll describe shortly, this new asset is a possible tool for countering increasingly negative yields and diversifying savings. A 1 to 5% allocation lets you simultaneously cordon off risk to a small percentage of your portfolio but retain exposure to considerable upside. It's the [barbell doctrine](https://www.investopedia.com/articles/investing/013114/barbell-investment-strategy.asp) incarnate.
+For reasons I'll describe shortly, this new asset is a possible tool for countering increasingly negative yields and diversifying savings. A 1 to 5% allocation lets you simultaneously cordon off risk to a small percentage of your portfolio but retain exposure to considerable upside. It's the [barbell doctrine](https://www.investopedia.com/articles/investing/013114/barbell-investment-strategy.asp) incarnate.{: .notice--primary}
 > Owning bitcoins is one of the few asymmetric bets that people across the entire world can participate in. [Vijay Boyapati](https://twitter.com/real_vijay/status/969591986662424576) 
+{: .notice--primary}
 Instead of risking a huge portion of your savings in equities for positive return, you can use a small amount of Bitcoin as a metaphorical call option on a new asset class – an asset class that isn't affected by the same vulnerabilities that have created the negative rate conundrum, in addition to the other maladies we'll get around to later.
 {: .notice--primary}
 ![](assets/images/cy19/cy19m8/jo-4.png){: .align-center}
