@@ -7,6 +7,7 @@ author: gigi
 tags:
   - Gigi
   - CY19 Q3
+  - Science
 
 excerpt: Gigi makes the case for Bitcoin being a living organism. Posted August 7, 2019.
 

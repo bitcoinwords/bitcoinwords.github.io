@@ -17,7 +17,7 @@ defaults:
       type: posts
 ---
 
-# Introducing the Difficulty Ribbon, signaling the best times to buy Bitcoin
+# [Introducing the Difficulty Ribbon, signaling the best times to buy Bitcoin](https://woobull.com/introducing-the-difficulty-ribbon-the-best-times-to-buy-bitcoin/)
 ### By [Willy Woo](https://twitter.com/woonomic)
 ### Posted August 1, 2019
 
@@ -43,3 +43,5 @@ Miners capitulate in bears, but also during block reward halvening events when s
 As a final note, notice how the 2019 the 2012 bull market have the same structure, we saw severe mining capitulation (i.e. the ribbon flipped negative), the resulting vacuum in selling pressure lead to a shorter accumulation band before price breakout. Thus this bull market has resembles 2012 more than 2016 structurally.
 
 ![](assts/images/cy19/cy19m8/ww-4.png)
+
+***

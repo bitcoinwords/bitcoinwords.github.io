@@ -27,3 +27,5 @@ So Bitcoin just peaked at an ATH of ~430 "proof of work equivalent days". That r
 Chart here: [http://bitcoin.sipa.be](http://bitcoin.sipa.be)
 
 [![http://bitcoin.sipa.be](/assets/images/cy19/cy19m8/nc-1.png)](http://bitcoin.sipa.be)
+
+***

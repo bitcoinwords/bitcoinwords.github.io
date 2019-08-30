@@ -29,3 +29,5 @@ UASF is the most important event in bitcoin’s history (in my opinion) and it i
 I modeled bitcoin's power balance like this after the event, I'm fairly pleased at how it has held up.
 
 [![Bitcoin's Power Balance](/assets/images/cy19/cy19m8/nc-2.png)](https://twitter.com/nic__carter/status/1156922274324369408)
+
+***
