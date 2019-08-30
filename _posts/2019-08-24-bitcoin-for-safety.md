@@ -68,33 +68,50 @@ Instead of risking a huge portion of your savings in equities for positive retur
 ![](assets/images/cy19/cy19m8/jo-4.png){: .align-center}
 
 ### How did we get here?
-
 So this $16T pile of negatively-yielding debt is something that's never happened before, and based on common sense it seems kind of unnatural. How did it happen?
 
-    For the past 30 years, governments and specifically central banks have been a lot more active in monetary intervention (i.e. influencing the money supply) in an attempt to be _counter-cyclical_. This means that governments basically want to smooth out the booms and busts that the business cycle is naturally subject to.
-![business cycle](https://jameso.be/images/fin-buscycle.png) [Source](https://gohighbrow.com/fluctuations-in-the-business-cycle/) When a recession or depression happens, the central bank steps in and "provides liquidity," meaning they inject cash into the banking system by doing things like buying US debt instruments from certain banks at above-market price. This gives the banks extra cash on their balance sheets to lend out, and so lowers the interest rates on pretty much everything else. This introduces unnaturally cheap credit that is supposed to stoke the economy by encouraging people to buy more things and take out more loans.
+For the past 30 years, governments and specifically central banks have been a lot more active in monetary intervention (i.e. influencing the money supply) in an attempt to be _counter-cyclical_. This means that governments basically want to smooth out the booms and busts that the business cycle is naturally subject to.
 
-    When the economy is running too hot, the Fed (the US central bank) raises the price of money and limits credit expansion, though they haven't done much of this in the past 20 years. As we'll see, the economy has become reliant on cheap credit in deep and interesting ways.
-![](https://jameso.be/images/fin-2018.png) In 2018, the market crashed 11%, the worst December since the great depression, as the Fed tried to raise interest rates back to pre-crisis levels. This crash prompted the Fed Open Market Committee to do a "dovish pivot" back to rate cuts in 2019.
-    The economy will no longer tolerate rising interest rates.
+![](assets/images/cy19/cy19m8/jo-5.png){: .align-center}
+*[Source](https://gohighbrow.com/fluctuations-in-the-business-cycle/)*
+
+When a recession or depression happens, the central bank steps in and "provides liquidity," meaning they inject cash into the banking system by doing things like buying US debt instruments from certain banks at above-market price. This gives the banks extra cash on their balance sheets to lend out, and so lowers the interest rates on pretty much everything else. This introduces unnaturally cheap credit that is supposed to stoke the economy by encouraging people to buy more things and take out more loans.
+
+When the economy is running too hot, the Fed (the US central bank) raises the price of money and limits credit expansion, though they haven't done much of this in the past 20 years. As we'll see, the economy has become reliant on cheap credit in deep and interesting ways.
+![](assets/images/cy19/cy19m8/jo-6.png){: .align-center}
+
+*In 2018, the market crashed 11%, the worst December since the great depression, as the Fed tried to raise interest rates back to pre-crisis levels. This crash prompted the Fed Open Market Committee to do a "dovish pivot" back to rate cuts in 2019. The economy will no longer tolerate rising interest rates.*
 
 ### Post 2008
-
 Central bank intervention came to a fever pitch 11 years ago. The 2007/8 financial crisis was so bad that the Fed went beyond its usual measures. It drastically upped its purchase of US Treasuries (debt) and started buying things like mortgage-backed securities.
 
-    The chart below shows the level of our monetary base, or the amount of currency circulating plus the level of reserves banks hold at the Fed. This is one of my favorite charts of all time, it's just insane.
-Over $3.3 trillion <b>(5x)</b> in new money was created starting in 2008.
-    Shaded gray bars are periods of recession. The tricky part about central bank intervention is that it's a discretionary process driven by a relatively small group of people. How much intervention is too much? In 2008, the answer seemed to be "almost no amount is too much."
+The chart below shows the level of our monetary base, or the amount of currency circulating plus the level of reserves banks hold at the Fed. This is one of my favorite charts of all time, it's just insane.
 
-    As you can see above, this resulted in the supply of base money roughly _quintupling_. Why we didn't see crippling inflation is another story for a different blog<sup>[1](https://jameso.be/2019/08/24/bitcoin-is-for-this.html#fn:1)</sup>. Even though we didn't see traditional (and I would argue deceptive) measures of inflation like CPI and PCE spike, all this extra "liquidity" has led to systemic bubbles in important asset markets like real estate
-Increase in base money (blue) vs. US home prices (orange). and the stock market.
-Increase in base money (blue) vs. stocks (red). So now the housing market is more overbought than before the crash in 2007 and the stock market is... well, almost two and a half times more overbought than ever.
+![](assets/images/cy19/cy19m8/jo-7.png){: .align-center}
+*Over $3.3 trillion **(5x)** in new money was created starting in 2008.Shaded gray bars are periods of recession.*
 
-    The root of this being that well-intended central banks are trying to protect us from the volatility that comes with the natural ebbs and flows of the business cycle.<sup>[2](https://jameso.be/2019/08/24/bitcoin-is-for-this.html#fn:2)</sup> Our friends in Europe have basically gone through the same process, except instead of attempting to "normalize" and tighten credit in the last few years, they've had to double down on easing in order to stave off collapse, probably due to intra-EU debt problems.
+The tricky part about central bank intervention is that it's a discretionary process driven by a relatively small group of people. How much intervention is too much? In 2008, the answer seemed to be "almost no amount is too much."
+
+As you can see above, this resulted in the supply of base money roughly _quintupling_. Why we didn't see crippling inflation is another story for a different blog<sup>[1](https://jameso.be/2019/08/24/bitcoin-is-for-this.html#fn:1)</sup>. Even though we didn't see traditional (and I would argue deceptive) measures of inflation like CPI and PCE spike, all this extra "liquidity" has led to systemic bubbles in important asset markets like real estate
+
+![](assets/images/cy19/cy19m8/jo-8.png){: .align-center}
+*Increase in base money (blue) vs. US home prices (orange).*
+
+and the stock market.
+
+![](assets/images/cy19/cy19m8/jo-9.png){: .align-center}
+*Increase in base money (blue) vs. stocks (red).*
+
+So now the housing market is more overbought than before the crash in 2007 and the stock market is... well, almost two and a half times more overbought than ever.
+
+The root of this being that well-intended central banks are trying to protect us from the volatility that comes with the natural ebbs and flows of the business cycle.<sup>[2](https://jameso.be/2019/08/24/bitcoin-is-for-this.html#fn:2)</sup> Our friends in Europe have basically gone through the same process, except instead of attempting to "normalize" and tighten credit in the last few years, they've had to double down on easing in order to stave off collapse, probably due to intra-EU debt problems.
+
+![](assets/images/cy19/cy19m8/jo-10.png){: .align-center}
+
 This is what has created deeply negative bond rates in Europe - the European Central Bank (ECB) has been aggressively purchasing bonds in an attempt to inject cash into the economy, which drives bond yields down and in the process hurts anyone relying on fixed income.
-<b>This is what Bitcoin is for.</b> Bitcoin's monetary supply can't be expanded by anyone, let alone a small committee of economists. There will only ever be 21 million coins minted. Nobody can decide to try to tame credit cycles with "counter-cyclical" monetary policy.
 
-    Because Bitcoin's monetary base cannot be increased, once you have a certain fraction of Bitcoin's total supply you will <i>always have at least that fraction.</i> It is literally the only asset ever to have this property, and this fact alone makes Bitcoin extremely unique. As a result, some people refer to Bitcoin as "the metric system for value."
+**This is what Bitcoin is for.** Bitcoin's monetary supply can't be expanded by anyone, let alone a small committee of economists. There will only ever be 21 million coins minted. Nobody can decide to try to tame credit cycles with "counter-cyclical" monetary policy.{: .notice--primary}
+Because Bitcoin's monetary base cannot be increased, once you have a certain fraction of Bitcoin's total supply you will <i>always have at least that fraction.</i> It is literally the only asset ever to have this property, and this fact alone makes Bitcoin extremely unique. As a result, some people refer to Bitcoin as "the metric system for value."{: .notice--primary}
 
 ### Hair of the dog
 
