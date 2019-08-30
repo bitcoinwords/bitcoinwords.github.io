@@ -110,7 +110,7 @@ The root of this being that well-intended central banks are trying to protect us
 
 This is what has created deeply negative bond rates in Europe - the European Central Bank (ECB) has been aggressively purchasing bonds in an attempt to inject cash into the economy, which drives bond yields down and in the process hurts anyone relying on fixed income.
 
-**This is what Bitcoin is for.** Bitcoin's monetary supply can't be expanded by anyone, let alone a small committee of economists. There will only ever be 21 million coins minted. Nobody can decide to try to tame credit cycles with "counter-cyclical" monetary policy.{: .notice--primary}
+**This is what Bitcoin is for.** Bitcoin's monetary supply can't be expanded by anyone, let alone a small committee of economists. There will only ever be 21 million coins minted. Nobody can decide to try to tame credit cycles with "counter-cyclical" monetary policy.
 {: .notice--primary}
 Because Bitcoin's monetary base cannot be increased, once you have a certain fraction of Bitcoin's total supply you will <i>always have at least that fraction.</i> It is literally the only asset ever to have this property, and this fact alone makes Bitcoin extremely unique. As a result, some people refer to Bitcoin as "the metric system for value."
 {: .notice--primary}
@@ -143,13 +143,23 @@ It's interesting because it creates an important dependence on cheap credit in t
 ### A quick note on pensions
 
 Public pensions in America probably merit their own post because they're so horrifying, but the short version is that their prospects for solvency are not good. Even assuming a starry-eyed rate of return (7.5% per year), they're still underfunded by $2 trillion.
-![](https://jameso.be/images/fin-pensions.png) [Source](https://www.wsj.com/articles/the-pension-hole-for-u-s-cities-and-states-is-the-size-of-japans-economy-1532972501) There's no risk-free way to get 7.5%. In order to get returns like that, you have to expose yourself to the equities market or, as is commonly the case these days, low-grade corporate debt. Under normal circumstances, seeing price volatility and riding out periods of loss is a guarantee for the kind of assets that net you 7.5% per annum.
+![](assets/images/cy19/cy19m8/jo-14.png){: .align-center}
+*[Source](https://www.wsj.com/articles/the-pension-hole-for-u-s-cities-and-states-is-the-size-of-japans-economy-1532972501)*
 
-    If we assume that pensions get a more realistic rate of return, the unfunded liabilities rise to as much as $8 trillion.
-![](https://jameso.be/images/fin-pension.png) Did I mention that public pensions are still underfunded by $2T+ assuming a 7.5% yearly return? Keep in mind, this 7.5% of return is expected in a world where most government debt is now _negatively yielding._ In the desperate search for return, pensions are increasingly relying on large positions of risky allocations. For example, the [New York State Teacher's Retirement System](https://www.nystrs.org/NYSTRS/media/PDF/About%20Us/fixed_domestic.pdf) owns $35 million of BBB-rated General Electric bonds. If the [GE fraud story](https://www.nytimes.com/2019/08/16/business/dealbook/ge-fraud.html) has any merit, those bonds may be downgraded to BB which would compel _all pension funds nationally_ to unload the bonds. The funds would sell at a sizable loss and probably crash the corporate bond market.
+There's no risk-free way to get 7.5%. In order to get returns like that, you have to expose yourself to the equities market or, as is commonly the case these days, low-grade corporate debt. Under normal circumstances, seeing price volatility and riding out periods of loss is a guarantee for the kind of assets that net you 7.5% per annum.
 
-    Because of this chase for yield, the stability of our pension system is now predicated on the stock and corporate bond markets forever performing. There is not good historical precedent for this.
-<b>This is what Bitcoin is for.</b> Pensions could juice their returns for far less risk by selling off their large allocation of garbage BBB corporate bonds, almost certain to implode or suffer downgrades in a recession, and placing their risk in a much smaller percentage allocation of Bitcoin.
+If we assume that pensions get a more realistic rate of return, the unfunded liabilities rise to as much as $8 trillion.
+
+![](assets/images/cy19/cy19m8/jo-15.png){: .align-center}
+*Did I mention that public pensions are still underfunded by $2T+ assuming a 7.5% yearly return?*
+
+Keep in mind, this 7.5% of return is expected in a world where most government debt is now _negatively yielding._ In the desperate search for return, pensions are increasingly relying on large positions of risky allocations. For example, the [New York State Teacher's Retirement System](https://www.nystrs.org/NYSTRS/media/PDF/About%20Us/fixed_domestic.pdf) owns $35 million of BBB-rated General Electric bonds. If the [GE fraud story](https://www.nytimes.com/2019/08/16/business/dealbook/ge-fraud.html) has any merit, those bonds may be downgraded to BB which would compel _all pension funds nationally_ to unload the bonds. The funds would sell at a sizable loss and probably crash the corporate bond market.
+
+Because of this chase for yield, the stability of our pension system is now predicated on the stock and corporate bond markets forever performing. There is not good historical precedent for this.
+
+**This is what Bitcoin is for.** Pensions could juice their returns for far less risk by selling off their large allocation of garbage BBB corporate bonds, almost certain to implode or suffer downgrades in a recession, and placing their risk in a much smaller percentage allocation of Bitcoin.
+{: .notice--primary}
+
 If pensions are reliant on risky assets for solvency, this means they are now reliant on cheap credit for solvency.
 
 ### The huge problem starts when and if
@@ -162,67 +172,89 @@ If pensions are reliant on risky assets for solvency, this means they are now re
 
 As you can imagine, this could get really, really bad. Really bad.
 
-    Imagine you're a retiree who's been forced into the equities market because you started saving late or you otherwise can't afford low rates of safe credit. You put 80% of your money into equities. Then one day the process above triggers and your wealth halves as the market crashes. This applies equally to pensions.
-<b>This is what Bitcoin is for.</b> My guess is that Bitcoin will not be hit nearly as hard as the equity market will, assuming its price doesn't <i>appreciate</i> in a scenario like this — a scenario I'd argue Bitcoin was designed for — if it functions as a safe-haven asset. This is because institutional ownership of Bitcoin is almost nonexistent at the moment. In a rush for the exit (liquidity), large institutions will be selling off risk assets, but I don't think these institutions have any substantial volume of BTC to sell.
+Imagine you're a retiree who's been forced into the equities market because you started saving late or you otherwise can't afford low rates of safe credit. You put 80% of your money into equities. Then one day the process above triggers and your wealth halves as the market crashes. This applies equally to pensions.
 
-    The kind of ownership that would be compelled to sell in a situation like this, "weak hands," have already been shaken out of their positions by BTC's volatility. The remaining owners are in it for the longterm. It's my guess that in a downturn, BTC's relative price will be neutral to positive.
+**This is what Bitcoin is for.** My guess is that Bitcoin will not be hit nearly as hard as the equity market will, assuming its price doesn't <i>appreciate</i> in a scenario like this — a scenario I'd argue Bitcoin was designed for — if it functions as a safe-haven asset. This is because institutional ownership of Bitcoin is almost nonexistent at the moment. In a rush for the exit (liquidity), large institutions will be selling off risk assets, but I don't think these institutions have any substantial volume of BTC to sell.
+{: .notice--primary}
+The kind of ownership that would be compelled to sell in a situation like this, "weak hands," have already been shaken out of their positions by BTC's volatility. The remaining owners are in it for the longterm. It's my guess that in a downturn, BTC's relative price will be neutral to positive.
+{: .notice--primary}
+
 The equities market, having been stoked up on easy credit (now painfully dry) may well see a 60-70% decline. Returning to current levels won't be in the cards for years, maybe decades. We're talking about a depression and a bunch of people who are no longer able to fund their retirement. It'd be bad.
 
 ### QE forever
 
 So anyway the above is all theoretical, because there won't be a crash... not in the form we're used to, anyway. The government basically can't let this happen. They have to keep the liquidity (read: cheap credit) flowing or else we have, basically, a complete collapse in equities and low-quality debt, and therefore in public pensions (who own large amounts of these things). This starts to get to, like, civilizational severity.
 
-    Central banks will have to keep creating money to keep credit cheap so that companies can continue to buy back their own shares and prop up the equity market. This will continue to increase the money supply and will further exacerbate bubbles in real estate and equities. These bubbles will steadily widen the divide between the have-assets and the have-no-assets in America.
+Central banks will have to keep creating money to keep credit cheap so that companies can continue to buy back their own shares and prop up the equity market. This will continue to increase the money supply and will further exacerbate bubbles in real estate and equities. These bubbles will steadily widen the divide between the have-assets and the have-no-assets in America.
 
-    The sort of recession that most people expect eventually may never come, since it can't be allowed to come. We may have entered a new monetary regime after the fireworks in 2008.
-Short-term interest rates, controlled by the Fed, are on their way back to zero in an attempt to keep the economy afloat.<b>This is what Bitcoin is for.</b> Central banks will continue easing until there is nothing left of their currencies; I can't really see an alternative. There's no soft landing out of this credit-fueled asset bubble. There's no clean way to deleverage the pile of debt corporates have taken on.
+The sort of recession that most people expect eventually may never come, since it can't be allowed to come. We may have entered a new monetary regime after the fireworks in 2008.
 
-    Historically gold has been a safe haven refuge in times of contraction and inflation, and I own some small amount, but I'm no great fan. Gold is impractical: it's hard to verify, hard to custody, isn't easily divisible, and just feels kind of outdated. The only easy way to buy exposure to gold (ETFs) are still just a paper proxy for the real thing. They're subject to the same kind of risks if there's a huge crash and financial markets are ordered to a halt. Bitcoin maintains liquidity through such a crash because governments can't stop its ability to perform transactions.
+![](assets/images/cy19/cy19m8/jo-16.png){: .align-center}
+Short-term interest rates, controlled by the Fed, are on their way back to zero in an attempt to keep the economy afloat.
 
-    Unlike gold, the authenticity of a Bitcoin balance is immediately verifiable with off-the-shelf consumer electronics, and anyone can safely custody it themselves regardless of amount.
-
-    It can't be confiscated. It's perpetually and internationally liquid. It doesn't know borders and gives final settlement in hours. It makes capital flight trivial and open to people who aren't fabulously rich or well-connected. Nobody's sure yet, but for these reasons I think there's a decent chance that Bitcoin will function as a safe-haven asset, much like gold, in a significant downturn.
+**This is what Bitcoin is for.** Central banks will continue easing until there is nothing left of their currencies; I can't really see an alternative. There's no soft landing out of this credit-fueled asset bubble. There's no clean way to deleverage the pile of debt corporates have taken on.
+{: .notice--primary}
+Historically gold has been a safe haven refuge in times of contraction and inflation, and I own some small amount, but I'm no great fan. Gold is impractical: it's hard to verify, hard to custody, isn't easily divisible, and just feels kind of outdated. The only easy way to buy exposure to gold (ETFs) are still just a paper proxy for the real thing. They're subject to the same kind of risks if there's a huge crash and financial markets are ordered to a halt. Bitcoin maintains liquidity through such a crash because governments can't stop its ability to perform transactions.
+{: .notice--primary}
+Unlike gold, the authenticity of a Bitcoin balance is immediately verifiable with off-the-shelf consumer electronics, and anyone can safely custody it themselves regardless of amount.
+{: .notice--primary}
+It can't be confiscated. It's perpetually and internationally liquid. It doesn't know borders and gives final settlement in hours. It makes capital flight trivial and open to people who aren't fabulously rich or well-connected. Nobody's sure yet, but for these reasons I think there's a decent chance that Bitcoin will function as a safe-haven asset, much like gold, in a significant downturn.
+{: .notice--primary}
 
 ### The macro picture
 
 So far we've mostly just been talking about troubles in the US domestic economy. Things get really spicy when we start talking about the increasing international disgruntlement with the US dollar.
 
-    Since the Bretton Woods Conference in 1944, the US dollar has had the "exorbitant privilege" of being the reserve currency of the world. This has meant that there's always a healthy demand for the dollar, which in turn stokes reliable demand for our government debt in the form of Treasuries (well, until recently). This has let us run big deficits without worrying too much: there will always going to be other countries waiting in line to roll our debt by buying Treasuries, right? They want to buy oil, don't they?
+Since the Bretton Woods Conference in 1944, the US dollar has had the "exorbitant privilege" of being the reserve currency of the world. This has meant that there's always a healthy demand for the dollar, which in turn stokes reliable demand for our government debt in the form of Treasuries (well, until recently). This has let us run big deficits without worrying too much: there will always going to be other countries waiting in line to roll our debt by buying Treasuries, right? They want to buy oil, don't they?
 
-    Unfortunately, it doesn't look like this will last. Foreign banks have stopped buying US treasuries at an alarming rate.
-![](https://jameso.be/images/fin-treasholdings.jpg) Foreign central banks' holdings of US Treasuries down precipitously ([source](https://www.zerohedge.com/news/2016-12-15/china-belgium-dump-treasuries-foreign-central-banks-liquidate-record-403-billion-us-)). US sovereign debt doesn't even have a yield advantage anymore even though treasury yields are nominally positive. It turns out that once foreign investors hedge for currency risk, US bond yields go even more negative than their European counterparts mentioned early in the article.
+Unfortunately, it doesn't look like this will last. Foreign banks have stopped buying US treasuries at an alarming rate.
 
-    Foreign central banks may not be buying our treasuries, but they're sure buying gold. Why would they be doing that? Gold's a barbarous relic, just shiny metal.
-![](https://jameso.be/images/fin-gold.jpg) [Source](https://www.cnbc.com/2019/01/31/world-gold-council-central-banks-buy-most-gold-since-1967-.html) The writing's on the wall. The rest of the world is getting tired of funding another country's obviously-unsustainable programs like social security and medicare while simultaneously being vulnerable to dollar-based sanctions. Budget deficits continue to grow at record levels ([$234 billion for the month of Feb 2019](https://www.businessinsider.com/us-budget-deficit-hits-record-february-national-debt-2019-3) and we're on track to hit a record [$1 trillion for the year](https://www.latimes.com/opinion/story/2019-08-23/trillion-dollar-budget-deficit-national-debt-republicans-democrats)). Trump's unhinged Twitter indulgences are a nice foreground to [the mind-numbing 222 trillion dollars of on- and off-balance sheet debt](https://www.zerohedge.com/news/2019-03-29/true-size-us-national-debt-including-unfunded-liabilities-222-trillion-dollars) the US has set itself up for. Even if the USD is a convenient tool for most countries now, the numbers are unworkable: the US is at some point going to have no choice but to print its way out of a massive debt.
+![](assets/images/cy19/cy19m8/jo-17.png){: .align-center}
+*Foreign central banks' holdings of US Treasuries down precipitously ([source](https://www.zerohedge.com/news/2016-12-15/china-belgium-dump-treasuries-foreign-central-banks-liquidate-record-403-billion-us-)).*
 
-    The coming years will continue to see lackluster Treasury demand, hoarding of gold by central banks, and more calls to [replace the dollar with digital currency](https://www.theguardian.com/business/2019/aug/23/mark-carney-dollar-dominant-replaced-digital-currency).
+US sovereign debt doesn't even have a yield advantage anymore even though treasury yields are nominally positive. It turns out that once foreign investors hedge for currency risk, US bond yields go even more negative than their European counterparts mentioned early in the article.
 
-    Politically-favored economists like Bernie Sanders' Stephanie Kelton will continue to shift the Overton window towards [Modern Monetary Theory](https://www.investopedia.com/modern-monetary-theory-mmt-4588060) as an expedient way for politicians to completely disregard deficits and breadwin for their constituents. MMT has an inescapable gravity because it's politically palatable on both ends: politicians love spending money without having to tax, and constituents love free stuff. You will continue to see MMT in the form of a Green New Deal or some kind of Republican-friendly equivalent, probably relating to infrastructure, and deficits will launch into the stratosphere.
+![](assets/images/cy19/cy19m8/jo-18.png){: .align-center}
 
-    Our ability to get funding from the rest of the world will wane concordantly, and some combination of the Fed, the Treasury, and more loose fiscal policy will coalesce to manufacture remarkable amounts of new money. The resulting inflation will be historic.
-<b>This is what Bitcoin is for.</b> Bitcoin is an accessible insurance policy against this increasingly likely dollar endgame for anyone who wants it.
+Foreign central banks may not be buying our treasuries, but they're sure buying gold. Why would they be doing that? Gold's a barbarous relic, just shiny metal.
 
-    Yes, central banks are buying gold and will likely continue to do so. Maybe some even have the intent of reforming the monetary system to sit on top of some kind of gold standard 2.0. Rumors circulate that China is working on a gold-backed cryptocurrency.
+![](assets/images/cy19/cy19m8/jo-19.png){: .align-center}
+*[Source](https://www.cnbc.com/2019/01/31/world-gold-council-central-banks-buy-most-gold-since-1967-.html)*
 
-    The reality is that we can never credibly return to a gold standard. Repatriating gold to do final settlement is incredibly costly and [error prone](https://www.newsweek.com/plane-carrying-9-tons-gold-and-silver-blocks-loses-cargo-during-takeoff-846738). Even setting aside practical difficulties, gold (or anything gold-backed, whether it's digital or not) will always come with counterparty risk. When Nixon ended the redeemability of dollars for gold in 1971, the die was cast. You can only stain that shirt once. Is China any less likely than 1970s US to suspend gold convertibility when the going gets tough?
+The writing's on the wall. The rest of the world is getting tired of funding another country's obviously-unsustainable programs like social security and medicare while simultaneously being vulnerable to dollar-based sanctions. Budget deficits continue to grow at record levels ([$234 billion for the month of Feb 2019](https://www.businessinsider.com/us-budget-deficit-hits-record-february-national-debt-2019-3) and we're on track to hit a record [$1 trillion for the year](https://www.latimes.com/opinion/story/2019-08-23/trillion-dollar-budget-deficit-national-debt-republicans-democrats)). Trump's unhinged Twitter indulgences are a nice foreground to [the mind-numbing 222 trillion dollars of on- and off-balance sheet debt](https://www.zerohedge.com/news/2019-03-29/true-size-us-national-debt-including-unfunded-liabilities-222-trillion-dollars) the US has set itself up for. Even if the USD is a convenient tool for most countries now, the numbers are unworkable: the US is at some point going to have no choice but to print its way out of a massive debt.
 
-    Bitcoin is fully digital bearer asset and as such it has no counterparty risk. Final settlement occurs indisputably within hours, not weeks. The cost of storing it is negligible. Cryptographic features like multisignature schemes and scripting abilities like timelocks enable a trustless programmability that makes it a completely new kind of financial asset, which is basically just a bonus on top of its killer feature: <b>hardness as a money and suitability as a safe-haven asset.</b>
+The coming years will continue to see lackluster Treasury demand, hoarding of gold by central banks, and more calls to [replace the dollar with digital currency](https://www.theguardian.com/business/2019/aug/23/mark-carney-dollar-dominant-replaced-digital-currency).
+
+![](assets/images/cy19/cy19m8/jo-20.png){: .align-center}
+
+Politically-favored economists like Bernie Sanders' Stephanie Kelton will continue to shift the Overton window towards [Modern Monetary Theory](https://www.investopedia.com/modern-monetary-theory-mmt-4588060) as an expedient way for politicians to completely disregard deficits and breadwin for their constituents. MMT has an inescapable gravity because it's politically palatable on both ends: politicians love spending money without having to tax, and constituents love free stuff. You will continue to see MMT in the form of a Green New Deal or some kind of Republican-friendly equivalent, probably relating to infrastructure, and deficits will launch into the stratosphere.
+
+Our ability to get funding from the rest of the world will wane concordantly, and some combination of the Fed, the Treasury, and more loose fiscal policy will coalesce to manufacture remarkable amounts of new money. The resulting inflation will be historic.
+
+**This is what Bitcoin is for.** Bitcoin is an accessible insurance policy against this increasingly likely dollar endgame for anyone who wants it.
+{: .notice--primary}
+Yes, central banks are buying gold and will likely continue to do so. Maybe some even have the intent of reforming the monetary system to sit on top of some kind of gold standard 2.0. Rumors circulate that China is working on a gold-backed cryptocurrency.
+{: .notice--primary}
+The reality is that we can never credibly return to a gold standard. Repatriating gold to do final settlement is incredibly costly and [error prone](https://www.newsweek.com/plane-carrying-9-tons-gold-and-silver-blocks-loses-cargo-during-takeoff-846738). Even setting aside practical difficulties, gold (or anything gold-backed, whether it's digital or not) will always come with counterparty risk. When Nixon ended the redeemability of dollars for gold in 1971, the die was cast. You can only stain that shirt once. Is China any less likely than 1970s US to suspend gold convertibility when the going gets tough?
+{: .notice--primary}
+Bitcoin is fully digital bearer asset and as such it has no counterparty risk. Final settlement occurs indisputably within hours, not weeks. The cost of storing it is negligible. Cryptographic features like multisignature schemes and scripting abilities like timelocks enable a trustless programmability that makes it a completely new kind of financial asset, which is basically just a bonus on top of its killer feature: <b>hardness as a money and suitability as a safe-haven asset.</b>
+{: .notice--primary}
 
 ### It only gets crazier from here
 
 I'm not sure that Bitcoin will work in the way that I think it will. Nobody is. But I _am_ sure that if the narrative I spell out above is anywhere near right, the financial system in its current form is in for an abrupt change in the next few years. I _am_ sure that there's no coming back from the government largesse that materialized in 2008, both in terms of the reliance on credit it introduced and the precedent for significant intervention that it set.
 
-    The kind of central bank interventions we've seen in the past 11 years are without equal. Regardless of political affiliation, most people who've been watching finance acknowledge we're in uncharted territory. The [average life of a fiat currency is 27 years](https://www.dinardirham.com/the-rise-and-fall-of-fiat-currencies/), and since going off the gold standard (which I'm not necessarily defending), the US government has been allowed to engage in an inflationary frenzy that has no sign of slowing down.
+The kind of central bank interventions we've seen in the past 11 years are without equal. Regardless of political affiliation, most people who've been watching finance acknowledge we're in uncharted territory. The [average life of a fiat currency is 27 years](https://www.dinardirham.com/the-rise-and-fall-of-fiat-currencies/), and since going off the gold standard (which I'm not necessarily defending), the US government has been allowed to engage in an inflationary frenzy that has no sign of slowing down.
 
-    Bitcoin is designed, intentionally or incidentally, as a near ideal tool to have access to when this level of turmoil hits global markets, when governments start to engage in never-before-seen monetary experimentation, when Treasury departments and other political institutions start to lose their credibility. Trustless settlement makes Bitcoin the ideal ["currency of enemies"](https://twitter.com/murchandamus/status/926928242933510144) and censorship resistance means unconditional liquidity.
+Bitcoin is designed, intentionally or incidentally, as a near ideal tool to have access to when this level of turmoil hits global markets, when governments start to engage in never-before-seen monetary experimentation, when Treasury departments and other political institutions start to lose their credibility. Trustless settlement makes Bitcoin the ideal ["currency of enemies"](https://twitter.com/murchandamus/status/926928242933510144) and censorship resistance means unconditional liquidity.
 
-    This doesn't mean that Bitcoin will actualize on its potential in whatever next crisis lies ahead of us, but it would seem foolish not to have a small amount of your portfolio betting that it will, whether you're a pension desperate for yield or a millennial like me, disenchanted with almost every other option.
+This doesn't mean that Bitcoin will actualize on its potential in whatever next crisis lies ahead of us, but it would seem foolish not to have a small amount of your portfolio betting that it will, whether you're a pension desperate for yield or a millennial like me, disenchanted with almost every other option.
 
 ***
 
 Follow me [@jamesob](https://twitter.com/jamesob).
 
-    Shouts to [Luke Gromen](https://twitter.com/LukeGromen), [Ben Hunt at Epsilon Theory](https://twitter.com/EpsilonTheory), [Danielle DiMartino Booth](https://twitter.com/DiMartinoBooth), [Raoul Pal](https://twitter.com/raoulgmi), [Jeff Snider](https://twitter.com/JeffSnider_AIP?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor) and [Erik Townsend at MacroVoices](https://www.macrovoices.com/) for getting the word out on this stuff.
+Shouts to [Luke Gromen](https://twitter.com/LukeGromen), [Ben Hunt at Epsilon Theory](https://twitter.com/EpsilonTheory), [Danielle DiMartino Booth](https://twitter.com/DiMartinoBooth), [Raoul Pal](https://twitter.com/raoulgmi), [Jeff Snider](https://twitter.com/JeffSnider_AIP?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor) and [Erik Townsend at MacroVoices](https://www.macrovoices.com/) for getting the word out on this stuff.
 
 ### Resources
 
