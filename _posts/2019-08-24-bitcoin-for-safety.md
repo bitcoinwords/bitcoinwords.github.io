@@ -28,6 +28,7 @@ The setup in front of us is not for a garden variety recession. It's for potenti
 As I've watched the following events play out, some of the only optimism I feel is due to the emergence of Bitcoin as a nascent asset class. I see this new tool as one of the only potential safeguards that people in normal income brackets have against the kind of trouble I'm forecasting.
 
 As I lay out the narrative I've watched unfold over the past few years, I'll occasionally interject with observations (formatted like this) on why I think Bitcoin is going to become increasingly important, even relative to traditional safe-haven assets like gold. After reading a draft of this post, my brother lovingly dubbed this "the shill zone," and I don't disagree.
+<br>
 It should be obvious, but as an explicit disclosure: I am long Bitcoin.
 {: .notice--primary}
 
