@@ -111,17 +111,30 @@ The root of this being that well-intended central banks are trying to protect us
 This is what has created deeply negative bond rates in Europe - the European Central Bank (ECB) has been aggressively purchasing bonds in an attempt to inject cash into the economy, which drives bond yields down and in the process hurts anyone relying on fixed income.
 
 **This is what Bitcoin is for.** Bitcoin's monetary supply can't be expanded by anyone, let alone a small committee of economists. There will only ever be 21 million coins minted. Nobody can decide to try to tame credit cycles with "counter-cyclical" monetary policy.{: .notice--primary}
-Because Bitcoin's monetary base cannot be increased, once you have a certain fraction of Bitcoin's total supply you will <i>always have at least that fraction.</i> It is literally the only asset ever to have this property, and this fact alone makes Bitcoin extremely unique. As a result, some people refer to Bitcoin as "the metric system for value."{: .notice--primary}
+{: .notice--primary}
+Because Bitcoin's monetary base cannot be increased, once you have a certain fraction of Bitcoin's total supply you will <i>always have at least that fraction.</i> It is literally the only asset ever to have this property, and this fact alone makes Bitcoin extremely unique. As a result, some people refer to Bitcoin as "the metric system for value."
+{: .notice--primary}
 
 ### Hair of the dog
 
 Injecting trillions of dollars into the money supply isn't something we can easily walk back from, since the resulting availability of credit has allowed our economy to stave off slowdowns by increasing "leverage," or using debt to fund expansion.
-![](https://jameso.be/images/fin-corpdebt.png) Corporate debt to GDP is higher than it's ever been. From [the Dallas Fed](https://www.dallasfed.org/research/economics/2019/0305.aspx).
-    Shaded bars indicate recession. One way this cheap credit is used is for leveraged share buybacks, a term you've probably heard recently. In a nutshell, this is when a company takes advantage of favorably low interest rates (enabled by the central bank's intervention) to take out a loan. Using the loan, the company buys back its own shares which (definitionally) reduces the number of shares outstanding and artificially boosts earnings-per-share, sending share prices higher. This has the genial side effect of making executive-owned stock options way more valuable.
-![](https://jameso.be/images/fin-buybacks.png) Buybacks are more frequent than ever and are increasingly responsible for price appreciation. [Source](https://grizzle.com/share-buybacks-corporations/) When people talk about "the financialization" of the economy, this is one of the chief symptoms they're talking about. Activity in the real economy is replaced with accounting semantics.
 
-    It turns out that share buybacks are now the dominant source of demand for equities. This is very interesting.
-![buybacks](https://jameso.be/images/fin-buybacks2.png) Data from [Goldman Sachs](https://heisenbergreport.com/2019/06/11/that-us-corporate-cash-pile-is-being-spent-so-what-about-the-buybacks/) It's interesting because it creates an important dependence on cheap credit in the economy:
+![](assets/images/cy19/cy19m8/jo-11.png){: .align-center}
+*Corporate debt to GDP is higher than it's ever been. From [the Dallas Fed](https://www.dallasfed.org/research/economics/2019/0305.aspx).Shaded bars indicate recession.*
+
+One way this cheap credit is used is for leveraged share buybacks, a term you've probably heard recently. In a nutshell, this is when a company takes advantage of favorably low interest rates (enabled by the central bank's intervention) to take out a loan. Using the loan, the company buys back its own shares which (definitionally) reduces the number of shares outstanding and artificially boosts earnings-per-share, sending share prices higher. This has the genial side effect of making executive-owned stock options way more valuable.
+
+![](assets/images/cy19/cy19m8/jo-12.png){: .align-center}
+*Buybacks are more frequent than ever and are increasingly responsible for price appreciation. [Source](https://grizzle.com/share-buybacks-corporations/)*
+
+When people talk about "the financialization" of the economy, this is one of the chief symptoms they're talking about. Activity in the real economy is replaced with accounting semantics.
+
+It turns out that share buybacks are now the dominant source of demand for equities. This is very interesting.
+
+![](assets/images/cy19/cy19m8/jo-13.png){: .align-center}
+*Data from [Goldman Sachs](https://heisenbergreport.com/2019/06/11/that-us-corporate-cash-pile-is-being-spent-so-what-about-the-buybacks/)*
+
+It's interesting because it creates an important dependence on cheap credit in the economy:
 
 * investors, retirees, pension funds<sup>[3](https://jameso.be/2019/08/24/bitcoin-is-for-this.html#fn:3)</sup> have been driven out of "safe" bonds and into equities and riskier credit (corporate bonds) in a search for returns, so there is a systemic dependence on the stock market going up or at the very least retaining its value
 * but the dominant buyer of equities are companies themselves (see table above), funded by cheap credit,
