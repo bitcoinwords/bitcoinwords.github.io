@@ -8,6 +8,8 @@ tags:
   - Rollo McFloogle
   - CY19 Q3
   - Economics
+  - Austrian Economics
+  - Carl Menger
 
 excerpt: Rollo McFloogle the relationship between principles from Carl Menger and Bitcoin. Posted August 25, 2019.
 

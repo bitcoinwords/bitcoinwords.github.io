@@ -135,6 +135,21 @@ berkessels:
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/berkes/"
 
+thebitcoinobserver:
+  name        : The Bitcoin Observer
+  bio         : "First principles thinker who is still trying to understand the first principles in order to start thinking one day. NO INVESTMENT ADVICE."
+  avatar      : # "/assets/images/bio-photo-2.jpg"
+  links:
+    - label: # "Email"
+      icon: #"fas fa-fw fa-envelope-square"
+      url: #"mailto:billyrick@rick.com"
+    - label: #"Website"
+      icon: #"fas fa-fw fa-link"
+      url: #"https://thewhip.com"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/festina_lente_2"
+
 brandonarvanaghi:
   name        : Brandon Arvanaghi
   bio         : "Artist, linguist, time chain maximalist, understanding the paradigm of a world with ₿itcoin in it."
@@ -240,6 +255,36 @@ georgioskonstantopoulos:
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/gakonst"
 
+gigi:
+  name        : Gigi
+  bio         : "Bitcoin is love, bitcoin is life. Currently writing words, soon back at writing code. Creator of http://21lessons.com and http://bitcoin-resources.com."
+  avatar      : # "/assets/images/bio-photo-2.jpg"
+  links:
+    - label: # "Email"
+      icon: #"fas fa-fw fa-envelope-square"
+      url: #"mailto:billyrick@rick.com"
+    - label: #"Website"
+      icon: #"fas fa-fw fa-link"
+      url: #"https://thewhip.com"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/dergigi"
+
+hanshauge:
+  name        : Hans Hauge
+  bio         : "Senior Quantitative Researcher @Ikigai_fund. #Bitcoin"
+  avatar      : # "/assets/images/bio-photo-2.jpg"
+  links:
+    - label: # "Email"
+      icon: #"fas fa-fw fa-envelope-square"
+      url: #"mailto:billyrick@rick.com"
+    - label: #"Website"
+      icon: #"fas fa-fw fa-link"
+      url: #"https://thewhip.com"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/hansthered"
+
 hasu:
   name        : Hasu
   bio         : "Independent cryptocurrency researcher. DMs are open."
@@ -332,6 +377,22 @@ jeffdorman:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/jdorman81/"
+
+jesselawler:
+  name        : Jesse Lawler
+  bio         : "Podcast host @SmartDrugSmarts
+. Writer of code, opinions, jaunty limericks. I #VirtueSignal by overindulging my cat. Death threats in English only, please. 🙂"
+  avatar      : # "/assets/images/bio-photo-2.jpg"
+  links:
+    - label: # "Email"
+      icon: #"fas fa-fw fa-envelope-square"
+      url: #"mailto:billyrick@rick.com"
+    - label: #"Website"
+      icon: #"fas fa-fw fa-link"
+      url: #"https://thewhip.com"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/Lawlerpalooza"
 
 joerodgers:
   name        : Joe Rodgers

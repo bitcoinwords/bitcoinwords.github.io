@@ -7,6 +7,7 @@ author: jamesobeirne
 tags:
   - James O'Beirne
   - CY19 Q3
+  - Economics
 
 excerpt: James O'Beirne shares his opinion on where we are headed financially. Posted August 24, 2019.
 
@@ -15,7 +16,7 @@ defaults:
       type: posts
 ---
 
-# Bitcoin for safety
+# [Bitcoin for safety](https://jameso.be/2019/08/24/bitcoin-is-for-this.html)
 ### By [James O'Beirne](https://twitter.com/jamesob) 
 ### Posted August 24, 2019
 

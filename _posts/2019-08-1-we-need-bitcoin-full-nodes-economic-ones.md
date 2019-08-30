@@ -7,6 +7,10 @@ author: stadicus
 tags:
   - Stadicus
   - CY19 Q3
+  - Game Theory
+  - Consensus
+  - Validate
+  - Don't Trust, Verify
 
 excerpt: Stadicus makes the case for more full nodes. Posted August 1, 2019.
 
