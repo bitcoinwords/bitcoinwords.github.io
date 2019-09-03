@@ -18,7 +18,7 @@ defaults:
       type: posts
 ---
 
-# Tweet: Bitcoin Positive Feedback Loops
+# [Tweet: Bitcoin Positive Feedback Loops](https://twitter.com/bendavenport/status/1166739665904291840)
 ### By [Ben Davenport](https://twitter.com/bendavenport)
 ### Posted August 28, 2019
 
