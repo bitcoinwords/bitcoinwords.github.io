@@ -11,7 +11,7 @@ tags:
   - Game Theory
   - Positive Feedback Loop
 
-excerpt: enter excerpt here
+excerpt: Ben Davenport diagrams the multiple Bitcoin positive feedback loops. Posted August 28, 2019.
 
 defaults:
   - scope:
