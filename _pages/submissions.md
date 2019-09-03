@@ -1,5 +1,6 @@
 ---
 permalink: /submissions/
+title: "Submissions"
 defaults:
   # _pages
   - scope:
