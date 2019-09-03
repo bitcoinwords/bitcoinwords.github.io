@@ -120,6 +120,21 @@ beautyon:
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/Beautyon_"
 
+bendavenport:
+  name        : Ben Davenport
+  bio         : "Co-founder @ BitGo, Beluga. Angel investor."
+  avatar      : # "/assets/images/bio-photo-2.jpg"
+  links:
+    - label: # "Email"
+      icon: #"fas fa-fw fa-envelope-square"
+      url: #"mailto:billyrick@rick.com"
+    - label: #"Website"
+      icon: #"fas fa-fw fa-link"
+      url: #"https://thewhip.com"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/bendavenport"
+
 berkessels:
   name        : Ber Kessels
   bio         : "@berkes@todon.nl  Open Source Developer w Ruby & #Rails, #Ethereum Blockchain. #Beekeeper. #Linux user, #Hacker & #Maker. Loves Bitcoin."
