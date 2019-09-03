@@ -7,7 +7,9 @@ author: bendavenport
 tags:
   - Ben Davenport
   - CY19 Q3
-  - 
+  - Tweet
+  - Game Theory
+  - Positive Feedback Loop
 
 excerpt: enter excerpt here
 
