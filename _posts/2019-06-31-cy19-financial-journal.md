@@ -1472,6 +1472,11 @@ Special thanks to David Puell.
 ### By [PlanB](https://medium.com/@100trillionUSD) [@100trillionUSD](https://twitter.com/100trillionUSD)
 ### Posted March 22, 2019
 
+![](/assets/images/cy19q1/cy19q1m3/planb-qr.png){: .align-center}
+*Address: [1PRoNLcWHzM8DuKpGE4YM9hb1PjSEnWRpn](https://blockstream.info/address/1PRoNLcWHzM8DuKpGE4YM9hb1PjSEnWRpn)*
+
+**Signature (title is message): IFszV+izKMnmVmSlTIJYR6sEhAGbehh2aaFk84henG5NPCb33BxY8yZANVHUli/5RcgHhiAuGVrVfLwNBCDhqtI=**
+
 ### Introduction
 
 Satoshi Nakamoto published the bitcoin white paper 31/Oct 2008 [1], created the bitcoin genesis block 03/Jan 2009, and released the bitcoin code 08/Jan 2009. So begins a journey that leads to a $70bn bitcoin (BTC) market today.
