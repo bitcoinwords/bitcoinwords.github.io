@@ -1177,7 +1177,7 @@ _I developed the concept of Liveliness during 2018 and wrote the software to cal
 
 ***
 
-# Bitcoin Network Momentum
+# [Bitcoin Network Momentum](https://blog.goodaudience.com/bitcoin-network-momentum-a42346b2f0ce)
 ## A new leading indicator for Bitcoin price during its major market cycles
 ### [Philip Swift (@PositiveCrypto)](https://blog.goodaudience.com/@positivecrypto)
 ### October 18, 2018

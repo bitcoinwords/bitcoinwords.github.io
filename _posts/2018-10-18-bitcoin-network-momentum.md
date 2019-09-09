@@ -21,7 +21,7 @@ defaults:
       related: false
 ---
 
-# Bitcoin Network Momentum
+# [Bitcoin Network Momentum](https://blog.goodaudience.com/bitcoin-network-momentum-a42346b2f0ce)
 ## A new leading indicator for Bitcoin price during its major market cycles
 ### [Philip Swift (@PositiveCrypto)](https://blog.goodaudience.com/@positivecrypto)
 ### October 18, 2018
