@@ -11,6 +11,7 @@ tags:
   - TA
   - Finance
   - Indicator
+  - Financial Journal
 
 excerpt: Hans Hauge introduces 2 new Bitcoin indicators for technical analysis. Posted August 24, 2019.
 
