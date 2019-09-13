@@ -21,6 +21,11 @@ defaults:
       related: false
 ---
 
+**MVRV Z Metric** is featured in our **[2019 Financial Journal](https://cryptowords.github.io/cy19-financial-journal)** which includes articles that cover more than 23 Bitcoin indicators and metrics.
+{: .notice--info}
+
+***
+
 # [Introducing ... The Bitcoin "MVRV Z" Metric That Predicts Market Tops with 90%+ Accuracy](https://medium.com/@Awe_andWonder/introducing-the-bitcoin-mvrv-z-score-metric-that-predicts-market-tops-with-90-accuracy-89d90df043d7)
 ### By [Awe & Wonder](https://twitter.com/Awe_andWonder)
 ### Posted October 9, 2018
