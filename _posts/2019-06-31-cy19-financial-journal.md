@@ -42,6 +42,7 @@ This special journal is a collection of Bitcoin valuation models and indicators.
 * [On & Off-Chain Valuation Indicators](https://cryptowords.github.io/cy19-financial-journal#on--off-chain-valuation-indicators)
 
 
+
 [CY19 Financial Journal](/assets/publications/Crypto-Words-CY19-Financial-Journalv2.pdf){: .btn .btn--primary}
 
 # On-Chain Valuation Models 
