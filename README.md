@@ -17,5 +17,5 @@ Enter *Crypto Words*. Published independently, *Crypto Words* is a journal that 
 ## Editor
 The journal's founder and editor is Joe Rodgers. He currently works at [HPE](https://www.hpe.com/) and has 8 years of enterprise technology sales and marketing experience. He holds a BSBA in Marketing from [Christian Brothers University](https://www.cbu.edu/) located in Memphis, TN. Feel free to connect.  
 
-[Joe's Website](https://joe-rodgers.github.io){: .btn .btn--primary}
-[<i class="fab fa-twitter"></i> Twitter](https://twitter.com/_joerodgers){: .btn .btn--info} 
+[Joe's Website](https://joe-rodgers.github.io)
+[<i class="fab fa-twitter"></i> Twitter](https://twitter.com/_joerodgers)
