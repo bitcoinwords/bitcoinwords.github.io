@@ -1,6 +1,6 @@
 ---
-title: "Tweet: The Timeas They are a Chainging"
-permalink: "/" 
+title: "Tweet: The Times They are a Changing"
+permalink: "/tweet-the-times-are-a-changing" 
 
 author: mattwalsh
 
@@ -18,7 +18,7 @@ defaults:
       type: posts
 ---
 
-# [Tweet: The Times They are a Chainging](https://twitter.com/MattWalshInBos/status/1149321981730459653)
+# [Tweet: The Times They are a Changing](https://twitter.com/MattWalshInBos/status/1149321981730459653)
 ### By [Matt Walsh](https://twitter.com/MattWalshInBos)
 ### Posted July 11, 2019
 
