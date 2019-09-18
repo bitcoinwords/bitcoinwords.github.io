@@ -18,7 +18,7 @@ defaults:
       type: posts
 ---
 
-# [Tweet: The Timeas They are a Chainging](https://twitter.com/MattWalshInBos/status/1149321981730459653)
+# [Tweet: The Times They are a Chainging](https://twitter.com/MattWalshInBos/status/1149321981730459653)
 ### By [Matt Walsh](https://twitter.com/MattWalshInBos)
 ### Posted July 11, 2019
 
