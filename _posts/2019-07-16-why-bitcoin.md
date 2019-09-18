@@ -140,10 +140,10 @@ For starters, Bitcoin has No Terms of Service, No Privacy Policy, and No KYC/AML
 
 But most importantly, Bitcoin enables you to opt-out of the fiat currency and fractional reserve central banking system, by solving the core trust problems:
 
-✅ Security against inflation by using a fixed supply
-✅ Security against seizure by using keys to control funds
-✅ Privacy of payments by using pseudonymous identities
-✅ Freedom against censorship by using a peer to peer network
+* ✅ Security against inflation by using a fixed supply
+* ✅ Security against seizure by using keys to control funds
+* ✅ Privacy of payments by using pseudonymous identities
+* ✅ Freedom against censorship by using a peer to peer network
 
 # How does Bitcoin protect against Inflation?
 
