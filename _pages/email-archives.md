@@ -10,7 +10,13 @@ defaults:
       author_profile: true
 ---
 
-This archive looks crazy, I know. Journals are being created out of chronological order since we are archiving backwards too. I am also trying different headlines to improve open rates. 
+This archive looks crazy, I know. Journals are being created out of chronological order since we are archiving backwards too. I am also trying different headlines so there's no standardized subject on the emails. This is a work in progress and I appreciate your subscription. 
+
+If you are feeling generous and find value in this project, <strike>consider making a donation</strike> buying me a beer.
+
+[Donate 1000 Sats aka +/- $.10](https://paywall.link/to/dabbd){: .btn .btn--primary}
+
+[Other Donation Options](https://cryptowords.github.io/beer-fund/){: .btn .btn--primary}
 
 <style type="text/css">
 <!--
