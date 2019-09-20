@@ -10,11 +10,11 @@ defaults:
       author_profile: true
 ---
 
-# Archives
+This archive looks crazy, I know. Journals are being created out of chronological order since we are archiving backwards too. I am also trying different headlines to improve open rates. 
 
 <style type="text/css">
 <!--
-.display_archive {font-family: arial,verdana; font-size: 12px;}
+.display_archive {font-family: arial,verdana; font-size: 16px;}
 .campaign {line-height: 125%; margin: 5px;}
 //-->
 </style>
