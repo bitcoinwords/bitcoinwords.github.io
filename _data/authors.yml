@@ -687,6 +687,18 @@ roysheinfeld:
       url: #"mailto:cornelius@thewhip.com"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/SomsenRuben"
+
+rubensomsen:
+  name        : Ruben Somsen
+  bio         : "Founder of @SeoulBitcoin Meetup Co-host of @UnhashedPodcast ⚡️ Author of #statechains 🙃 Benign minimalist"
+  avatar      : #"/assets/images/bio-photo.jpg"
+  links:
+    - label: #"Email"
+      icon: #"fas fa-fw fa-envelope-square"
+      url: #"mailto:cornelius@thewhip.com"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/Breez_Tech"
 
 shaanray:
