@@ -126,6 +126,6 @@ Through giving ourselves over to the power of cryptography, and the majesty and 
 
 Through this action alone, any human may become sovereign over their wealth and privacy once again. With the true nature of what the common-wealth of law is rediscovered, _magnus ab integro seclorum nascitur ordo (the great series of ages begins anew.)_.
 
-> _"One day humanity will play with law just as children play with disused objects, not in order to restore them to their canonical use but to free them from it for good."_<cite> _— Giorgio Agambe_n</cite>
+> _"One day humanity will play with law just as children play with disused objects, not in order to restore them to their canonical use but to free them from it for good."_<cite> _— Giorgio Agamben</cite>
 
 ***
