@@ -14,9 +14,9 @@ This archive looks crazy, I know. Journals are being created out of chronologica
 
 If you are feeling generous and find value in this project, <strike>consider making a donation</strike> buying me a beer.
 
-[Donate 1000 Sats aka +/- $.10](https://paywall.link/to/dabbd){: .btn .btn--primary}
+[Donate 1000 Sats aka +/- $.10](https://paywall.link/to/dabbd){: .btn .btn--warning} [Other Donation Options](https://cryptowords.github.io/beer-fund/){: .btn .btn--info}
 
-[Other Donation Options](https://cryptowords.github.io/beer-fund/){: .btn .btn--primary}
+<br>
 
 <style type="text/css">
 <!--
