@@ -11,7 +11,7 @@ header:
     - label: "SUBSCRIBE NOW (FOR FREE)!"
       url: "https://mailchi.mp/2731ce628dba/cryptowordsnewsletter"
   caption: ""
-excerpt: "Bitcoin's Most Important History, Delivered Straight to Your Inbox"
+excerpt: "Bitcoin's Most Important Writings, Delivered Straight to Your Inbox"
 feature_row:
   - image_path: /assets/images/splash-about.png
     alt: "Read the Journals"
@@ -37,5 +37,7 @@ feature_row:
 ---
 
 [![](https://raw.githubusercontent.com/cryptowords/cryptowords.github.io/master/assets/images/reb-banner-2.png)](https://cryptowords.github.io/categories/journals/){: .align-center}
+
+<br>
 
 {% include feature_row %}
