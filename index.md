@@ -38,6 +38,6 @@ feature_row:
 
 Insert copy here
 
-![red-banner](/assets/images/sred-banner.png){: .align-center}
+![red-banner](/assets/images/red-banner.png){: .align-center}
 
 {% include feature_row %}
