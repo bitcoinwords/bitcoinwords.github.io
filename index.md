@@ -36,6 +36,6 @@ feature_row:
     btn_class: "btn--primary"
 ---
 
-![](/assets/images/red-banner-2.png){: .align-center}
+![](https://cryptowords.github.io/assets/images/red-banner-2.png){: .align-center}
 
 {% include feature_row %}
