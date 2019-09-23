@@ -36,6 +36,6 @@ feature_row:
     btn_class: "btn--primary"
 ---
 
-[![red-banner](/assets/images/site-images/red-banner.PNG)](https://cryptowords.github.io/categories/journals/)
+[![red-banner](/assets/images/site-images/red-banner.png)](https://cryptowords.github.io/categories/journals/)
 
 {% include feature_row %}
