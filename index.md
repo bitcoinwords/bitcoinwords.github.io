@@ -36,6 +36,6 @@ feature_row:
     btn_class: "btn--primary"
 ---
 
-![red-banner](/assets/images/red-banner-2.png){: .align-center}
+![](/assets/images/red-banner-2.png){: .align-center}
 
 {% include feature_row %}
