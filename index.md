@@ -11,14 +11,12 @@ header:
     - label: "SUBSCRIBE NOW (FOR FREE)!"
       url: "https://mailchi.mp/2731ce628dba/cryptowordsnewsletter"
   caption: ""
-excerpt: "Every month we publish a Bitcoin journal of curated blogs, tweets, and essays for a wide range of topics. You should subscribe - apparently it's pretty good."
-intro: 
-  - excerpt: "All signal, no noise. We're the best place to read about Bitcoin."
+excerpt: "Every month we publish a Bitcoin journal of curated blogs, tweets, and essays for a wide range of topics. You should subscribe   - apparently it's pretty good."
 feature_row:
   - image_path: /assets/images/splash-about.png
     alt: "Read the Journals"
     title: "Journals"
-    excerpt: "Crypto Words is on a mission to curate and archive the brightest commentary on Bitcoin. We're producing a monthly journal and just getting started."
+    excerpt: #"Crypto Words is on a mission to curate and archive the brightest commentary on Bitcoin. We're producing a monthly journal and just getting started."
     url: "https://cryptowords.github.io/categories/journals/"
     btn_label: "Read Journals"
     btn_class: "btn--primary"
