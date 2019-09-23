@@ -25,7 +25,7 @@ baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "cryptowords/cryptowords.github.io"
 teaser                   : "/assets/images/og-cryptowords.png"
 logo                     : "/assets/images/cryptowords88.png"
-masthead_title           : "A journal of Bitcoin commentary"
+masthead_title           : "A Monthly Bitcoin Journal"
 breadcrumbs              : true
 words_per_minute         : 200
 comments:
