@@ -1,5 +1,5 @@
 ---
-title: "Crypto Words // A journal of Bitcoin commentary"
+title: "All signal, no noise. We're the best place to read about Bitcoin."
 layout: splash
 permalink: /
 date: 2019-03-01
@@ -8,10 +8,10 @@ header:
   overlay_filter: "0.5"
   overlay_image: /assets/images/splash-header.png
   actions:
-    - label: "Subscribe"
+    - label: "SUBSCRIBE NOW (FOR FREE)!"
       url: "https://mailchi.mp/2731ce628dba/cryptowordsnewsletter"
   caption: ""
-excerpt: "We've been doing a Bitcoin only newsletter every month for the past year - curated blogs, tweets, and essays for a wide range of topics related to Bitcoin. There are a ton of really smart subscribers. You should sign up too - apparently it's pretty good."
+excerpt: "Every month we publish a Bitcoin journal of curated blogs, tweets, and essays for a wide range of topics. You should subscribe - apparently it's pretty good."
 intro: 
   - excerpt: "All signal, no noise. We're the best place to read about Bitcoin."
 feature_row:
