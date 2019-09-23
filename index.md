@@ -29,12 +29,12 @@ feature_row:
     btn_class: "btn--primary"
   - image_path: /assets/images/moon.png
     alt: "CY19 Financial Journal"
-    title: "CY19 Financial Journal"
+    title: "Bitcoin Financial Journal"
     excerpt: #"A comprehensive collection of on and off chain indicators and valuation models for Bitcoin."
     url: "https://cryptowords.github.io/cy19-financial-journal"
     btn_label: "Read the Financial Journal"
     btn_class: "btn--primary"
-feature_row4:
+#feature_row4:
   - image_path: /assets/images/splash-journal-example.PNG
     alt: "Journal Example Images"
     title: "A Beautiful Monthly Bitcoin Journal"
