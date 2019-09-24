@@ -41,3 +41,5 @@ feature_row:
 <br>
 
 {% include feature_row %}
+
+[![](/assets/images/journal-example.png)](https://cryptowords.github.io/categories/journals/){: .align-center}
