@@ -6,6 +6,7 @@ author_profile: true
 
 ---
 
+![](/assets/images/tags.PNG){: .align-center}
 All posts for _Crypto Words_ are found below. Browse by tag on this page or head head over to the [chronological posts page](https://cryptowords.github.io/categories/posts/).
 
 Posts are randomly added as we come across them and tags are a constant work in progress.
