@@ -3,7 +3,10 @@ title: "Posts by Tag"
 permalink: /tags/
 layout: tags
 author_profile: true
-
+header:
+  overlay_image: /assets/images/tags.PNG
+  overlay_filter: #0.5 # same as adding an opacity of 0.5 to a black background
+  caption: #"Photo credit: [**Unsplash**](https://unsplash.com)"
 ---
 
 All posts for _Crypto Words_ are found below. Browse by tag on this page or head head over to the [chronological posts page](https://cryptowords.github.io/categories/posts/).
