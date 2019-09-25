@@ -439,6 +439,21 @@ jamesonlopp:
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/lopp"
 
+jared:
+  name        : Jared
+  bio         : "Here to share my thoughts & ideas concerning cryptocurrencies. Hoping to learn & digest meaningful content that will expand my knowledge and thought process."
+  avatar      : # "/assets/images/bio-photo-2.jpg"
+  links:
+    - label: # "Email"
+      icon: #"fas fa-fw fa-envelope-square"
+      url: #"mailto:billyrick@rick.com"
+    - label: "Medium"
+      icon: "fas fa-fw fa-link"
+      url: "https://blog.goodaudience.com/@Jared_J2"
+    - label: #"Twitter"
+      icon: #"fab fa-fw fa-twitter-square"
+      url: #"https://twitter.com/lopp"
+
 jeffdorman:
   name        : Jeff Dorman
   bio         : "CIO @arca | Former COO of Harvest Exchange | Former Lehman, Merrill, Citadel | Huge Cleveland Sports Fan"
