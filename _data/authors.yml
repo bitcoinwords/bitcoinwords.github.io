@@ -331,6 +331,21 @@ georgioskonstantopoulos:
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/gakonst"
 
+giacomozucco:
+  name        : Giacomo Zucco
+  bio         : "Giacomo Zucco is a Bitcoin enthusiast, entrepreneur and educator. He is active with the BHB.network and Bcademy. He believes in free speech, free defence, free finance. They often call him "toxic", but he's actually quite nice when you get to know him better."
+  avatar      : # "/assets/images/bio-photo-2.jpg"
+  links:
+    - label: # "Email"
+      icon: #"fas fa-fw fa-envelope-square"
+      url: #"mailto:billyrick@rick.com"
+    - label: #"Website"
+      icon: #"fas fa-fw fa-link"
+      url: #"https://thewhip.com"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/giacomozucco"
+
 gigi:
   name        : Gigi
   bio         : "Bitcoin is love, bitcoin is life. Currently writing words, soon back at writing code. Creator of http://21lessons.com and http://bitcoin-resources.com."

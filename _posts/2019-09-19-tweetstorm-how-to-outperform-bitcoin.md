@@ -9,7 +9,7 @@ tags:
   - CY19 Q3
   - Financial
 
-excerpt: enter excerpt here
+excerpt: Michiel Lescrauwaet rolls out his tehesis on how to outperform Bitcoin. Posted September 19, 2019.
 
 defaults:
   - scope:
