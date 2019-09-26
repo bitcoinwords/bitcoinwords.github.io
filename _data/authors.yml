@@ -361,6 +361,21 @@ hanshauge:
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/hansthered"
 
+haroldchristopherburger:
+  name        : Harold Christopher Burger
+  bio         : "Entrepreneur, engineer, bitcoin optimist. Anti-communist, anti-Keynesian, anti-shitcoins."
+  avatar      : # "/assets/images/bio-photo-2.jpg"
+  links:
+    - label: # "Email"
+      icon: #"fas fa-fw fa-envelope-square"
+      url: #"mailto:billyrick@rick.com"
+    - label: #"Website"
+      icon: #"fas fa-fw fa-link"
+      url: #"https://thewhip.com"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/hcburger1"
+
 hasu:
   name        : Hasu
   bio         : "Independent cryptocurrency researcher. DMs are open."
