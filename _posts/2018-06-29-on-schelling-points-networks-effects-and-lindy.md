@@ -5,6 +5,10 @@ permalink: "/on-schelling-points-networks-effects-and-lindy"
 tags:
   - Willem Van Den Bergh
   - CY18 Q2
+  - Game Theory
+  - Network Effects
+  - Schelling Point
+  - Lindy Effect
 
 excerpt: Willem Van Den Bergh explains why schelling point, network effects, and Lindy effects make Bitcoin so strong. Posted June 29, 2018.
 
