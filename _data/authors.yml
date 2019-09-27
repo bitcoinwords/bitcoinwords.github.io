@@ -530,6 +530,21 @@ joerodgers:
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/_joerodgers/"
 
+knutsvanholm:
+  name        : Knut Svanholm
+  bio         : "Author of Bitcoin: Sovereignty through mathematics"
+  avatar      : # "/assets/images/bio-photo-2.jpg"
+  links:
+    - label: # "Email"
+      icon: #"fas fa-fw fa-envelope-square"
+      url: #"mailto:billyrick@rick.com"
+    - label: #"Website"
+      icon: #"fas fa-fw fa-link"
+      url: #"https://thewhip.com"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/knutsvanholm"
+
 lucasnuzzi:
   name        : Lucas Nuzzi
   bio         : "Dir. of Technology Research @DAR_Crypto
@@ -857,6 +872,21 @@ suzhu:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/zhusu"
+
+tamasblummer:
+  name        : Tamas Blummer
+  bio         : "Bitcoin Developer since 2012 currently @ rust-bitcoin, former: CLA @ Digital Asset Holdings, VP @ CoinTerra, CEO @ Bits of Proof"
+  avatar      : # "/assets/images/bio-photo-2.jpg"
+  links:
+    - label: # "Email"
+      icon: #"fas fa-fw fa-envelope-square"
+      url: #"mailto:billyrick@rick.com"
+    - label: #"Website"
+      icon: #"fas fa-fw fa-link"
+      url: #"https://thewhip.com"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/TamasBlummer"
 
 tobiashuber:
   name        : Tobias Huber
