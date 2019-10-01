@@ -21,11 +21,6 @@ defaults:
 # [A Note On Variance in Bitcoin Mining](https://medium.com/coinshares/a-note-on-variance-in-bitcoin-mining-43827c2569bc)
 ### By [Christopher Bendiksen](https://twitter.com/C_Bendiksen)
 ### Posted September 25, 2019
-[![Christopher Bendiksen](https://miro.medium.com/fit/c/54/54/1*-Zy7S4oIDXnsf7lzjxs83Q.jpeg)](https://medium.com/@cbendiksen?source=post_page-----43827c2569bc----------------------)
-
-[Christopher Bendiksen](https://medium.com/@cbendiksen?source=post_page-----43827c2569bc----------------------)
-
-[Sep 25](https://medium.com/coinshares/a-note-on-variance-in-bitcoin-mining-43827c2569bc?source=post_page-----43827c2569bc----------------------) · 6 min read
 
 It doesn’t take much to create FUD in the Bitcoin space, intentional or not. But before we get all worked up over scary graphs, let’s all sit down for a second and look at how things actually work.
 
