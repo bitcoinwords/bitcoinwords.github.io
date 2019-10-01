@@ -225,6 +225,21 @@ caitlinlong:
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/CaitlinLong_"
 
+christopherbendiksen:
+  name        : Christopher Bendiksen
+  bio         : "Endlessly curious. Head of Research at @coinsharesco. Likes Bitcoin, most plants and history. Opinions are my own. Nothing I write is financial advice."
+  avatar      : # "/assets/images/bio-photo-2.jpg"
+  links:
+    - label: # "Email"
+      icon: #"fas fa-fw fa-envelope-square"
+      url: #"mailto:billyrick@rick.com"
+    - label: #"Website"
+      icon: #"fas fa-fw fa-link"
+      url: #"https://thewhip.com"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/C_Bendiksen"
+
 danheld:
   name        : Dan Held
   bio         : "Dan Held the Hodler"
@@ -786,7 +801,7 @@ roysheinfeld:
       url: #"mailto:cornelius@thewhip.com"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/SomsenRuben"
+      url: "https://twitter.com/Breez_Tech"
 
 rubensomsen:
   name        : Ruben Somsen
