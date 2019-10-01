@@ -100,8 +100,7 @@ FUD isn’t always intentionally generated, but it is FUD nonetheless.
 
 * * *
 
-Disclaimer
-==========
+## Disclaimer
 
 _Please note that this Blog Post is provided on the basis that the recipient accepts the following conditions relating to the provision of the same (including on behalf of their respective organisation)._
 
