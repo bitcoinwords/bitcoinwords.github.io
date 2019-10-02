@@ -5,6 +5,10 @@ permalink: "/crypto-voices-2019-q1-global-monetary-base"
 tags:
   - Crypto Voices
   - CY19 Q2
+  - Report
+  - Money
+  - Monetary Policy
+  - Economics
 
 excerpt: Crypto Voices publishes their quarterly look at the Global Monetary Base. Posted May 22, 2019. 
 
@@ -20,6 +24,11 @@ defaults:
       share: true
       related: false
 ---
+
+**Read This First** Consider browsing our [journals archive](https://cryptowords.github.io/categories/journals/) and be sure to [subscribe](https://mailchi.mp/2731ce628dba/cryptowordsnewsletter) to our newsletter and follow us on [Twitter](https://twitter.com/_cryptowords).
+{: .notice--info}
+
+***
 
 # [Crypto Voices 2019 Q1 Global Monetary Base](https://twitter.com/crypto_voices/status/1131189757554384901)
 ### By [Crypto Voices](https://twitter.com/crypto_voices)
