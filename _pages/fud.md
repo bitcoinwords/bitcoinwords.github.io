@@ -16,7 +16,7 @@ defaults:
 <div id="tippin-button" data-dest="_joerodgers"></div>
 <script src="https://tippin.me/buttons/tip.js" type="text/javascript"></script>
 
-
+<br>
 
 | Cover | Month | Payment |
 |:--------|:-------:|--------:|
