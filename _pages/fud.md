@@ -27,6 +27,6 @@ defaults:
 | ![June Cover](/assets/images/covers/CY19M6-cover-500.png) | June 2019   | Insert payment block here |
 | ![May Cover](/assets/images/covers/CY19M5-cover-500.png) | May 2019   | Insert payment block here |
 | ![April Cover](/assets/images/covers/CY19Q2M4-cover-500.png) | April 2019   | Insert payment block here |
-| ![March Cover](/assets/images/covers/CY19Q1M3M7-cover-500.png) | March 2019   | Insert payment block here |
+| ![March Cover](/assets/images/covers/CY19Q1M3-cover-500.png) | March 2019   | Insert payment block here |
 | ![February Cover](/assets/images/covers/CY19Q1M2-cover-500.png) | February 2019   | Insert payment block here |
 | ![January Cover](/assets/images/covers/CY19Q1M1-cover-500.png) | January 2019   | Insert payment block here |
