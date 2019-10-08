@@ -18,6 +18,10 @@ defaults:
 
 <br>
 
+***
+
+**insert text here**
+
 | Month | Cover | Payment |
 |:--------|:-------:|--------:|
 | September 2019 | ![September Cover](/assets/images/covers/CY19M9-cover-500.png) | Insert payment block here |
