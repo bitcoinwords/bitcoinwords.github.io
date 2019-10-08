@@ -18,15 +18,19 @@ defaults:
 
 <br>
 
-| Cover | Month | Payment |
+| Month | Cover | Payment |
 |:--------|:-------:|--------:|
-| ![September Cover](/assets/images/covers/CY19M9-cover-500.png) | September 2019   | Insert payment block here |
-| ![August Cover](/assets/images/covers/CY19M8-cover-500.png) | August 2019   | Insert payment block here |
-| ![August Cover](/assets/images/covers/CY19M8-cover-500.png) | August 2019   | Insert payment block here |
-| ![July Cover](/assets/images/covers/CY19M7-cover-500.png) | July 2019   | Insert payment block here |
-| ![June Cover](/assets/images/covers/CY19M6-cover-500.png) | June 2019   | Insert payment block here |
-| ![May Cover](/assets/images/covers/CY19M5-cover-500.png) | May 2019   | Insert payment block here |
-| ![April Cover](/assets/images/covers/CY19Q2M4-cover-500.png) | April 2019   | Insert payment block here |
-| ![March Cover](/assets/images/covers/CY19Q1M3-cover-500.png) | March 2019   | Insert payment block here |
-| ![February Cover](/assets/images/covers/CY19Q1M2-cover-500.png) | February 2019   | Insert payment block here |
-| ![January Cover](/assets/images/covers/CY19Q1M1-cover-500.png) | January 2019   | Insert payment block here |
+| September 2019 | ![September Cover](/assets/images/covers/CY19M9-cover-500.png) | Insert payment block here |
+| August 2019 | ![August Cover](/assets/images/covers/CY19M8-cover-500.png) | Insert payment block here |
+| August 2019 | ![August Cover](/assets/images/covers/CY19M8-cover-500.png) | Insert payment block here |
+| July 2019 | ![July Cover](/assets/images/covers/CY19M7-cover-500.png) | Insert payment block here |
+| June 2019 | ![June Cover](/assets/images/covers/CY19M6-cover-500.png) | Insert payment block here |
+| May 2019 | ![May Cover](/assets/images/covers/CY19M5-cover-500.png) | Insert payment block here |
+| April 2019 | ![April Cover](/assets/images/covers/CY19Q2M4-cover-500.png) | Insert payment block here |
+| March 2019 | ![March Cover](/assets/images/covers/CY19Q1M3-cover-500.png) | Insert payment block here |
+| February 2019 | ![February Cover](/assets/images/covers/CY19Q1M2-cover-500.png) | Insert payment block here |
+| January 2019 | ![January Cover](/assets/images/covers/CY19Q1M1-cover-500.png) | Insert payment block here |
+
+***
+
+<br>
