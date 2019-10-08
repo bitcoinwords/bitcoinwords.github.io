@@ -1,5 +1,5 @@
 ---
-permalink: /test/
+permalink: /testy/
 title: "Test Page"
 
 # header:
