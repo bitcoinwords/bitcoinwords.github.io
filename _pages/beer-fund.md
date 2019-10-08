@@ -11,7 +11,7 @@ defaults:
       author_profile: true
 ---
 
-The posts and journals published here have been carefully curated and crafted as a true labor of love. If you've found any of this content useful here's how to show your thanks and keep the project going.
+The posts and journals published here have been carefully curatedgity and crafted as a true labor of love. If you've found any of this content useful here's how to show your thanks and keep the project going.
 
 The costs of the journal are met through donations, which are invited in any amount.
 
@@ -45,3 +45,8 @@ We publish our journal monthly and share it via Twitter and via newsletter. Cons
 <i class="fas fa-check-square"></i> We will only deliver what is promised.
 
 [Subscribe](https://mailchi.mp/2731ce628dba/cryptowordsnewsletter){: .btn .btn--primary}
+
+<br>
+
+<div id="tippin-button" data-dest="_joerodgers"></div>
+<script src="https://tippin.me/buttons/tip.js" type="text/javascript"></script>
