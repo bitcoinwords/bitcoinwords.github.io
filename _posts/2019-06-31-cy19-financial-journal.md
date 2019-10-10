@@ -1,5 +1,5 @@
 ---
-title: "CY19 Financial Journal"
+title: "2019 Bitcoin Financial Journal"
 permalink: "/cy19-financial-journal" 
 
 header:
@@ -7,7 +7,7 @@ header:
   overlay_image: /assets/images/covers/Crypto-Words-CY19-Financial-Journal-cover-header.png
   overlay_filter: 0.50
   actions:
-    - label: "Download CY19 Financial Journal"
+    - label: "Download 2019 Bitcoin Financial Journal"
       url: "/assets/publications/Crypto-Words-CY19-Financial-Journalv2.pdf"
 
 category: "special-journals"
@@ -32,14 +32,21 @@ defaults:
       related: false
 ---
 
-# About CY19 Financial Journal
-This special journal is a collection of Bitcoin valuation models and indicators. Special thanks to [Adam Taché](https://twitter.com/Adam_Tache) for your epic tweetstorms collecting these models. 
+# About 2019 Bitcoin Financial Journal
+[![2019 Bitcoin Financial Journal Cover](/assets/images/covers/Crypto-Words-CY19-Financial-Journal-cover-150.png "CY19 August Journal Cover")](/assets/publications/Crypto-Words-CY19-Financial-Journalv2.pdf){: .align-left} This special journal is a collection of Bitcoin valuation models and indicators. Special thanks to [Adam Taché](https://twitter.com/Adam_Tache) for your epic tweetstorms collecting these models. 
 
+ *Crypto Words* is a monthly journal of Bitcoin commentary. For the uninitiated, getting up to speed on Bitcoin can seem daunting. Content is scattered across the internet, in some cases behind paywalls, and content has been lost forever. That’s why we made this journal, to preserve and further the understanding of Bitcoin.
 
-![](/assets/images/covers/Crypto-Words-CY19-Financial-Journal-cover-150.png){: .align-left}
-## Financial Journal Sections:
-* [On-Chain Valuation Models](https://cryptowords.github.io/cy19-financial-journal#on-chain-valuation-models)
-* [On & Off-Chain Valuation Indicators](https://cryptowords.github.io/cy19-financial-journal#on--off-chain-valuation-indicators)
+[Download 2019 Bitcoin Financial Journal Cover](/assets/publications/Crypto-Words-CY19-Financial-Journalv2.pdf){: .btn .btn--primary}
+
+**Remember, if you see something, say something. Send us your favorite Bitcoin commentary.**
+
+If you find this journal useful, consider supporting _Crypto Words_ by <strike>making a donation</strike> buying us a beer.
+
+[Beer Fund](https://cryptowords.github.io/beer-fund/){: .btn .btn--success}
+
+***
+
 
 <br>
 
