@@ -21,7 +21,7 @@ defaults:
       related: false
 ---
 
-**MVRV Z Metric** is featured in our **[2019 Financial Journal](https://cryptowords.github.io/cy19-financial-journal)** which includes articles that cover more than 23 Bitcoin indicators and metrics.
+**Donate 10,000 sats to download and get the MVRV Z Metric plus 19 other Bitcoin Indicators in our Bitcoin Financial Journal pdf // [Donate + Download Here](https://pywl.to/financial).**
 {: .notice--info}
 
 ***
