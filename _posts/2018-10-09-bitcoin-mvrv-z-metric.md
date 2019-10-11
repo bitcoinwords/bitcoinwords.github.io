@@ -22,7 +22,7 @@ defaults:
 ---
 
 **Donate 10,000 sats to download and get the MVRV Z Metric plus 19 other Bitcoin Indicators in our Bitcoin Financial Journal pdf // [Donate + Download Here](https://pywl.to/financial).**
-{: .notice--info}
+{: .notice--warning}
 
 ***
 
