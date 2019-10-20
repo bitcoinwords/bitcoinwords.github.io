@@ -31,3 +31,8 @@ The journal's founder and editor is Joe Rodgers. He currently works at [HPE](htt
 
 [Joe's Website](https://joe-rodgers.github.io){: .btn .btn--primary}
 [<i class="fab fa-twitter"></i> Twitter](https://twitter.com/_joerodgers){: .btn .btn--info} 
+
+## For a deeper dive down the rabbit hole...
+Check out Bitcoin-Only. It is a curated repo of strictly "BITCOIN ONLY" products, services, content, and more. You won't be disappointed.
+
+[![](/assets/images/bo.png)](https://bitcoin-only.com/)
