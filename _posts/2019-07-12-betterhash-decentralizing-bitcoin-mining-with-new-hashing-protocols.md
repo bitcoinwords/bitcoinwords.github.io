@@ -17,7 +17,6 @@ defaults:
 
 {% include donation.md %}
 
-
 # [BetterHash: Decentralizing Bitcoin Mining With New Hashing Protocols](https://medium.com/hackernoon/betterhash-decentralizing-bitcoin-mining-with-new-hashing-protocols-291de178e3e0)
 ## An Overview Of Mining Pool Exploits That BetterHash Disables
 ### By [StopAndDecrypt](https://twitter.com/StopAndDecrypt)
