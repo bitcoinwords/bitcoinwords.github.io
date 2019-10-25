@@ -1,1 +1,2 @@
-this is my donation include file.
+If you appreciate this cvurated content, consider making a donation in the amount of your choosing.
+<img src="https://paywall.link/to/donation" />
