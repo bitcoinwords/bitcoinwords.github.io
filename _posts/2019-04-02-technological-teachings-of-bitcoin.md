@@ -22,6 +22,8 @@ defaults:
       related: false
 ---
 
+{% include donation.md %}
+
 # [Technological Teachings of Bitcoin](https://medium.com/@dergigi/technological-teachings-of-bitcoin-20420b459417)
 ## What I've Learned From Bitcoin: Part III
 ### By [Gigi](https://medium.com/@dergigi)

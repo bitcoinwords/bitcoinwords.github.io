@@ -15,6 +15,8 @@ defaults:
       type: posts
 ---
 
+{% include donation.md %}
+
 # [Every Investment is Speculation - Move on!](https://www.ar.ca/blog/crypto-market-recap-07-29-19)
 ### By [Jeff Dorman](https://twitter.com/jdorman81/)
 ### Posted July 29, 2019

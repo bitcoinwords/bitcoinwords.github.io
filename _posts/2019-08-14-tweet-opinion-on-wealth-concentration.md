@@ -16,6 +16,8 @@ defaults:
       type: posts
 ---
 
+{% include donation.md %}
+
 # [Tweet: Opinion on Wealth Concentration](https://twitter.com/nic__carter/status/1161735348290035712)
 ### By [Nic Carter](https://twitter.com/nic__carter)
 ### Posted August 14, 2019

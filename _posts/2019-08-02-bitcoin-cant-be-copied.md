@@ -18,6 +18,8 @@ defaults:
       type: posts
 ---
 
+{% include donation.md %}
+
 # [Bitcoin Can't Be Copied](https://www.unchained-capital.com/blog/bitcoin-cant-be-copied/)
 ### By [Parker Lewis](https://twitter.com/parkeralewis)
 ### Posted August 2, 2019

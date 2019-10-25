@@ -32,6 +32,8 @@ defaults:
       related: false
 ---
 
+{% include donation.md %}
+
 # About 2019 Bitcoin Financial Journal
 [![2019 Bitcoin Financial Journal Cover](/assets/images/covers/Crypto-Words-CY19-Financial-Journal-cover-150.png "CY19 August Journal Cover")](/assets/publications/Crypto-Words-CY19-Financial-Journalv2.pdf){: .align-left} This special journal is a collection of Bitcoin valuation models and indicators. Special thanks to [Adam Taché](https://twitter.com/Adam_Tache) for your epic tweetstorms collecting these models. 
 

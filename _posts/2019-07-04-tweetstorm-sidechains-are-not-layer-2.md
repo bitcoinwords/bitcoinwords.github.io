@@ -15,6 +15,8 @@ defaults:
       type: posts
 ---
 
+{% include donation.md %}
+
 # [Tweetstorm:SIDECHAINS ARE NOT LAYER 2](https://twitter.com/gakonst/status/1146793685545304064)
 ### By [Georgios Konstantopoulos](https://mobile.twitter.com/gakonst)
 ### Posted July 4, 2019

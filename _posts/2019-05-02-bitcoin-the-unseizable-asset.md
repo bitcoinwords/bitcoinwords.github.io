@@ -22,6 +22,8 @@ defaults:
       related: false
 ---
 
+{% include donation.md %}
+
 # [Bitcoin - The Unseizable Asset](https://www.ar.ca/blog/bitcoin-the-unseizable-asset)
 ### By [Rayne Steinberg](https://www.ar.ca/blog/author/rayne-steinberg) May 2, 2019
 ### Posted May 2, 2019

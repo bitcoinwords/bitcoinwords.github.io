@@ -22,6 +22,8 @@ defaults:
       related: false
 ---
 
+{% include donation.md %}
+
 # [The Puell Multiple](https://medium.com/unconfiscatable/the-puell-multiple-bed755cfe358)
 ## A New Barometer of Bitcoin's Market Cycles
 ### By [cryptopoiesis](https://medium.com/@cryptopoiesis)

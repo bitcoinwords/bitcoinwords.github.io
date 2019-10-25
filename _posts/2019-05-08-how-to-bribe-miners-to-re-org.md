@@ -22,6 +22,7 @@ defaults:
       related: false
 ---
 
+{% include donation.md %}
 
 # [How to bribe miners to re-org?](https://medium.com/@tamas.blummer/how-to-bribe-miners-to-re-org-d48025cb3788)
 ### By [Tamas Blummer](https://medium.com/@tamas.blummer)

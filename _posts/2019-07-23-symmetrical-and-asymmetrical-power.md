@@ -15,6 +15,8 @@ defaults:
       type: posts
 ---
 
+{% include donation.md %}
+
 # [Symmetrical and asymmetrical power](https://oleganza.com/all/symmetrical-and-asymmetrical-power/)
 ### By [Oleg Andreev](https://twitter.com/oleganza/)
 ### Posted July 23, 2019

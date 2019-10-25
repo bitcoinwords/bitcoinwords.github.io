@@ -18,6 +18,8 @@ defaults:
       type: posts
 ---
 
+{% include donation.md %}
+
 # [The Encrypted Meaning of Crypto](http://cryptosovereignty.org/the-encrypted-meaning-of-crypto/)
 ## A very short etymology of the semantic hell that is ‘crypto’
 ### By [Erik Cason](https://twitter.com/Erikcason)

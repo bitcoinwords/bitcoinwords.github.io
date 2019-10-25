@@ -20,6 +20,8 @@ defaults:
       related: false
 ---
 
+{% include donation.md %}
+
 # [Cryptocurrency: The Canary in the Coal Mine](https://blog.goodaudience.com/cryptocurrency-the-canary-in-the-coal-mine-45ef520ca1c8)
 ## What Crypto Can Tell Us About Macro Markets in 2019
 ### By [Jill Carlson](https://blog.goodaudience.com/@jillcarlson)

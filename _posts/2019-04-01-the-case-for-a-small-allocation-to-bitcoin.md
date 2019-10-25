@@ -22,6 +22,8 @@ defaults:
       related: false
 ---
 
+{% include donation.md %}
+
 # [The case for a small allocation to Bitcoin](https://www.kanaandkatana.com/valuation-depot-contents/2019/4/11/the-case-for-a-small-allocation-to-bitcoin)
 ### By [Wences Casares](https://twitter.com/wences), CEO of Xapo
 ### Posted April 11, 2019

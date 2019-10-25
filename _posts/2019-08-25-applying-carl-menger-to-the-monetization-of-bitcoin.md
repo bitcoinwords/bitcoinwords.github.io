@@ -18,6 +18,8 @@ defaults:
       type: posts
 ---
 
+{% include donation.md %}
+
 # [Applying Carl Menger to the Monetization of Bitcoin](https://www.mcfloogle.com/2019/08/25/applying-carl-menger-to-the-monetization-of-bitcoin/)
 ### By [Rollo McFloogle](https://twitter.com/RolloMcFloogle)
 ### Posted August 25, 2019

@@ -22,6 +22,8 @@ defaults:
       related: false
 ---
 
+{% include donation.md %}
+
 # [Tweetstorm: Ari Paul on the reorg and it's feasibility](https://twitter.com/AriDavidPaul/status/1126095599449845761)
 ### By [Ari Paul](https://twitter.com/AriDavidPaul)
 ### Posted May 7, 2019

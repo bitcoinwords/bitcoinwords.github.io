@@ -21,6 +21,8 @@ defaults:
       related: false
 ---
 
+{% include donation.md %}
+
 # [Satoshi's vision for bitcoin as told by its predecessors](https://www.tonysheng.com/design-goals-bitcoin-predecessors)
 ### By [Tony Sheng](https://twitter.com/tonysheng)
 ### Posted May 28, 2019

@@ -20,6 +20,8 @@ defaults:
       related: false
 ---
 
+{% include donation.md %}
+
 # [Bitcoin: Two Parts Math, One Part Biology](https://medium.com/@hugonguyen/bitcoin-two-parts-math-one-part-biology-b45ef48a0422)
 ### By [Hugo Nguyen](https://medium.com/@hugonguyen)
 ### January 3, 2019

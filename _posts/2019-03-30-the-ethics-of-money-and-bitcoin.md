@@ -20,6 +20,8 @@ defaults:
       related: false
 ---
 
+{% include donation.md %}
+
 # [The Ethics of Money and Bitcoin](https://medium.com/@nicolasdorier/the-ethics-of-money-and-bitcoin-f6c4f568d9f9)
 ### By [Nicolas Dorier](https://medium.com/@nicolasdorier)
 ### Posted March 30, 2019

@@ -19,6 +19,8 @@ defaults:
       type: posts
 ---
 
+{% include donation.md %}
+
 # [Understanding (and Mitigating) Re-Orgs](https://medium.com/@pyskell/understanding-and-mitigating-re-orgs-921c7768fa18)
 ### By [Anthony Lusardi](https://twitter.com/pyskell)
 ### Posted May 21, 2019

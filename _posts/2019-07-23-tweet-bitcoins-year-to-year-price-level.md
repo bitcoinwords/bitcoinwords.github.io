@@ -15,6 +15,8 @@ defaults:
       type: posts
 ---
 
+{% include donation.md %}
+
 # [Tweet: Bitcoin's year to year price level](https://twitter.com/yassineARK/status/1153823398868373505)
 ### By [Yassine Elmandjra](https://twitter.com/yassineARK)
 ### Posted July 23, 2019

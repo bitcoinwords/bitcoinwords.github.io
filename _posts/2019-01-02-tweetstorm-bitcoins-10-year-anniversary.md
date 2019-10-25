@@ -20,6 +20,8 @@ defaults:
       related: false
 ---
 
+{% include donation.md %}
+
 # [Tweetstorm: Bitcoin's 10 Year Anniversary](https://twitter.com/real_vijay/status/1080615974884134912)
 ### By [Vijay Boyapati](https://twitter.com/real_vijay)
 ### Posted January 2, 2019

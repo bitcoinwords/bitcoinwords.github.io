@@ -17,6 +17,8 @@ defaults:
       type: posts
 ---
 
+{% include donation.md %}
+
 # [The Rise of the Sovereign Individual](https://medium.com/bull-bitcoin/the-rise-of-the-sovereign-individual-2201eee82f00)
 ## How power is re-aligning itself in an internet-native world
 ### By [Gigi](https://twitter.com/dergigi)

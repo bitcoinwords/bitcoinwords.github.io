@@ -24,6 +24,8 @@ defaults:
       related: false
 ---
 
+{% include donation.md %}
+
 # [A modest proposal regarding Bitcoin mining](https://medium.com/@nic__carter/a-modest-proposal-regarding-bitcoin-mining-b0d4b92a03ce)
 ### [Nic Carter](https://medium.com/@nic__carter)
 ### May 9, 2019

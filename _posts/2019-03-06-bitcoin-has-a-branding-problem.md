@@ -20,6 +20,7 @@ defaults:
       related: false
 ---
 
+{% include donation.md %}
 
 # [Bitcoin Has a Branding Problem — It's Evolution, Not Revolution](https://medium.com/coinshares/bitcoin-has-a-branding-problem-its-evolution-not-revolution-aa34fe5facfb)
 ## For technologists and historians, it may well be a revolution; but for everyone else — it's an evolution in personal finance.

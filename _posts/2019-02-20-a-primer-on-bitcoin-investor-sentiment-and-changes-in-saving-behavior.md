@@ -20,6 +20,8 @@ defaults:
       related: false
 ---
 
+{% include donation.md %}
+
 # [A Primer on Bitcoin Investor Sentiment and Changes in Saving Behavior](https://medium.com/@adamant_capital/a-primer-on-bitcoin-investor-sentiment-and-changes-in-saving-behavior-a5fb70109d32)
 ### By [Tuur Demeester](https://twitter.com/TuurDemeester) , [Tamás Blummer](https://twitter.com/tamasblummer) , and [Michiel Lescrauwaet](https://twitter.com/MLescrauwaet)
 ### Posted February 20, 2019

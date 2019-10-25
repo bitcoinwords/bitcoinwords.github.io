@@ -22,6 +22,7 @@ defaults:
       related: false
 ---
 
+{% include donation.md %}
 
 # [Bitcoin fundamentals continue to strengthen](https://offthechain.substack.com/p/bitcoin-fundamentals-continue-to)
 ### By Anthony Pompliano

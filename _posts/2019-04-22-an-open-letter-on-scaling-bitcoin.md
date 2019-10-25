@@ -22,6 +22,8 @@ defaults:
       related: false
 ---
 
+{% include donation.md %}
+
 # [An Open Letter On Scaling Bitcoin](https://medium.com/@_jayd3e/an-open-letter-on-scaling-bitcoin-7d63eff003d2)
 ### By [Joseph Dallago](https://medium.com/@_jayd3e)
 ### Posted April 22, 2019

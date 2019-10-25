@@ -22,6 +22,8 @@ defaults:
       related: false
 ---
 
+{% include donation.md %}
+
 # Why learn to program with Bitcoin's Lightning network?
 ### By [Pierre Rochard](https://medium.com/@pierre_rochard)
 ### Posted May 7, 2019

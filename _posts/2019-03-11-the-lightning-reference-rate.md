@@ -22,6 +22,8 @@ defaults:
       related: false
 ---
 
+{% include donation.md %}
+
 # [The Lightning Network Reference Rate](https://medium.com/@timevalueofbtc/the-lightning-network-reference-rate-98e41a9dadfa)
 ### [Nik Bhatia](https://medium.com/@timevalueofbtc)
 ### Posted March 11, 2019

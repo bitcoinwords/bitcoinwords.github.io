@@ -17,6 +17,8 @@ defaults:
       type: posts
 ---
 
+{% include donation.md %}
+
 # [Projection and Throwness](https://medium.com/@festina_lente_2/projection-and-throwness-8152b0e4b33f)
 ### By [The Bitcoin Observer](https://twitter.com/festina_lente_2)
 ### Posted August 11, 2019

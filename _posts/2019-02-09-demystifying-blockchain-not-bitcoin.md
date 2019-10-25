@@ -20,6 +20,8 @@ defaults:
       related: false
 ---
 
+{% include donation.md %}
+
 # [Demystifying Blockchain Not Bitcoin](https://medium.com/arca/demystifying-blockchain-not-bitcoin-faab58336dd1)
 ### By [David Nage](https://medium.com/@david_nage)
 ### February 9, 2019

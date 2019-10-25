@@ -21,6 +21,8 @@ defaults:
       related: false
 ---
 
+{% include donation.md %}
+
 # [Money, Banking, Bitcoin, Libra](https://medium.com/swlh/money-banking-bitcoin-libra-191183d5e825)
 ### By [Allen Farrington](https://medium.com/@allenfarrington)
 ### Posted June 22, 2019

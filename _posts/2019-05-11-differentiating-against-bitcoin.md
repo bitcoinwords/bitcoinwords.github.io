@@ -22,6 +22,7 @@ defaults:
       related: false
 ---
 
+{% include donation.md %}
 
 # [Differentiating Against Bitcoin](https://medium.com/@surja795/differentiating-against-bitcoin-ab56f54d5dc1)
 ### By [Sourabh](https://twitter.com/surja795)

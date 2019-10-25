@@ -20,6 +20,8 @@ defaults:
       related: false
 ---
 
+{% include donation.md %}
+
 # [Money, Bitcoin and Time: 1 of 3](https://medium.com/@breedlove22/money-bitcoin-and-time-part-1-of-3-b4f6bb036c04)
 ### By [Robert Breedlove](https://twitter.com/Breedlove22)
 ### Posted January 20, 2019

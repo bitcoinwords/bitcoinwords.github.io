@@ -22,6 +22,8 @@ defaults:
       related: false
 ---
 
+{% include donation.md %}
+
 # [Bitcoin: An insurance policy against the largest monetary and fiscal policy experiment in human history](https://www.theblockcrypto.com/2019/04/01/bitcoin-an-insurance-policy-against-the-largest-monetary-and-fiscal-policy-experiment-in-human-history/)
 ### By [Travis Kling](https://twitter.com/Travis_Kling)
 ### Posted April 1, 2019

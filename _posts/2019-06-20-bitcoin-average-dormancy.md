@@ -22,6 +22,8 @@ defaults:
       related: false
 ---
 
+{% include donation.md %}
+
 # [Bitcoin Average Dormancy](https://medium.com/adaptivecapital/bitcoin-average-dormancy-28f88ea4c2ce)
 ## New Views of a Classic On-Chain Metric
 ### By [David Puell](https://twitter.com/kenoshaking) & [Reginald Smith](https://twitter.com/SupremeVinegar)

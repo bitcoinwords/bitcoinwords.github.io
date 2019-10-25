@@ -22,6 +22,8 @@ defaults:
       related: false
 ---
 
+{% include donation.md %}
+
 # [Lightning is Only the Beginning: The Emerging Bitcoin Stack](https://medium.com/blockchain-capital-blog/lightning-is-only-the-beginning-the-emerging-bitcoin-stack-fb6d4aefb664)
 ### By [Spencer Bogart](https://medium.com/@Bitcom21)
 ### Posted April 25, 2019

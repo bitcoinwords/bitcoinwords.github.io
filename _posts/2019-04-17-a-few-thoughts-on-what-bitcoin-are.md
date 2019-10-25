@@ -22,6 +22,8 @@ defaults:
       related: false
 ---
 
+{% include donation.md %}
+
 # [A few thoughts on what bitcoins are](https://afterthoughts.substack.com/p/a-few-thoughts-on-what-bitcoins-are)
 ### By [Joe Kendzicky](https://twitter.com/jkendzicky)
 ### Posted April 17, 2019

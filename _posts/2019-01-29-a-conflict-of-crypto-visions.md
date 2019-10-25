@@ -21,6 +21,8 @@ defaults:
       related: false
 ---
 
+{% include donation.md %}
+
 # [A Conflict of Crypto Visions](https://medium.com/@arjunblj/a-conflict-of-crypto-visions-6f3e28066454)
 ## Why do we fight? A framework suggests deeper reasons
 ### By [Yassine Elmandjra](https://twitter.com/yassineARK) and [Arjun Balaji](https://twitter.com/arjunblj)

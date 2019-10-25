@@ -21,6 +21,8 @@ defaults:
       related: false
 ---
 
+{% include donation.md %}
+
 # [Bitcoin is the Antivirus (Mushroom Medicine) — Part 3/4](https://medium.com/@BrandonQuittem/bitcoin-is-the-antivirus-mushroom-medicine-part-3-4-fd1e6606a3f8)
 ### By [Brandon Quittem](https://medium.com/@BrandonQuittem)
 ### Posted June 20, 2019

@@ -20,6 +20,8 @@ defaults:
       type: posts
 ---
 
+{% include donation.md %}
+
 # [Tweetstorm: HODLer Index & HODLer Network](https://twitter.com/hansthered/status/1165326795568140289)
 ### By [Hans Hauge](https://twitter.com/hansthered)
 ### Posted August 24, 2019

@@ -15,10 +15,11 @@ defaults:
       type: posts
 ---
 
+{% include donation.md %}
+
 # [Bitcoin Layers](http://cryptowords.github.io/bitcoin-layers)
 ### By [Joe Rodgers](https://twitter.com/_joerodgers)
 ### Posted August 8, 2019
-
 
 The past few weeks there have been several good threads about Bitcoin’s scaling layers. Two camps have emerged as they try to define the stack. While this has no real implications and the market will ultimately decide on the best way to define layers, I wanted to put a post together to show the two camps.
 

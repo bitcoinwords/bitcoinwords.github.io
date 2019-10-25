@@ -15,6 +15,8 @@ defaults:
       type: posts
 ---
 
+{% include donation.md %}
+
 # [Pathways for DeFi on Bitcoin](https://medium.com/tokendaily/pathways-for-defi-on-bitcoin-a68563c4c95)
 ### By [Mohamed Fouda](https://twitter.com/MohamedFFouda)
 ### Posted July 10, 2019

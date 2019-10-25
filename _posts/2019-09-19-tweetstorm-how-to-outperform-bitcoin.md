@@ -16,6 +16,8 @@ defaults:
       type: posts
 ---
 
+{% include donation.md %}
+
 # [Tweetstorm: How to Outperform Bitcoin](https://twitter.com/MLescrauwaet/status/1174797479893749765)
 ### By [Michiel Lescrauwaet](https://twitter.com/MLescrauwaet)
 ### Posted September 19, 2019

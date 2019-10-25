@@ -22,6 +22,8 @@ defaults:
       related: false
 ---
 
+{% include donation.md %}
+
 # [Tweetstorm: Touchpoints](https://twitter.com/real_vijay/status/1135800393009573888)
 ### By [Vijay Boyapati](https://twitter.com/real_vijay)
 ### Posted June 4, 2019

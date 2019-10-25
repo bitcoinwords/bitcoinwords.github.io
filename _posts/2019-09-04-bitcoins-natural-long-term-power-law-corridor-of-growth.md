@@ -17,6 +17,8 @@ defaults:
       type: posts
 ---
 
+{% include donation.md %}
+
 # [Bitcoin’s natural long-term power-law corridor of growth](https://medium.com/coinmonks/bitcoins-natural-long-term-power-law-corridor-of-growth-649d0e9b3c94)
 ### By [Harold Christopher Burger](https://twitter.com/hcburger1)
 ### Posted September 4, 2019

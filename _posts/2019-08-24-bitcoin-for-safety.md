@@ -16,6 +16,8 @@ defaults:
       type: posts
 ---
 
+{% include donation.md %}
+
 # [Bitcoin for safety](https://jameso.be/2019/08/24/bitcoin-is-for-this.html)
 ### By [James O'Beirne](https://twitter.com/jamesob) 
 ### Posted August 24, 2019

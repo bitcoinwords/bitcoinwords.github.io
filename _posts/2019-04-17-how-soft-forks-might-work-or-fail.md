@@ -22,6 +22,8 @@ defaults:
       related: false
 ---
 
+{% include donation.md %}
+
 # How soft forks might work or fail
 ### By [Tamas Blummer](https://medium.com/@tamas.blummer)
 ### Posted April 17, 2019

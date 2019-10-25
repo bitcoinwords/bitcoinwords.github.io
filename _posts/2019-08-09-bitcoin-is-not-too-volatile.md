@@ -19,6 +19,8 @@ defaults:
       type: posts
 ---
 
+{% include donation.md %}
+
 # [Bitcoin Is Not Too Volatile](https://www.unchained-capital.com/blog/bitcoin-is-not-too-volatile/)
 ### By [Parker Lewis](https://twitter.com/parkeralewis)
 ### Posted August 9, 2019

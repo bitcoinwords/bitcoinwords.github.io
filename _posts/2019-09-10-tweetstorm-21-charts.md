@@ -19,6 +19,8 @@ defaults:
       type: posts
 ---
 
+{% include donation.md %}
+
 # [Tweetstorm:  21 Charts](https://twitter.com/hansthered/status/1171618889945366529)
 ### By [Hans Hauge](https://twitter.com/hansthered)
 ### Posted September 10, 2019

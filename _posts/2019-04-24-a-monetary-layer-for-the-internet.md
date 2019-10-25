@@ -22,6 +22,8 @@ defaults:
       related: false
 ---
 
+{% include donation.md %}
+
 # [A Monetary Layer for the Internet](http://thibm.net/a-monetary-layer-for-the-internet)
 ### By [Thib](https://twitter.com/thibm_)
 ### Posted April 24, 2019

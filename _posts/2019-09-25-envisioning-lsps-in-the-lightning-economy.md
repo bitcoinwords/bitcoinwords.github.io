@@ -22,6 +22,8 @@ defaults:
       type: posts
 ---
 
+{% include donation.md %}
+
 # [Envisioning LSPs in the Lightning Economy](https://medium.com/breez-technology/envisioning-lsps-in-the-lightning-economy-832b45871992)
 ### By [Roy Sheinfeld](https://twitter.com/Breez_Tech)
 ### Posted September 25, 2019

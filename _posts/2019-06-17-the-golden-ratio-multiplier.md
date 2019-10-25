@@ -21,6 +21,8 @@ defaults:
       related: false
 ---
 
+{% include donation.md %}
+
 # [The Golden Ratio Multiplier](https://medium.com/@positivecrypto/the-golden-ratio-multiplier-c2567401e12a)
 ## Unlocking the mathematically organic nature of Bitcoin adoption
 ### By [Philip Swift (@PositiveCrypto)](https://medium.com/@positivecrypto)

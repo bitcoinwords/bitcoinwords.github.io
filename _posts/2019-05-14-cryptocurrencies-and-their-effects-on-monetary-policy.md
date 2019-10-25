@@ -21,6 +21,8 @@ defaults:
       related: false
 ---
 
+{% include donation.md %}
+
 # [Cryptocurrencies & Their Effects On Monetary Policy](https://denizozzgur.blogspot.com/2019/05/cryptocurrencies-their-effects-on.html)
 ### By [Deniz Özgür](https://twitter.com/deniz_zgur)
 ### Posted May 14, 2019

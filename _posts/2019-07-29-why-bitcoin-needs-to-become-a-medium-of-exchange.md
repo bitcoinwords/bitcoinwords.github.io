@@ -15,6 +15,8 @@ defaults:
       type: posts
 ---
 
+{% include donation.md %}
+
 # [Why Bitcoin Needs to Become a Medium of Exchange](https://medium.com/breez-technology/why-bitcoin-needs-to-become-a-medium-of-exchange-80d5c9e1de65)
 ### By [Roy Sheinfeld](https://twitter.com/Breez_Tech)
 ### Posted July 29, 2019

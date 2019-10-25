@@ -18,6 +18,8 @@ defaults:
       type: posts
 ---
 
+{% include donation.md %}
+
 # [A Note On Variance in Bitcoin Mining](https://medium.com/coinshares/a-note-on-variance-in-bitcoin-mining-43827c2569bc)
 ### By [Christopher Bendiksen](https://twitter.com/C_Bendiksen)
 ### Posted September 25, 2019

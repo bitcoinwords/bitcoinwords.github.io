@@ -23,6 +23,8 @@ defaults:
       related: false
 ---
 
+{% include donation.md %}
+
 # [Skeptic's Guide to Bitcoin: Investing in Bitcoin](https://uncommoncore.co/investing-in-bitcoin/)
 ### By [Su Zhu](https://twitter.com/zhusu) & [Hasu](https://twitter.com/hasufl)
 ### Posted March 6, 2019

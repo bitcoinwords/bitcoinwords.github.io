@@ -20,6 +20,8 @@ defaults:
       related: false
 ---
 
+{% include donation.md %}
+
 # [Crypto Governance: The Startup vs. Nation-State Approach](https://medium.com/coinmonks/crypto-governance-the-startup-vs-nation-state-approach-d36df341878a)
 ### [Jack Purdy](https://medium.com/@jackpurdy)
 ### Posted February 25, 2019

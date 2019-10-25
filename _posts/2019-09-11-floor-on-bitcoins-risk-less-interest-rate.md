@@ -18,6 +18,8 @@ defaults:
       type: posts
 ---
 
+{% include donation.md %}
+
 # [Floor on Bitcoin’s risk less interest rate](https://medium.com/@tamas.blummer/floor-on-bitcoins-risk-less-interest-rate-43fb32cdd60)
 ### By [Tamas Blummer](https://twitter.com/TamasBlummer)
 ### Posted September 11, 2019

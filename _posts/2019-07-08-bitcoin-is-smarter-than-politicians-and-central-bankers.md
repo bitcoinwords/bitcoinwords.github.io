@@ -15,6 +15,8 @@ defaults:
       type: posts
 ---
 
+{% include donation.md %}
+
 # [Bitcoin Is Smarter Than Politicians And Central Bankers](https://offthechain.substack.com/p/bitcoin-is-smarter-than-politicians)
 ### By [Antony Pompliano](https://mobile.twitter.com/APompliano)
 ### Posted July 8, 2019

@@ -22,6 +22,8 @@ defaults:
       related: false
 ---
 
+{% include donation.md %}
+
 # [The Road to $1m per Bitcoin](https://medium.com/altcoin-magazine/the-road-to-1m-per-bitcoin-36c3cf6aa6c)
 ### By [Genesis Node](https://medium.com/@genesisnode) on [ALTCOIN MAGAZINE](https://medium.com/altcoin-magazine)
 ### Posted April 17, 2019

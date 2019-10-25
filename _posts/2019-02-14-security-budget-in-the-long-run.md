@@ -22,6 +22,8 @@ defaults:
       related: false
 ---
 
+{% include donation.md %}
+
 # [Security Budget in the Long Run](http://www.truthcoin.info/blog/security-budget/)
 ### By [Paul Sztorc](https://twitter.com/truthcoin)
 ### Posted February 14, 2019

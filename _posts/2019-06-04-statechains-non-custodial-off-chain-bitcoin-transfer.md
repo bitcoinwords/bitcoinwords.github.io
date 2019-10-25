@@ -19,6 +19,8 @@ defaults:
       type: posts
 ---
 
+{% include donation.md %}
+
 # [Statechains: Non-custodial Off-chain Bitcoin Transfer](https://medium.com/@RubenSomsen/statechains-non-custodial-off-chain-bitcoin-transfer-1ae4845a4a39)
 ### By [Ruben Somsen](https://twitter.com/SomsenRuben)
 ### Posted June 4, 2019

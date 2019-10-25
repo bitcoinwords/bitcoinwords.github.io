@@ -22,6 +22,8 @@ defaults:
       related: false
 ---
 
+{% include donation.md %}
+
 # [Unpacking Bitcoin's Assurances](https://medium.com/@nic__carter/unpacking-bitcoins-assurances-a3c98824d3f0)
 ## Dis-aggregating the system's guarantees
 ### By [Nic Carter](https://medium.com/@nic__carter)

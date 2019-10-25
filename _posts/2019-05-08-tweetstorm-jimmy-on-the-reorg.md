@@ -22,6 +22,8 @@ defaults:
       related: false
 ---
 
+{% include donation.md %}
+
 # [Tweetstorm: Jimmy on the reorg](https://twitter.com/jimmysong/status/1126127993208889344?s=09)
 ### By [Jimmy Song](https://twitter.com/jimmysong/)
 ### Posted May 8, 2019

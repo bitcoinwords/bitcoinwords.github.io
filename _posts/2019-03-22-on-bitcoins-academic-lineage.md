@@ -20,6 +20,8 @@ defaults:
       related: false
 ---
 
+{% include donation.md %}
+
 # [On Bitcoin's Academic Lineage](https://www.tokendaily.co/blog/on-bitcoin-s-academic-lineage)
 ### By [ElSeidy](https://www.tokendaily.co/user/Drmelseidy)
 ### Posted March 22, 2019

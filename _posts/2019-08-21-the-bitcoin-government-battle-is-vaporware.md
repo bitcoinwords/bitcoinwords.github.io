@@ -16,6 +16,8 @@ defaults:
       type: posts
 ---
 
+{% include donation.md %}
+
 # [The Bitcoin/Government Battle is Vaporware](https://hackernoon.com/the-bitcoingovernment-battle-is-vaporware-lipz3r54)
 ### By [Jesse Lawler](https://twitter.com/Lawlerpalooza)
 ### Posted August 21st, 2019

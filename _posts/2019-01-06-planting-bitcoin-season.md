@@ -22,6 +22,8 @@ defaults:
       related: false
 ---
 
+{% include donation.md %}
+
 # [Planting Bitcoin - Season (2/4)](https://www.danheld.com/blog/2019/1/6/planting-bitcoin-seasonnbsp24)
 ## Central Banks and the 2008 Financial Crisis
 ### By [Dan Held](https://twitter.com/danheld)

@@ -21,6 +21,8 @@ defaults:
       type: posts
 ---
 
+{% include donation.md %}
+
 # [Why Bitcoin?](https://medium.com/@wiz/why-bitcoin-359ada12629e)
 ### By [Wiz](https://twitter.com/wiz)
 ### Posted July 16, 2019

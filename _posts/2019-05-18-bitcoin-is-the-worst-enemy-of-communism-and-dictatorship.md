@@ -21,6 +21,8 @@ defaults:
       related: false
 ---
 
+{% include donation.md %}
+
 # [Bitcoin is the worst enemy of communism and dictatorship](https://medium.com/@merwanedr/bitcoin-is-the-worst-enemy-of-communism-and-dictatorship-dfe53fda1d52)
 ### By [Merwane Draï](https://twitter.com/Merwanedr)
 ### Posted May 18, 2019

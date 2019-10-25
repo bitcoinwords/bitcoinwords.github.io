@@ -18,6 +18,8 @@ defaults:
       type: posts
 ---
 
+{% include donation.md %}
+
 # [Tweetstorm: Performance Against Bitcoin](https://twitter.com/woonomic/status/1162793957379706886)
 ### By [Willy Woo](https://twitter.com/woonomic)
 ### Posted August 17, 2019

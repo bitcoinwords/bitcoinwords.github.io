@@ -22,6 +22,8 @@ defaults:
       related: false
 ---
 
+{% include donation.md %}
+
 # [Tweetstorm: Bitcoin rescues the human](https://twitter.com/_ConnerBrown_/status/1135739702462492674)
 ### By [Conner Brown](https://twitter.com/_ConnerBrown_)
 ### Posted June 3, 2019

@@ -20,6 +20,8 @@ defaults:
       related: false
 ---
 
+{% include donation.md %}
+
 # [Bitcoin's True Market Dominance](https://medium.com/@jpthor/bitcoins-market-dominance-a9693ff604bf)
 ## Analysing Bitcoin's true market dominance, taking liquidity into account. A new metric, Volume-Weighted Cap, is derived and shows that Bitcoin has Pareto dominance (>80%) on the market.
 ### By [JP Thor [ ₿ ⚡️]](https://medium.com/@jpthor)

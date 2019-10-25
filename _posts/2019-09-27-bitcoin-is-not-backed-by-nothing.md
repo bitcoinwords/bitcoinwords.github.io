@@ -19,6 +19,8 @@ defaults:
       type: posts
 ---
 
+{% include donation.md %}
+
 # [Bitcoin is Not Backed by Nothing](https://www.unchained-capital.com/blog/bitcoin-is-not-backed-by-nothing/)
 ### By [Parker Lewis](https://twitter.com/parkeralewis)
 ### Posted September 27, 2019

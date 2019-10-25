@@ -17,6 +17,8 @@ defaults:
       type: posts
 ---
 
+{% include donation.md %}
+
 # [When the Price of Bitcoin Rises](https://hackernoon.com/when-the-price-of-bitcoin-rises-1f2fd052beac)
 ### By [Beautyon](https://twitter.com/Beautyon_)
 ### Posted April 2nd 2019

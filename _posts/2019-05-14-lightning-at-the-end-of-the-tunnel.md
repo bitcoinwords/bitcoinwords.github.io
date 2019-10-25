@@ -21,6 +21,7 @@ defaults:
       related: false
 ---
 
+{% include donation.md %}
 
 # [Lightning at the End of the Tunnel](https://medium.com/breez-technology/lightning-at-the-end-of-the-tunnel-overcoming-bitcoins-ux-challenges-5738171c759e)
 ## Overcoming Bitcoin's UX Challenges

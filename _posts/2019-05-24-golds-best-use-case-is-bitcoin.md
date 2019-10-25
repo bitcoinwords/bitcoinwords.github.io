@@ -21,6 +21,8 @@ defaults:
       related: false
 ---
 
+{% include donation.md %}
+
 # [Golds Best Use Case Is Bitcoin](https://medium.com/@Crypto_Cribs/golds-best-use-case-is-bitcoin-2e3c35125b27)
 ### [Anthony Elia](https://medium.com/@Crypto_Cribs)
 ### Posted May 24, 2019

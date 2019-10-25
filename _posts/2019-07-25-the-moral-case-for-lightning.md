@@ -19,6 +19,8 @@ defaults:
       type: posts
 ---
 
+{% include donation.md %}
+
 # [The Moral Case for Lightning: A Global Private Payment Network](https://medium.com/@alexgladstein/the-moral-case-for-lightning-a-global-private-payment-network-9b232019a75b)
 ### By [Alex Gladstein](https://twitter.com/gladstein)
 ### Posted July 25, 2019

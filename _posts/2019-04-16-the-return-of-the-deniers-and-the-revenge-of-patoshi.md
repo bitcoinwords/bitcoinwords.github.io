@@ -22,6 +22,8 @@ defaults:
       related: false
 ---
 
+{% include donation.md %}
+
 # [The Return of the Deniers and the Revenge of Patoshi](https://bitslog.com/2019/04/16/the-return-of-the-deniers-and-the-revenge-of-patoshi/)
 ### By [Sergio Demian Lerner](https://twitter.com/SDLerner)
 ### Posted April 16, 2019

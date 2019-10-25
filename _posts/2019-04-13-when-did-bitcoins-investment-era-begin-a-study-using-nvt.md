@@ -22,6 +22,8 @@ defaults:
       related: false
 ---
 
+{% include donation.md %}
+
 # [When did Bitcoin's investment era begin? A study using NVT](https://woobull.com/bitcoins-early-investment-era-under-nvt-ratio/)
 ### By [Willy Woo](https://woobull.com/author/willywoo/)
 ### Posted April 13, 2019

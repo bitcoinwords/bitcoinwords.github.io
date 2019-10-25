@@ -23,6 +23,8 @@ defaults:
       related: false
 ---
 
+{% include donation.md %}
+
 # [Bitcoin's Security is Fine](https://blog.picks.co/bitcoins-security-is-fine-93391d9b61a8)
 ## **Fears over the declining block reward are overblown**
 ### By [Dan Held](https://blog.picks.co/@danhedl)

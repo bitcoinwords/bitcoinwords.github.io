@@ -23,6 +23,8 @@ defaults:
       related: false
 ---
 
+{% include donation.md %}
+
 # [Experiments on Cumulative Destruction](https://medium.com/@kenoshaking/experiments-on-cumulative-destruction-3a126fbd63b3)
 ## Two Approaches to Bring Bitcoindays Destroyed Into the Price Domain
 ### By [David Puell](https://twitter.com/kenoshaking) and [Willy Woo](https://twitter.com/woonomic)

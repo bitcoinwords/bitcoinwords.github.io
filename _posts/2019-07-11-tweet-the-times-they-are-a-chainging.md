@@ -18,6 +18,8 @@ defaults:
       type: posts
 ---
 
+{% include donation.md %}
+
 # [Tweet: The Times They are a Changing](https://twitter.com/MattWalshInBos/status/1149321981730459653)
 ### By [Matt Walsh](https://twitter.com/MattWalshInBos)
 ### Posted July 11, 2019

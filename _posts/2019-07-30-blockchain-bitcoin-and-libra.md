@@ -15,6 +15,8 @@ defaults:
       type: posts
 ---
 
+{% include donation.md %}
+
 # [Blockchain, Bitcoin, and Libra](https://blockchain.news/Post?id=Blockchain-Bitcoin--Libra-)
 ### By [Alex Svetski](https://twitter.com/AleksSvetski)
 ### Posted July 30, 2019

@@ -15,6 +15,8 @@ defaults:
       type: posts
 ---
 
+{% include donation.md %}
+
 # [Technical: A Brief History of Payment Channels: from Satoshi to Lightning Network](https://www.reddit.com/r/Bitcoin/comments/cc9psl/technical_a_brief_history_of_payment_channels/)
 ### By [Alan Manuel K. Gloria](https://www.reddit.com/user/almkglor/)
 ### July 12, 2019

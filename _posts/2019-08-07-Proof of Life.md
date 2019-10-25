@@ -16,6 +16,8 @@ defaults:
       type: posts
 ---
 
+{% include donation.md %}
+
 # [Proof of Life](https://medium.com/@dergigi/proof-of-life-fa28fdc002fe)
 ## Why Bitcoin is a Living Organism
 ### By [Gigi](https://twitter.com/dergigi)

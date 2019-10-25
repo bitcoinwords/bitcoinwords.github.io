@@ -23,6 +23,8 @@ defaults:
       related: false
 ---
 
+{% include donation.md %}
+
 # [Bitcoin is a hedge against the cashless society](https://medium.com/@hasufly/bitcoin-is-a-hedge-against-the-cashless-society-e98b5d8c68cc)
 ## When cash is gone, where will you turn to transact with a basic level of privacy? What money do you hold when negative interest rates start eating away at your bank account?
 ### By [Su Zhu](https://twitter.com/zhusu) and [Hasu](https://twitter.com/hasufl)

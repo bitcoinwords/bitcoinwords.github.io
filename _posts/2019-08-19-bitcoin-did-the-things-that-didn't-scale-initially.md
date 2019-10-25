@@ -18,6 +18,8 @@ defaults:
       type: posts
 ---
 
+{% include donation.md %}
+
 # [Bitcoin Did The Things That Didn't Scale Initially, Which Is Why It Remains The King Today](https://offthechain.substack.com/p/bitcoin-did-the-things-that-didnt)
 ### By [Anthony Pompliano](https://twitter.com/APompliano)
 ### Posted August 19, 2019

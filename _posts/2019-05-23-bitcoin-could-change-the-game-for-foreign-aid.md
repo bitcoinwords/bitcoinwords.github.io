@@ -21,6 +21,8 @@ defaults:
       related: false
 ---
 
+{% include donation.md %}
+
 # [Bitcoin could change the game for foreign aid](https://www.cnn.com/2019/05/23/perspectives/bitcoin-foreign-aid/index.html)
 ### By [Alex Gladstein](https://mobile.twitter.com/gladstein)
 ### Posted May 23, 2019

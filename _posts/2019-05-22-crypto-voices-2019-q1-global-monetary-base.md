@@ -25,6 +25,8 @@ defaults:
       related: false
 ---
 
+{% include donation.md %}
+
 **Read This First** Consider browsing our [journals archive](https://cryptowords.github.io/categories/journals/) and be sure to [subscribe](https://mailchi.mp/2731ce628dba/cryptowordsnewsletter) to our newsletter and follow us on [Twitter](https://twitter.com/_cryptowords).
 {: .notice--info}
 

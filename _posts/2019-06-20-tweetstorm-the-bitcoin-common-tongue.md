@@ -22,6 +22,8 @@ defaults:
       related: false
 ---
 
+{% include donation.md %}
+
 # [Tweetstorm: The Bitcoin Common Tongue](https://twitter.com/Breedlove22/status/1141567060847149056)
 ### By [Robert Breedlove](https://twitter.com/Breedlove22)
 ### Posted June 20, 2019

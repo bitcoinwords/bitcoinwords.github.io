@@ -22,6 +22,8 @@ defaults:
       related: false
 ---
 
+{% include donation.md %}
+
 # [BTC Long/Short MVRV difference indicates an end of the bear cycle](https://app.santiment.net/insights/read/btc-long%2Fshort-mvrv-difference-indicates-an-end-of-the-bear-cycle-377)
 ### By [valentin](https://twitter.com/valentinmihov)
 ### Posted May 7, 2019

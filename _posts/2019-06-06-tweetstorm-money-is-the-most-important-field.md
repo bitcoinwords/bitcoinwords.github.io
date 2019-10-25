@@ -24,6 +24,8 @@ defaults:
       related: false
 ---
 
+{% include donation.md %}
+
 # [Tweetstorm: Money is the most important field](https://twitter.com/hasufl/status/1136679554817363973)
 ### By [Hasu](https://twitter.com/hasufl/)
 ### Posted June 6, 2019

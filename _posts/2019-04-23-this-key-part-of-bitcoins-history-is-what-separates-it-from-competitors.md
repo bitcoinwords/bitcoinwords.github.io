@@ -22,6 +22,8 @@ defaults:
       related: false
 ---
 
+{% include donation.md %}
+
 # [This Key Part Of Bitcoin's History Is What Separates It From Competitors](https://www.forbes.com/sites/ktorpey/2019/04/23/this-key-part-of-bitcoins-history-is-what-separates-it-from-competitors/#32c0b303ae5e)
 ### By [Kyle Torpey](https://www.forbes.com/sites/ktorpey/)
 ### Posted April 23, 2019

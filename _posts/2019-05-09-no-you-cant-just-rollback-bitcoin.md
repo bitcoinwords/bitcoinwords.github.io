@@ -22,6 +22,8 @@ defaults:
       related: false
 ---
 
+{% include donation.md %}
+
 # [No, You Can't Just 'Rollback Bitcoin'](https://medium.com/@eolszewski/no-you-cant-just-rollback-bitcoin-f2e7217bfb5a?sk=3e7991ce50eeb0da86bff8659125f246)
 ## Yet Another False Narrative
 ### By [Eric Olszewski](https://medium.com/@eolszewski)

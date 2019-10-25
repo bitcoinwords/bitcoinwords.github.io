@@ -22,6 +22,8 @@ defaults:
       related: false
 ---
 
+{% include donation.md %}
+
 # [Bitcoin is a Weapon](https://hectorrosekrans.com/2019/04/11/bitcoin-is-a-weapon/)
 ### By [Hector Rosenkrans](https://twitter.com/hectorrosekrans)
 ### Posted April 11, 2019

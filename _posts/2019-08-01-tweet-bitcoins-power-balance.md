@@ -16,6 +16,8 @@ defaults:
       type: posts
 ---
 
+{% include donation.md %}
+
 # [Tweet: Bitcoin's Power Balance](https://twitter.com/nic__carter/status/1156922274324369408)
 ### By [Nic Carter](https://twitter.com/nic__carter)
 ### Posted August 1, 2019

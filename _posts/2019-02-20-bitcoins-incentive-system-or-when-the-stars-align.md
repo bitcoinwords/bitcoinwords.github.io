@@ -20,6 +20,8 @@ defaults:
       related: false
 ---
 
+{% include donation.md %}
+
 # [Bitcoin's Incentive System or When The Stars Align](https://medium.com/@misir_mahmudov/bitcoins-incentive-system-or-when-the-stars-align-cba613b8671)
 ### By [Misir Mahmudov](https://medium.com/@misir_mahmudov)
 ### Posted February 20, 2019

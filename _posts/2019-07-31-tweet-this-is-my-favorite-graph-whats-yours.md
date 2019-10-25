@@ -15,6 +15,8 @@ defaults:
       type: posts
 ---
 
+{% include donation.md %}
+
 # [Tweet: This is my favorite graph, what's yours?](https://mobile.twitter.com/pierre_rochard/status/1156594639585128448)
 ### By [Pierre Rochard](https://mobile.twitter.com/pierre_rochard)
 ### Posted July 31, 2019

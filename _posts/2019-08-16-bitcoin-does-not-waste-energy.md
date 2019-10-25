@@ -19,6 +19,8 @@ defaults:
       type: posts
 ---
 
+{% include donation.md %}
+
 # [Bitcoin Does Not Waste Energy](https://www.unchained-capital.com/blog/bitcoin-does-not-waste-energy/)
 ### By [Parker Lewis](https://twitter.com/parkeralewis)
 ### Posted August 16, 2019

@@ -22,6 +22,8 @@ defaults:
       related: false
 ---
 
+{% include donation.md %}
+
 # [Planting Bitcoin — Soil (3/4)](https://medium.com/@danhedl/planting-bitcoin-soil-3-4-d3cd47fcfa3a)
 ### By [Dan Held](https://twitter.com/danheld)
 ### Posted January 6, 2019

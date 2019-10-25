@@ -21,6 +21,8 @@ defaults:
       related: false
 ---
 
+{% include donation.md %}
+
 # [Introducing SOPR: spent outputs to predict bitcoin lows and tops](https://medium.com/unconfiscatable/introducing-sopr-spent-outputs-to-predict-bitcoin-lows-and-tops-ceb4536b3b9)
 ### Posted[Renato Shirakashi](https://twitter.com/renato_shira)
 ### By April 25, 2019

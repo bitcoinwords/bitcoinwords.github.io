@@ -21,6 +21,8 @@ defaults:
       related: false
 ---
 
+{% include donation.md %}
+
 # [Introducing Binary Adjusted BDD, VOCD and Reserve Risk](https://www.kanaandkatana.com/valuation-depot-contents/2019/5/30/exploration-of-bitcoin-days-destroyed)
 ## An Exploration of Bitcoin Days Destroyed
 ### By [Hans Hauge](https://www.kanaandkatana.com/team-bios/hans-hauge)

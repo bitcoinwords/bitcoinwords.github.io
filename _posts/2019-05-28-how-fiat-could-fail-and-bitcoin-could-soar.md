@@ -21,6 +21,8 @@ defaults:
       related: false
 ---
 
+{% include donation.md %}
+
 # [How Fiat Could Fall and Bitcoin Could Soar](https://bitcoinmagazine.com/articles/op-ed-how-fiat-could-fall-and-bitcoin-could-soar/)
 ### By [Taylor Pearson](https://twitter.com/TaylorPearsonMe)
 ### Posted May 28, 2019

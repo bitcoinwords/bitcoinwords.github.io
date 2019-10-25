@@ -22,6 +22,8 @@ defaults:
       related: false
 ---
 
+{% include donation.md %}
+
 # [Planting Bitcoin - Gardening (4/4)](https://www.danheld.com/blog/2019/1/6/planting-bitcoin-gardening-44)
 ### By [Dan Held](https://twitter.com/danheld)
 ### Posted January 6, 2019

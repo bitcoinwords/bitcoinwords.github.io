@@ -20,6 +20,7 @@ defaults:
       related: false
 ---
 
+{% include donation.md %}
 
 # [Bitcoin Delta Capitalization](https://medium.com/@kenoshaking/bitcoin-delta-capitalization-1d51a7b256b4)
 ## A New View of BTC Long-Term Valuation

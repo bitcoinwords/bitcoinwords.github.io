@@ -24,6 +24,8 @@ defaults:
       related: false
 ---
 
+{% include donation.md %}
+
 # [Tweetstorm: Bitcoin is Secure Money](https://twitter.com/JWWeatherman_/status/1145056199676706819)
 ### By [JW Weatherman](https://twitter.com/JWWeatherman_)
 ### Posted June 29, 2019

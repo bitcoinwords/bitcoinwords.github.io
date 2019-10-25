@@ -15,6 +15,8 @@ defaults:
       type: posts
 ---
 
+{% include donation.md %}
+
 # [Tweetstorm: Inflation is Cruel](https://twitter.com/mrcoolbp/status/1147524050161475585)
 ### By [Ben Prentice](https://twitter.com/mrcoolbp)
 ### Posted July 6, 2019

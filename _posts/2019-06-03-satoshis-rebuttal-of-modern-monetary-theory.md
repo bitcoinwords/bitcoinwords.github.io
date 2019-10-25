@@ -21,6 +21,8 @@ defaults:
       related: false
 ---
 
+{% include donation.md %}
+
 # [Satoshi's Rebuttal of Modern Monetary Theory](https://medium.com/coinmonks/satoshis-rebuttal-of-modern-monetary-theory-3e1dc384613)
 ### By [Jack Purdy](https://medium.com/@jackpurdy)
 ### Posted June 3, 2019

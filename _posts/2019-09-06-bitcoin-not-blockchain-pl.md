@@ -19,6 +19,8 @@ defaults:
       type: posts
 ---
 
+{% include donation.md %}
+
 # [Bitcoin, Not Blockchain](https://www.unchained-capital.com/blog/bitcoin-not-blockchain/)
 ### By [Parker Lewis](https://twitter.com/parkeralewis)
 ### Posted September 6, 2019

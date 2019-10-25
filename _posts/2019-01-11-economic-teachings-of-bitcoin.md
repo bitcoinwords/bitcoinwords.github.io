@@ -20,6 +20,8 @@ defaults:
       related: false
 ---
 
+{% include donation.md %}
+
 # [Economic Teachings of Bitcoin](https://medium.com/@dergigi/economic-teachings-of-bitcoin-b2cc4f2cfa96)
 ## What I've Learned From Bitcoin: Part II
 ### [Gigi](https://medium.com/@dergigi)

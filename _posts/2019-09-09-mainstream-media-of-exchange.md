@@ -18,6 +18,8 @@ defaults:
       type: posts
 ---
 
+{% include donation.md %}
+
 # [Mainstream Media of Exchange](https://medium.com/@knut.svanholm/mainstream-media-of-exchange-f96b37b169d2)
 ### By [Knut Svanholm](https://twitter.com/knutsvanholm)
 ### Posted September 6, 2019

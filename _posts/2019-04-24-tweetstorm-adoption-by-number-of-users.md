@@ -24,6 +24,8 @@ defaults:
       related: false
 ---
 
+{% include donation.md %}
+
 # Tweetstorm: Adoption by number of users
 ### By [Nic Carter](https://twitter.com/nic__carter/)
 ### Posted April 24, 2019 

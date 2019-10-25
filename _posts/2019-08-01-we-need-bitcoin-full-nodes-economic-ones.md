@@ -19,6 +19,8 @@ defaults:
       type: posts
 ---
 
+{% include donation.md %}
+
 # [We need Bitcoin full nodes. Economic ones.](https://medium.com/shiftcrypto/we-need-bitcoin-full-nodes-economic-ones-fd17efcb61fb)
 ### By [Stadicus](https://medium.com/@stadicus)
 ### Posted August 1, 2019

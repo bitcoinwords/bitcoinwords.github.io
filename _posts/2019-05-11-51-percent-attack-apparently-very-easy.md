@@ -24,6 +24,8 @@ defaults:
       related: false
 ---
 
+{% include donation.md %}
+
 # [51% attack - apparently very easy? refering to CZ's “rollback btc chain”](https://bitcoin.stackexchange.com/questions/87652/51-attack-apparently-very-easy-refering-to-czs-rollback-btc-chain-how-t)
 ## How to make sure such corruptible scenario can never happen so easily?
 ### Conversation from Peter Wuille, Greg Maxwell, Fernando Nieto

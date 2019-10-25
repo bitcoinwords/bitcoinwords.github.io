@@ -22,6 +22,8 @@ defaults:
       related: false
 ---
 
+{% include donation.md %}
+
 # [Crypto - Time to Take it at the Flood](https://www.ar.ca/blog/crypto-time-to-take-it-at-the-flood)
 ### By [Rayne Steinberg](https://twitter.com/raynesteinberg)
 ### Posted April 4, 2019

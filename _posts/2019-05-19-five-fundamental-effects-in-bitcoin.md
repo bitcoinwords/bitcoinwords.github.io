@@ -21,6 +21,7 @@ defaults:
       related: false
 ---
 
+{% include donation.md %}
 
 # [Five Fundamental Effects in Bitcoin](https://medium.com/@goorha/five-fundamental-effects-in-bitcoin-c30fc133312d)
 ## Cobweb Supply, Reservation Demand & the Foundations for Understanding Bitcoin's Price

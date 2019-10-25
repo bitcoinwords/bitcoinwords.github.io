@@ -17,6 +17,8 @@ defaults:
       type: posts
 ---
 
+{% include donation.md %}
+
 # [The Sovereign, the Subject, and Crypto-power](http://cryptosovereignty.org/the-sovereign-the-subject-and-crypto-power/)
 ### By [Erik Cason](https://twitter.com/erikcason)
 ### Posted June 24, 2019

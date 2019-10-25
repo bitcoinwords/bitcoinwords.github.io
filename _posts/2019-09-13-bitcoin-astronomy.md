@@ -24,6 +24,8 @@ defaults:
       type: posts
 ---
 
+{% include donation.md %}
+
 # [Bitcoin Astronomy](https://www.unchained-capital.com/blog/law-of-hash-horizons/)
 ### By [Dhruv Bansal](https://twitter.com/dhruvbansal)
 ### Posted September 13, 2019

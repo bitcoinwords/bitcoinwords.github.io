@@ -19,6 +19,8 @@ defaults:
       type: posts
 ---
 
+{% include donation.md %}
+
 # [Bitcoin is Not Too Slow](https://www.unchained-capital.com/blog/bitcoin-is-not-too-slow/)
 ### By [Parker Lewis](https://twitter.com/parkeralewis)
 ### Posted August 23, 2019

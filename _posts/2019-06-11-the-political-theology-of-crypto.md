@@ -19,6 +19,8 @@ defaults:
       type: posts
 ---
 
+{% include donation.md %}
+
 # [The Political Theology of Crypto](http://cryptosovereignty.org/the-political-theology-of-crypto/)
 ### By [Erik Cason](https://twitter.com/erikcason)
 ### Posted June 11, 2019

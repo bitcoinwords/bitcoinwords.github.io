@@ -15,6 +15,8 @@ defaults:
       type: posts
 ---
 
+{% include donation.md %}
+
 # [Bitcoin Is a Human Right](https://medium.com/@timevalueofbtc/bitcoin-is-a-human-right-ff48c0b31134)
 ### By [Nik Bhatia](https://twitter.com/timevalueofbtc)
 ### Posted July 12, 2019

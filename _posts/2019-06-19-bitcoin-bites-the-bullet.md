@@ -23,6 +23,8 @@ defaults:
       related: false
 ---
 
+{% include donation.md %}
+
 # [Bitcoin bites the bullet](https://medium.com/@nic__carter/bitcoin-bites-the-bullet-8005a2a62d29)
 ## Some of its most puzzling tradeoffs explained
 ### By [Nic Carter](https://medium.com/@nic__carter)

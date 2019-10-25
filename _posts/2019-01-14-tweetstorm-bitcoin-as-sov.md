@@ -14,6 +14,8 @@ defaults:
       type: posts
 ---
 
+{% include donation.md %}
+
 # [Tweetstorm: Bitcoin as SoV](https://twitter.com/danheld/status/1084848063947071488?lang=en)
 ## By [Dan Held](https://twitter.com/danheld)
 ## Posted January 14, 2019

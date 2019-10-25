@@ -20,6 +20,8 @@ defaults:
       related: false
 ---
 
+{% include donation.md %}
+
 # [Tweetstorm: Power and Money](https://twitter.com/saifedean/status/1097153229903794176?utm_campaign=Long%20Reads%20Sunday%20&utm_medium=email&utm_source=Revue%20newsletter)
 ### By [Saifedean Ammous](https://twitter.com/saifedean)
 ### Posted February 17, 2019

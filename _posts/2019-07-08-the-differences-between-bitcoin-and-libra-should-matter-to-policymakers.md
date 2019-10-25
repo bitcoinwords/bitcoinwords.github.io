@@ -15,6 +15,7 @@ defaults:
       type: posts
 ---
 
+{% include donation.md %}
 
 # [The differences between Bitcoin and Libra should matter to policymakers](https://coincenter.org/entry/the-differences-between-bitcoin-and-libra-should-matter-to-policymakers)
 ### By [Peter Van Valkenburgh](https://twitter.com/valkenburgh)

@@ -17,6 +17,8 @@ defaults:
       type: posts
 ---
 
+{% include donation.md %}
+
 # [Introducing the Difficulty Ribbon, signaling the best times to buy Bitcoin](https://woobull.com/introducing-the-difficulty-ribbon-the-best-times-to-buy-bitcoin/)
 ### By [Willy Woo](https://twitter.com/woonomic)
 ### Posted August 1, 2019

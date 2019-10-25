@@ -15,6 +15,8 @@ defaults:
       type: posts
 ---
 
+{% include donation.md %}
+
 # [Breaking Down the Bitcoin Lightning Network: eltoo](https://medium.com/gemini/breaking-down-the-bitcoin-lightning-network-eltoo-c48554f5ae02)
 ### By [Brandon Arvanaghi](https://twitter.com/arvanaghi)
 ### Posted July 25, 2019

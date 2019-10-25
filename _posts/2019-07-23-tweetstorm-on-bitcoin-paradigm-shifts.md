@@ -16,6 +16,8 @@ defaults:
       type: posts
 ---
 
+{% include donation.md %}
+
 # [Tweetstorm: On Bitcoin Paradigm Shifts](https://twitter.com/Melt_Dem/status/1153691515346128896)
 ### By [Meltem Demirors](https://twitter.com/Melt_Dem/status/1153691515346128896)
 ### Posted july 23, 2019

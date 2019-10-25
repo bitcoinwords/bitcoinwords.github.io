@@ -15,6 +15,7 @@ defaults:
       type: posts
 ---
 
+{% include donation.md %}
 
 # [Bitcoin's Department of Defense: The Case For A Global Reserve Currency With No Guns](https://offthechain.substack.com/p/bitcoins-department-of-defense-the)
 ### By [Anthony Pompliano](https://twitter.com/APompliano)

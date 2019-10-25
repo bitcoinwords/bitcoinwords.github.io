@@ -22,6 +22,8 @@ defaults:
       related: false
 ---
 
+{% include donation.md %}
+
 # [Managing Bitcoin and Private Keys](http://thibm.net/managing-bitcoin-and-private-keys)
 ### By [Thib](https://twitter.com/thibm_)
 ### Posted April 1, 2019

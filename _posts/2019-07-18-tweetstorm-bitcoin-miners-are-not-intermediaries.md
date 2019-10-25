@@ -15,6 +15,8 @@ defaults:
       type: posts
 ---
 
+{% include donation.md %}
+
 # [Tweetstorm: Bitcoin Miners Are Not Intermediaries](https://twitter.com/angela_walch/status/1152054148071866368)
 ### By [Angela Walch](https://twitter.com/angela_walch)
 ### Posted July 18, 2019

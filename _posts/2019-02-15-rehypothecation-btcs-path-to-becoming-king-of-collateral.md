@@ -20,6 +20,8 @@ defaults:
       related: false
 ---
 
+{% include donation.md %}
+
 # [Rehypothecation: BTC's path to becoming king of collateral](https://www.theblockcrypto.com/2019/02/15/rehypothecation-btcs-path-to-becoming-king-of-collateral/)
 ### By [Patrick Dugan](https://twitter.com/duganist?lang=en)
 ### Posted February 15, 2019

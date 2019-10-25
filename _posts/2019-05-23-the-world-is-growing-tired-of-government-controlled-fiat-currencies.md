@@ -21,6 +21,7 @@ defaults:
       related: false
 ---
 
+{% include donation.md %}
 
 # [The World Is Growing Tired of Government-Controlled Fiat Currencies](https://mises.org/wire/world-growing-tired-government-controlled-fiat-currencies)
 ### By [Douglas French](https://twitter.com/douglasfrench1)

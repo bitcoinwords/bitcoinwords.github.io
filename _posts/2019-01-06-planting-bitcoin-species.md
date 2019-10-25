@@ -22,6 +22,8 @@ defaults:
       related: false
 ---
 
+{% include donation.md %}
+
 # [Planting Bitcoin — Species (1/4)](https://www.danheld.com/blog/2019/1/6/planting-bitcoinspecies-14)
 ## Sound Money (sanum pecuniam)
 ### By [Dan Held](https://twitter.com/danheld)

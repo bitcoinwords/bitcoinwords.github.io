@@ -23,6 +23,8 @@ defaults:
       related: false
 ---
 
+{% include donation.md %}
+
 # [Why Monetary Maximalism could fall short of expectations](https://uncommoncore.co/why-monetary-maximalism-could-fall-short-of-expectations/)
 ### By [Su Zhu](https://twitter.com/zhusu) and [Hasu](https://twitter.com/hasufl)
 ### Posted February 2, 2019

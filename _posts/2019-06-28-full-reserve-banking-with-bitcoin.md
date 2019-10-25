@@ -21,6 +21,8 @@ defaults:
       related: false
 ---
 
+{% include donation.md %}
+
 # [Full Reserve Banking with Bitcoin](https://medium.com/@tamas.blummer/full-reserve-banking-with-bitcoin-462b21ae9479)
 ### By [Tamas Blummer](https://twitter.com/TamasBlummer)
 ### Posted June 28, 2019

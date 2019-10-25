@@ -16,6 +16,8 @@ defaults:
       type: posts
 ---
 
+{% include donation.md %}
+
 # [Discovering Bitcoin: A Brief Overview From Cavemen to the Lightning Network](https://bitcoinmagazine.com/articles/discovering-bitcoin-a-brief-overview-from-cavemen-to-the-lightning-network)
 ### By [Giacomo Zucco](https://twitter.com/giacomozucco)
 ### Posted September 2019

@@ -20,6 +20,8 @@ defaults:
       related: false
 ---
 
+{% include donation.md %}
+
 # [Bitcoin Is a Cult, Fiat Is a Religion](https://medium.com/@kaykurokawa/bitcoin-is-a-cult-fiat-is-a-religion-b8292949007a)
 ### [Kay Kurokawa](https://medium.com/@kaykurokawa)
 ### Posted March 20, 2019

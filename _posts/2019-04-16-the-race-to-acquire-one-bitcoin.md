@@ -17,6 +17,8 @@ defaults:
       type: posts
 ---
 
+{% include donation.md %}
+
 # [The Race to Acquire One Bitcoin: Time’s Running Out](https://blog.goodaudience.com/the-race-to-acquire-one-bitcoin-times-running-out-54d88af9c2a5)
 ### By [Jared](https://blog.goodaudience.com/@Jared_J2)
 ### Posted April 16, 2019

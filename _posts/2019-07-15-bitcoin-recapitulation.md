@@ -18,6 +18,8 @@ defaults:
       type: posts
 ---
 
+{% include donation.md %}
+
 # [Bitcoin Recapitulation](http://trilema.com/2019/bitcoin-recapitulation)
 ### By [Mircea Popescu](http://trilema.com/)
 ### Posted July 15, 2019

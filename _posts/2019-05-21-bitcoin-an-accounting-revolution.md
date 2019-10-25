@@ -21,6 +21,8 @@ defaults:
       related: false
 ---
 
+{% include donation.md %}
+
 # [Bitcoin: an Accounting Revolution](https://medium.com/@permabullnino/bitcoin-an-accounting-revolution-40efcb903d7b)
 ### By [Permabull Nino](https://twitter.com/ImacallyouJawdy)
 ### Posted May 21, 2019

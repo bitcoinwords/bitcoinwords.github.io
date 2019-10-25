@@ -18,6 +18,8 @@ defaults:
       type: posts
 ---
 
+{% include donation.md %}
+
 # [Decentralizing Bitcoin's Last Mile With Mobile Mesh Networks](https://coincenter.org/entry/decentralizing-bitcoin-s-last-mile-with-mobile-mesh-networks)
 ## How you can use Bitcoin without relying on centralized Internet Service Providers
 ### By [Richard Myers](https://twitter.com/remyers_)

@@ -18,6 +18,8 @@ defaults:
       type: posts
 ---
 
+{% include donation.md %}
+
 # [Tweet: Proof of Work Equivalent Days](https://twitter.com/nic__carter/status/1156941194968162306)
 ### By [Nic Carter](https://twitter.com/nic__carter)
 ### Posted August 1, 2019

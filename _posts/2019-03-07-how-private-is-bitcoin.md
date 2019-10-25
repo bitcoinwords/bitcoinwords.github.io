@@ -20,6 +20,8 @@ defaults:
       related: false
 ---
 
+{% include donation.md %}
+
 # [Privacy and Cryptocurrency, Part I: How Private is Bitcoin?](https://medium.com/human-rights-foundation-hrf/privacy-and-cryptocurrency-part-i-how-private-is-bitcoin-e3a4071f8fff)
 ### [Eric Wall](https://medium.com/@ercwl)
 ### March 7, 2019

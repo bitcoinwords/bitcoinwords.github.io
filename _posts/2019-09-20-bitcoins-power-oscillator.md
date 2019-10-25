@@ -19,6 +19,8 @@ defaults:
       type: posts
 ---
 
+{% include donation.md %}
+
 # [Bitcoin’s power oscillator](https://medium.com/unconfiscatable/bitcoins-power-oscillator-64875128c56f)
 ### By [Harold Christopher Burger](https://twitter.com/hcburger1)
 ### Posted September 20, 2019

@@ -20,6 +20,8 @@ defaults:
       related: false
 ---
 
+{% include donation.md %}
+
 # [Bitcoin Timestamp Security](https://medium.com/@lopp/bitcoin-timestamp-security-8dcfc3914da6)
 ### [Jameson Lopp](https://medium.com/@lopp)
 ### Posted March 3, 2019

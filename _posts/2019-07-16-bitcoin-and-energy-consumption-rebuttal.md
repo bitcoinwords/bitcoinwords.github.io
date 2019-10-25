@@ -17,6 +17,8 @@ defaults:
       type: posts
 ---
 
+{% include donation.md %}
+
 # [Bitcoin and Energy Consumption - Rebuttal](https://dentaltips.org/blog/bitcoinenergy)
 ### By [Dr. C](https://dentaltips.org/)
 ### Posted July 15, 2019

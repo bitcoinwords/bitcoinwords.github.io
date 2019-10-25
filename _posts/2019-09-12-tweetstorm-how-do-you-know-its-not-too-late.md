@@ -18,6 +18,8 @@ defaults:
       type: posts
 ---
 
+{% include donation.md %}
+
 # [Tweetstorm: How do you know it's not too late to buy Bitcoin now?](https://twitter.com/hasufl/status/1172143536034197504)
 ### By [Hasu](https://twitter.com/hasufl)
 ### Posted September 12, 2019

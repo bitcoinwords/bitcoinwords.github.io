@@ -15,6 +15,8 @@ defaults:
       type: posts
 ---
 
+{% include donation.md %}
+
 # [Tweetstorm: The Founders and Cryptocurrency](https://twitter.com/jchervinsky/status/1146799750487916545)
 ### By [Jake Chervinsky](https://twitter.com/jchervinsky)
 ### Posted July 4, 2019

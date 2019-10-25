@@ -15,6 +15,8 @@ defaults:
       type: posts
 ---
 
+{% include donation.md %}
+
 # [Why God Loves Bitcoin](https://medium.com/@adampaulmoore/why-god-loves-bitcoin-7377fe86d958)
 ### By [Adam Paul Moore](https://twitter.com/AdamPaulMoore)
 ### Posted July 12, 2019

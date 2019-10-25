@@ -22,6 +22,8 @@ defaults:
       related: false
 ---
 
+{% include donation.md %}
+
 # [I'm Not an International Drug Dealer](https://medium.com/@Melt_Dem/im-not-an-international-drug-dealer-3e8e3c75c57c)
 ## So Why Do I Need Privacy?
 ### By [Meltem Demirors](https://medium.com/@Melt_Dem)

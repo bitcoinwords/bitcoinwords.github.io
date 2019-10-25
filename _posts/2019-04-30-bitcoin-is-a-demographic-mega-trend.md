@@ -22,6 +22,8 @@ defaults:
       related: false
 ---
 
+{% include donation.md %}
+
 # [Bitcoin is a Demographic Mega-Trend: Data Analysis](https://medium.com/@Bitcom21/bitcoin-is-a-demographic-mega-trend-data-analysis-160d2f7731e5)
 ### By [Spencer Bogart](https://medium.com/@Bitcom21)
 ### Posted April 30, 2019

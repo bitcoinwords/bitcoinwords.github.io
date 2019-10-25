@@ -18,6 +18,8 @@ defaults:
       type: posts
 ---
 
+{% include donation.md %}
+
 # [Gradually, Then Suddenly](https://www.unchained-capital.com/blog/dollar-crisis-to-bitcoin/)
 ### By [Parker Lewis](https://twitter.com/parkeralewis)
 ### Posted July 26, 2019

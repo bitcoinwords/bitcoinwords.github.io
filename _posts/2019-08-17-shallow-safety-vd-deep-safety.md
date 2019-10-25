@@ -21,6 +21,8 @@ defaults:
       type: posts
 ---
 
+{% include donation.md %}
+
 # [Tweetstorm: Shallow Safety vs. Deep Safety](https://twitter.com/NickSzabo4/status/1162743096821469184?s=09)
 ### By [Nick Szabo](https://twitter.com/NickSzabo4)
 ### Posted August 17, 2019

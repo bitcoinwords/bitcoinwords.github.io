@@ -21,6 +21,8 @@ defaults:
       related: false
 ---
 
+{% include donation.md %}
+
 # [Bitcoin: Winner Takes Most or Winner Takes All?](https://blog.goodaudience.com/bitcoin-winner-takes-most-or-winner-takes-all-c509aebaa19a)
 ## Exploring market share capture in cryptocurrencies
 ### By [Misir Mahmudov](https://blog.goodaudience.com/@misir_mahmudov) and [Yassine Elmandjra](https://twitter.com/yassineARK)

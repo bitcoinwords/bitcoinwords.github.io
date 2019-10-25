@@ -20,6 +20,8 @@ defaults:
       related: false
 ---
 
+{% include donation.md %}
+
 # [Bitcoin Mining Explained in 15 Tweets](https://twitter.com/skwp/status/1106380867071549440?s=21)
 ### By [Yan Pritzker](https://twitter.com/skwp)
 ### Posted March 14, 2019
