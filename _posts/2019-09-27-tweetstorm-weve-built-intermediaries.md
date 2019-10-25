@@ -19,6 +19,8 @@ defaults:
       type: posts
 ---
 
+{% include donation.md %}
+
 # [Tweetstorm: We've Built Intermediaries](https://twitter.com/Melt_Dem/status/1177624330278199297)
 ### By [Meltem Demirors](https://twitter.com/Melt_Dem)
 ### Posted Septemeber 27, 2019
