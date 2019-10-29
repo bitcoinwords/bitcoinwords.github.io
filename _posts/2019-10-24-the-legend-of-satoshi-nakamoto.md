@@ -65,11 +65,7 @@ In this final action of walking away, and taking his death upon himself, Satoshi
 
 _Epilogue:_ It is said that after Satoshi stopped working on Bitcoin that he found a job as a scrivener lost somewhere down on Wall Street. Today he still sits there, as [Bartleby](http://moglen.law.columbia.edu/LCS/bartleby.pdf) once did, confounding financiers, economist, lawyers, and all sorts of reasonable men alike with his intransigency, and decision to refuse to go along with anything. It is said that he was a most unreasonable man and his only response to any question was:
 
-**“**I would prefer not to**.”**
---------------------------------
-
-
-
+> “I would prefer not to.”
 
 ***
 

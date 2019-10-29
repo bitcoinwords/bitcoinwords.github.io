@@ -22,6 +22,10 @@ defaults:
 
 ***
 
+# [Tweetstorm: The Matrix](https://twitter.com/Melt_Dem/status/1187801983605805056)
+### By [Meltem Demirors](https://twitter.com/Melt_Dem)
+### Posted October 25, 2019
+
 1/ a thread on bitcoin and the Matrix
 
 if "the matrix" is a metaphor for the system we live in, bitcoin is the red pill - a way for us to break free of a dystopian future characterized by tyranny, surveillance, and digital violence

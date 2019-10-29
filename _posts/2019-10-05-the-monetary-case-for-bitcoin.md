@@ -20,6 +20,8 @@ defaults:
 
 {% include donation.md %}
 
+***
+
 # [The Monetary Case for Bitcoin](https://medium.com/coinmonks/the-monetary-case-for-bitcoin-778cd51ff272)
 ### By [Ben Kaufman](https://twitter.com/_benkaufman)
 ### Posted October 5, 2019
@@ -230,3 +232,5 @@ Currently, the two domains where Bitcoin grows most significantly are within the
 Special thanks to Ben Prentice ([mrcoolbp](https://twitter.com/mrcoolbp)), The Bitcoin Observer ([festina\_lente\_2](https://twitter.com/festina_lente_2)), Bezant Denier ([bezantdenier](https://twitter.com/bezantdenier)), Thib ([thibm_](https://twitter.com/thibm_)) and Daniel Wingen ([danielwingen](https://twitter.com/danielwingen)) for all the feedback I received from their reviews, comments, and suggestions which helped me shape this article.
 
 ***
+
+{% include signup.md %}

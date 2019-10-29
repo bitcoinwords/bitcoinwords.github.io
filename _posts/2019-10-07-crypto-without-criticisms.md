@@ -18,6 +18,8 @@ defaults:
 
 {% include donation.md %}
 
+***
+
 # [Crypto without Criticisms](http://cryptosovereignty.org/crypto-without-criticisms/)
 ## How Anarchism Without Adjectives Can Point Towards a Method of Unifying Crypto
 ### By [Erik Cason](https://twitter.com/Erikcason)
@@ -44,3 +46,5 @@ The political objective of what crypto is, how it functions, and why it creates 
 Through the tradition of anarchism without adjectives, we can create a movement for crypto without criticism. A movement which can be ideologically committed to the values that represent crypto, while also offering valid critiques of each crypto projects and their weaknesses. It is only though such intellectual exchange, inquiry, and explanation will we be able to understand one another, and create a space in which we can work together.
 
 ***
+
+{% include signup.md %}

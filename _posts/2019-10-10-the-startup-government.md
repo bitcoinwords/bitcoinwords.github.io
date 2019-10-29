@@ -10,7 +10,7 @@ tags:
   - Politics
   - Government
 
-excerpt: enter excerpt here
+excerpt: Tim Draper looks at how Bitcoin and other technologies will shape our future. Posted October 10, 2019.
 
 defaults:
   - scope:
@@ -21,7 +21,9 @@ defaults:
 
 ***
 
-# [The Startup Government]()
+# [The Startup Government](https://medium.com/@timdraper_24889/the-startup-government-510d015b708c)
+### By [Tim Draper](https://twitter.com/TimDraper)
+### Posted October 10, 2019
 
 Preface. Tribalism to globalism.
 

@@ -19,6 +19,8 @@ defaults:
 
 {% include donation.md %}
 
+***
+
 # [Tweetstorm: On making Bitcoin easier](https://twitter.com/Beautyon_/status/1179057806848266241)
 ### By [Beautyon](https://twitter.com/Beautyon_)
 ### Posted October 1, 2019
@@ -34,3 +36,5 @@ For Bitcoin to succeed, it too must packaged in a way that removes the need for 
 Once people experience just how simple it is to send money with Bitcoin, they'll never EVER return to the horrific experience of dealing with banks and their terrible, horrible, invasive, insulting, broken tools and services. And you don't need to have read Hayek to know that!
 
 ***
+
+{% include signup.md %}

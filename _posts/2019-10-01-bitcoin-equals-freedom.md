@@ -19,6 +19,8 @@ defaults:
 
 {% include donation.md %}
 
+***
+
 # [Bitcoin Equals Freedom](https://medium.com/@RossUlbricht/bitcoin-equals-freedom-6c33986b4852)
 ### By [Ross Ulbricht](https://twitter.com/RealRossU)
 ### Posted September 25, 2019
@@ -47,3 +49,5 @@ Bitcoin was therefore birthed onto fertile ground and was recognized by those th
 ![](/assets/images/cy19/cy19m10/r4.png)
 
 ***
+
+{% include signup.md %}
