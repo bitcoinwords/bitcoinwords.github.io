@@ -165,6 +165,21 @@ bendavenport:
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/bendavenport"
 
+benkaufman:
+  name        : Ben Kaufman
+  bio         : "Coder. Bitcoin and Austrian Economics."
+  avatar      : # "/assets/images/bio-photo-2.jpg"
+  links:
+    - label: # "Email"
+      icon: #"fas fa-fw fa-envelope-square"
+      url: #"mailto:billyrick@rick.com"
+    - label: #"Website"
+      icon: #"fas fa-fw fa-link"
+      url: #"https://thewhip.com"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/_benkaufman"
+
 berkessels:
   name        : Ber Kessels
   bio         : "@berkes@todon.nl  Open Source Developer w Ruby & #Rails, #Ethereum Blockchain. #Beekeeper. #Linux user, #Hacker & #Maker. Loves Bitcoin."
@@ -316,6 +331,21 @@ http://cryptosovereignty.org"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/erikcason"
 
+gaborgurbacs:
+  name        : Gabor Gurbacs
+  bio         : "fine print reader, discrete mathematician, Bitcoiner, former archeology CEO, digital asset strategist/director at VanEck/MVIS (opinions, likes, Rts are my own)"
+  avatar      : # "/assets/images/bio-photo-2.jpg"
+  links:
+    - label: # "Email"
+      icon: #"fas fa-fw fa-envelope-square"
+      url: #"mailto:billyrick@rick.com"
+    - label: #"Website"
+      icon: #"fas fa-fw fa-link"
+      url: #"https://thewhip.com"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/gaborgurbacs"
+
 georgekikvadze:
   name        : George Kikvadze
   bio         : "@BitFuryGroup | @Wharton | @SAISHopkins | @YPO | @BlockChainSum | @GBBCouncil | @BlockchainTA | @ExonumPlatform | @Hut8Mining | @FinalFrontierio"
@@ -375,6 +405,21 @@ gigi:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/dergigi"
+
+gregmaxwell:
+  name        : Greg Maxwell
+  bio         : "u/nullc"
+  avatar      : # "/assets/images/bio-photo-2.jpg"
+  links:
+    - label: # "Email"
+      icon: #"fas fa-fw fa-envelope-square"
+      url: #"mailto:billyrick@rick.com"
+    - label: "Reddit"
+      icon: "fas fa-fw fa-link"
+      url: "https://www.reddit.com/user/nullc/"
+    - label: #"Twitter"
+      icon: #"fab fa-fw fa-twitter-square"
+      url: #"https://twitter.com/dergigi"
 
 hanshauge:
   name        : Hans Hauge
@@ -790,6 +835,18 @@ rollomcfloogle:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/RolloMcFloogle"
+
+rossulbricht:
+  name        : Ross Ulbricht
+  bio         : "A minute of your life could save the rest of mine. Please sign the petition for my clemency. https://FreeRoss.org/petition"
+  avatar      : #"/assets/images/bio-photo.jpg"
+  links:
+    - label: #"Email"
+      icon: #"fas fa-fw fa-envelope-square"
+      url: #"mailto:cornelius@thewhip.com"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/RealRossU"
 
 roysheinfeld:
   name        : Roy Sheinfeld

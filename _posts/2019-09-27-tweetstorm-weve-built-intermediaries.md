@@ -92,3 +92,5 @@ you may think you took the red pill, but actually, you're colorblind and it's bl
 enjoy that mental wormhole!
 
 ***
+
+{% include signup.md %}
