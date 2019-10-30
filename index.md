@@ -38,6 +38,4 @@ feature_row:
 
 [![](https://raw.githubusercontent.com/cryptowords/cryptowords.github.io/master/assets/images/splash-stats.png)](https://cryptowords.github.io/categories/journals/){: .align-center}
 
-<br>
-
 {% include feature_row %}
