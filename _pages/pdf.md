@@ -8,10 +8,10 @@ defaults:
       author_profile: true
 ---
 
-| Employee         | Salary |                                                              |
-| --------         | ------ | ------------------------------------------------------------ |
-| [John Doe](#)    | $1     | Because that's all Steve Jobs needed for a salary.           |
-| [Jane Doe](#)    | $100K  | For all the blogging she does.                               |
+| Month         | Donate & Download |
+| --------         | ------ |
+| [![CY19 October Journal Cover](/assets/images/covers/CY19M10-cover-150.png "CY19 October Journal Cover")](https://paywall.link/to/52b74) | [Download October 2019 PDF](https://paywall.link/to/52b74){: .btn .btn--primary} |
+| [Jane Doe](#)    | $100K  |
 
 
 
