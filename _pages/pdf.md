@@ -2,12 +2,9 @@
 permalink: /pdf/
 title: "Donate & Download"
 defaults:
-  # _pages
   - scope:
-      path: "Donate & Download"
       type: pages
     values:
-      layout: single
       author_profile: true
 ---
 
@@ -15,6 +12,8 @@ defaults:
 | --------         | ------ | ------------------------------------------------------------ |
 | [John Doe](#)    | $1     | Because that's all Steve Jobs needed for a salary.           |
 | [Jane Doe](#)    | $100K  | For all the blogging she does.                               |
+
+
 
 | Employee         | Salary |                                                              |
 | [John Doe](#)    | $1     | Because that's all Steve Jobs needed for a salary.           |
