@@ -33,3 +33,4 @@ We've worked hard to make our Bitcoin archives accesible to the masses. Our hope
 | [![CY18 April Journal Cover](/assets/images/covers/CY18M4-cover-150.png "CY18 April Journal Cover")](https://paywall.link/to/a2385) | [April 2018 PDF](https://paywall.link/to/a2385){: .btn .btn--primary} |
 | [![CY18 March Journal Cover](/assets/images/covers/CY18M3-cover-150.png "CY18 March Journal Cover")](https://paywall.link/to/146b8) | [March 2018 PDF](https://paywall.link/to/146b8){: .btn .btn--primary} |
 | [![CY18 February Journal Cover](/assets/images/covers/CY18M2-cover-150.png "CY18 February Journal Cover")](https://paywall.link/to/30288) | [February 2018 PDF](https://paywall.link/to/30288){: .btn .btn--primary} |
+
