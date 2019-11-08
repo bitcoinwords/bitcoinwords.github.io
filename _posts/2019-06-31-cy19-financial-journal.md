@@ -14,7 +14,7 @@ category: "special-journals"
 excerpt: A comprehensive collection of on and off chain indicators and valuation models for Bitcoin.
 
 toc: true
-toc_sticky: true
+toc_sticky: false
 toc_label: " Contents"
 toc_icon: "bookmark"  # corresponding Font Awesome icon name (without fa prefix)
 
