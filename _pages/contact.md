@@ -13,7 +13,7 @@ defaults:
 
 ![](/assets/images/yellow.png){: .align-center}
 
-Please reach out to us with questions, concerns, or recommedations. Our DM's are wide open and we welcome feedback. 
+Please reach out to us with questions, concerns, or recommendations. Our DM's are wide open and we welcome feedback. 
 
 
 [<i class="fab fa-twitter"></i> Crypto Words on Twitter](https://twitter.com/_cryptowords){: .btn .btn--info}
