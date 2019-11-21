@@ -11,17 +11,16 @@ defaults:
       author_profile: true
 ---
 
-The posts and journals published here have been carefully curatedgity and crafted as a true labor of love. If you've found any of this content useful here's how to show your thanks and keep the project going.
-
-The costs of the journal are met through donations, which are invited in any amount.
+The posts and journals published here have been carefully curated and crafted as a true labor of love. If you've found this content useful, please consider making a contribution below.
 
 ## Send a donation
 
-[<i class="fas fa-bolt"></i> Lightning via Bottle pay](https://pay.bottle.li/send/social/twitter/_joerodgers){: .btn .btn--warning} [<i class="fas fa-bolt"></i> Lightning via Tippin.me](https://tippin.me/@_joerodgers){: .btn .btn--primary}
-[<i class="fab fa-paypal"></i> Send PayPal](https://www.paypal.me/bucwolfser){: .btn .btn--info} [<i class="fas fa-money-check-alt"></i> Send CashApp](https://cash.app/$joerodgers76){: .btn .btn--success}
-[<i class="fas fa-bolt"></i> Lightning via Paywall.Link](https://paywall.link/to/thanks){: .btn .btn--danger}
-<img src="https://paywall.link/to/donation" style="width: 30%; height: 30%"/>{: .align-center}
-**Make a LN donation via QR code**
+| [<i class="fas fa-bolt"></i> Lightning via Bottle pay](https://pay.bottle.li/send/social/twitter/_joerodgers){: .btn .btn--warning} |
+| [<i class="fas fa-bolt"></i> Lightning via Tippin.me](https://tippin.me/@_joerodgers){: .btn .btn--primary} |
+| [<i class="fab fa-paypal"></i> Send PayPal](https://www.paypal.me/bucwolfser){: .btn .btn--info} |
+|[<i class="fas fa-money-check-alt"></i> Send CashApp](https://cash.app/$joerodgers76){: .btn .btn--success} |
+| [<i class="fas fa-bolt"></i> Lightning via Paywall.Link](https://paywall.link/to/thanks){: .btn .btn--danger} |
+
 
 ## Spread the word
 
