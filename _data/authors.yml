@@ -361,6 +361,21 @@ http://cryptosovereignty.org"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/erikcason"
 
+ferdousbhai:
+  name        : Ferdous Bhai
+  bio         : "#bitcoin #longevity #mindfulness ⚡✨🧙‍♂️"
+  avatar      : # "/assets/images/bio-photo-2.jpg"
+  links:
+    - label: # "Email"
+      icon: #"fas fa-fw fa-envelope-square"
+      url: #"mailto:billyrick@rick.com"
+    - label: #"Website"
+      icon: #"fas fa-fw fa-link"
+      url: #"https://thewhip.com"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/ferdousbhai"
+
 gaborgurbacs:
   name        : Gabor Gurbacs
   bio         : "fine print reader, discrete mathematician, Bitcoiner, former archeology CEO, digital asset strategist/director at VanEck/MVIS (opinions, likes, Rts are my own)"
@@ -480,6 +495,21 @@ haroldchristopherburger:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/hcburger1"
+
+hashedentropy:
+  name        : HashedEntropy
+  bio         : "I am a Liquid Asset named Hashed Entropy aka 🧮 https://t.co/Kc4GpMmyAm?amp=1"
+  avatar      : # "/assets/images/bio-photo-2.jpg"
+  links:
+    - label: # "Email"
+      icon: #"fas fa-fw fa-envelope-square"
+      url: #"mailto:billyrick@rick.com"
+    - label: #"Website"
+      icon: #"fas fa-fw fa-link"
+      url: #"https://thewhip.com"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/HashedEntropy"
 
 hasu:
   name        : Hasu
@@ -1139,6 +1169,21 @@ hasusu:
 hasunic:
   name        : Hasu and Nic Carter
   bio         : "Hasu is an independent cryptocurrency researcher. Nic is the."
+  avatar      : # "/assets/images/bio-photo-2.jpg"
+  links:
+    - label: # "Email"
+      icon: #"fas fa-fw fa-envelope-square"
+      url: #"mailto:billyrick@rick.com"
+    - label: #"Website"
+      icon: #"fas fa-fw fa-link"
+      url: #"https://thewhip.com"
+    - label: #"Twitter"
+      icon: #"fab fa-fw fa-twitter-square"
+      url: #"https://twitter.com/CremeDeLaCrypto"
+
+danheldandconnerbrown:
+  name        : Dan Held and Conner Brown
+  bio         : #"Hasu is an independent cryptocurrency researcher. Nic is the."
   avatar      : # "/assets/images/bio-photo-2.jpg"
   links:
     - label: # "Email"

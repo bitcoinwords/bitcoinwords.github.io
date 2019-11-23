@@ -2,6 +2,8 @@
 title: "Post-Bitcoin-Maximalism: A call for embracing the currency competition"
 permalink: "/post-bitcoin-maximalism-a-call-for-embracing-the currency-competition" 
 
+author: ferdousbhai
+
 tags:
   - Ferdous Bhai
   - CY18 Q4
