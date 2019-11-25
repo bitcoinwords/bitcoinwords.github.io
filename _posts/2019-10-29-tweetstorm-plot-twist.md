@@ -5,7 +5,7 @@ permalink: "/tweetstorm-plot-twist"
 author: olegandreev
 
 tags:
-  - oleg Andreev
+  - Oleg Andreev
   - CY19 Q4
   - Tweetstorm
   - Politics
