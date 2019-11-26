@@ -347,8 +347,7 @@ elaineou:
 
 erikcason:
   name        : Erik Cason
-  bio         : "Crypto-anarchist, iconoclast, and thinker. I grow food and write crazy stuff.
-http://cryptosovereignty.org"
+  bio         : "Crypto-anarchist, iconoclast, and thinker. I grow food and write crazy stuff. http://cryptosovereignty.org"
   avatar      : # "/assets/images/bio-photo-2.jpg"
   links:
     - label: # "Email"
@@ -529,7 +528,6 @@ hasu:
 hugonguyen:
   name        : Hugo Nguyen
   bio         : "I chain, therefore I am ⛓️"
-
   avatar      : # "/assets/images/bio-photo-2.jpg"
   links:
     - label: # "Email"
@@ -544,8 +542,7 @@ hugonguyen:
 
 jakechervinsky:
   name        : Jake Chervinsky
-  bio         : "Lawyer, but not yours. General Counsel @CompoundFinance
-. Adjunct Professor @GeorgetownLaw. Tweets are my own and not legal or financial advice."
+  bio         : "Lawyer, but not yours. General Counsel @CompoundFinance. Adjunct Professor @GeorgetownLaw. Tweets are my own and not legal or financial advice."
   avatar      : # "/assets/images/bio-photo-2.jpg"
   links:
     - label: # "Email"
@@ -575,8 +572,7 @@ jamesobeirne:
 
 jamesonlopp:
   name        : Jameson Lopp
-  bio         : "Cypherpunk · CTO @CasaHODL
- · creator of (link: https://statoshi.info) statoshi.info, (link: https://bitcoin.page) bitcoin.page, (link: https://lightning.how) lightning.how"
+  bio         : "Cypherpunk · CTO @CasaHODL · creator of (link: https://statoshi.info) statoshi.info, (link: https://bitcoin.page) bitcoin.page, (link: https://lightning.how) lightning.how"
   avatar      : # "/assets/images/bio-photo-2.jpg"
   links:
     - label: # "Email"
@@ -636,8 +632,7 @@ jeffdorman:
 
 jesselawler:
   name        : Jesse Lawler
-  bio         : "Podcast host @SmartDrugSmarts
-. Writer of code, opinions, jaunty limericks. I #VirtueSignal by overindulging my cat. Death threats in English only, please. 🙂"
+  bio         : "Podcast host @SmartDrugSmarts. Writer of code, opinions, jaunty limericks. I #VirtueSignal by overindulging my cat. Death threats in English only, please. 🙂"
   avatar      : # "/assets/images/bio-photo-2.jpg"
   links:
     - label: # "Email"
@@ -682,8 +677,7 @@ knutsvanholm:
 
 lucasnuzzi:
   name        : Lucas Nuzzi
-  bio         : "Dir. of Technology Research @DAR_Crypto
- Researching/Programming/Hacking #Bitcoin since '12. PGP: 9BC8 0DAF FA83 9310 713E A6AE CCBE 6232 8E12 C14E"
+  bio         : "Dir. of Technology Research @DAR_Crypto Researching/Programming/Hacking #Bitcoin since '12. PGP: 9BC8 0DAF FA83 9310 713E A6AE CCBE 6232 8E12 C14E"
   avatar      : #"/assets/images/bio-photo.jpg"
   links:
     - label: #"Email"
@@ -755,8 +749,7 @@ mirceapopescu:
 
 mohamedfouda:
   name        : Mohamed Fouda
-  bio         : "Partner @tokendaily. Engineer. PhD @NorthwesternU
-."
+  bio         : "Partner @tokendaily. Engineer. PhD @NorthwesternU."
   avatar      : #"/assets/images/bio-photo.jpg"
   links:
     - label: #"Email"
@@ -768,8 +761,7 @@ mohamedfouda:
 
 muradmahmudov:
   name        : Murad Mahmudov
-  bio         : "Cryptocurrency Analyst. CIO @adaptivefund
-. Mostly fundamentals, occasional charts. Bitcoin, not Blockchain. Monetary Econ. Prev @princeton"
+  bio         : "Cryptocurrency Analyst. CIO @adaptivefund. Mostly fundamentals, occasional charts. Bitcoin, not Blockchain. Monetary Econ. Prev @princeton"
   avatar      : #"/assets/images/bio-photo.jpg"
   links:
     - label: #"Email"
@@ -1135,9 +1127,7 @@ yassineelmandjra:
 
 adamtacheandmuradmahmudov:
   name        : Adam Taché and Murad Mahmudov
-  bio         : "**Murad** is Cryptocurrency Analyst. CIO @adaptivefund. Mostly fundamentals, occasional charts. Bitcoin, not Blockchain. Monetary Econ. Prev @princeton. 
-
-  **Adam Taché** Software Engineer & Cryptocurrency Analyst @AdaptiveFund. Previously: cs @dukeu, eng @snap, tech reviews @youtube. Curator [bitcoinrabbithole.org]"
+  bio         : "**Murad** is Cryptocurrency Analyst. CIO @adaptivefund. Mostly fundamentals, occasional charts. Bitcoin, not Blockchain. Monetary Econ. Prev @princeton. **Adam Taché** Software Engineer & Cryptocurrency Analyst @AdaptiveFund. Previously: cs @dukeu, eng @snap, tech reviews @youtube. Curator [bitcoinrabbithole.org]"
   avatar      : # "/assets/images/bio-photo-2.jpg"
   links:
     - label: # "Email"
