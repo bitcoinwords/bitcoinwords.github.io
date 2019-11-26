@@ -25,6 +25,7 @@ defaults:
 ### By [David Morris](https://twitter.com/davidzmorris)
 ### Posted November 6, 2019
 
+![](/assets/images/cy19/cy19m11/dm1.png)
 In approximately 1499, in early Renaissance Frankfurt, a wunderkind bishop and magician named Johannes Trithemius completed work on a trilogy of books known as the _Steganographia_.
 
 The first two volumes were remarkable enough: they appeared at first to be concerned with magic, particularly techniques for using spirits to communicate over long distances. These books were not commercially published until 1606, but quickly after they became widely available, it was discovered that they were in fact written in code. The mystical ‘cover’ content was simply a ruse: the books were guides to the practice of ‘secret writing’ — or, in Latin, ‘crypto-graphia.’
