@@ -67,7 +67,6 @@ _. . . This is the first part of one chapter of my new book,_ [Bitcoin is Magic]
 
 [3](https://medium.com/@dzanemorris/johannes-trithemius-archmage-of-secrets-9fc0e7bde40d#sdfootnote3anc) If Trithemius was just posing as a ‘magician’ while in fact remaining faithful to his Catholicism, he is also a useful figure for definition of ‘magic’ in contemporary politics and ideology. We have mentioned the formulation, drawn from Aleister Crowley and carried on by Alan Moore, that magic is an attempt at direct, individual intervention in the world. For Moore, religion is in particularly stark contrast to this, as a form of submission to authoritarianism — but there is a converse formulation, by which religion is a vehicle not for submission, but for _faith_. Faith is a spiritual submission to being itself as a mystery beyond any mere human grasping, and implies an ultimate rejection of ANY human authority in the face of the numinous, mystical all-power of God.
 
-
 ***
 
 {% include signup.md %}
