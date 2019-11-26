@@ -90,21 +90,6 @@ alanmanuelkgloria:
       icon: #"fab fa-fw fa-twitter-square"
       url: #"https://twitter.com/AleksSvetski"
 
-andrewchow:
-  name        : Andrew Chow
-  bio         : "I do Bitcoin-y stuff. Core developer, Armory developer."
-  avatar      : # "/assets/images/bio-photo-2.jpg"
-  links:
-    - label: # "Email"
-      icon: #"fas fa-fw fa-envelope-square"
-      url: #"mailto:billyrick@rick.com"
-    - label: #"Website"
-      icon: #"fas fa-fw fa-link"
-      url: #"https://bitcoin.stackexchange.com/users/48884/andrew-chow"
-    - label: #"Twitter"
-      icon: #"fab fa-fw fa-twitter-square"
-      url: #"https://twitter.com/angela_walch"
-
 angelawalch:
   name        : Angela Walch
   bio         : "Prof. @StMarys_Law . Research Fellow UCL Centre for #Blockchain Technologies @uclcbt . #Money, #tech, #finance, #risk, #governance. Own no #crypto."
@@ -299,36 +284,6 @@ danheld:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/danheld"
-
-davidmorris:
-  name        : David Morris
-  bio         : "Just a snoop. AI, fintech, privacy, EVs @Fortunemagazine. Ex-@breakermag. My new book, Bitcoin is Magic: http://amzn.to/2PEbWJi PhD @Uiowa. Surrealism @BSFWriters."
-  avatar      : # "/assets/images/bio-photo-2.jpg"
-  links:
-    - label: # "Email"
-      icon: #"fas fa-fw fa-envelope-square"
-      url: #"mailto:billyrick@rick.com"
-    - label: #"Website"
-      icon: #"fas fa-fw fa-link"
-      url: #"https://thewhip.com"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/davidzmorris"
-
-dennisreimann:
-  name        : Dennis Reimann
-  bio         : "21st Century Digital Boy. The ₿itcoin shill your mother warned you about #Bitcoin #LightningNetwork Helping @BTCPayServer Co-hosting @_einundzwanzig_"
-  avatar      : # "/assets/images/bio-photo-2.jpg"
-  links:
-    - label: # "Email"
-      icon: #"fas fa-fw fa-envelope-square"
-      url: #"mailto:billyrick@rick.com"
-    - label: #"Website"
-      icon: #"fas fa-fw fa-link"
-      url: #"https://thewhip.com"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/DennisReimann"
 
 dhruvbansal:
   name        : Dhruv Bansal
@@ -944,18 +899,6 @@ pierrerochard:
       icon: "fab fa-fw fa-twitter-square"
       url: "https://mobile.twitter.com/pierre_rochard"
 
-philbonello:
-  name        : Phil Bonello
-  bio         : "Previously @Ikigai_fund, @MessariCrypto https://philjbonello.substack.com"
-  avatar      : #"/assets/images/bio-photo.jpg"
-  links:
-    - label: #"Email"
-      icon: #"fas fa-fw fa-envelope-square"
-      url: #"mailto:cornelius@thewhip.com"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/PhilJBonello"
-
 philgeiger:
   name        : Phil Geiger
   bio         : "A weird blend of Bitcoin, economics, making fun of the Fed/MMT, mountain biking, and inane humor. Product Marketing at @unchainedcap"
@@ -979,18 +922,6 @@ richardmyers:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/remyers_"
-
-robertbreedlove:
-  name        : Robert Breedlove
-  bio         : "Founder & CEO @ Parallax Digital; an event-driven hedge fund and digital securities consultancy. Freedom Maximalist. ₿itcoin = Hard Money"
-  avatar      : #"/assets/images/bio-photo.jpg"
-  links:
-    - label: #"Email"
-      icon: #"fas fa-fw fa-envelope-square"
-      url: #"mailto:cornelius@thewhip.com"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/Breedlove22"
 
 rollomcfloogle:
   name        : Rollo McFloogle
@@ -1082,7 +1013,6 @@ stadicus:
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/Stadicus3000"
 
-
 stopanddecrypt:
   name        : Stop and Decrypt
   bio         : "[Bacon Fan][Byzantine Fault Tolerance Abstractionist][Bitcoin Harbinger][Deadlift Maximalist][Guerrilla Journalist][Reddit Moderator][Wannabe Philosopher]"
@@ -1128,21 +1058,6 @@ tamasblummer:
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/TamasBlummer"
 
-thatzenboi:
-  name        : zenB
-  bio         : "Zen and the art of ₿itcoin. ⚡tacking ⚡ats"
-  avatar      : # "/assets/images/bio-photo-2.jpg"
-  links:
-    - label: # "Email"
-      icon: #"fas fa-fw fa-envelope-square"
-      url: #"mailto:billyrick@rick.com"
-    - label: #"Website"
-      icon: #"fas fa-fw fa-link"
-      url: #"https://thewhip.com"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/thatzenboi"
-
 timdraper:
   name        : Tim Draper
   bio         : "Founder of @DFJvc, @drapervc, @Draper_U, @IYS_Org."
@@ -1173,21 +1088,6 @@ tobiashuber:
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/TobiasAHuber"
 
-tuurdemeester:
-  name        : Tuur Demeester
-  bio         : "Founding Partner Adamant Capital"
-  avatar      : # "/assets/images/bio-photo-2.jpg"
-  links:
-    - label: # "Email"
-      icon: #"fas fa-fw fa-envelope-square"
-      url: #"mailto:billyrick@rick.com"
-    - label: #"Website"
-      icon: #"fas fa-fw fa-link"
-      url: #"https://thewhip.com"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/TuurDemeester"
-
 vijayboyapati:
   name        : Vijay Boyapati
   bio         : "Tu ne cede malis, sed contra audentior ito"
@@ -1217,21 +1117,6 @@ wiz:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/wiz"
-
-willywoo:
-  name        : Willy Woo
-  bio         : "on-chain analysis | partner @adaptivefund | crafting @hypersheet with great love | investor and advisor to @levelinvest"
-  avatar      : # "/assets/images/bio-photo-2.jpg"
-  links:
-    - label: # "Email"
-      icon: #"fas fa-fw fa-envelope-square"
-      url: #"mailto:billyrick@rick.com"
-    - label: #"Website"
-      icon: #"fas fa-fw fa-link"
-      url: #"https://thewhip.com"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/woonomic"
 
 yassineelmandjra:
   name        : Yassine Elmandjra
