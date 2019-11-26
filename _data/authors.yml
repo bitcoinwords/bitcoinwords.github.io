@@ -946,7 +946,7 @@ pierrerochard:
 
 philbonello:
   name        : Phil Bonello
-  bio         : "Previously @Ikigai_fund, @MessariCrypto | https://philjbonello.substack.com"
+  bio         : "Previously @Ikigai_fund, @MessariCrypto https://philjbonello.substack.com"
   avatar      : #"/assets/images/bio-photo.jpg"
   links:
     - label: #"Email"
@@ -982,7 +982,7 @@ richardmyers:
 
 robertbreedlove:
   name        : Robert Breedlove
-  bio         : "Founder & CEO @ Parallax Digital; an event-driven hedge fund and digital securities consultancy. Freedom Maximalist. ⚫️ ₿itcoin = Hard Money ⚪️"
+  bio         : "Founder & CEO @ Parallax Digital; an event-driven hedge fund and digital securities consultancy. Freedom Maximalist. ₿itcoin = Hard Money"
   avatar      : #"/assets/images/bio-photo.jpg"
   links:
     - label: #"Email"
