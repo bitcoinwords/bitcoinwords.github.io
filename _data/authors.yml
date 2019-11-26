@@ -317,7 +317,7 @@ davidmorris:
 
 dennisreimann:
   name        : Dennis Reimann
-  bio         : "21st Century Digital Boy. The ₿itcoin shill your mother warned you about • #Bitcoin #LightningNetwork • Helping @BTCPayServer • Co-hosting @_einundzwanzig_"
+  bio         : "21st Century Digital Boy. The ₿itcoin shill your mother warned you about #Bitcoin #LightningNetwork Helping @BTCPayServer Co-hosting @_einundzwanzig_"
   avatar      : # "/assets/images/bio-photo-2.jpg"
   links:
     - label: # "Email"
@@ -1129,7 +1129,7 @@ tamasblummer:
       url: "https://twitter.com/TamasBlummer"
 
 thatzenboi:
-  name        : "zen ₿"
+  name        : zenB
   bio         : "Zen and the art of ₿itcoin. ⚡tacking ⚡ats"
   avatar      : # "/assets/images/bio-photo-2.jpg"
   links:
