@@ -1,5 +1,5 @@
 ---
-title: "The Sovereign Individual" Investment Thesis"
+title: ""The Sovereign Individual" Investment Thesis"
 permalink: "/the-sovereign-individual-investment-thesis" 
 
 author: philbonello
