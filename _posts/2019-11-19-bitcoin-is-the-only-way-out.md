@@ -11,7 +11,7 @@ tags:
   - Monetary Policy
   - Economics
 
-excerpt: Rhythm 
+excerpt: Rhythm shares why Bitcoin is so important regarding privacy and opting out. Posted November 19, 2019.
 
 defaults:
   - scope:
