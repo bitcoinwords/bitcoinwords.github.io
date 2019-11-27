@@ -12,7 +12,7 @@ tags:
   - Monetary Policy
   - Digital Money
 
-excerpt: enter excerpt here
+excerpt: Phil Bonello reviews the importance of Bitcoin I'm a world of digital money. Posted November 26, 2019.
 
 defaults:
   - scope:
