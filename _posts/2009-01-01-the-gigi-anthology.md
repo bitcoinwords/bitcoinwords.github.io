@@ -34,7 +34,7 @@ defaults:
       related: false
 ---
 
-## This is a curated collection of posts and essays from [Gigi](https://twitter.com/dergigi). Read these words.
+This is a curated collection of posts and essays from [Gigi](https://twitter.com/dergigi). Read these words.
 
 ***
 
