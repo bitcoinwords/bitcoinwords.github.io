@@ -1,6 +1,6 @@
 ---
-title: "The Complete Gigi"
-permalink: "/the-complete-gigi" 
+title: "The Gigi Anthology"
+permalink: "/the-gigi-anthology" 
 
 header:
   teaser: #/assets/images/covers/Crypto-Words-CY19-Financial-Journal-cover-1000.png
@@ -10,7 +10,7 @@ header:
     - label: #"Download 2019 Bitcoin Financial Journal"
       url: #"/assets/publications/Crypto-Words-CY19-Financial-Journalv2.pdf"
 
-category: "complete-collections"
+category: "anthology"
 excerpt: #A comprehensive collection of on and off chain indicators and valuation models for Bitcoin.
 
 toc: true
@@ -34,4 +34,4 @@ defaults:
 
 This is a test to make a journal of only one authors work.
 
-posts will go here
+posts will go heres
