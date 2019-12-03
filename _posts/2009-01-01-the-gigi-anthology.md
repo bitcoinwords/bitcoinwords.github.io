@@ -2,16 +2,18 @@
 title: "The Gigi Anthology"
 permalink: "/the-gigi-anthology" 
 
+author: gigi
+
 header:
-  teaser: #/assets/images/covers/Crypto-Words-CY19-Financial-Journal-cover-1000.png
-  overlay_image: #/assets/images/covers/Crypto-Words-CY19-Financial-Journal-cover-header.png
-  overlay_filter: #0.50
+  teaser: /assets/images/covers/words-gigi-cover-1000.png
+  overlay_image: /assets/images/covers/words-gigi-cover-header.png
+  overlay_filter: 0.50
   actions:
-    - label: #"Download 2019 Bitcoin Financial Journal"
-      url: #"/assets/publications/Crypto-Words-CY19-Financial-Journalv2.pdf"
+    - label: "Download The Gigi Anthology"
+      url: "/assets/publications/words-gigi.pdf"
 
 category: "anthology"
-excerpt: #A comprehensive collection of on and off chain indicators and valuation models for Bitcoin.
+excerpt: A collection posts and essays from Gigi.
 
 toc: true
 toc_sticky: false
