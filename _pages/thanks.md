@@ -11,11 +11,15 @@ defaults:
       author_profile: true
 ---
 
-![](/assets/images/yellow.png){: .align-center}
+![](/assets/images/thankyou.png){: .align-center}
 
-# Thanks for the kind donation. Every sat matters. 
+# Thanks for your kind donation. It means a lot!
 
-## Feel freee to connect.
+Remember the old saying... A sat stacked, is a sat earned. 
+
+## Feel free to connect.
+
+If you have a request, addition, or just want to talk shop, please reach out to me.
 
 [<i class="fab fa-twitter"></i> Crypto Words on Twitter](https://twitter.com/_cryptowords){: .btn .btn--info}
 [<i class="fab fa-twitter"></i> Editor on Twitter](https://twitter.com/_joerodgers){: .btn .btn--info}
