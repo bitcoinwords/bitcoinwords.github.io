@@ -1,5 +1,5 @@
 ---
-title: "2019 Bitcoin Financial Journal"
+title: "The Bitcoin Financial Journal"
 permalink: "/cy19-financial-journal" 
 
 header:
@@ -48,8 +48,8 @@ defaults:
 
 {% include donation.md %}
 
-# About 2019 Bitcoin Financial Journal
-[![2019 Bitcoin Financial Journal Cover](/assets/images/covers/Crypto-Words-CY19-Financial-Journal-cover-150.png "CY19 August Journal Cover")](https://paywall.link/to/bb21c){: .align-left} This special journal is a collection of Bitcoin valuation models and indicators. Special thanks to [Adam Taché](https://twitter.com/Adam_Tache) for your epic tweetstorms collecting these models. 
+# About The Bitcoin Financial Journal
+[![2019 Bitcoin Financial Journal Cover](/assets/images/covers/Crypto-Words-CY19-Financial-Journal-cover-150.png "Bitcoin Financial Journal Cover")](https://paywall.link/to/bb21c){: .align-left} This special journal is a collection of Bitcoin valuation models and indicators. Special thanks to [Adam Taché](https://twitter.com/Adam_Tache) for your epic tweetstorms collecting these models. 
 
  *Crypto Words* is a monthly journal of Bitcoin commentary. For the uninitiated, getting up to speed on Bitcoin can seem daunting. Content is scattered across the internet, in some cases behind paywalls, and content has been lost forever. That’s why we made this journal, to preserve and further the understanding of Bitcoin.
 
