@@ -7,11 +7,25 @@ header:
   overlay_image: /assets/images/covers/Crypto-Words-CY19-Financial-Journal-cover-header.png
   overlay_filter: 0.50
   actions:
-    - label: "Download 2019 Bitcoin Financial Journal"
-      url: "/assets/publications/Crypto-Words-CY19-Financial-Journalv2.pdf"
+    - label: "Donate + Download the Bitcoin Financial Journal"
+      url: "https://paywall.link/to/bb21c"
 
 category: "special-journals"
 excerpt: A comprehensive collection of on and off chain indicators and valuation models for Bitcoin.
+
+tags:
+  - Financial Journal
+  - TA
+  - Modeling
+  - Finance
+  - Metrics
+  - Financial
+  - Financial Models
+  - On-Chain Analysis
+  - Off-Chain Analysis
+  - S2F
+  - Stock to Flow
+  - MVRV
 
 toc: true
 toc_sticky: false
@@ -35,11 +49,11 @@ defaults:
 {% include donation.md %}
 
 # About 2019 Bitcoin Financial Journal
-[![2019 Bitcoin Financial Journal Cover](/assets/images/covers/Crypto-Words-CY19-Financial-Journal-cover-150.png "CY19 August Journal Cover")](/assets/publications/Crypto-Words-CY19-Financial-Journalv2.pdf){: .align-left} This special journal is a collection of Bitcoin valuation models and indicators. Special thanks to [Adam Taché](https://twitter.com/Adam_Tache) for your epic tweetstorms collecting these models. 
+[![2019 Bitcoin Financial Journal Cover](/assets/images/covers/Crypto-Words-CY19-Financial-Journal-cover-150.png "CY19 August Journal Cover")](https://paywall.link/to/bb21c){: .align-left} This special journal is a collection of Bitcoin valuation models and indicators. Special thanks to [Adam Taché](https://twitter.com/Adam_Tache) for your epic tweetstorms collecting these models. 
 
  *Crypto Words* is a monthly journal of Bitcoin commentary. For the uninitiated, getting up to speed on Bitcoin can seem daunting. Content is scattered across the internet, in some cases behind paywalls, and content has been lost forever. That’s why we made this journal, to preserve and further the understanding of Bitcoin.
 
-[Download 2019 Bitcoin Financial Journal Cover](/assets/publications/Crypto-Words-CY19-Financial-Journalv2.pdf){: .btn .btn--primary}
+[Donate + Download the Bitcoin Financial Journal](https://paywall.link/to/bb21c){: .btn .btn--primary}
 
 **Remember, if you see something, say something. Send us your favorite Bitcoin commentary.**
 
@@ -49,10 +63,7 @@ If you find this journal useful, consider supporting _Crypto Words_ by <strike>m
 
 ***
 
-
 <br>
-
-[CY19 Financial Journal](/assets/publications/Crypto-Words-CY19-Financial-Journalv2.pdf){: .btn .btn--primary}
 
 # On-Chain Valuation Models 
 
