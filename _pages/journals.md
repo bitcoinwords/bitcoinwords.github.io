@@ -16,3 +16,5 @@ There are now hundreds of subscribers. You should sign up too - apparently it's 
 
 [<i class="far fa-envelope"></i> Subscribe](https://mailchi.mp/2731ce628dba/cryptowordsnewsletter){: .btn .btn--primary}
 [<i class="fab fa-twitter"></i> Twitter](https://twitter.com/_cryptowords){: .btn .btn--info}
+
+***
