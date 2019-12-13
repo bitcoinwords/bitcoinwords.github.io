@@ -8,9 +8,11 @@ author_profile: true
 
 ---
 
-_Crypto Words_ is a monthly Bitcoin journal. Each journal is a collection of articles, essays, and tweets from the Bitcoin community for that month.
+_Crypto Words_ is a monthly Bitcoin journal. Each journal is a collection of articles, essays, and tweets from the Bitcoin community that month.
 ## Distribution
-*Crypto Words* is distributed monthly via Twitter and email newsletter. Consider subscribing and/or following us on Twitter.
+Journals are = distributed monthly via email newsletter. 
 
-[Subscribe](https://mailchi.mp/2731ce628dba/cryptowordsnewsletter){: .btn .btn--primary}
+There are now hundreds of subscribers. You should sign up too - apparently it's pretty good.
+
+[<i class="far fa-envelope"></i> Subscribe](https://mailchi.mp/2731ce628dba/cryptowordsnewsletter){: .btn .btn--primary}
 [<i class="fab fa-twitter"></i> Twitter](https://twitter.com/_cryptowords){: .btn .btn--info}
