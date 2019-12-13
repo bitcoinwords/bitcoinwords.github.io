@@ -17,8 +17,8 @@ The posts and journals published here have been carefully curated and crafted as
 We're all fighting the good fight. Any donation is appreciated. If I could do this full time I would!
 
 ### Bitcoin On-Chain
-![Bitcoin donation](/assets/images/donation-qr.png)
-'bc1qsf68mwja5w8caakq2zcly8el2a2uzs20hyk056'
+![Bitcoin donation](/assets/images/donation-qr.PNG)
+`bc1qsf68mwja5w8caakq2zcly8el2a2uzs20hyk056`
 
 ### Lightning
 
