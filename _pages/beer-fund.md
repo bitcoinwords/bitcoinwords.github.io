@@ -22,7 +22,7 @@ We're all fighting the good fight. Any donation is appreciated. If I could do th
 
 ### Lightning
 
-[<i class="fas fa-bolt"></i> Lightning via Paywall.Link](https://paywall.link/to/thanks){: .btn .btn--danger} [<i class="fas fa-bolt"></i> Lightning via Tippin.me](https://tippin.me/@_joerodgers){: .btn .btn--primary} [<i class="fas fa-bolt"></i> Lightning via Bottle pay](https://pay.bottle.li/send/social/twitter/_joerodgers){: .btn .btn--warning}
+[<i class="fas fa-bolt"></i> Lightning via Paywall.Link](https://paywall.link/to/thanks){: .btn .btn--danger} [<i class="fas fa-bolt"></i> Lightning via Tippin.me](https://tippin.me/@_joerodgers){: .btn .btn--primary}
 
 ### Fiat
 
