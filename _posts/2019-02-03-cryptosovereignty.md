@@ -13,7 +13,7 @@ tags:
   - Law
 
 
-excerpt: enter excerpt here
+excerpt: Erik lay's out the framework for a future based on crypto rather than man's subjective views. Posted February 3, 2019.
 
 defaults:
   - scope:
