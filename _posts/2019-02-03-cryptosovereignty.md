@@ -29,7 +29,7 @@ defaults:
 ### Posted February 3, 2019
 
 
-![](/assets/images/cy19q1/cy19q1m2/ec-1.PNG)
+![](/assets/images/cy19q1/cy19q1m2/ec-1.png)
 
 ### The sovereign power of cryptography in the digital age
 
