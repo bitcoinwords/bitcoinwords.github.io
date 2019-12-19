@@ -1,13 +1,15 @@
 ---
 title: "Tweetstorm: Bitcoin is Secure Money"
-permalink: "/tweetstorm-bitcoinm-is-secure-money" 
+permalink: "/tweetstorm-bitcoin-is-secure-money" 
 
-author: JW Weatherman
+author: jwweatherman
 
 tags:
   - JW Weatherman
   - CY19 Q2
   - tweetstorm
+  - Money
+  - Secure
 
 excerpt: JW Weatherman makes the case for Bitcoin as a secure money in this brief tweetstorm. Posted June 29, 2019.
 
@@ -25,6 +27,8 @@ defaults:
 ---
 
 {% include donation.md %}
+
+***
 
 # [Tweetstorm: Bitcoin is Secure Money](https://twitter.com/JWWeatherman_/status/1145056199676706819)
 ### By [JW Weatherman](https://twitter.com/JWWeatherman_)
@@ -90,3 +94,9 @@ So Bitcoin will simply copy those useful attributes
 While retaining the UTXO advantage 
 
 So as long as history endures we will have a “secure money” called #bitcoin
+
+
+***
+
+{% include signup.md %}
+
