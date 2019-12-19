@@ -2,9 +2,15 @@
 title: "Introducing SOPR: spent outputs to predict bitcoin lows and tops"
 permalink: "/sopr-spent-outputs-to-predict-bitcoin-lows-and-tops" 
 
+author: renatoshirakashi
+
 tags:
   - Renato Shirakashi
   - CY19 Q2
+  - Financial
+  - Models
+  - SOPR
+  - Indicator
 
 excerpt: Renato Shirakashi introduces SOPR, which is a new oscillating indicator that signals when major supply changes occur. Posted April 25, 2019.
 
@@ -22,6 +28,8 @@ defaults:
 ---
 
 {% include donation.md %}
+
+***
 
 # [Introducing SOPR: spent outputs to predict bitcoin lows and tops](https://medium.com/unconfiscatable/introducing-sopr-spent-outputs-to-predict-bitcoin-lows-and-tops-ceb4536b3b9)
 ### Posted[Renato Shirakashi](https://twitter.com/renato_shira)
@@ -71,3 +79,7 @@ Next steps will be to further explore SOPR using different time-frames for the s
 This is a preliminary work, if you want to have updates on this and future work, please follow me on twitter: [**_@renato_shira_**](https://www.twitter.com/renato_shira)
 
 Revision by: [@cryptopoiesis](https://twitter.com/cryptopoiesis)
+
+***
+
+{% include signup.md %}
