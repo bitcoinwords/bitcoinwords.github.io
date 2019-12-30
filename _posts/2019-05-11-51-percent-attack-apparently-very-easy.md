@@ -4,9 +4,15 @@ permalink: "/51-percent-attack-apparently-very-easy"
 
 tags:
   - Pieter Wuille
-  - Gregory Maxwell
+  - Greg Maxwell
   - Fernando Nieto
   - CY19 Q2
+  - Re-org
+  - 51% Attack
+  - Consensus
+  - Attack
+  - Rollback
+  - Blockchain
 
 excerpt: Great discussion regarding 51% attack and reorg. Comments from Peter Wuille, Gregory Maxwell, and Fernando Nieto. Posted May 11, 2019.
 
@@ -25,6 +31,8 @@ defaults:
 ---
 
 {% include donation.md %}
+
+***
 
 # [51% attack - apparently very easy? refering to CZ's “rollback btc chain”](https://bitcoin.stackexchange.com/questions/87652/51-attack-apparently-very-easy-refering-to-czs-rollback-btc-chain-how-t)
 ## How to make sure such corruptible scenario can never happen so easily?
@@ -103,3 +111,7 @@ How can we make reorgs even more difficult? @LukeDashjr provided the first two o
 3. @TheBlueMatt's BetterHash mining protocol would have a similar effect, making practically impossible for mining pools to enforce an ordering of transactions, hence removing their ability to censor some of them.
 4. The more independent miners, the more difficult it will be for anybody to coordinate them and try to 51% attack the network with existing mining capacity. Currently over 40% and growing.
 ![](/assets/images/cy19/cy19q2m5/fn-3.png){: .align-center}
+
+***
+
+{% include signup.md %}
