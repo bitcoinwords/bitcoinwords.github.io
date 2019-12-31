@@ -300,6 +300,21 @@ caitlinlong:
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/CaitlinLong_"
 
+charlesedwards:
+  name        : Charles Edwards
+  bio         : "Digital asset management @ http://capriole.io | Deep value investing & autonomous algo-trading | Market Research | Trend King Indicators"
+  avatar      : # "/assets/images/bio-photo-2.jpg"
+  links:
+    - label: # "Email"
+      icon: #"fas fa-fw fa-envelope-square"
+      url: #"mailto:billyrick@rick.com"
+    - label: #"Website"
+      icon: #"fas fa-fw fa-link"
+      url: #"https://thewhip.com"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/caprioleio"
+
 christopherbendiksen:
   name        : Christopher Bendiksen
   bio         : "Endlessly curious. Head of Research at @coinsharesco. Likes Bitcoin, most plants and history. Opinions are my own. Nothing I write is financial advice."
@@ -776,6 +791,18 @@ lucasnuzzi:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/LucasNuzzi"
+
+marcelburger:
+  name        : Marcel Burger
+  bio         : "Burger Crypto Consultancy helps innovative investors by offering customised investment management services with a focus on crypto assets."
+  avatar      : #"/assets/images/bio-photo.jpg"
+  links:
+    - label: #"Email"
+      icon: #"fas fa-fw fa-envelope-square"
+      url: #"mailto:cornelius@thewhip.com"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/BurgerOnCrypto"
 
 mattahlborg:
   name        : Matt Ahlborg
