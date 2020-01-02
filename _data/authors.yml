@@ -61,7 +61,7 @@ alexgladstein:
       url: "https://twitter.com/gladstein"
 
 alexsvetski:
-  name        : Alex Svetski
+  name        : Aleksander Svetski
   bio         : "Hairless chimp interested in Money, Bitcoin, ⚡️, Anthropology, History, Economics & Business. I also write...when I get time. (link: https://tippin.me/@AleksSvetski) tippin.me/@AleksSvetski"
   avatar      : # "/assets/images/bio-photo-2.jpg"
   links:
@@ -735,6 +735,21 @@ jesselawler:
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/Lawlerpalooza"
 
+jillcarlson:
+  name        : Jill Carlson
+  bio         : "thinking fast and @slow"
+  avatar      : # "/assets/images/bio-photo-2.jpg"
+  links:
+    - label: # "Email"
+      icon: #"fas fa-fw fa-envelope-square"
+      url: #"mailto:billyrick@rick.com"
+    - label: #"Website"
+      icon: #"fas fa-fw fa-link"
+      url: #"https://thewhip.com"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/jillruthcarlson"
+
 joerodgers:
   name        : Joe Rodgers
   bio         : "Crypto Words editor. Markets Clear."
@@ -749,6 +764,21 @@ joerodgers:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/_joerodgers/"
+
+johnnewbery:
+  name        : John Newbery
+  bio         : "Maximalish @Chaincodelabs in NYC."
+  avatar      : # "/assets/images/bio-photo-2.jpg"
+  links:
+    - label: # "Email"
+      icon: #"fas fa-fw fa-envelope-square"
+      url: #"mailto:billyrick@rick.com"
+    - label: #"Website"
+      icon: #"fas fa-fw fa-link"
+      url: #"https://thewhip.com"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/jfnewbery"
 
 jwweatherman:
   name        : JW Weatherman
@@ -1020,6 +1050,18 @@ petermccormack:
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/PeterMcCormack"
 
+pieterwuille:
+  name        : Pieter Wuille
+  bio         : "I'm Pieter. I work at @Blockstream. I do #bitcoin stuff."
+  avatar      : #"/assets/images/bio-photo.jpg"
+  links:
+    - label: #"Email"
+      icon: #"fas fa-fw fa-envelope-square"
+      url: #"mailto:cornelius@thewhip.com"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/pwuille"
+
 pierrerochard:
   name        : Pierre Rochard
   bio         : "Software engineer, running Lightning Power Users"
@@ -1127,6 +1169,18 @@ rollomcfloogle:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/RolloMcFloogle"
+
+roryhighside:
+  name        : Rory Highside
+  bio         : "Australian economics, she’ll be right mate. Bitcoin Supremacist. Zuckbuck Maximalist. Bergchain not blockchain. Heil Zoltan!"
+  avatar      : #"/assets/images/bio-photo.jpg"
+  links:
+    - label: #"Email"
+      icon: #"fas fa-fw fa-envelope-square"
+      url: #"mailto:cornelius@thewhip.com"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/roryhighside"
 
 rossulbricht:
   name        : Ross Ulbricht

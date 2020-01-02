@@ -19,7 +19,7 @@ tags:
   - LNP
 
 
-excerpt: .
+excerpt: Lucas Nuzzi lays out a comprehensive view of the ever evolving Bitcoin technology stack. Posted December 3, 2019.
 
 defaults:
   - scope:

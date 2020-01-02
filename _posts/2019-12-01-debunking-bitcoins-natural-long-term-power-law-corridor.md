@@ -11,7 +11,7 @@ tags:
   - Technical Analysis
   - Predictive Analytics
 
-excerpt: .Marcel Burger digs into the corridor of growth. Posted November 30, 2019
+excerpt: Marcel Burger digs into the corridor of growth. Posted November 30, 2019
 
 defaults:
   - scope:
