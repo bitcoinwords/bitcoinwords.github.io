@@ -11,6 +11,7 @@ tags:
   - Consensus
   - Blockchain
   - Network
+  - Bitcoin Times
   - Infrastructure
 
 excerpt: Aleksander Svetski describes Bitcoin not as SaaS but as IaaS. Posted November 26, 2019.

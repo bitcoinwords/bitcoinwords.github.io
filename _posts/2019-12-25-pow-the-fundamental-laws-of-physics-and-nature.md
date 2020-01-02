@@ -11,6 +11,7 @@ tags:
   - POW
   - Entropy
   - Physics
+  - Bitcoin Times
   - Thermodynamics
 
 excerpt: Rory Highside explains the thermodynamics behind PoW and Bitcoin. POsted December 25, 2019.
