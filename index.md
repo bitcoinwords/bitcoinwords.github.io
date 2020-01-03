@@ -1,5 +1,5 @@
 ---
-title: "All signal, no noise. We're the best place to read about Bitcoin."
+title: "All signal, no noise. The best place to read about Bitcoin."
 layout: splash
 permalink: /
 date: 2019-03-01
