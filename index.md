@@ -36,6 +36,6 @@ feature_row:
     btn_class: "btn--primary"
 ---
 
-[![](https://raw.githubusercontent.com/cryptowords/cryptowords.github.io/master/assets/images/splash-stats.png)](https://cryptowords.github.io/categories/journals/){: .align-center}
+[![](https://raw.githubusercontent.com/bitcoinwords/bitcoinwords.github.io/master/assets/images/splash-stats.png)](https://bitcoinwords.github.io/categories/journals/){: .align-center}
 
 {% include feature_row %}
