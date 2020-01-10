@@ -1,6 +1,6 @@
 ---
 title: "The Bitcoin Financial Journal"
-permalink: "/cy19-financial-journal" 
+permalink: "/bitcoin-financial-journal" 
 
 header:
   teaser: /assets/images/covers/Crypto-Words-CY19-Financial-Journal-cover-1000.png
@@ -51,7 +51,7 @@ defaults:
 # About The Bitcoin Financial Journal
 [![2019 Bitcoin Financial Journal Cover](/assets/images/covers/Crypto-Words-CY19-Financial-Journal-cover-150.png "Bitcoin Financial Journal Cover")](https://paywall.link/to/bb21c){: .align-left} This special journal is a collection of Bitcoin valuation models and indicators. Special thanks to [Adam Taché](https://twitter.com/Adam_Tache) for your epic tweetstorms collecting these models. 
 
- *Crypto Words* is a monthly journal of Bitcoin commentary. For the uninitiated, getting up to speed on Bitcoin can seem daunting. Content is scattered across the internet, in some cases behind paywalls, and content has been lost forever. That’s why we made this journal, to preserve and further the understanding of Bitcoin.
+*WORDS* is a monthly journal of Bitcoin commentary. For the uninitiated, getting up to speed on Bitcoin can seem daunting. Content is scattered across the internet, in some cases behind paywalls, and content has been lost forever. That’s why we made this journal, to preserve and further the understanding of Bitcoin.
 
 [Donate + Download the Bitcoin Financial Journal](https://paywall.link/to/bb21c){: .btn .btn--primary}
 
@@ -59,7 +59,7 @@ defaults:
 
 If you find this journal useful, consider supporting _Crypto Words_ by <strike>making a donation</strike> buying us a beer.
 
-[Beer Fund](https://cryptowords.github.io/beer-fund/){: .btn .btn--success}
+[Support WORDS](https://wordswords.github.io/support/){: .btn .btn--success}
 
 ***
 
