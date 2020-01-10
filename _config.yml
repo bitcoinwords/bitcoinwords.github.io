@@ -127,9 +127,9 @@ author:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       # url: "https://github.com/bitcoinwords"
-    - label: " Beer Fund"
-      icon: "fas fa-beer"
-      url: "https://bitcoinwords.github.io/beer-fund/"
+    - label: "Support WORDS"
+      # icon: "fas fa-beer"
+      url: "https://bitcoinwords.github.io/support/"
 
 # Site Footer
 footer:
