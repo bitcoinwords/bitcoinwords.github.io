@@ -23,8 +23,8 @@ description              : "A Monthly Bitcoin Journal"
 url                      : "https://bitcoinwords.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "bitcoinwords/bitcoinwords.github.io"
-teaser                   : "/assets/images/og-cryptowords.png"
-logo                     : "/assets/images/cryptowords88.png"
+teaser                   : "/assets/images/words-logos/wordsblackoutline-88.png"
+logo                     : "/assets/images/words-logos/wordsblackoutline-88.png"
 masthead_title           : "A Monthly Bitcoin Journal"
 breadcrumbs              : true
 words_per_minute         : 200
@@ -88,7 +88,7 @@ facebook:
   username               :
   app_id                 :
   publisher              :
-og_image                 : "/assets/images/og-cryptowords.png"
+og_image                 : "/assets/images/words-logos/wordswhite.png"
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:

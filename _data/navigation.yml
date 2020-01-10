@@ -1,19 +1,19 @@
 # main links
 main:
   - title: "Subscribe"
-    url: https://mailchi.mp/2731ce628dba/cryptowordsnewsletter
+    url: https://mailchi.mp/59e9fda5b387/words
   - title: "Journals"
-    url: https://cryptowords.github.io/categories/journals/
+    url: https://bitcoinwords.github.io/categories/journals/
   - title: "Posts"
-    url: https://cryptowords.github.io/tags/
+    url: https://bitcoinwords.github.io/tags/
   - title: "About"
-    url: https://cryptowords.github.io/about/
+    url: https://bitcoinwords.github.io/about/
   - title: "Contact"
-    url: https://cryptowords.github.io/contact/
+    url: https://bitcoinwords.github.io/contact/
   - title: "Submissions"
-    url: https://cryptowords.github.io/submissions/
+    url: https://bitcoinwords.github.io/submissions/
   - title: "Beer Fund"
-    url: https://cryptowords.github.io/beer-fund  
+    url: https://bitcoinwords.github.io/beer-fund  
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
