@@ -23,8 +23,8 @@ description              : "A Monthly Bitcoin Journal"
 url                      : "https://bitcoinwords.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "bitcoinwords/bitcoinwords.github.io"
-teaser                   : "/assets/images/words-logos/wordsblackoutline-88.png"
-logo                     : "/assets/images/words-logos/wordsblackoutline-88.png"
+teaser                   : "/assets/words-logos/wordsblackoutline-88.png"
+logo                     : "/assets/words-logos/wordsblackoutline-88.png"
 masthead_title           : "A Monthly Bitcoin Journal"
 breadcrumbs              : true
 words_per_minute         : 200
@@ -88,7 +88,7 @@ facebook:
   username               :
   app_id                 :
   publisher              :
-og_image                 : "/assets/images/words-logos/wordswhite.png"
+og_image                 : "/assets/words-logos/wordswhite.png"
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
@@ -117,7 +117,7 @@ author:
       # url: "mailto:cbitcoinwords@gmail.com"
     - label: "Subscribe"
       icon: "fas fa-fw fa-link"
-      url: "https://mailchi.mp/2731ce628dba/cryptowordsnewsletter"
+      url: "https://mailchi.mp/59e9fda5b387/words"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/_bitcoinwords"
@@ -136,7 +136,7 @@ footer:
   links:
     - label: "Subscribe"
       icon: "fas fa-fw fa-link"
-      url: "https://mailchi.mp/2731ce628dba/cryptowordsnewsletter"
+      url: "https://mailchi.mp/59e9fda5b387/words"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: https://twitter.com/_bitcoinwords
