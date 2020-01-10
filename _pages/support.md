@@ -1,10 +1,10 @@
 ---
-permalink: /beer-fund/
-title: "Show your support"
+permalink: /support/
+title: "Support WORDS"
 defaults:
   # _pages
   - scope:
-      path: "Beer Fund"
+      path: "Support"
       type: pages
     values:
       layout: single
@@ -31,7 +31,7 @@ We're all fighting the good fight. Any donation is appreciated. If I could do th
 
 ## Help Spread the Word
 
-Have a website or use social networking sites like Twitter, Facebook, or LinkedIn? Consider sharing the content found on *Crypto Words* or linking to [https://cryptowords.github.io](https://cryptowords.github.io).
+Have a website or use social networking sites like Twitter, Facebook, or LinkedIn? Consider sharing the content found on *WORDS* or linking to [https://bitcoinwords.github.io](https://bitcoinwords.github.io).
 
 ## Follow us on social media
 
@@ -39,13 +39,13 @@ We're active on Twitter and use it as our main line of communication. — We don
 
 Give us a follow:
 
-[<i class="fab fa-twitter"></i> Twitter](https://twitter.com/_cryptowords){: .btn .btn--info}
+[<i class="fab fa-twitter"></i> Twitter](https://twitter.com/_bitcoinwords){: .btn .btn--info}
 
 ## Subscribe to our newsletter
 
 There are now hundreds of subscribers. You should sign up too - apparently it's pretty good.
 
-[Subscribe](https://mailchi.mp/2731ce628dba/cryptowordsnewsletter){: .btn .btn--primary}
+[Subscribe](https://mailchi.mp/59e9fda5b387/words){: .btn .btn--primary}
 
 ### Our pledge
 

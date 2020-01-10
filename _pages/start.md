@@ -10,8 +10,8 @@ defaults:
 **WORK IN PROGRESS** This page is under development. It will serve as a on boarding place holder and tutorial on how to get themost from the website.
 {: .notice--danger}
 
-# What is Crypto Words?
-*Crypto Words* is a monthly Bitcoin journal. New journals are published monthly and older journals are published as we get to them. This project began in the spring of 2019, so there's a decade worth of content that needs to be archived. This could take a while!
+# What is WORDS?
+*WORDS* is a monthly Bitcoin journal. New journals are published monthly and older journals are published as we get to them. This project began in the spring of 2019, so there's a decade worth of content that needs to be archived. This could take a while!
 
 {% include feature_row id="feature_rowjournals" type="right" %}
 
@@ -24,7 +24,7 @@ Check out this PDF journal for reference:
 # Start with the Journals
 
 # Browse Posts by Tags
-[![Browse by Tags](/assets/images/tags.PNG)](https://cryptowords.github.io/tags/){: .align-center}
+[![Browse by Tags](/assets/images/tags.PNG)](https://bitcoinwords.github.io/tags/){: .align-center}
 
 
 
@@ -42,7 +42,7 @@ The costs of the journal are met through donations, which are invited in any amo
 
 ## Spread the word
 
-Have a website or use social networking sites like Twitter, Facebook, or LinkedIn? Please consider sharing the content found on *Crypto Words* or linking to [https://cryptowords.github.io](https://cryptowords.github.io).
+Have a website or use social networking sites like Twitter, Facebook, or LinkedIn? Please consider sharing the content found on *WORDS* or linking to [https://bitcoinwords.github.io](https://bitcoinwords.github.io).
 
 ## Follow us on social media
 
@@ -50,7 +50,7 @@ We post regularly on Twitter and use it as our main form of communication. — W
 
 If these sorts of things interest you, follow along on:
 
-[<i class="fab fa-twitter"></i> Twitter](https://twitter.com/_cryptowords){: .btn .btn--info}
+[<i class="fab fa-twitter"></i> Twitter](https://twitter.com/_bitcoinwords){: .btn .btn--info}
 
 ## Subscribe to our newsletter
 
@@ -64,4 +64,4 @@ We publish our journal monthly and share it via Twitter and via newsletter. Cons
 
 <i class="fas fa-check-square"></i> We will only deliver what is promised.
 
-[Subscribe](https://mailchi.mp/2731ce628dba/cryptowordsnewsletter){: .btn .btn--primary}
+[Subscribe](https://mailchi.mp/59e9fda5b387/words){: .btn .btn--primary}

@@ -12,8 +12,8 @@ main:
     url: https://bitcoinwords.github.io/contact/
   - title: "Submissions"
     url: https://bitcoinwords.github.io/submissions/
-  - title: "Beer Fund"
-    url: https://bitcoinwords.github.io/beer-fund  
+  - title: "Support"
+    url: https://bitcoinwords.github.io/support  
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
