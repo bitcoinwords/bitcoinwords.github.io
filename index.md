@@ -16,7 +16,7 @@ feature_row:
   - image_path: /assets/images/splash-about.png
     alt: "Read the Journals"
     title: "Journals"
-    excerpt: #"Crypto Words is on a mission to curate and archive the brightest commentary on Bitcoin. We're producing a monthly journal and just getting started."
+    excerpt: #"WORDS is on a mission to curate and archive the brightest commentary on Bitcoin. We're producing a monthly journal and just getting started."
     url: "https://bitcoinwords.github.io/categories/journals/"
     btn_label: "Read Journals"
     btn_class: "btn--primary"
