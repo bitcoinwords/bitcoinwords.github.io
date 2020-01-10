@@ -9,7 +9,7 @@ header:
   overlay_image: /assets/images/splash-header.png
   actions:
     - label: "SUBSCRIBE NOW (FOR FREE)!"
-      url: "https://mailchi.mp/2731ce628dba/cryptowordsnewsletter"
+      url: "https://mailchi.mp/59e9fda5b387/words"
   caption: ""
 excerpt: "Bitcoin's Most Important Writings, Delivered Straight to Your Inbox"
 feature_row:
