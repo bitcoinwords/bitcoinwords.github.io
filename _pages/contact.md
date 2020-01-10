@@ -16,6 +16,6 @@ defaults:
 Please reach out to us with questions, concerns, or recommendations. Our DM's are wide open and we welcome feedback. 
 
 
-[<i class="fab fa-twitter"></i> Crypto Words on Twitter](https://twitter.com/_bitcoinwords){: .btn .btn--info}
+[<i class="fab fa-twitter"></i> WORDS on Twitter](https://twitter.com/_bitcoinwords){: .btn .btn--info}
 [<i class="fab fa-twitter"></i> Editor on Twitter](https://twitter.com/_joerodgers){: .btn .btn--info}
 [<i class="fas fa-envelope-open-text"></i> Email the Editor](mailto:bitcoinwords@gmail.com){: .btn .btn--primary}

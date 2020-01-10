@@ -55,4 +55,4 @@ There are now hundreds of subscribers. You should sign up too - apparently it's 
 
 <i class="fas fa-check-square"></i> We'll only deliver what is promised.
 
-## Read Words
+## Read WORDS
