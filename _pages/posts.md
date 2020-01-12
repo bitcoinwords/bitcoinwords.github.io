@@ -7,7 +7,7 @@ author_profile: true
 
 ---
 
-All the posts for _WORDS_ are found below in **chronological order**. You can also browse via [tags](https://cryptowords.github.io/tags/).
+All the posts for _WORDS_ are found below in **chronological order**. You can also browse via [tags](https://bitcoinwords.github.io/tags/).
 
 Posts are added randomly as we come across them.
 
