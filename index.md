@@ -6,7 +6,7 @@ date: 2019-03-01
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
-  overlay_image: "https://i.giphy.com/media/MXQnyEQwBJ6eTj90L5/giphy.webp"
+  overlay_image: https://i.giphy.com/media/MXQnyEQwBJ6eTj90L5/giphy.webp
   actions:
     - label: "SUBSCRIBE NOW (FOR FREE)!"
       url: "https://mailchi.mp/59e9fda5b387/words"
