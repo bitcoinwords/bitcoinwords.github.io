@@ -31,8 +31,8 @@ feature_row:
     alt: "CY19 Financial Journal"
     title: "Bitcoin Financial Journal"
     excerpt: #"A comprehensive collection of on and off chain indicators and valuation models for Bitcoin."
-    url: "https://bitcoinwords.github.io/cy19-financial-journal"
-    btn_label: "Read the Financial Journal"
+    url: "https://bitcoinwords.github.io/bitcoin-financial-journal"
+    btn_label: "Read the Bitcoin Financial Journal"
     btn_class: "btn--primary"
 ---
 
