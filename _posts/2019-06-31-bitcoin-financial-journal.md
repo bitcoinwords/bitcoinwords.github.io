@@ -58,10 +58,6 @@ defaults:
 
 **Remember, if you see something, say something. Send us your favorite Bitcoin commentary.**
 
-If you find this journal useful, consider supporting _Crypto Words_ by <strike>making a donation</strike> buying us a beer.
-
-[Support WORDS](https://wordswords.github.io/support/){: .btn .btn--success}
-
 ***
 
 <br>
