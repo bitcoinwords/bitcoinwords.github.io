@@ -1,6 +1,5 @@
 ---
 permalink: /complete-2019/
-title: "The Complete 2019 Collection"
 defaults:
   # _pages
   - scope:
