@@ -555,6 +555,21 @@ gregmaxwell:
       icon: #"fab fa-fw fa-twitter-square"
       url: #"https://twitter.com/dergigi"
 
+grishatrubetskoy:
+  name        : Grisha Trubetskoy
+  bio         : "Data Hacker, author of @mod_python. Blah blah blah."
+  avatar      : # "/assets/images/bio-photo-2.jpg"
+  links:
+    - label: # "Email"
+      icon: #"fas fa-fw fa-envelope-square"
+      url: #"mailto:billyrick@rick.com"
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "https://grisha.org/"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/humblehack"
+
 hanshauge:
   name        : Hans Hauge
   bio         : "Senior Quantitative Researcher @Ikigai_fund. #Bitcoin"
