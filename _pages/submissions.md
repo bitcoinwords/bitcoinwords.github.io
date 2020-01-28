@@ -15,7 +15,9 @@ defaults:
 ## Submissions
 Connect with us if you would like to have your article, essay, or tweet considered for the journal. We are building out a backlog of journals back to the genesis block and will be updating published journals periodically with content that should have been included. 
 
-[Email the editor](mailto:bitcoinwords@gmail.com){: .btn .btn--primary}
+[<i class="fas fa-envelope-open-text"></i> Email the editor](mailto:bitcoinwords@gmail.com){: .btn .btn--primary}
+[<i class="fab fa-twitter"></i> Submit to WORDS on Twitter](https://twitter.com/_bitcoinwords){: .btn .btn--info}
+[<i class="fab fa-telegram-plane"></i> Submit on Telegram](https://t.me/bitcoinwordsjournal){: .btn .btn--info}
 
 ## Format & Citations
 Microsoft Word is the preferred format. All submissions should include an abstract of around 150 words. As noted above, articles should be submitted in final form, and be thoroughly proofread. American and British English are both acceptable. Footnotes are preferred to endnotes, but are not required.  Authors are asked to use the author-date method of citation, through we allow for discretion so long as the references are consistent and complete; we do, however, prefer in-text citations with a separate references section at the end of the paper. The exact citation style is not our major concern, as long as it is consistent, professional, and enables the reader to locate the work referenced. Neither our time nor the author’s need be wasted converting from one citation style to another.
