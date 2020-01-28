@@ -9,7 +9,7 @@
 <div id="mc_embed_signup">
 <form action="https://github.us20.list-manage.com/subscribe/post?u=e9b06fca59a9b018a89bf5b28&amp;id=7713596221" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
     <div id="mc_embed_signup_scroll">
-	<h2>Subscribe</h2>
+	<h2>Subscribe to WORDS</h2>
 <div class="indicates-required"><span class="asterisk">*</span> indicates required</div>
 <div class="mc-field-group">
 	<label for="mce-EMAIL">Email Address  <span class="asterisk">*</span>
