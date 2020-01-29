@@ -14,7 +14,6 @@ tags:
   - S2F
   - Price Prediction
 
-
 excerpt: Harold Christopher Burger shares his opinion on the decreasing gains for Bitcoin. Postec December 30, 2019.
 
 defaults:
