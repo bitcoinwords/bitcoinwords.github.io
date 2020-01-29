@@ -12,7 +12,6 @@ tags:
   - Blockchain
   - Decentralized Time
 
-
 excerpt: Grisha Trubetskoy explains how a PoW blockchain is a clock. Posted January 23, 2018. 
 
 defaults:
