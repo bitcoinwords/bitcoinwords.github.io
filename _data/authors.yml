@@ -1,6 +1,6 @@
-aaronvanwirdum:
-  name        : Aaron van Wirdum
-  bio         : "Aaron van Wirdum is interested in decentralized consensus, FOSS, privacy in the digital age, censorship resistant payments, and more of that stereotypical Bitcoin stuff. Hodls BTC."
+acrual:
+  name        : acrual
+  bio         : "Thinking out loud about energy, money, coding, antiques and mostly figuring out ₿itcoin"
   avatar      : # "/assets/images/bio-photo-2.jpg"
   links:
     - label: # "Email"
@@ -11,4 +11,4 @@ aaronvanwirdum:
       url: #"https://thewhip.com"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/aaronvanw"
+      url: "https://twitter.com/acrual"
