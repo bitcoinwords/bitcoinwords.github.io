@@ -29,3 +29,138 @@ acrual:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/acrual"
+
+adampaulmoore:
+  name        : Adam Paul Moore
+  bio         : "Digital Marketer. Stacking sats, strapped with gats, high in bacon fats. I once touched the #Liberty Bell and it gave me powers. Rowan, UPenn alum."
+  avatar      : # "/assets/images/bio-photo-2.jpg"
+  links:
+    - label: # "Email"
+      icon: #"fas fa-fw fa-envelope-square"
+      url: #"mailto:billyrick@rick.com"
+    - label: #"Website"
+      icon: #"fas fa-fw fa-link"
+      url: #"https://thewhip.com"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/AdamPaulMoore"
+
+alexgladstein:
+  name        : Alex Gladstein
+  bio         : "Chief Strategy Officer: @HRF + @OsloFF. Faculty: @SingularityU. Friend of democracy, civil liberties, Bitcoin. Foe of tyranny and the surveillance state."
+  avatar      : # "/assets/images/bio-photo-2.jpg"
+  links:
+    - label: # "Email"
+      icon: #"fas fa-fw fa-envelope-square"
+      url: #"mailto:billyrick@rick.com"
+    - label: #"Website"
+      icon: #"fas fa-fw fa-link"
+      url: #"https://thewhip.com"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/gladstein"
+
+alexsvetski:
+  name        : Aleksander Svetski
+  bio         : "Hairless chimp interested in Money, Bitcoin, ⚡️, Anthropology, History, Economics & Business. I also write...when I get time. (link: https://tippin.me/@AleksSvetski) tippin.me/@AleksSvetski"
+  avatar      : # "/assets/images/bio-photo-2.jpg"
+  links:
+    - label: # "Email"
+      icon: #"fas fa-fw fa-envelope-square"
+      url: #"mailto:billyrick@rick.com"
+    - label: #"Website"
+      icon: #"fas fa-fw fa-link"
+      url: #"https://thewhip.com"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/AleksSvetski"
+
+alanmanuelkgloria:
+  name        : Alan Manuel K. Gloria
+  bio         : ""
+  avatar      : # "/assets/images/bio-photo-2.jpg"
+  links:
+    - label: # "Email"
+      icon: #"fas fa-fw fa-envelope-square"
+      url: #"mailto:billyrick@rick.com"
+    - label: "Reddit"
+      icon: "fas fa-fw fa-link"
+      url: "https://www.reddit.com/user/almkglor/"
+    - label: # "Twitter"
+      icon: #"fab fa-fw fa-twitter-square"
+      url: #"https://twitter.com/AleksSvetski"
+
+americanhodl:
+  name        : AMERICAN HODL
+  bio         : "HODLER OF LAST RESORT."
+  avatar      : # "/assets/images/bio-photo-2.jpg"
+  links:
+    - label: # "Email"
+      icon: #"fas fa-fw fa-envelope-square"
+      url: #"mailto:billyrick@rick.com"
+    - label: #"Website"
+      icon: #"fas fa-fw fa-link"
+      url: #"https://thewhip.com"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/american_hodl"
+
+andrewchow:
+  name        : Andrew Chow
+  bio         : "I do Bitcoin-y stuff. Core developer, Armory developer."
+  avatar      : # "/assets/images/bio-photo-2.jpg"
+  links:
+    - label: # "Email"
+      icon: #"fas fa-fw fa-envelope-square"
+      url: #"mailto:billyrick@rick.com"
+    - label: #"Website"
+      icon: #"fas fa-fw fa-link"
+      url: #"https://thewhip.com"
+    - label: #"Twitter"
+      icon: #"fab fa-fw fa-twitter-square"
+      url: #"https://twitter.com/angela_walch"
+
+angelawalch:
+  name        : Angela Walch
+  bio         : "Prof. @StMarys_Law . Research Fellow UCL Centre for #Blockchain Technologies @uclcbt . #Money, #tech, #finance, #risk, #governance. Own no #crypto."
+  avatar      : # "/assets/images/bio-photo-2.jpg"
+  links:
+    - label: # "Email"
+      icon: #"fas fa-fw fa-envelope-square"
+      url: #"mailto:billyrick@rick.com"
+    - label: #"Website"
+      icon: #"fas fa-fw fa-link"
+      url: #"https://thewhip.com"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/angela_walch"
+
+anthonylusardi:
+  name        : Anthony Lusardi
+  bio         : "Currently: Developing some neat smart contracts, freelancing, and taking pictures |PayNym: +emptypond35d Formerly: Director @ETCCooperative"
+  avatar      : # "/assets/images/bio-photo-2.jpg"
+  links:
+    - label: # "Email"
+      icon: #"fas fa-fw fa-envelope-square"
+      url: #"mailto:billyrick@rick.com"
+    - label: #"Website"
+      icon: #"fas fa-fw fa-link"
+      url: #"https://thewhip.com"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/pyskell"
+
+anthonypompliano:
+  name        : Anthony Pompliano
+  bio         : "Co-founder & Partner at Morgan Creek Digital. I write a daily letter analyzing crypto news for institutional investors: (link: http://offthechain.substack.com) offthechain.substack.com"
+  avatar      : # "/assets/images/bio-photo-2.jpg"
+  links:
+    - label: # "Email"
+      icon: #"fas fa-fw fa-envelope-square"
+      url: #"mailto:billyrick@rick.com"
+    - label: #"Website"
+      icon: #"fas fa-fw fa-link"
+      url: #"https://thewhip.com"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/APompliano"
