@@ -2,9 +2,13 @@
 title: "Bitcoin Has No Intrinsic Value — and That's Great"
 permalink: "/bitcoin-has-no-intrinsic-value-and-thats-great" 
 
+author: connerbrown
+
 tags:
   - Conner Brown
   - CY19 Q2
+  - Value
+  - Intrinsic Value
 
 excerpt: Conner Brown makes the case that Bitcoin is the ultimate store of wealth BECAUSE it has no intrinsic value. Posted May 8, 2019.
 

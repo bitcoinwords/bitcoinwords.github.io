@@ -330,6 +330,21 @@ christopherbendiksen:
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/C_Bendiksen"
 
+connerbrown:
+  name        : Conner Brown
+  bio         : "First slowly, then all at once."
+  avatar      : # "/assets/images/bio-photo-2.jpg"
+  links:
+    - label: # "Email"
+      icon: #"fas fa-fw fa-envelope-square"
+      url: #"mailto:billyrick@rick.com"
+    - label: #"Website"
+      icon: #"fas fa-fw fa-link"
+      url: #"https://thewhip.com"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/_ConnerBrown_"
+
 danheld:
   name        : Dan Held
   bio         : "Dan Held the Hodler"
@@ -449,6 +464,21 @@ erikcason:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/erikcason"
+
+ff2k:
+  name        : FF2K
+  bio         : "Nifty fellow, THICK BALANCED CHANNELS, Playing by the rules and squirreling 🐿 away Sats, #stackingsats http://bitpiggys.com https://paywall.link/to/36e7c"
+  avatar      : # "/assets/images/bio-photo-2.jpg"
+  links:
+    - label: # "Email"
+      icon: #"fas fa-fw fa-envelope-square"
+      url: #"mailto:billyrick@rick.com"
+    - label: "BitPiggys"
+      icon: "fas fa-fw fa-link"
+      url: "http://bitpiggys.com"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/fartface2000"
 
 ferdousbhai:
   name        : Ferdous Bhai
@@ -1274,6 +1304,21 @@ stadicus:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/Stadicus3000"
+
+stephanlivera:
+  name        : Stephan Livera
+  bio         : "Bitcoin Podcaster and co-founder @ministryofnodes. Give yourself a financial edge, and learn more about Bitcoin's economics & technology."
+  avatar      : # "/assets/images/bio-photo-2.jpg"
+  links:
+    - label: # "Email"
+      icon: #"fas fa-fw fa-envelope-square"
+      url: #"mailto:billyrick@rick.com"
+    - label: "stephanlivera.com"
+      icon: "fas fa-fw fa-link"
+      url: "https://stephanlivera.com/"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/stephanlivera"
 
 stopanddecrypt:
   name        : Stop and Decrypt

@@ -2,10 +2,13 @@
 title: "Tweetstorm: Bitcoin rescues the human"
 permalink: "/tweetstorm-bitcoin-rescues-the-human" 
 
+author: connerbrown
+
 tags:
   - Conner Brown
   - CY19 Q2
   - Tweetstorm
+  - Humanity
 
 excerpt: Conner Brown shares a brief tweetstorm on Bitcoin rescuing humanity from itself. Posted June 3, 2019.
 

@@ -13,7 +13,7 @@ tags:
   - Sovereign Currency
   - Fiat Money
 
-excerpt: Parker Lewis explains how and why Bitcoin will be the winner of the money wars. POsted January 24, 2020.
+excerpt: Parker Lewis explains how and why Bitcoin will be the winner of the money wars. Posted January 24, 2020.
 
 defaults:
   - scope:
