@@ -13,7 +13,6 @@ tags:
   - History
   - Ethics
 
-
 excerpt: Beautyon calls out the emergence of surveillance tools being developed for the Bitcoin network. Posted January 30, 2018. 
 
 defaults:
