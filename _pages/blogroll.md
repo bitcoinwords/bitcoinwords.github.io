@@ -34,7 +34,7 @@ You should visit these websites, click links, read, and follow the creators on T
 
 [21 Lessons by Der Gigi](https://21lessons.com/){: .btn .btn--primary}
 
-**Bitcoin Rabbit Hole** is a collection of Bitcoin content that you will benefit from. It's maintained by [Adam Tache](https://twitter.com/Adam_Tache). His tweets inspired our [Financial Journal](https://cryptowords.github.io/cy19-financial-journal).
+**Bitcoin Rabbit Hole** is a collection of Bitcoin content that you will benefit from. It's maintained by [Adam Tache](https://twitter.com/Adam_Tache). His tweets inspired our [Financial Journal](https://bitcoinwords.github.io/cy19-financial-journal).
 {: .notice--primary}
 
 [Bitcoin Rabbit Hole](https://bitcoinrabbithole.org/){: .btn .btn--primary}

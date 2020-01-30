@@ -13,7 +13,7 @@ defaults:
 ![](/assets/images/yellow.png){: .align-center}
 
 ## Newsletter Archives
-*WORDS* is published monthly and pushed to readers via Twitter and email newsletter. This page shows a list of the newsletters that have been sent out to subscriber.
+**WORDS** is published monthly and pushed to readers via Twitter and email newsletter. This page shows a list of the newsletters that have been sent out to subscriber.
 
 <!-- Begin Mailchimp Signup Form -->
 <link href="//cdn-images.mailchimp.com/embedcode/classic-10_7.css" rel="stylesheet" type="text/css">

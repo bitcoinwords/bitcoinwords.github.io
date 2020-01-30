@@ -11,7 +11,7 @@ defaults:
 {: .notice--danger}
 
 # What is WORDS?
-*WORDS* is a monthly Bitcoin journal. New journals are published monthly and older journals are published as we get to them. This project began in the spring of 2019, so there's a decade worth of content that needs to be archived. This could take a while!
+**WORDS** is a monthly Bitcoin journal. New journals are published monthly and older journals are published as we get to them. This project began in the spring of 2019, so there's a decade worth of content that needs to be archived. This could take a while!
 
 {% include feature_row id="feature_rowjournals" type="right" %}
 

@@ -8,7 +8,8 @@ author_profile: true
 
 ---
 
-_WORDS_ is a monthly Bitcoin journal. Each journal is a collection of articles, essays, and tweets from the Bitcoin community that month.
+**WORDS** is a monthly Bitcoin journal. Each journal is a collection of articles, essays, and tweets from the Bitcoin community that month.
+
 ## Distribution
 Journals are distributed monthly via email newsletter. 
 
