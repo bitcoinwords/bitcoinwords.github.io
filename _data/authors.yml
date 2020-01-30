@@ -374,6 +374,23 @@ christopherbendiksen:
       label: Twitter
       url: "https://twitter.com/C_Bendiksen"
   name: "Christopher Bendiksen"
+connerbrown: 
+  avatar: ~
+  bio: "First slowly, then all at once."
+  links: 
+    - 
+      icon: ~
+      label: ~
+      url: ~
+    - 
+      icon: ~
+      label: ~
+      url: ~
+    - 
+      icon: "fab fa-fw fa-twitter-square"
+      label: Twitter
+      url: "https://twitter.com/_ConnerBrown_"
+  name: "Conner Brown"
 danheld: 
   avatar: ~
   bio: "Dan Held the Hodler"
@@ -544,6 +561,23 @@ ferdousbhai:
       label: Twitter
       url: "https://twitter.com/ferdousbhai"
   name: "Ferdous Bhai"
+ff2k: 
+  avatar: ~
+  bio: "Nifty fellow, THICK BALANCED CHANNELS, Playing by the rules and squirreling 🐿 away Sats, #stackingsats http://bitpiggys.com"
+  links: 
+    - 
+      icon: ~
+      label: ~
+      url: ~
+    - 
+      icon: ~
+      label: ~
+      url: ~
+    - 
+      icon: "fab fa-fw fa-twitter-square"
+      label: Twitter
+      url: "https://twitter.com/fartface2000"
+  name: "FF2K"
 gaborgurbacs: 
   avatar: ~
   bio: "fine print reader, discrete mathematician, Bitcoiner, former archeology CEO, digital asset strategist/director at VanEck/MVIS (opinions, likes, Rts are my own)"
@@ -1475,6 +1509,23 @@ stadicus:
       label: Twitter
       url: "https://twitter.com/Stadicus3000"
   name: Stadicus
+stephanlivera: 
+  avatar: ~
+  bio: "Bitcoin Podcaster and co-founder @ministryofnodes. Give yourself a financial edge, and learn more about Bitcoin's economics & technology."
+  links: 
+    - 
+      icon: ~
+      label: ~
+      url: ~
+    - 
+      icon: ~
+      label: ~
+      url: ~
+    - 
+      icon: "fab fa-fw fa-twitter-square"
+      label: Twitter
+      url: "https://twitter.com/stephanlivera"
+  name: Stephan Livera
 stopanddecrypt: 
   avatar: ~
   bio: "[Bacon Fan][Byzantine Fault Tolerance Abstractionist][Bitcoin Harbinger][Deadlift Maximalist][Guerrilla Journalist][Reddit Moderator][Wannabe Philosopher]"
