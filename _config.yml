@@ -108,7 +108,7 @@ analytics:
 author:
   name             : "WORDS"
   avatar           : "/assets/images/words-card-200.png"
-  bio              : "Do Your Own Research. Read Words."
+  bio              : "Words is a bastion of Bitcoin knowledge. Read WORDS."
   location         : # "Little Rock, AR"
   email            : "bitcoinwords@gmail.com"
   links:
@@ -121,12 +121,12 @@ author:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/_bitcoinwords"
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
-      # url: "https://facebook.com/"
+    - label: "Telegram"
+      icon: "fab fa-telegram-plane"
+      url: "https://t.me/bitcoinwordsjournal"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/bitcoinwords"
+      url: "https://github.com/bitcoinwords"
     - label: "Support WORDS"
       icon: "fab fa-bitcoin"
       url: "https://bitcoinwords.github.io/support/"
@@ -140,9 +140,9 @@ footer:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: https://twitter.com/_bitcoinwords
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
-      # url:
+    - label: "Telegram"
+      icon: "fab fa-telegram-plane"
+      url: "https://t.me/bitcoinwordsjournal"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/bitcoinwords"
