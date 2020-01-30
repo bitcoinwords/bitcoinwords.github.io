@@ -1,5 +1,4 @@
-# /_data/authors.yml
-
+--- 
 aaronvanwirdum: 
   avatar: ~
   bio: "Aaron van Wirdum is interested in decentralized consensus, FOSS, privacy in the digital age, censorship resistant payments, and more of that stereotypical Bitcoin stuff. Hodls BTC."
@@ -577,7 +576,7 @@ ff2k:
       icon: "fab fa-fw fa-twitter-square"
       label: Twitter
       url: "https://twitter.com/fartface2000"
-  name: "FF2K"
+  name: FF2K
 gaborgurbacs: 
   avatar: ~
   bio: "fine print reader, discrete mathematician, Bitcoiner, former archeology CEO, digital asset strategist/director at VanEck/MVIS (opinions, likes, Rts are my own)"
@@ -1525,7 +1524,7 @@ stephanlivera:
       icon: "fab fa-fw fa-twitter-square"
       label: Twitter
       url: "https://twitter.com/stephanlivera"
-  name: Stephan Livera
+  name: "Stephan Livera"
 stopanddecrypt: 
   avatar: ~
   bio: "[Bacon Fan][Byzantine Fault Tolerance Abstractionist][Bitcoin Harbinger][Deadlift Maximalist][Guerrilla Journalist][Reddit Moderator][Wannabe Philosopher]"
