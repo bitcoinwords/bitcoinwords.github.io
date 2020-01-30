@@ -1,6 +1,6 @@
 ---
 title: "Bitcoin: The Blockchain for Truly Smart Contracts"
-permalink: "/bitcoin-the-blockchain-for-truly-smart-contracts" 
+permalink: "/bitcoin-the-blockchain-for-truly-smart-contracts"
 
 author: connerbrown
 

@@ -1,6 +1,6 @@
 ---
 title: "Stop comparing Bitcoin to the internet"
-permalink: "/stop-comparing-bitcoin-to-the-internet" 
+permalink: "/stop-comparing-bitcoin-to-the-internet"
 
 author: dhruvbansal
 

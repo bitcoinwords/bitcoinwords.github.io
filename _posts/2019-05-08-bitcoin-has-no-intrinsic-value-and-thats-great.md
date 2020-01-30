@@ -1,6 +1,6 @@
 ---
 title: "Bitcoin Has No Intrinsic Value — and That's Great"
-permalink: "/bitcoin-has-no-intrinsic-value-and-thats-great" 
+permalink: "/bitcoin-has-no-intrinsic-value-and-thats-great"
 
 author: connerbrown
 
@@ -13,19 +13,13 @@ tags:
 excerpt: Conner Brown makes the case that Bitcoin is the ultimate store of wealth BECAUSE it has no intrinsic value. Posted May 8, 2019.
 
 defaults:
-  # _posts
   - scope:
-      path: ""
       type: posts
-    values:
-      layout: single
-      read_time: true
-      comments: false
-      share: true
-      related: false
 ---
 
 {% include donation.md %}
+
+***
 
 # [Bitcoin Has No Intrinsic Value — and That's Great.](https://medium.com/coinmonks/bitcoin-has-no-intrinsic-value-and-thats-great-e6994adbfe0f)
 ### By [Conner Brown](https://twitter.com/_ConnerBrown_)
@@ -101,3 +95,7 @@ Instead of locking up useful resources to store wealth, Bitcoin gives humans the
 Yes, Bitcoin has no intrinsic value and for that we should be thankful.
 
 _A special thanks to Karina Kauffman, Dan Held, and the Bitcoin Observer for their incredible help._
+
+***
+
+{% include signup.md %}

@@ -1,6 +1,6 @@
 ---
 title: "Tweetstorm: Bitcoin rescues the human"
-permalink: "/tweetstorm-bitcoin-rescues-the-human" 
+permalink: "/tweetstorm-bitcoin-rescues-the-human"
 
 author: connerbrown
 
@@ -13,19 +13,13 @@ tags:
 excerpt: Conner Brown shares a brief tweetstorm on Bitcoin rescuing humanity from itself. Posted June 3, 2019.
 
 defaults:
-  # _posts
   - scope:
-      path: ""
       type: posts
-    values:
-      layout: single
-      read_time: true
-      comments: false
-      share: true
-      related: false
 ---
 
 {% include donation.md %}
+
+***
 
 # [Tweetstorm: Bitcoin rescues the human](https://twitter.com/_ConnerBrown_/status/1135739702462492674)
 ### By [Conner Brown](https://twitter.com/_ConnerBrown_)
@@ -62,3 +56,7 @@ Our money supply will no longer be controlled by a small group of men huddled ar
 Instead, rates and credit will be set by the sum total of interactions—with each actor pushing and pulling to reach a human balance.
 
 Long bitcoin, short the central bankers 🤠
+
+***
+
+{% include signup.md %}

@@ -1,6 +1,6 @@
 ---
 title: "Bitcoin Obsoletes All Other Money"
-permalink: "/bitcoin-obsoletes-all-other-money" 
+permalink: "/bitcoin-obsoletes-all-other-money"
 
 author: parkerlewis
 

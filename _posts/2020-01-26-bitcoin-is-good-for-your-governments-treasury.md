@@ -1,6 +1,6 @@
 ---
 title: "Bitcoin is good for your government’s treasury"
-permalink: "/bitcoin-is-good-for-your-governments-treasury" 
+permalink: "/bitcoin-is-good-for-your-governments-treasury"
 
 author: ff2k
 

@@ -1,6 +1,6 @@
 ---
 title: "Bitcoin Surveillance: an Ahistoric Market Error"
-permalink: "/bitcoin-surveillance-an-ahistoric-market-error" 
+permalink: "/bitcoin-surveillance-an-ahistoric-market-error"
 
 author: beautyon
 
@@ -13,7 +13,7 @@ tags:
   - History
   - Ethics
 
-excerpt: Beautyon calls out the emergence of surveillance tools being developed for the Bitcoin network. Posted January 30, 2018. 
+excerpt: Beautyon calls out the emergence of surveillance tools being developed for the Bitcoin network. Posted January 30, 2018.
 
 defaults:
   - scope:

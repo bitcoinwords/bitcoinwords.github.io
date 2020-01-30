@@ -1,6 +1,6 @@
 ---
 title: "What Crypto "Token Velocity Theorists" Can Learn From Austrian Economics"
-permalink: "/what-crypto-token-velocity-theorists-can-learen-from-austrian-economics" 
+permalink: "/what-crypto-token-velocity-theorists-can-learen-from-austrian-economics"
 
 author: stephanlivera
 

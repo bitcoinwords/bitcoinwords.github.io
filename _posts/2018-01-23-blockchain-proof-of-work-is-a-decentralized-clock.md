@@ -1,6 +1,6 @@
 ---
 title: "Blockchain Proof-of-Work Is a Decentralized Clock"
-permalink: "/blockchain-proof-of-work-is-a-decentralized-clock" 
+permalink: "/blockchain-proof-of-work-is-a-decentralized-clock"
 
 author: grishatrubetskoy
 
@@ -12,7 +12,7 @@ tags:
   - Blockchain
   - Decentralized Time
 
-excerpt: Grisha Trubetskoy explains how a PoW blockchain is a clock. Posted January 23, 2018. 
+excerpt: Grisha Trubetskoy explains how a PoW blockchain is a clock. Posted January 23, 2018.
 
 defaults:
   - scope:
