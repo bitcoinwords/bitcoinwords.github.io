@@ -89,6 +89,10 @@
   position: relative;
   border-radius: $border-radius;
   overflow: hidden;
+
+  img {
+    width: 100%;
+  }
 }
 
 .archive__item-caption {
@@ -440,4 +444,12 @@
       padding-right: 0;
     }
   }
+}
+
+/* Place inside a single layout */
+
+.layout--single {
+	.feature__wrapper {
+		display: inline-block;
+	}
 }
