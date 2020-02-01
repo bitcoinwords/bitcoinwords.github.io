@@ -26,7 +26,7 @@ defaults:
 
 # [Bitcoin is perfectly suited for value time travel](https://medium.com/@acrual/bitcoin-is-perfectly-suited-for-value-time-travel-7535a0afe5b1)
 ### By [Acrual](https://twitter.com/acrual)
-### PostedJanuary 22.2020
+### Posted January 22.2020
 
 [](/assets/images/2020/m1/a1.png)
 *Whenever an oil pipe is not enough, you need to store it as cheap as possible*
