@@ -1,5 +1,20 @@
 # /_data/authors.yml
 
+6102:
+  name        : 6102
+  bio         : "http://6102bitcoin.com/projects"
+  avatar      : # "/assets/images/bio-photo-2.jpg"
+  links:
+    - label: # "Email"
+      icon: #"fas fa-fw fa-envelope-square"
+      url: #"mailto:billyrick@rick.com"
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "https://bitcoin-only.com"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/6102bitcoin"
+
 aaronvanwirdum:
   name        : Aaron van Wirdum
   bio         : "Aaron van Wirdum is interested in decentralized consensus, FOSS, privacy in the digital age, censorship resistant payments, and more of that stereotypical Bitcoin stuff. Hodls BTC."
@@ -509,6 +524,21 @@ gaborgurbacs:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/gaborgurbacs"
+
+gabrielshapiro:
+  name        : Gabriel Shapiro
+  bio         : "autonomous attorney"
+  avatar      : # "/assets/images/bio-photo-2.jpg"
+  links:
+    - label: # "Email"
+      icon: #"fas fa-fw fa-envelope-square"
+      url: #"mailto:billyrick@rick.com"
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "https://lex-node.github.io/sustain/"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/lex_node"
 
 georgekikvadze:
   name        : George Kikvadze

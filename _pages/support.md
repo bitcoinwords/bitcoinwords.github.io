@@ -16,18 +16,13 @@ The posts and journals published here have been carefully curated and crafted as
 ## Send a donation
 We're all fighting the good fight. Any donation is appreciated. If I could do this full time I would!
 
-### Bitcoin On-Chain
-![Bitcoin donation](/assets/images/donation-qr.PNG)
-`bc1qsf68mwja5w8caakq2zcly8el2a2uzs20hyk056`
-
-### Lightning
+### Lightning Donation
 
 [<i class="fas fa-bolt"></i> Lightning via Paywall.Link](https://paywall.link/to/thanks){: .btn .btn--danger} [<i class="fas fa-bolt"></i> Lightning via Tippin.me](https://tippin.me/@_joerodgers){: .btn .btn--primary}
 
-### Fiat
+### Dirty Fiat
 
 [<i class="fas fa-money-check-alt"></i> Send CashApp](https://cash.app/$joerodgers76){: .btn .btn--success} [<i class="fab fa-paypal"></i> Send PayPal](https://www.paypal.me/bucwolfser){: .btn .btn--info}
-
 
 ## Help Spread the Word
 
@@ -56,3 +51,6 @@ There are now hundreds of subscribers. You should sign up too - apparently it's 
 <i class="fas fa-check-square"></i> We'll only deliver what is promised.
 
 ## Read WORDS
+
+
+[<i class="fas fa-bolt"></i> Support WORDS](https://bitcoinwords.github.io/support/){: .btn .btn--danger}
