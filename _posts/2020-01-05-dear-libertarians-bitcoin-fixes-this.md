@@ -10,6 +10,8 @@ tags:
   - Libertarians
   - Politics
   - Libertarian
+  - Bitcoin Fixes This
+  - Corruption
 
 
 excerpt: Rollo sounds off on Libertarians to get on board the Bitcoin train. Posted January 4, 2020.

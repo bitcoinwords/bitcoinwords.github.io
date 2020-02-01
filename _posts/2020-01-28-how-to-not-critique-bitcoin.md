@@ -33,7 +33,6 @@ defaults:
 ### By [Conner Brown](https://twitter.com/_ConnerBrown_)
 ### Posted January 28, 2020
 
-
 ![](/assets/images/2020/m1/cb4.png)
 
 After publishing my latest article, I received some pushback about Bitcoin’s flexibility. This viewpoint is best expressed by [Paddy’s tweetstorm here](https://twitter.com/paddypisa/status/1217844970352205824) and parts of [Daniel Goldman’s article here](https://blog.theabacus.io/how-not-to-critique-ethereum-11b542b08206). This is a quick response, but it needs to be said.

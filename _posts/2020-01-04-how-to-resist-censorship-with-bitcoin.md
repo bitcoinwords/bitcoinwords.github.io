@@ -25,6 +25,7 @@ defaults:
 
 # [How to Resist Censorship with Bitcoin](https://elaineou.com/2020/01/04/how-to-resist-censorship-with-bitcoin/)
 ### By [Elaine Ou](https://twitter.com/eiaine)
+### Posted January 4, 2020
 
 
 _This is an excerpt from a presentation I gave at the [2019 Magical Crypto Conference](https://www.magicalcryptoconference.com/)._ 
