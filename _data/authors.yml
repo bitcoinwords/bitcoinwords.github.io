@@ -1,7 +1,7 @@
 # /_data/authors.yml
 
-_6102:
-  name        : _6102
+SixOneZeroTwo:
+  name        : SixOneZeroTwo
   bio         : "http://6102bitcoin.com/projects"
   avatar      : # "/assets/images/bio-photo-2.jpg"
   links:

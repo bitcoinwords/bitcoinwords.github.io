@@ -6,7 +6,7 @@ author: gtabrielshapiro
 
 tags:
   - Gabriel Shapiro
-  - 2020
+  - 2020 Q1
   - Fiduciaries
   - Legal
   - Developers

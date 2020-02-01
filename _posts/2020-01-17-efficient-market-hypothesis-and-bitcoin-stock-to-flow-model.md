@@ -6,7 +6,7 @@ author: planb
 
 tags:
   - PlanB
-  - cy+quarter
+  - 2020 Q1
   - EMH
   - Stock to Flow
   - Indicator

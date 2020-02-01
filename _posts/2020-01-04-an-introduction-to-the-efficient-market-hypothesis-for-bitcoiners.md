@@ -6,7 +6,7 @@ author: niccarter
 
 tags:
   - Nic Carter
-  - cy+quarter
+  - 2020 Q1
   - EMH
   - Financial
   - Analysis

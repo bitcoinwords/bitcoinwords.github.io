@@ -2,10 +2,10 @@
 title: "Bitcoin Backups"
 permalink: "/bitcoin-backups" 
 
-author: _6102
+author: SixOneZeroTwo
 
 tags:
-  - _6102
+  - SixOneZeroTwo
   - 2020 Q1
   - Money Production
   - Money
