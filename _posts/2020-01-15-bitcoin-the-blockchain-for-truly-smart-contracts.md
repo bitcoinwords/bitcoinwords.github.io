@@ -30,7 +30,7 @@ defaults:
 ### By [Conner Brown](https://twitter.com/_ConnerBrown_)
 ### Posted January 15, 2020
 
-![](/assets/images/2020/m1/cb1.png)
+![](/assets/images/2020/m1/cb3.png)
 
 Smart contracts sound enticing. The allure of cutting out attorneys, endless paperwork, and exorbitant legal fees is what drew me into learning about cryptocurrency in the first place. Unfortunately, my dreams were shortly crushed. It was clear that reality didn’t live up to the advertising hype and “smart contracting platforms” had fundamental problems with the nature of contracts.
 

@@ -49,19 +49,19 @@ This is completely misunderstood by many to mean that the USA can buy anything i
 
 **Money is a tool used to measure value.** Like any useful measuring tool it should be reliable, if all else is constant then measuring the same thing twice should yield the same result twice. Increasing the money supply effectively distorts the measuring tool. If you double the money supply then you will simply half the value of each unit of money. Consider two pies, Blue(berry) Pie | Orange Pie (wtf) 
 
-![](/assets/images/2020/m1-6102-2.png)  
+![](/assets/images/2020/m1/6102-2.png)  
 
 Blue(berry) pie is split into 4 equal slices, while Orange pie is split into 16. 
 
-![](/assets/images/2020/m1-6102-3.png) 
+![](/assets/images/2020/m1/6102-3.png) 
 
 Assuming that both pies are equally delicious (this is unlikely, apologies to any orange pie lovers) what is the relative value of a slice of blueberry pie to a slice of orange pie? 4:1 (A slice of blueberry pie is equivalent to 4 slices of orange pie) Money is equivalent to the number of slices of the pie. You can slice the pie into more pieces, but the value of each slice will be worth less. To complicate matters, governments have a tendency to continue slicing the pie while you are holding it! They call it ‘inflation’. 
 
-![](/assets/images/2020/m1-6102-4.png)  
+![](/assets/images/2020/m1/6102-4.png)  
 
 Remember, Money is a tool used to measure value. Like any good measuring tool it should be reliable, if all else is constant measuring the same thing twice should yield the same result twice. Inflation breaks the reliability of money. A dollar 50 years ago would get you a whole lot more than a dollar today. That is because the value of the dollar has decreased, and it has done so due to inflation (printing more money). Consider the policy of those who slice the pie you hold pieces of. 
 
-![](/assets/images/2020/m1-6102-5.png)  
+![](/assets/images/2020/m1/6102-5.png)  
 
 ***
 
