@@ -11,7 +11,11 @@ tags:
   - Stock to Flow
   - Indicator
   - Financial Analysis
-  - 
+  - Finance
+  - Pricing
+  - S2F
+  - Money
+  - Value
 
 excerpt: PlanB explains that Stock to Flow is priced in and supported by the EMH. Posted January 17, 2020
 

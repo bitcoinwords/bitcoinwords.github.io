@@ -14,7 +14,7 @@ tags:
   - Tokens
   - Fisher Equation
 
-excerpt: Stephan Livera explains why "crypto velocity theorists" are getting it wrong and what they could learn from the Austrian School. Posted January 21, 2020.
+excerpt: Stephan Livera explains why crypto velocity theorists are getting it wrong and what they could learn from the Austrian School. Posted January 21, 2020.
 
 defaults:
   - scope:

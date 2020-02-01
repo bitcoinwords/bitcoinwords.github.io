@@ -10,6 +10,10 @@ tags:
   - EMH
   - Financial
   - Analysis
+  - Finance
+  - Economics
+  - Pricing
+  - 
 
 excerpt: enter excerpt here
 

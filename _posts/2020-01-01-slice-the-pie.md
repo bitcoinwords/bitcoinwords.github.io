@@ -2,10 +2,10 @@
 title: "Slice the Pie"
 permalink: "/slice-the-pie" 
 
-author: 6102
+author: _6102
 
 tags:
-  - 6102
+  - _6102
   - 2020 Q1
   - Money Production
   - Money

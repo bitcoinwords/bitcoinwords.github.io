@@ -14,7 +14,7 @@ tags:
   - Open Protocol
   - Open
 
-excerpt: enter excerpt here
+excerpt: Wiz talks about the internet and decentralization. Posted January 13, 2020.
 
 defaults:
   - scope:

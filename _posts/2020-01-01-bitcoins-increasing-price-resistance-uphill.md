@@ -1,5 +1,5 @@
 ---
-title: "Bitcoin’s increasing price resistance uphill, short- and long-term"
+title: "Bitcoin’s increasing price resistance uphill, short and long-term"
 permalink: "/bitcoins-increasing-price-resistance-uphill"
 
 author: haroldchristopherburger
