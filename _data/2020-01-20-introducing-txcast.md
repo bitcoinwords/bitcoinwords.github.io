@@ -2,10 +2,10 @@
 title: "Introducing txCast"
 permalink: "/introducing-txcast" 
 
-author: 6102
+author: _6102
 
 tags:
-  - 6102
+  - _6102
   - 2020 Q1
   - Technology
   - Privacy
