@@ -13,7 +13,7 @@ defaults:
 
 ![](/assets/images/thankyou.png){: .align-center}
 
-# Thanks for your kind donation. It means a lot!
+# Thanks for your support. It means a lot!
 
 Remember the old saying... A sat stacked, is a sat earned. 
 
