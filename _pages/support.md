@@ -1,6 +1,6 @@
 ---
 permalink: /support/
-title: "Support WORDS"
+title: "Support 𝗪𝗢𝗥𝗗𝗦"
 defaults:
   # _pages
   - scope:
@@ -24,7 +24,7 @@ We're all fighting the good fight. Any donation is appreciated. If I could do th
 
 [<i class="fas fa-money-check-alt"></i> Send CashApp](https://cash.app/$joerodgers76){: .btn .btn--success} [<i class="fab fa-paypal"></i> Send PayPal](https://www.paypal.me/bucwolfser){: .btn .btn--info}
 
-## Help Spread the Word
+## Help Spread the 𝗪𝗢𝗥𝗗𝗦
 
 Have a website or use social networking sites like Twitter, Facebook, or LinkedIn? Consider sharing the content found on *WORDS* or linking to [https://bitcoinwords.github.io](https://bitcoinwords.github.io).
 
@@ -50,7 +50,7 @@ There are now hundreds of subscribers. You should sign up too - apparently it's 
 
 <i class="fas fa-check-square"></i> We'll only deliver what is promised.
 
-## Read WORDS
+## Read 𝗪𝗢𝗥𝗗𝗦
 
 
-[<i class="fas fa-bolt"></i> Support WORDS](https://bitcoinwords.github.io/support/){: .btn .btn--danger}
+[<i class="fas fa-bolt"></i> Support 𝗪𝗢𝗥𝗗𝗦](https://bitcoinwords.github.io/support/){: .btn .btn--danger}

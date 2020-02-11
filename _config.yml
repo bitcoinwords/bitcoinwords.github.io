@@ -16,9 +16,9 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "WORDS"
+title                    : "𝗪𝗢𝗥𝗗𝗦"
 title_separator          : "-"
-name                     : "WORDS"
+name                     : "𝗪𝗢𝗥𝗗𝗦"
 description              : "A Monthly Bitcoin Journal"
 url                      : "https://bitcoinwords.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -106,9 +106,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "WORDS"
+  name             : "𝗪𝗢𝗥𝗗𝗦"
   avatar           : "/assets/images/words-card-200.png"
-  bio              : "Words is a bastion of Bitcoin knowledge. Read WORDS."
+  bio              : "𝗪𝗢𝗥𝗗𝗦 is a bastion of Bitcoin knowledge. Read 𝗪𝗢𝗥𝗗𝗦."
   location         : # "Little Rock, AR"
   email            : "bitcoinwords@gmail.com"
   links:
@@ -127,7 +127,7 @@ author:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/bitcoinwords"
-    - label: "Support WORDS"
+    - label: "Support 𝗪𝗢𝗥𝗗𝗦"
       icon: "fab fa-bitcoin"
       url: "https://bitcoinwords.github.io/support/"
 
