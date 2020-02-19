@@ -2,9 +2,21 @@
 title: "Bitcoin Miners Beware: Invalid Blocks Need Not Apply"
 permalink: "/bitcoin-miners-beware-invalid-blocks-need-not-apply" 
 
+author: stopanddecrypt
+
 tags:
   - Stop and Decrypt
   - CY18 Q2
+  - Miners
+  - Invalid Blocks
+  - Segwit
+  - Rules
+  - Incentives
+  - Bitcoin Mining
+  - Consensus
+  - Hashrate
+  
+
 
 excerpt: Stop and Decrypt lays out the case for full nodes being the backbone of the Bitcoin network and miners simply provide blocks. Posted June 1, 2018.
 
