@@ -5,6 +5,12 @@ permalink: "/demystifying-blockchain-not-bitcoin"
 tags:
   - CY19 Q1
   - David Nage
+  - Blockchain
+  - FUD
+  - Institutional Investors
+  - Sentiment
+  - Finance
+  - Investors
 
 defaults:
   # _posts

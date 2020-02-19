@@ -5,6 +5,13 @@ permalink: "/bitcoin-delta-capitalization"
 tags:
   - CY19 Q1
   - David Puell
+  - Financial Indicator
+  - Timing
+  - Metrics
+  - Charts
+  - Charting
+  - Finance
+  - Indicator
 
 defaults:
   # _posts

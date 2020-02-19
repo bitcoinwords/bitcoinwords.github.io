@@ -5,6 +5,11 @@ permalink: "/rehypothecation-btcs-path-to-becoming-king-of-collateral"
 tags:
   - CY19 Q1
   - Patrick Dugan
+  - Rehypothecation
+  - Collateral
+  - Loans
+  - Risk
+  - Finance
 
 defaults:
   # _posts

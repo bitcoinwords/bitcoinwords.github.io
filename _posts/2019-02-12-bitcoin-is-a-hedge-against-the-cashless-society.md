@@ -8,6 +8,13 @@ tags:
   - CY19 Q1
   - Su Zhu
   - Hasu
+  - Digital Money
+  - Privacy
+  - Security
+  - Human Right
+  - Cash
+  - Cashless
+  - Digital Payments
 
 defaults:
   # _posts

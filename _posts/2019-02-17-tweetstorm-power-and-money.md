@@ -5,6 +5,11 @@ permalink: "/tweetstorm-power-and-money"
 tags:
   - CY19 Q1
   - Saifedean Ammous
+  - Tweetstorm
+  - Fiat
+  - Power
+  - Keynesian
+  - War
 
 defaults:
   # _posts

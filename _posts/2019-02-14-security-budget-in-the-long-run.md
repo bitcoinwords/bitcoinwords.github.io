@@ -7,6 +7,16 @@ author: paulsztorc
 tags:
   - CY19 Q1
   - Paul Sztorc
+  - Security
+  - Subsidy
+  - Network
+  - 51 percent attack
+  - Competition
+  - Block Subsify
+  - Fees
+  - Securtity Budget
+  - Network Effect
+  - Game Theory
 
 defaults:
   # _posts

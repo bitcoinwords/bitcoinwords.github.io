@@ -5,6 +5,12 @@ permalink: "/bitcoins-incentive-system-or-when-the-stars-align"
 tags:
   - CY19 Q1
   - Misir Mahmudov
+  - Incentives
+  - Behavior
+  - Politics
+  - Human Action
+  - Austrian Economics
+  - Economics
 
 defaults:
   # _posts
