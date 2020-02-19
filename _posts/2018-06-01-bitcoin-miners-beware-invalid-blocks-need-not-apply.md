@@ -15,8 +15,6 @@ tags:
   - Bitcoin Mining
   - Consensus
   - Hashrate
-  
-
 
 excerpt: Stop and Decrypt lays out the case for full nodes being the backbone of the Bitcoin network and miners simply provide blocks. Posted June 1, 2018.
 
