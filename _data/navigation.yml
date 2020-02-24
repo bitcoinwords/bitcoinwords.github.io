@@ -14,6 +14,8 @@ main:
     url: https://bitcoinwords.github.io/submissions/
   - title: "Support"
     url: https://bitcoinwords.github.io/support  
+  - title: "Side Notes"
+    url: https://jrjr.posthaven.com/  
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
