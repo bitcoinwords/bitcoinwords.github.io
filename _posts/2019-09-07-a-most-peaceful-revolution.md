@@ -1,6 +1,6 @@
 ---
-title: ""
-permalink: "/"
+title: "A most peaceful revolution"
+permalink: "/a-most-peaceful-revolution"
 
 author: niccarter
 
