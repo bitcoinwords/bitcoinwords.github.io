@@ -909,6 +909,18 @@ marcelburger:
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/BurgerOnCrypto"
 
+marcvanderchijs:
+  name        : Marc van der Chijs
+  bio         : "Dutch serial entrepreneur now living in Vancouver. Founded a.o. http://Tudou.com, Hut 8 Mining and First Block Capital. Tweets about Bitcoin, COVID-19 & Climate Crisis"
+  avatar      : #"/assets/images/bio-photo.jpg"
+  links:
+    - label: "Website"
+      icon: #"fas fa-fw fa-envelope-square"
+      url: "https://www.marc.cn/"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/marcvanderchijs"
+
 mattahlborg:
   name        : Matt Ahlborg
   bio         : "Data Scientist, Research Fellow at http://dlab.vc. Creator of http://usefultulips.org. Analyses at http://medium.com/@mattahlborg. Applied Bitcoin 101."
@@ -1373,6 +1385,21 @@ stephanlivera:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/stephanlivera"
+
+stevebarbour:
+  name        : Steve Barbour
+  bio         : "#bitcoin / proofs of work / owner of @UpstreamDataInc / raise the -\/\-"
+  avatar      : # "/assets/images/bio-photo-2.jpg"
+  links:
+    - label: # "Email"
+      icon: #"fas fa-fw fa-envelope-square"
+      url: #"mailto:billyrick@rick.com"
+    - label: #"stephanlivera.com"
+      icon: #"fas fa-fw fa-link"
+      url: #"https://stephanlivera.com/"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/SGBarbour"
 
 stopanddecrypt:
   name        : Stop and Decrypt

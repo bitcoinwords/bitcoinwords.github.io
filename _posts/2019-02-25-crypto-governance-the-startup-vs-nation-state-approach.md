@@ -5,6 +5,10 @@ permalink: "/crypto-governance-the-startup-vs-nation-state-approach"
 tags:
   - CY19 Q1
   - Jack Purdy
+  - Governance
+  - Philosophy
+  - Crypto Governance
+  - Bitcoin Governance
 
 defaults:
   # _posts
