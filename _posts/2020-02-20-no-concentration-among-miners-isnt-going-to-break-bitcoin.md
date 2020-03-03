@@ -1,6 +1,6 @@
 ---
 title: "No, Concentration Among Miners Isn’t Going to Break Bitcoin"
-permalink: "/no-concentration-among-miners-isnt=going-to-break-bitcoin"
+permalink: "/no-concentration-among-miners-isnt-going-to-break-bitcoin"
 
 author: hasu
 
@@ -24,11 +24,11 @@ defaults:
 
 ***
 
-# [No, Concentration Among Miners Isn’t Going to Break Bitcoin](https://www.coindesk.com/no-concentration-among-miners-isnt-going-to-break-bitcoin?utm_source=hootsuite&utm_medium=twitter&utm_term=Events&utm_content=Register&utm_campaign=FATF)
+# [No, Concentration Among Miners Isn’t Going to Break Bitcoin](https://www.coindesk.com/no-concentration-among-miners-isnt-going-to-break-bitcoin)
 ### By [Hasu](https://twitter.com/hasufl)
 ### Posted February 20, 2020
 
-## [Part 1](https://www.coindesk.com/no-concentration-among-miners-isnt-going-to-break-bitcoin?utm_source=hootsuite&utm_medium=twitter&utm_term=Events&utm_content=Register&utm_campaign=FATF)
+## [Part 1](https://www.coindesk.com/no-concentration-among-miners-isnt-going-to-break-bitcoin)
 A recent TokenAnalyst [report](https://www.bloomberg.com/news/articles/2020-01-31/bitcoin-s-network-operations-are-controlled-by-five-companies) claims a single entity could be in control of around 50 percent of bitcoin’s hashrate. The observation is based on the fact that five large mining pools have launched a new cloud mining service as a joint venture.
 
 “In 2020, bitcoin has \[...\] become a highly centralized system that places an increasing amount of trust in a small number of large entities. Any centralization of bitcoin network hash power should be of concern as it erodes the trustless model of the network,” TokenAnalyst, a cryptocurrency research firm, says.

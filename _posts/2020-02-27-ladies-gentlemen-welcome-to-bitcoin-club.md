@@ -1,5 +1,5 @@
 ---
-title: "Ladies, Gentlemen, Welcome to Bitcoin Club — Here Are the Rules"
+title: "Ladies, Gentlemen, Welcome to Bitcoin Club, Here Are the Rules"
 permalink: "/ladies-gentlemen-welcome-to-bitcoin-club"
 
 author: sylvainsaurel

@@ -12,7 +12,7 @@ tags:
   - Markets
   - Pricing
 
-excerpt: In which I hypothesise that markets are subjective, uncertain, complex, stochastic, adaptive, fractal, reflexive … — really any clever sounding adjective you like — just not efficient. - Allen. Posted February 15, 2020
+excerpt: In which I hypothesise that markets are subjective, uncertain, complex, stochastic, adaptive, fractal, reflexive... — really any clever sounding adjective you like — just not efficient. - Allen. Posted February 15, 2020
 
 defaults:
   - scope:

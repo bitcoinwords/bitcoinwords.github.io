@@ -29,7 +29,6 @@ defaults:
 ### By [Charles Edwards](https://twitter.com/caprioleio)
 ### Posted February 16, 2020
 
-
 My #Bitcoin Forecast
 
 RocketBitcoin $100K within 5 years

@@ -9,6 +9,7 @@ tags:
   - CY20 Q1
   - Fundamentals
   - History
+  - Price
 
 excerpt: Marc van der Chijs explains the difference between Bitcoin today and in 2017, hint, lots. Posted February 13, 2020  
 

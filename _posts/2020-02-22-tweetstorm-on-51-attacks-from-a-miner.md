@@ -13,7 +13,6 @@ tags:
   - Incentives
   - Cooperation
 
-
 excerpt: Steve Barbour explains a basic funamental on mining and a 51% attack. Posted February 22, 2020.
 
 defaults:
