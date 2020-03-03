@@ -12,7 +12,6 @@ tags:
   - Fee Market
   - Fees
   - Scalability
-  - 
 
 excerpt: Marty takes us down a trail about Jevon's Paradox and the inevitable fee market. Posted February 20, 2020.
 
