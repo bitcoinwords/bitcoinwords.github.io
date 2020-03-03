@@ -28,7 +28,7 @@ defaults:
 ### By [Marty Bent](https://twitter.com/MartyBent)
 ### Posted February 10, 2020
 
-![](/assets/images/2020/m2/mb1.png)
+![](/assets/images/2020/m2/mb2.png)
 *"Trust me."*
 
 > "I want to be candid. This strategy will cost money, involve risk and take time. We will have to try things that we’ve never tried before. We will make mistakes. We will go through periods in which things get worse and progress is uneven or interrupted."
