@@ -26,7 +26,6 @@ defaults:
 ### By [acrual](https://twitter.com/BitcoinerTed)
 ### Posted February 5, 2020
 
-
 According to the Selfish Gene book, we only want to exchange value or cooperate with strangers when there is an inmediate exchange. If we postpone this exchange, we are very likely to cheat (and even in the case we are not strangers!).
 
 We are some serious cheaters according to this fascinating book and I agree.
