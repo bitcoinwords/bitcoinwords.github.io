@@ -28,7 +28,6 @@ defaults:
 ### By [Rafael Schultze-Kraft](https://twitter.com/n3ocortex)
 ### Posted February 13, 2020
 
-
 ## Assessing Bitcoin’s True Transfer Volume
 
 _This article was originally published on _[_Glassnode Insights_](https://insights.glassnode.com/true-bitcoin-volume/)_._

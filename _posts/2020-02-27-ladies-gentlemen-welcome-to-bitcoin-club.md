@@ -23,7 +23,6 @@ defaults:
 
 ***
 
-
 # [Ladies, Gentlemen, Welcome to Bitcoin Club — Here Are the Rules](https://medium.com/in-bitcoin-we-trust/ladies-gentlemen-welcome-to-bitcoin-club-here-are-the-rules-6ffaa761f5e0)
 ### By [Sylvain Saurel](https://twitter.com/ssaurel)
 ### Posted February 27, 2020

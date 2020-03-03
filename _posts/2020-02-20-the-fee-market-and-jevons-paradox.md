@@ -25,11 +25,9 @@ defaults:
 
 ***
 
-
 # [Issue #678: The fee market + Jevons Paradox](https://tftc.io/martys-bent/issue-678/)
 ### By [Marty Bent](https://twitter.com/MartyBent)
 ### Posted February 20, 2020
-
 
 ## Bitcoin is a bold affront to the conventional thinking on monetary policy that has consumed the world for quite some time now.
 ![](/assets/images/2020/m2/m2.png)
