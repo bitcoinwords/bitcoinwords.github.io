@@ -1,6 +1,6 @@
 ---
 title: "The Perfect Storm: Why Bitcoin at $10,000 in 2020 is different from Bitcoin at $10,000 in 2017"
-permalink: "/the-prefect-storm-why-bitcoin-at-10000-in-2020" 
+permalink: "/the-perfect-storm-why-bitcoin-at-10000-in-2020" 
 
 author: marcvanderchijs
 

@@ -1,5 +1,5 @@
 ---
-title: "Tweetstorm: On 51 percent Attacks from a Miner"
+title: "Tweetstorm On 51 percent Attacks from a Miner"
 permalink: "/tweetstorm-on-51-attacks-from-a-miner"
 
 author: stevebarbour
@@ -8,7 +8,7 @@ tags:
   - Steve Barbour
   - CY20 Q1
   - Tweetstorm
-  - 51% Attacks
+  - 51 Percent Attacks
   - Attack
   - Incentives
   - Cooperation

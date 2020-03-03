@@ -1,5 +1,5 @@
 ---
-title: "Tweetstorm The Pump "
+title: "Tweetstorm The Pump"
 permalink: "/tweetstorm-the-pump"
 
 author: brendanbernstein
@@ -15,7 +15,6 @@ tags:
   - Deflation
   - Fed
   - Inflation
-
 
 excerpt: Brendan makes the case for a pump in price due to Bitcoin's deflationary monetary policy. Posted February 11, 2020.
 

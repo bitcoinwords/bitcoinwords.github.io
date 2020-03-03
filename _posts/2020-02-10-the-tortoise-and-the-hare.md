@@ -2,7 +2,7 @@
 title: "The Tortoise and The Hare"
 permalink: "/the-tortoise-and-the-hare"
 
-author: matrybent
+author: martybent
 
 tags:
   - Marty Bent

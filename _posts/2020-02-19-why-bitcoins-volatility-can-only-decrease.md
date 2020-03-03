@@ -23,7 +23,6 @@ defaults:
 
 ***
 
-
 # [Why Bitcoin’s volatility can only decrease (but it will take a bit longer)](https://medium.com/@acrual/why-bitcoins-volatility-can-only-decrease-but-it-will-take-a-bit-longer-8a6d14415bd8)
 ### By [acrual](https://twitter.com/acrual)
 ### Posted February 19, 2020

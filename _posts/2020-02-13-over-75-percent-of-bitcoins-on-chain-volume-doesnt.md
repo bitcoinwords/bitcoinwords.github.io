@@ -12,7 +12,6 @@ tags:
   - On-Chain Metrics
   - Volume
 
-
 excerpt: Rafael Schultze-Kraft looks at volume on-chain and explains why he thinks Bitcoin is not changing hands. Posted February 13, 2020.
 
 defaults:

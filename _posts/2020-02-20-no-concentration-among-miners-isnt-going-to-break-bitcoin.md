@@ -24,11 +24,9 @@ defaults:
 
 ***
 
-
 # [No, Concentration Among Miners Isn’t Going to Break Bitcoin](https://www.coindesk.com/no-concentration-among-miners-isnt-going-to-break-bitcoin?utm_source=hootsuite&utm_medium=twitter&utm_term=Events&utm_content=Register&utm_campaign=FATF)
 ### By [Hasu](https://twitter.com/hasufl)
 ### Posted February 20, 2020
-
 
 ## [Part 1](https://www.coindesk.com/no-concentration-among-miners-isnt-going-to-break-bitcoin?utm_source=hootsuite&utm_medium=twitter&utm_term=Events&utm_content=Register&utm_campaign=FATF)
 A recent TokenAnalyst [report](https://www.bloomberg.com/news/articles/2020-01-31/bitcoin-s-network-operations-are-controlled-by-five-companies) claims a single entity could be in control of around 50 percent of bitcoin’s hashrate. The observation is based on the fact that five large mining pools have launched a new cloud mining service as a joint venture.
