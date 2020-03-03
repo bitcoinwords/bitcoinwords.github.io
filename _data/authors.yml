@@ -300,6 +300,21 @@ brandonquittem:
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/Bquittem"
 
+brendanbernstein:
+  name        : Brendan Bernstein
+  bio         : "Bitcoin not blockchain | Opinions are my own. Unless my phone number gets ported"
+  avatar      : # "/assets/images/bio-photo-2.jpg"
+  links:
+    - label: # "Email"
+      icon: #"fas fa-fw fa-envelope-square"
+      url: #"mailto:billyrick@rick.com"
+    - label: #"Website"
+      icon: #"fas fa-fw fa-link"
+      url: #"https://thewhip.com"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/BMBernstein"
+
 caitlinlong:
   name        : Caitlin Long
   bio         : "I’m a 22-year Wall Street veteran who has been active in bitcoin since 2012, and whose passion is a fair and stable financial system."
@@ -464,6 +479,21 @@ elaineou:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/eiaine"
+
+elisabethprefontaine:
+  name        : Elisabeth Préfontaine
+  bio         : "Octonomics. 3 years of unconstrained research."
+  avatar      : # "/assets/images/bio-photo-2.jpg"
+  links:
+    - label: # "Email"
+      icon: #"fas fa-fw fa-envelope-square"
+      url: #"mailto:billyrick@rick.com"
+    - label: #"Website"
+      icon: #"fas fa-fw fa-link"
+      url: #"https://thewhip.com"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/eprefon"
 
 erikcason:
   name        : Erik Cason
@@ -921,6 +951,18 @@ marcvanderchijs:
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/marcvanderchijs"
 
+martybent:
+  name        : Marty Bent
+  bio         : "Editor in Chief of Marty's Ƀent, a daily newsletter about #Bitcoin. Host of @TFTC21, a podcast about Bitcoin. Subscribe."
+  avatar      : #"/assets/images/bio-photo.jpg"
+  links:
+    - label: #"Website"
+      icon: #"fas fa-fw fa-envelope-square"
+      url: #"https://www.marc.cn/"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/MartyBent"
+
 mattahlborg:
   name        : Matt Ahlborg
   bio         : "Data Scientist, Research Fellow at http://dlab.vc. Creator of http://usefultulips.org. Analyses at http://medium.com/@mattahlborg. Applied Bitcoin 101."
@@ -1124,6 +1166,18 @@ paulsztorc:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/Truthcoin"
+
+perbylund:
+  name        : Per Bylund
+  bio         : "Prof @OSUEntrepSchool @okstate. Books: https://amazon.com/Per-L.-Bylund/e/B00LMNLBCU columns: https://entrepreneur.com/author/per-bylund. Tweets my own."
+  avatar      : #"/assets/images/bio-photo.jpg"
+  links:
+    - label: #"Email"
+      icon: #"fas fa-fw fa-envelope-square"
+      url: #"mailto:cornelius@thewhip.com"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/PerBylund"
 
 petervanvalkenburgh:
   name        : Peter Van Valkenburgh
@@ -1431,6 +1485,21 @@ suzhu:
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/zhusu"
 
+sylvainsaurel:
+  name        : Slyvain Saurel
+  bio         : "Entrepreneur / Developer / Blogger / Author. In #Bitcoin We Trust: http://inbitcoinwetrust.net . Medium: http://medium.com/@ssaurel"
+  avatar      : # "/assets/images/bio-photo-2.jpg"
+  links:
+    - label: # "Email"
+      icon: #"fas fa-fw fa-envelope-square"
+      url: #"mailto:billyrick@rick.com"
+    - label: #"Website"
+      icon: #"fas fa-fw fa-link"
+      url: #"https://thewhip.com"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/ssaurel"
+
 tamasblummer:
   name        : Tamas Blummer
   bio         : "Bitcoin Developer since 2012 currently @ rust-bitcoin, former: CLA @ Digital Asset Holdings, VP @ CoinTerra, CEO @ Bits of Proof"
@@ -1565,6 +1634,21 @@ yassineelmandjra:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/yassineARK"
+
+zanepocock:
+  name        : Zane Pocock
+  bio         : "information space maximalist @knoxcustody"
+  avatar      : # "/assets/images/bio-photo-2.jpg"
+  links:
+    - label: # "Email"
+      icon: #"fas fa-fw fa-envelope-square"
+      url: #"mailto:billyrick@rick.com"
+    - label: #"Website"
+      icon: #"fas fa-fw fa-link"
+      url: #"https://thewhip.com"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/zanepocock"
 
 adamtacheandmuradmahmudov:
   name        : Adam Taché and Murad Mahmudov
