@@ -6,7 +6,7 @@ author: allenfarrington
 
 tags:
   - Allen Farrington
-  - Cy20 Q1
+  - CY20 Q1
   - Complex Market Hypothesis
   - EMH
   - Markets
