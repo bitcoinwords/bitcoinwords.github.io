@@ -1,5 +1,5 @@
 ---
-title: "Tweetstorm: The Pump "
+title: "Tweetstorm The Pump "
 permalink: "/tweetstorm-the-pump"
 
 author: brendanbernstein

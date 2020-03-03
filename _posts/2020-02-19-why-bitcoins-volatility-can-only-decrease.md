@@ -1,5 +1,5 @@
 ---
-title: "Why Bitcoin’s volatility can only decrease (but it will take a bit longer)"
+title: "Why Bitcoin’s volatility can only decrease, but it will take a bit longer"
 permalink: "/why-bitcoins-volatility-can-only-decrease"
 
 author: acrual

@@ -1,5 +1,5 @@
 ---
-title: "Over 75% of Bitcoin’s On–Chain Volume Doesn’t Change Hands"
+title: "Over 75 percent of Bitcoin’s On–Chain Volume Doesn’t Change Hands"
 permalink: "/over-75-percent-of-bitcoins-on-chain-volume-doesnt"
 
 author: rafaelschultzekraft

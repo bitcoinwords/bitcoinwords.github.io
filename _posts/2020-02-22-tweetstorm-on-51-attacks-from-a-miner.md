@@ -1,5 +1,5 @@
 ---
-title: "Tweetstorm: On 51% Attacks from a Miner"
+title: "Tweetstorm: On 51 percent Attacks from a Miner"
 permalink: "/tweetstorm-on-51-attacks-from-a-miner"
 
 author: stevebarbour
