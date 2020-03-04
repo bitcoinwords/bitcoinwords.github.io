@@ -360,6 +360,21 @@ christopherbendiksen:
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/C_Bendiksen"
 
+clarkmoody:
+  name        : Clark Moody
+  bio         : "I love Jesus. I pay in Bitcoin."
+  avatar      : # "/assets/images/bio-photo-2.jpg"
+  links:
+    - label: # "Email"
+      icon: #"fas fa-fw fa-envelope-square"
+      url: #"mailto:billyrick@rick.com"
+    - label: #"Website"
+      icon: #"fas fa-fw fa-link"
+      url: #"https://thewhip.com"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/clarkmoody"
+
 connerbrown:
   name        : Conner Brown
   bio         : "First slowly, then all at once."
