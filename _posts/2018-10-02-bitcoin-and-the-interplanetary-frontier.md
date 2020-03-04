@@ -33,7 +33,7 @@ defaults:
 
 The Bitcoin rallying cry of “To the Moon!” anticipates massive price increases and never-ending bull markets. But have we considered what would happen if we sent Bitcoin literally to the Moon? This is the first of a series of articles discussing the future of economics, money, and Bitcoin as humanity pushes outward to the planets and to the stars. 
 
-![Apollo moon landing with Bitcoin flag](/assets/images/cy18/cy18q4m19/cm1.png)
+![Apollo moon landing with Bitcoin flag](/assets/images/cy18/cy18q4m10/cm1.png)
 
 ## Space Economics
 Space-based economies differ significantly from their Earthbound counterparts in a few critical ways. But just as the laws of celestial mechanics govern the motion of the heavens, the laws of economics guide the financial interactions of humans, no matter their location. 
@@ -51,7 +51,7 @@ In the face of mass limitations, allocating precious payload capacity to physica
 
 The scarcity of useful mass in space confines us to the most efficient orbits. This makes a trip to Mars feasible only every 26 months, though smart people are working on [cheaper routes](https://arxiv.org/pdf/1410.8856.pdf). Missions to the asteroids, Jupiter, and beyond require years of flight time barring the invention of alternate propulsion systems. 
 
-![](/assets/images/cy18/cy18q4m19/cm2.png)
+![](/assets/images/cy18/cy18q4m10/cm2.png)
 
 The long lead time turns the most trivial expenditure on Earth into an extreme luxury. Space settlements must depart with large numbers of replacement parts and spares for all critical systems, ingenious water recycling systems, and, eventually, some way to grow food. Once they arrive, the settlements must be able to produce goods with local resources, or they will rely forever on resupply missions from their Earth-side sponsor. Even Moon colonies, with their [3-day shipping time](https://ntrs.nasa.gov/archive/nasa/casi.ntrs.nasa.gov/19630007117.pdf), require a rocket launch for supplies, and that takes planning. 
 
@@ -63,7 +63,7 @@ Information spreads no faster than light in vacuum, which means that a round-tri
 
 In contrast, Mars oscillates between 3.1 and 22 light-minutes away. At those distances, a new [delay-tolerant network architecture](https://tools.ietf.org/html/rfc4838#section-1) would be required to mitigate the lag. Mining Bitcoin on Mars would be unprofitable because of the propagation delay, assuming Earth maintains hash power dominance. The Martian miners would have a view of the blockchain up to 22 minutes out of date, so by the time their latest mined block reaches the majority of hash power on Earth, on average there would be four new blocks added to the chain. We can simulate mining on Mars today: simply mine on top of a block four deep in the blockchain. Extreme luck aside, the dominant mining planet will [remain dominant](https://bitcoin.stackexchange.com/a/34310) across the solar system. 
 
-![](/assets/images/cy18/cy18q4m19/cm3.png)
+![](/assets/images/cy18/cy18q4m10/cm3.png)
 
 That is not to say that Bitcoin could not be used far from Earth. On the contrary, confirmation time simply becomes part of transaction planning, and second-layer solutions fill in the gap for payments. While physical goods transport incurs the cost of rocket launch and orbital transit time, transacting in digital goods happens at the speed of light. Offworld settlers could charge Earthlings for interesting data, such as scientific experiments or [art inspired by the Moon](https://dearmoon.earth/). Bitcoin makes the exchange possible.
 
@@ -82,7 +82,7 @@ What about interplanetary Lightning channels? Enabling faster payments between w
 Should Bitcoin be used for all planets in the system? Do we need MarsCoin and MoonBux? Will Bitcoin go with colonists on missions to other stars? Later essays will discuss the viability of multiple blockchains for interplanetary trade and further implications for interstellar expansion.
 
 ### The Interplanetary Frontier
-![Apollo moon landing with Bitcoin flag](/assets/images/cy18/cy18q4m19/cm4.png)
+![](/assets/images/cy18/cy18q4m19/cm0.png)
 
 The frontier offers the promise of a fresh start, and the settler spirit fuels perseverance in the face of immense challenge. As we embark on the journey to the stars, we need all the help we can get. Since the money of space settlement will be digital, we must leave behind the printing presses. Let’s also leave behind the distortions of unsound money and fuel the space economy with Bitcoin.
 
