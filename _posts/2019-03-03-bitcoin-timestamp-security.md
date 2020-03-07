@@ -5,6 +5,11 @@ permalink: "/bitcoin-timestamp-security"
 tags:
   - CY19 Q1
   - Jameson Lopp
+  - Timestamp
+  - Timestamp Security
+  - Security
+  - 51% Attack
+  - Attack
 
 defaults:
   # _posts

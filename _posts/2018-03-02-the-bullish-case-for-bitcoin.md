@@ -10,6 +10,11 @@ tags:
   - Essential Reading
   - Bitcoin Canon
   - Economics
+  - Canon
+  - Financial
+  - Finance
+  - Analysis
+  - Asymmetric Bets
 
 excerpt: Posted March 2, 2018 by Vijay Boyapati. Essential reading for anyone interested in Bitcoin.
 

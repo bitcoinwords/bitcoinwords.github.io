@@ -8,6 +8,9 @@ tags:
   - CY19 Q1
   - Su Zhu
   - Hasu
+  - Investing
+  - Investments
+  - Financial
 
 defaults:
   # _posts

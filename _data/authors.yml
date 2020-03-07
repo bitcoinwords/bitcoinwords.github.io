@@ -1530,6 +1530,21 @@ tamasblummer:
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/TamasBlummer"
 
+taylorpearson:
+  name        : Taylor Pearson
+  bio         : "In Search of Antifragility. Into volatility, bitcoin, complex systems, marketing and UT football. Trying to at least be wrong in interesting ways."
+  avatar      : # "/assets/images/bio-photo-2.jpg"
+  links:
+    - label: # "Email"
+      icon: #"fas fa-fw fa-envelope-square"
+      url: #"mailto:billyrick@rick.com"
+    - label: #"Website"
+      icon: #"fas fa-fw fa-link"
+      url: #"https://thewhip.com"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/TaylorPearsonMe"
+
 thatzenboi:
   name        : zanB
   bio         : "Zen and the art of ₿itcoin. ⚡tacking ⚡ats"

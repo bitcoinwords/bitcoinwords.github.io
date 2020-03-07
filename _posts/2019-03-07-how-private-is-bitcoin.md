@@ -5,6 +5,9 @@ permalink: "/how-private-is-bitcoin"
 tags:
   - CY19 Q1
   - Eric Wall
+  - Privacy
+  - Security
+  - Pseudonymous
 
 defaults:
   # _posts

@@ -5,6 +5,13 @@ permalink: "/bitcoin-has-a-branding-problem"
 tags:
   - CY19 Q1
   - Ryan Radloff
+  - Revolution
+  - Banking
+  - Financial
+  - Marketing
+  - Branding
+  - Personal Finance
+  - Finance
 
 defaults:
   # _posts

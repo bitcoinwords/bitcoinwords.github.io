@@ -8,6 +8,7 @@ tags:
   - George Kikvadze
   - CY18 Q1
   - FUD
+  - Myths
 
 excerpt: George Kikvadze kills some common FUD. Posted March 2, 2018.
 
