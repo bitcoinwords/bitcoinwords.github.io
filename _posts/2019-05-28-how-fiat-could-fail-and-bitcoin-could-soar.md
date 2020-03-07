@@ -2,9 +2,19 @@
 title: "How Fiat Could Fall and Bitcoin Could Soar"
 permalink: "/how-fiat-could-fall-and-bitcoin-could-soar" 
 
+author: taylorpearson
+
 tags:
   - Taylor Pearson
   - CY19 Q2
+  - Fiat
+  - Timeline
+  - Economics
+  - Inflation
+  - SoV
+  - Digital Gold
+  - Fiat Peg
+  - Digital Currency
 
 excerpt: Taylor Pearson makes the case for Bitcoin to rise and fiat crumble. Posted May 28, 2019.
 
