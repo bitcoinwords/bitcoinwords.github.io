@@ -126,7 +126,7 @@ There are already Bitcoin Artists, but they are just now getting organized. This
 
 The Bitcoin Religion is an emerging meme within the Bitcoin diaspora. While this might be laughable to some, this is rapidly becoming a more common idea within existing Bitcoin tribes. As more ideas are created and shared around Bitcoin religion, the tribe will find itself. It too will bring value to Bitcoin through self-betterment. 
 
-The Bitcoin diaspora will continue to scatter as Bitcoin makes its way into more and more areas of study and human life. Tribes will organize and the whole confederation will be strengthened. This will ultimately lead to hyperbitcoinization. 
+The Bitcoin diaspora will continue to scatter as Bitcoin makes its way into more and more areas of study and human life. Tribes will organize and the confederation will be strengthened. This will ultimately lead to hyperbitcoinization. 
 
 ![](/assets/images/2020/m3/bitcoin-hyperbitcoinization.png)
 
