@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/joerodgers
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://bitcoinwords.github.io
+  * I am joerodgers (https://keybase.io/joerodgers) on keybase.
+  * I have a public key ASDnacjHmjVss5lc5LOpT-bnnknchGb8OCMFuQJ6i709Xgo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "012090cb84209aaa3c0b71804d53379acd350c488187a55d4fdf1d8d727d9557b9730a",
+      "host": "keybase.io",
+      "kid": "0120e769c8c79a356cb3995ce4b3a94fe6e79e49dc8466fc382305b9027a8bbd3d5e0a",
+      "uid": "8ebb38185941975da32d3a3c277fce19",
+      "username": "joerodgers"
+    },
+    "merkle_root": {
+      "ctime": 1584195737,
+      "hash": "cf2884fc12be948929c81049f0a7b7340d400093a2fab26c6bbb2027bfdf53056854c95aa97137ff150ee0af637db6ff22563ac31a680863b63e6fe12a90cb80",
+      "hash_meta": "5d53c783707278ff01fe5e91ff1cd32b4ad383ae12232bf4e524a9a13404e684",
+      "seqno": 15369260
+    },
+    "service": {
+      "entropy": "oDm0xehrGHFGDMoV56DscqRN",
+      "hostname": "bitcoinwords.github.io",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "5.3.0"
+  },
+  "ctime": 1584195744,
+  "expire_in": 504576000,
+  "prev": "d6fa1607e4af6217f8956be074f51d19ce9f2d9844e81d105b27aa63864bfac6",
+  "seqno": 102,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEg52nIx5o1bLOZXOSzqU/m555J3IRm/DgjBbkCeou9PV4Kp3BheWxvYWTESpcCZsQg1voWB+SvYhf4lWvgdPUdGc6fLZhE6B0QWyeqY4ZL+sbEICDgY30bW0fC0dP9QpsVPQxbyHese54Ajj0vk2j6R9cKAgHCo3NpZ8RAgrSGYlnlUL8mVotqInpxYPcIFiv7xRJNlnZBE6CqtMKc98UxKYcX5K+GDKhnfWB90SN/6WcPV0fCJKrEMdzDAahzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIBRugRtAOlmOzJvVU36pB+ynqmZciYX/HcfD0bssNY2mo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/joerodgers
+
+==================================================================
