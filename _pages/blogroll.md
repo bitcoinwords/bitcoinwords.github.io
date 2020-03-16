@@ -50,8 +50,3 @@ You should visit these websites, click links, read, and follow the creators on T
 
 [Bitcoin Snippets](http://bitcoinsnippets.com/){: .btn .btn--primary}
 
-**Infominer** is manually indexing crypto content and other areas of interest like decentralized identity and other open source projects. There is SOOO much information in his projects and there's way more coming. Maintained by [Infominer](https://twitter.com/infominer33)
- {: .notice--primary}
-
- [Infominer](https://infominer.id/){: .btn .btn--primary}
- 

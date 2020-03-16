@@ -5,6 +5,8 @@ permalink: "/bitcoin-mining-explained-in-15-tweets"
 tags:
   - CY19 Q1
   - Yan Pritzker
+  - Tweetstorm
+  - Mining
 
 defaults:
   # _posts

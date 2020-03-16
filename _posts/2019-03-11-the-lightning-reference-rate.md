@@ -5,6 +5,14 @@ permalink: "/the-lightning-reference-rate"
 tags:
   - CY19 Q1
   - Nik Bhatia
+  - Lightning Network Reference Rate
+  - Lightning Network
+  - Fees
+  - LN
+  - L2
+  - L2 Fees
+  - Routing
+  - Channels
 
 excerpt: Part 4 of 4 in Nik Bhatia's piece defining and laying out proposed guidelines for measuring Lightning Network fees. Posted March 11, 2019.
 
@@ -25,7 +33,7 @@ defaults:
 {% include donation.md %}
 
 # [The Lightning Network Reference Rate](https://medium.com/@timevalueofbtc/the-lightning-network-reference-rate-98e41a9dadfa)
-### [Nik Bhatia](https://medium.com/@timevalueofbtc)
+### By [Nik Bhatia](https://medium.com/@timevalueofbtc)
 ### Posted March 11, 2019
 
 1. [1/4 The Bitcoin Second Layer](https://cryptowords.github.io/the-bitcoin-second-layer)

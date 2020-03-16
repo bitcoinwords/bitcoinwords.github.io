@@ -11,8 +11,9 @@ tags:
   - Cryptography
   - Schnorr Signatures
   - Technology
+  - Privacy
 
-excerpt: Lucas Nuzzi describes what Schnorr Signatures mean for Bitcoin. Posted 
+excerpt: Lucas Nuzzi describes what Schnorr Signatures mean for Bitcoin. Posted March 13, 2019.
 
 defaults:
   - scope:
