@@ -2,13 +2,15 @@
 title: "Why Bitcoin Matters"
 permalink: "/why-bitcoin-matters" 
 
-author: alexsvetski
+author: aleksvetski
 
 tags:
   - CY19 Q1
-  - Alex Svetski
+  - Aleks Svetski
+  - Freedom
+  - Liberty
 
-excerpt: POsted March 15, 2019 by Alex Svetski, this article explains why Bitcoin matters.
+excerpt: POsted March 15, 2019 by Aleks Svetski, this article explains why Bitcoin matters.
 
 defaults:
   - scope:
@@ -19,7 +21,7 @@ defaults:
 
 # [Why Bitcoin Matters](https://hackernoon.com/why-bitcoin-matters-c8bf733b9fad)
 ## It's more important than you might think
-### By [Alex Svetski](https://hackernoon.com/@AleksandarSvetski)
+### By [Aleks Svetski](https://hackernoon.com/@AleksandarSvetski)
 ### March 15, 2019
 
 This is the article version of a talk I gave to kick 2019 off for a few Bitcoin meet-ups in and around Australia.

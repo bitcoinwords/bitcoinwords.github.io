@@ -2,8 +2,12 @@
 title: "Could Bitcoin fix the stagnant political and economic landscape?"
 permalink: "/could-bitcoin-fix-the-stagnant-political-and-economic-landscape" 
 
+author: davidparkinson
+
 tags:
   - CY19 Q1
+  - David Parkinson
+  - Politics
 
 defaults:
   # _posts
