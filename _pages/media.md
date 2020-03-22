@@ -13,7 +13,7 @@ defaults:
 
 # Pod Appeaarances
 
-## [Fun with Bitcoin Podcast](https://anchor.fm/funwithbitcoin)
+## [Fun with Bitcoin Podcast](https://anchor.fm/funwithbitcoin/episodes/Interview-with-Joe-Rodgers-WORDS-eapkfi)
 ### Posted February 12, 2020
 [![](/assets/images/media/funwithbitcoin.png)](https://anchor.fm/funwithbitcoin/episodes/Interview-with-Joe-Rodgers-WORDS-eapkfi)
 
