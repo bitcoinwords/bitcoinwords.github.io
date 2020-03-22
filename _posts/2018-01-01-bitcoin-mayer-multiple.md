@@ -5,6 +5,13 @@ permalink: "/bitcoin-mayer-multiple"
 tags:
   - Trace Mayer
   - CY18 Q1
+  - Mayer Multiple
+  - Financial Indicatior
+  - Finance
+  - Charts
+  - Technical Analysis
+  - Trading
+  - Financial
 
 excerpt: Trace Mayer describes the Mayer Multiple, a way to look at Bitcoin price multiples. Unsure on post date.
 
