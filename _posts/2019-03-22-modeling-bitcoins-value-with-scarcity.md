@@ -5,6 +5,15 @@ permalink: "/modeling-bitcoins-value-with-scarcity"
 tags:
   - CY19 Q1
   - PlanB
+  - Financial Model
+  - Scarcity
+  - Stock to Flow
+  - S2F
+  - Indicator
+  - Technical Analysis
+  - Fundamental Analysis
+  - Finance
+  - Financial Analysis
 
 defaults:
   # _posts
