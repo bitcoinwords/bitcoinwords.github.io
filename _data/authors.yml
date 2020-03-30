@@ -1140,6 +1140,18 @@ nickszabo:
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/NickSzabo4"
 
+nick:
+  name        : Nick
+  bio         : "Bitcoin. NOT FINANCIAL ADVICE. views expressed here are my own. i block liberally. like/retweet does not constitute endorsement. http://tippin.me/@btconometrics"
+  avatar      : #"/assets/images/bio-photo.jpg"
+  links:
+    - label: #"Email"
+      icon: #"fas fa-fw fa-envelope-square"
+      url: #"mailto:cornelius@thewhip.com"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/btconometrics"
+
 nikbhatia:
   name        : Nik Bhatia
   bio         : "bitcoin-native financial theory"
@@ -1542,6 +1554,21 @@ suzhu:
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/zhusu"
 
+svenschnieders:
+  name        : Sven Schnieders
+  bio         : "23-year-old flâneur: thinking during slow walks and writing essays & aphorisms in cafès Focus: Physics, Philosophy, and Bitcoin. Organizer: @BitcoinVienna"
+  avatar      : # "/assets/images/bio-photo-2.jpg"
+  links:
+    - label: # "Email"
+      icon: #"fas fa-fw fa-envelope-square"
+      url: #"mailto:billyrick@rick.com"
+    - label: #"Website"
+      icon: #"fas fa-fw fa-link"
+      url: #"https://thewhip.com"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/SvenSchnieders"
+
 sylvainsaurel:
   name        : Slyvain Saurel
   bio         : "Entrepreneur / Developer / Blogger / Author. In #Bitcoin We Trust: http://inbitcoinwetrust.net . Medium: http://medium.com/@ssaurel"
@@ -1661,6 +1688,21 @@ vijayboyapati:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/real_vijay"
+
+vladcostea:
+  name        : Vlad Costea
+  bio         : "PhD candidate in political philosophy, freelance #Bitcoin writer. @BTCTKVR. Pod. "Best hair in Bitcoin" – @billfodl_wallet Tips - http://tippin.me/@TheVladCostea"
+  avatar      : # "/assets/images/bio-photo-2.jpg"
+  links:
+    - label: # "Email"
+      icon: #"fas fa-fw fa-envelope-square"
+      url: #"mailto:billyrick@rick.com"
+    - label: #"Website"
+      icon: #"fas fa-fw fa-link"
+      url: #"https://thewhip.com"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/TheVladCostea"
 
 willywoo:
   name        : Willy Woo
