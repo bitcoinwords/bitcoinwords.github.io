@@ -31,8 +31,6 @@ defaults:
 ### By [Conner Brown](https://twitter.com/_ConnerBrown_)
 ### Posted March 23, 2020
 
-
-
 ![Bitcoin: A Bold American Future](/assets/images/2020/m3/cb1.png)
 
 America’s future is in question. Public and private debt are rising to record levels and economic growth remains stagnant. Despite unprecedented fiscal and monetary intervention after the financial crisis, results have been disappointing. The American people do not need accounting tricks or more debt, but true innovation. Thankfully, Bitcoin provides a way forward. 

@@ -5,14 +5,14 @@ permalink: "/bitcoins-social-antifragility"
 author: svenschnieders
 
 tags:
-  - Sven SChnieders
+  - Sven Schnieders
   - CY20 Q1
   - Antifragile
   - Game Theory
   - Value
   - Consensus
 
-excerpt: enter excerpt here
+excerpt: Sven Scnieders points out some of Bitcoin's antifragile properties.
 
 defaults:
   - scope:
@@ -23,13 +23,9 @@ defaults:
 
 ***
 
-
-
 # [Bitcoin’s Social Antifragility](https://limitlesscuriosity.com/essays/bitcoins-social-antifragility)
 ### By [Sven Schnieders]()
 ### March 1, 2020 
-
-Written By [Sven Schnieders](https://limitlesscuriosity.com/essays?author=5dd30fdc1644104e2f193e25)
 
 ![Image courtesy of Federico Tenga](/assets/images/2020/m3/ss3.png)
 
@@ -62,8 +58,6 @@ Bitcoin is profiting from the same antifragility as the restaurant business and 
 Bitcoin became stronger through the 2X attack and the community is now more committed to its core values than ever before. As a consequence, a change in the rules that secure the core values is becoming increasingly unlikely.
 
 As always, keep stacking Sats and hodling Bitcoin.
-
-
 
 ***
 

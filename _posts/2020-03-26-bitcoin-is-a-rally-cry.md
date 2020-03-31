@@ -32,7 +32,6 @@ defaults:
 ### By [Parker Lewis](https://twitter.com/parkeralewis)
 ### Posted March 26, 2020
 
-
 “To the People of Texas and all Americans in the world.” In his [open call to arms](https://en.wikipedia.org/wiki/To_the_People_of_Texas_%26_All_Americans_in_the_World) from the Alamo, Lt. Colonel William B. Travis began with an expression of America as an idea extending beyond borders, to all Americans in the world. It was a plea to all those that valued the fight for liberty and freedom. Outnumbered ten-to-one, Travis responded to a demand for surrender with a cannon shot. He was no more than 27 years old at the time. Texas declared its independence a week later, but within days, the Alamo fell. The Travis letter became the rallying cry of a revolution. Remember the Alamo. Ultimately, Texas won its independence. Always outnumbered, it is a reminder that the endless pursuit of freedom is a most powerful equalizer. And it is something inherent to the character of Americans in all the world.
 
 ![](/assets/images/2020/m3/pl1.png)

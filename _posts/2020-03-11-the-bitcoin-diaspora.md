@@ -24,7 +24,7 @@ defaults:
 
 ***
 
-# The Bitcoin Diaspora, A Confederation of Tribes
+# [The Bitcoin Diaspora, A Confederation of Tribes](https://bitcoinwords.github.io/the-bitcoin-diaspora)
 ### By [Joe Rodgers](https://twitter.com/_joerodgers)
 ### Posted March 11, 2020
 
