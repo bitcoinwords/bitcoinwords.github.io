@@ -26,6 +26,8 @@ defaults:
 ### By [Jill Carlson](https://twitter.com/jillruthcarlson)
 ### Posted March 5, 2020
 
+**This article was written by [Jill Carlson](https://twitter.com/jillruthcarlson) on March 5, 2020 and was originally published on [Coindesk](https://www.coindesk.com/stop-treating-bitcoin-as-risky-its-a-safer-asset-than-most)**
+
 People think I got into [bitcoin](https://www.coindesk.com/price/bitcoin) (BTC) because I have a high risk tolerance.
 
 Actually, I got in because I have a low risk tolerance for worst-case scenarios.
