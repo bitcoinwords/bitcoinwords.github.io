@@ -12,6 +12,11 @@ We've worked hard to make our Bitcoin archives accesible to the masses. Our hope
 
 | Month         | Donate & Download |
 | --------         | ------ |
+| [![CY20 March Journal Cover](/assets/images/covers/CY20M3-cover-150.png "CY20 March Journal Cover")](https://paywall.link/to/2020M3) | [March 2020 PDF](https://paywall.link/to/2020M3){: .btn .btn--primary} |
+| [![CY20 February Journal Cover](/assets/images/covers/CY20M2-cover-150.png "CY29 February Journal Cover")](https://paywall.link/to/2020M2) | [February 2020 PDF](https://paywall.link/to/2020M2){: .btn .btn--primary} |
+| [![CY20 January Journal Cover](/assets/images/covers/CY20M1-cover-150.png "CY20 January Journal Cover")](https://paywall.link/to/2020M1) | [January 2020 PDF](https://paywall.link/to/2020M1){: .btn .btn--primary} |
+| [![CY19 December Journal Cover](/assets/images/covers/CY19M12-cover-150.png "CY19 December Journal Cover")](https://paywall.link/to/2019M12) | [December 2019 PDF](https://paywall.link/to/2019M12){: .btn .btn--primary} |
+| [![CY19 November Journal Cover](/assets/images/covers/CY19M11-cover-150.png "CY19 November Journal Cover")](https://paywall.link/to/02944) | [November 2019 PDF](https://paywall.link/to/02944){: .btn .btn--primary} |
 | [![CY19 October Journal Cover](/assets/images/covers/CY19M10-cover-150.png "CY19 October Journal Cover")](https://paywall.link/to/52b74) | [October 2019 PDF](https://paywall.link/to/52b74){: .btn .btn--primary} |
 | [![CY19 September Journal Cover](/assets/images/covers/CY19M9-cover-150.png "CY19 September Journal Cover")](https://paywall.link/to/507f0) | [September 2019 PDF](https://paywall.link/to/507f0){: .btn .btn--primary} |
 | [![CY19 August Journal Cover](/assets/images/covers/CY19M8-cover-150.png "CY19 August Journal Cover")](https://paywall.link/to/9b0b7) | [August 2019 PDF](https://paywall.link/to/9b0b7){: .btn .btn--primary} |
