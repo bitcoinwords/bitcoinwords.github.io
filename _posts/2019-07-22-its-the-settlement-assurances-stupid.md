@@ -26,7 +26,6 @@ defaults:
 ### By [Nic Carter](https://medium.com/@nic__carter)
 ### Posted July 22, 2019
 
-[![](/assets/images/cy19/cy19q3m7/nc-1.png)](/assets/images/cy19/cy19q3m7/nc-1.png)
 
 <figure>
 	<a href="/assets/images/cy19/cy19q3m7/nc-1.png"><img src="/assets/images/cy19/cy19q3m7/nc-1.png"></a>
