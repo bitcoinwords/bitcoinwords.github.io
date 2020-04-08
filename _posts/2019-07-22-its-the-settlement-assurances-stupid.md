@@ -7,6 +7,10 @@ author: niccarter
 tags:
   - Nic Carter
   - CY19 Q3
+  - On-Chain Settlement
+  - Security
+  - Ledger Value
+
 
 excerpt: Nic Carter explains why Bitcoin is the fastest cryptocurrency when using settlement as the core metric. Posted July 22, 2019.
 
@@ -22,7 +26,7 @@ defaults:
 ### By [Nic Carter](https://medium.com/@nic__carter)
 ### Posted July 22, 2019
 
-![](/assets/images/cy19/cy19q3m7/nc-1.png){: .align-center}
+[![](/assets/images/cy19/cy19q3m7/nc-1.png)]((/assets/images/cy19/cy19q3m7/nc-1.png))
 
 What is the time to finality on major blockchains? How long should I wait before considering a Bitcoin transaction settled? What are the risk factors which might cause me to demand additional confirmations? How do confirmations affect settlement?
 
