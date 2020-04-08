@@ -28,6 +28,11 @@ defaults:
 
 [![](/assets/images/cy19/cy19q3m7/nc-1.png)](/assets/images/cy19/cy19q3m7/nc-1.png)
 
+<figure>
+	<a href="/assets/images/cy19/cy19q3m7/nc-1.png"><img src="/assets/images/cy19/cy19q3m7/nc-1.png"></a>
+	<figcaption><a href="/assets/images/cy19/cy19q3m7/nc-1.png" title="It’s the settlement assurances, stupid">It’s the settlement assurances, stupid</a></figcaption>
+</figure>
+
 What is the time to finality on major blockchains? How long should I wait before considering a Bitcoin transaction settled? What are the risk factors which might cause me to demand additional confirmations? How do confirmations affect settlement?
 
 Surprisingly, none of these questions have good answers, even in 2019, over 10 years after the first Bitcoin block was mined. Rigorous investigation into the properties of proof of work has been hampered both due to a perception that it's just a temporary staging ground for some future, superior consensus/sybil resistance mechanism, and due to a belief among Bitcoiners that its quality is inviolate.
