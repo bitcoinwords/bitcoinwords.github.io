@@ -11,7 +11,7 @@ defaults:
       author_profile: true
 ---
 
-[![Links logo](/assets/images/links-logo.png =300)](https://bitcoinwords.github.io/links/docs/planet.news.html)
+[![Links logo](/assets/images/links-logo.png)](https://bitcoinwords.github.io/links/docs/planet.news.html)
 {: .half}
 
 The goal of **Links** is to deliver you the absolute best commentary on Bitcoin. Our sources are carefully curated and constantly updated as we uncover more signal. 
