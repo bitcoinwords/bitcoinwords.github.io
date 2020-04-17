@@ -21,13 +21,13 @@ This project is the product of RSS and Lightning Network.
 
 RSS (Really Simple Syndication) is a protocol that enables the distribution of blogs and pods. If you're subscribed to a pod in iTunes or Spotify, RSS is the magic that pulls in new episodes.
 
-This also applies to blogs. Some people read blogs with "feed readers". A popular one is [@feedly](https://twitter.com/feedly). From almost any blog or webpage, you can grab the url and plug it in a feed reader and it will use the blogs RSS to pull in new articles. This allows you to have the new articles delivered to you, rather than going to each web page.
+This also applies to blogs. Some people read blogs with "feed readers". A popular one is [@feedly](https://twitter.com/feedly). You can grab the url from almost any blog or webpage, plug it in a feed reader, and it will use RSS to pull in new articles to your feed reader. This allows you to have the new articles delivered to you, rather than going to each web page.
 
 The Links project takes RSS from carefully curated Bitcoin blogs and wraps them in Bitcoin Lightning Network. All the blog posts that are pulled into Links are paywalled with Lightning Network invoices.
 
 The million satoshi question is this... **Will people pay to read curated content?**
 
-we'll be trying to figure it out. 
+We'll be trying to figure it out. 
 
 ### Enabling Technologies for Links
 
