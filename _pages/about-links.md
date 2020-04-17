@@ -14,7 +14,7 @@ defaults:
 [![Links logo](/assets/images/links-logo.png)](https://bitcoinwords.github.io/links/docs/planet.news.html)
 {: .half}
 
-The goal of **Links** is to deliver you the absolute best commentary on Bitcoin. Our sources are carefully curated and constantly updated as we uncover more signal. 
+The goal of **[Links](https://bitcoinwords.github.io/links/docs/planet.news.html)** is to deliver you the absolute best commentary on Bitcoin. Our sources are carefully curated and constantly updated as we uncover more signal. 
 
 ## <i class="fas fa-rss"></i> RSS and <i class="fas fa-bolt"></i> Lightning Network
 This project is the product of RSS and Lightning Network. 
