@@ -33,4 +33,4 @@ We'll be trying to figure it out.
 
 * [GitHub](https://github.com/) Pages is the hosting and git powerhouse
 * [Planet Pluto](https://github.com/feedreader) is the static page builder that does the RSS magic. Shout out to [Gerald Bauer](https://github.com/geraldb) for this amazing code.
-* [Lightning Feed Wrapper](https://lnpay.co/paywall/xml-feeds) by [LNPay.co](https://lnpay.co/) is the all star that takes the RSS feeds and wraps them in LIghtning Network. Major props to [Tim Kijewski](https://twitter.com/BootstrapBandit) on being reckless enough to build this!
+* [Lightning Feed Wrapper](https://lnpay.co/paywall/xml-feeds) by [LNPay.co](https://lnpay.co/) is the all star that takes the RSS feeds and wraps them in LIghtning Network. Major props to [Tim K](https://twitter.com/BootstrapBandit) on being reckless enough to build this!
