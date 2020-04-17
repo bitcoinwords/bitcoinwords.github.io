@@ -15,7 +15,10 @@ main:
   - title: "Support"
     url: https://bitcoinwords.github.io/support  
   - title: "Side Notes"
-    url: https://jrjr.posthaven.com/  
+    url: https://jrjr.posthaven.com/
+  - title: "<i class="fas fa-bolt"></i>Links"
+    url: https://bitcoinwords.github.io/links/docs/planet.news.html/  
+ 
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
