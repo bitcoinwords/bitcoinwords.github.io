@@ -13,6 +13,18 @@ defaults:
 
 # Pod Appeaarances
 
+## [Conversation with Brian Harrington](https://youtu.be/rMTVUMXcuL8)
+### Posted April 19, 2020
+[![](/assets/images/media/brianharrington.png)](https://youtu.be/rMTVUMXcuL8)
+
+Conversation with Joe Rodgers:	
+* Catch up 
+* WORDS
+* Links
+* Diaspora
+* Circularity
+* Dollarization
+
 ## [Fun with Bitcoin Podcast](https://anchor.fm/funwithbitcoin/episodes/Interview-with-Joe-Rodgers-WORDS-eapkfi)
 ### Posted February 12, 2020
 [![](/assets/images/media/funwithbitcoin.png)](https://anchor.fm/funwithbitcoin/episodes/Interview-with-Joe-Rodgers-WORDS-eapkfi)
