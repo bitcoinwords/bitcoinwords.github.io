@@ -17,7 +17,7 @@ defaults:
 ### Posted April 19, 2020
 [![](/assets/images/media/brianharrington.png)](https://youtu.be/rMTVUMXcuL8)
 
-Conversation with Joe Rodgers:	
+Joe Rodgers Editor of WORDS Bitcoin Journal - 1:08:29 - 
 * Catch up 
 * WORDS
 * Links
