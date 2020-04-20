@@ -15,7 +15,7 @@ defaults:
 
 ## [Conversation with Brian Harrington](https://youtu.be/rMTVUMXcuL8)
 ### Posted April 19, 2020
-[![](/assets/images/media/brianharrington.png)](https://youtu.be/rMTVUMXcuL8)
+[![](/assets/images/media/brianharrington.png)](https://youtu.be/rMTVUMXcuL8?t=1)
 
 Joe Rodgers Editor of WORDS Bitcoin Journal - 1:08:29 - 
 * Catch up 
