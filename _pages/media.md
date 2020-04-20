@@ -11,7 +11,6 @@ defaults:
       author_profile: true
 ---
 
-# Pod Appearances
 
 ## [Conversation with Brian Harrington](https://youtu.be/rMTVUMXcuL8)
 ### Posted April 19, 2020
