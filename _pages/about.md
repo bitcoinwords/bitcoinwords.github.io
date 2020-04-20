@@ -26,7 +26,7 @@ This generation of Bitcoin thinkers have limited places to submit thought pieces
 Enter **WORDS**. Published independently, **WORDS** is a journal that welcomes submissions on a range of topics of interest to the Bitcoin community.  In addition to conventional research articles, we welcome review essays blog posts, tweets as well as papers in other formats, such as distinguished lectures. Authors retain ownership without restriction of all rights under copyright in their articles. **WORDS** is open access, and we encourage readers to “[read, download, copy, distribute, print, search, or link to the full texts of these articles… or use them for any other lawful purpose.](https://doaj.org/faq#definition)”. This is an archival project on a mission to capture the spirit and voice of the Bitcoin community for future generations.
 
 ## [Media](https://bitcoinwords.github.io/media/)
-WORDS has been interviewed a couple times. Those interviews are on our [Media page](https://bitcoinwords.github.io/media/). WORDS welcomes requests to chat and collaborate. 
+**WORDS** has been interviewed a couple times. Those interviews are on our [Media page](https://bitcoinwords.github.io/media/). **WORDS** welcomes requests to chat and collaborate. 
 
 ## For a deeper dive down the rabbit hole...
 Check out [Bitcoin-Only](https://bitcoin-only.com/). It is a curated repo of strictly **"BITCOIN ONLY"** products, services, content, and more. You won't be disappointed.
