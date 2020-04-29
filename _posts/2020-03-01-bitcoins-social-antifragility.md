@@ -24,7 +24,7 @@ defaults:
 ***
 
 # [Bitcoin’s Social Antifragility](https://limitlesscuriosity.com/essays/bitcoins-social-antifragility)
-### By [Sven Schnieders]()
+### By [Sven Schnieders](https://twitter.com/SvenSchnieders)
 ### March 1, 2020 
 
 ![Image courtesy of Federico Tenga](/assets/images/2020/m3/ss3.png)

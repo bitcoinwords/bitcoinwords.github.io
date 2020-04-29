@@ -5,7 +5,7 @@ permalink: "/stop-calling-for-a-free-market-in-money"
 author: svenschnieders
 
 tags:
-  - Sven SChnieders
+  - Sven Schnieders
   - CY20 Q1
   - Gold
   - Gold Standard
@@ -27,7 +27,7 @@ defaults:
 ***
 
 # [Stop Calling for a Free Market in Money](https://limitlesscuriosity.com/essays/stop-calling-for-a-free-market-in-money)
-### By [Sven Schnieders]()
+### By [Sven Schnieders](https://twitter.com/SvenSchnieders)
 ### Posted March 29, 2020
 
 ![](/assets/images/2020/m3/ss1.png)
