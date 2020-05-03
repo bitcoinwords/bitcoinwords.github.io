@@ -27,7 +27,7 @@ defaults:
 
 ***
 
-[Bitcoin and The Business Cycle](https://medium.com/coinmonks/bitcoin-and-the-business-cycle-7aee280721c4)
+# [Bitcoin and The Business Cycle](https://medium.com/coinmonks/bitcoin-and-the-business-cycle-7aee280721c4)
 ### By [Ben Kaufman](https://twitter.com/_benkaufman)
 ### Posted April 16, 2020
 
