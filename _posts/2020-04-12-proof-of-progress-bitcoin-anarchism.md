@@ -2,7 +2,7 @@
 title: "Proof of Progress - Bitcoin anarchism meets the establishment"
 permalink: "/proof-of-progress-bitcoin-anarchism"
 
-author: 
+author: danielfrumkin
 
 tags:
   - Daniel Frumkin

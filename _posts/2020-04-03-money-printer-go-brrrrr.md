@@ -1,5 +1,5 @@
 ---
-title: "Money Printer Go Brrrrr: Bitcoin’s Solution to the Federal Reserve"
+title: "Money Printer Go Brrrrr - Bitcoin’s Solution to the Federal Reserve"
 permalink: "/money-printer-go-brrrrr"
 
 author: connerbrown

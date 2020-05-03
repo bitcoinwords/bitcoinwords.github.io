@@ -16,7 +16,7 @@ tags:
   - Consensus
   - Consensus Guarantees
   - Network Effects
-  - Game Theiry
+  - Game Theory
 
 excerpt: Hasu explains the onion security model and how it applies to blockchain. This is foundational for understanding Bitcoin's security. Posted April 11, 2020.
 

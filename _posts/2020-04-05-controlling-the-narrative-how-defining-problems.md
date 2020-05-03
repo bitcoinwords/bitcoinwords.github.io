@@ -1,5 +1,5 @@
 ---
-title: "Controlling the narrative: how defining problems and framing causal stories of harm leads to immutable policy institutions"
+title: "Controlling the narrative - how defining problems and framing causal stories of harm leads to immutable policy institutions"
 permalink: "/controlling-the-narrative-how-defining-problems"
 
 author: francispouliot

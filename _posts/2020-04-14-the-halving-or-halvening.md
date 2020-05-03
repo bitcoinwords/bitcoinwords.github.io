@@ -1,5 +1,5 @@
 ---
-title: "The Halving or Halvening…"
+title: "The Halving or Halvening"
 permalink: "/the-halving-or-halvening"
 
 author: aleksvetski

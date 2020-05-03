@@ -1,6 +1,6 @@
 ---
 title: "21 Million is Non-Negotiable"
-permalink: "/21-million-is-non-negotiable"
+permalink: "/twenty-one-million-is-non-negotiable"
 
 author: philgeiger
 

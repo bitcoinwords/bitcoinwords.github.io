@@ -1,6 +1,6 @@
 ---
 title: "Welcome to prepping, Bitcoiners"
-permalink: "/welcome=to-prepping-bitcoiners"
+permalink: "/welcome-to-prepping-bitcoiners"
 
 author: prestonbyrne
 
