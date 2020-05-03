@@ -1,6 +1,6 @@
 ---
 title: "Consequences of Money"
-permalink: "/consequesnces-of-money"
+permalink: "/consequences-of-money"
 
 author: zachofearth
 

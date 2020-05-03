@@ -161,34 +161,6 @@ Solidifying known facts from the original S2F study, the S2FX model offers a new
 [7] [Jan Nieuwenhuijs](https://twitter.com/JanGold_), [_How Much Silver Is Above Ground?_](https://www.voimagold.com/insight/how-much-silver-is-above-ground), Dec 2019
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
 ***
 
 {% include signup.md %}
-
-
-
-$$$$$$$$$$$$$$$$$$$$$$$$$$$$$ Image with Popout $$$$$$$$$$$$$$$$$$
-
-
-<figure>
-	<a href="/assets/images/cy19/cy19q3m7/nc-1.png"><img src="/assets/images/cy19/cy19q3m7/nc-1.png"></a>
-	<figcaption><a href="/assets/images/cy19/cy19q3m7/nc-1.png" title="It’s the settlement assurances, stupid">It’s the settlement assurances, stupid</a></figcaption>
-</figure>
-
-
-<figure>
-	<a href="/assets/images/cy19/cy19q3m7/nc-1.png"><img src="/assets/images/cy19/cy19q3m7/nc-1.png"></a>
-</figure>

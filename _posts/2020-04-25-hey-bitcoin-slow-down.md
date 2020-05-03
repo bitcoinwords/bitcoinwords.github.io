@@ -24,7 +24,7 @@ defaults:
 
 ***
 
-# Hey Bitcoin, Slow Down!
+# [Hey Bitcoin, Slow Down!](https://medium.com/@mtc/hey-bitcoin-slow-down-d5a692d07619)
 ### By [mtcbtc](https://twitter.com/mtcbtc)
 ### Posted April 25, 2020
 

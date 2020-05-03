@@ -26,7 +26,7 @@ defaults:
 
 # [Dear Family, Dear Friends,](https://medium.com/@dergigi/dear-family-dear-friends-6ef7ee7a1a2b)
 ## A letter to all of you who still have no bitcoin.
-### By [Gigi]()
+### By [Gigi](https://twitter.com/dergigi)
 ### Posted April 27, 2020
 
 I am writing this letter because I am convinced of two things: (1) our current money is fundamentally broken (2) using superior money will benefit you in particular — and society in general — in the long run.
@@ -37,8 +37,7 @@ The world has changed drastically in the last couple of decades, as has the worl
 
 I hope that this letter will plant the seeds for a better future. A better future for you, personally — and a better future for us all. In part, I am writing to you because I’m worried about what is yet to come. And yet I am hopeful, because this time, we have a way out — we have a Plan B.
 
-Plan B
-======
+## Plan B
 
 By now, you have probably heard about Bitcoin. It is a household name, frequently featured in major news outlets, on TV (I’m looking at you, CNBC), and referenced in pop-culture ([The Simpsons](https://www.ccn.com/bitcoin-finally-mentioned-foxs-simpsons/), [Mr. Robot](https://youtu.be/gHOAKWzDH-Q), [Silicon Valley](https://www.youtube.com/watch?v=28IpiLraUoc), [The Big Bang Theory](https://www.youtube.com/watch?v=Cc-Hbklizzk), [Grey’s Anatomy](https://www.cyberscoop.com/greys-anatomy-attempts-bring-ransomware-attacks-public-audience/), [Family Guy](https://www.youtube.com/watch?v=6HFtk29k7-Y), and [The Simpsons](https://youtu.be/ovyMzT8rS8w) again). Whatever you might know or think you know about Bitcoin — there is more to it than meets the eye.
 

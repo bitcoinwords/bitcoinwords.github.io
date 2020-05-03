@@ -28,7 +28,6 @@ defaults:
 
 ***
 
-
 # [The State of L2 Investments](https://www.tokendaily.co/blog/the-state-of-l2-investments)
 ### By [Mohamed Fouda](https://twitter.com/MohamedFFouda)
 ### Posted April 17, 2020
@@ -141,8 +140,6 @@ TBTC is not alone. In fact, it is safe to say that every emerging smart contract
 On the other hand, sidechains built on Bitcoin have struggled to gain enough traction or to capture developer imagination. The sidechain narrative has largely moved into the direction of interoperability. The logic here is simply "_why rebuild it if I can just bridge to the same functionality but with more robustness and liquidity."_
 
 To be clear, we are in the early days, and much of what we wrote above can and _should_ change over the next year. However, we expect many of the developing trends that we are tracking now will form the backbone of our new financial system.
-
-
 
 
 ***

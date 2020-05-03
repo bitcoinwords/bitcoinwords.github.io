@@ -27,9 +27,10 @@ defaults:
 ***
 
 # [Bitcoin is a Catalyst for Human Evolution (Symbiosis) — Part 4/4](https://medium.com/@BrandonQuittem/bitcoin-is-a-catalyst-for-human-evolution-symbiosis-part-4-4-4c6563cb9254)
-### By [Brandon Quittem](https://twitter.com/Bquittem)
-
 ## _Exploring Bitcoin through the lens of natural selection, evolution, and symbiosis_
+### By [Brandon Quittem](https://twitter.com/Bquittem)
+### Posted April 24, 2020
+
 
 <figure>
 	<a href="/assets/images/2020/m4/bq1.png"><img src="/assets/images/2020/m4/bq1.png"></a>
