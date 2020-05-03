@@ -13,7 +13,6 @@ tags:
   - Economics
   - Morality
   - Thought Experiment
-  - 
 
 excerpt: Zach of Earth shares a couple thought experiments on the morals and nature of money. Posted April 8, 2020.
 

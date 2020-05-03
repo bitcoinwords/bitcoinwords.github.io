@@ -12,7 +12,7 @@ tags:
   - Gold
   - Financial
 
-excerpt: PlanB's part 3 of his series on Bitcoin valuation. 
+excerpt: PlanB's part 3 of his series on Bitcoin valuation. Posted April 27, 2020.
 
 defaults:
   - scope:
