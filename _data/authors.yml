@@ -120,6 +120,21 @@ alanmanuelkgloria:
       icon: #"fab fa-fw fa-twitter-square"
       url: #"https://twitter.com/AleksSvetski"
 
+amaninblack:
+  name        : A Man in Black
+  bio         : "Good music, an alcoholic beverage and a pen; what else does a man need to be happy?"
+  avatar      : # "/assets/images/bio-photo-2.jpg"
+  links:
+    - label: # "Email"
+      icon: #"fas fa-fw fa-envelope-square"
+      url: #"mailto:billyrick@rick.com"
+    - label: #"Website"
+      icon: #"fas fa-fw fa-link"
+      url: #"https://thewhip.com"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/AManInBlack_"
+
 americanhodl:
   name        : AMERICAN HODL
   bio         : "HODLER OF LAST RESORT."
@@ -194,6 +209,22 @@ anthonypompliano:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/APompliano"
+
+arthurhayes:
+  name        : Arthur Hayes
+  bio         : "Arthur Hayes, Co-Founder & CEO of BitMEX"
+  avatar      : # "/assets/images/bio-photo-2.jpg"
+  links:
+    - label: # "Email"
+      icon: #"fas fa-fw fa-envelope-square"
+      url: #"mailto:billyrick@rick.com"
+    - label: #"Website"
+      icon: #"fas fa-fw fa-link"
+      url: #"https://thewhip.com"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/CryptoHayes"
+
 
 benprentice:
   name        : Ben Prentice
@@ -284,6 +315,21 @@ thebitcoinobserver:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/festina_lente_2"
+
+bradyswenson:
+  name        : Brady Swenson
+  bio         : "Waving hand Podcasting our bitcoin journey▫Head of Education @SwanBitcoin Swan http://swanbitcoin.com▫Team @bitcoinersbest. Welcome to the dawn of the Bitcoin Renaissance"
+  avatar      : # "/assets/images/bio-photo-2.jpg"
+  links:
+    - label: # "Email"
+      icon: #"fas fa-fw fa-envelope-square"
+      url: #"mailto:billyrick@rick.com"
+    - label: #"Website"
+      icon: #"fas fa-fw fa-link"
+      url: #"https://thewhip.com"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/CitizenBitcoin"
 
 brandonarvanaghi:
   name        : Brandon Arvanaghi
@@ -614,6 +660,21 @@ ff2k:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/fartface2000"
+
+francispouliot:
+  name        : Francis Pouliot
+  bio         : "CEO of @BullBitcoin_ (former @mybylls). Founder of @cyphernode_io. Bitcoin Embassy 2013-2017. Recovering economic policy analyst ☣️ Remnant #Bitcoin Maximalist."
+  avatar      : # "/assets/images/bio-photo-2.jpg"
+  links:
+    - label: # "Email"
+      icon: #"fas fa-fw fa-envelope-square"
+      url: #"mailto:billyrick@rick.com"
+    - label: #"BitPiggys"
+      icon: #"fas fa-fw fa-link"
+      url: #"http://bitpiggys.com"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/francispouliot_"
 
 gaborgurbacs:
   name        : Gabor Gurbacs
@@ -975,6 +1036,21 @@ jwweatherman:
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/JWWeatherman_"
 
+katiadolzhenko:
+  name        : Katia Dolzhenko
+  bio         : "intj • strategy/anarchism/economics • head of SM @trezor • http://linkedin.com/in/bitcoinkatia • my alt @kat0shi • stoic • ₿ water • building @ctdl21"
+  avatar      : # "/assets/images/bio-photo-2.jpg"
+  links:
+    - label: # "Email"
+      icon: #"fas fa-fw fa-envelope-square"
+      url: #"mailto:billyrick@rick.com"
+    - label: #"Website"
+      icon: #"fas fa-fw fa-link"
+      url: #"https://thewhip.com"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/bitcoinkatia"
+
 knutsvanholm:
   name        : Knut Svanholm
   bio         : "Author of Bitcoin: Sovereignty through mathematics"
@@ -1025,6 +1101,18 @@ marcvanderchijs:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/marcvanderchijs"
+
+marianatrip:
+  name        : Mariana Trip
+  bio         : "Macro thinker. Fuck giver. Cannabis entrepreneur, "drugs" experimenter"
+  avatar      : #"/assets/images/bio-photo.jpg"
+  links:
+    - label: "Website"
+      icon: #"fas fa-fw fa-envelope-square"
+      url: "https://www.marc.cn/"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/TripMariana"
 
 martybent:
   name        : Marty Bent
@@ -1122,6 +1210,18 @@ mohamedfouda:
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/MohamedFFouda"
 
+mtcbtc:
+  name        : mtcbtc
+  bio         : "Central Bank denier. Burn the boats."
+  avatar      : #"/assets/images/bio-photo.jpg"
+  links:
+    - label: #"Email"
+      icon: #"fas fa-fw fa-envelope-square"
+      url: #"mailto:cornelius@thewhip.com"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/mtcbtc"
+
 muradmahmudov:
   name        : Murad Mahmudov
   bio         : "Cryptocurrency Analyst. CIO @adaptivefund. Mostly fundamentals, occasional charts. Bitcoin, not Blockchain. Monetary Econ. Prev @princeton"
@@ -1181,6 +1281,18 @@ nick:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/btconometrics"
+
+nik:
+  name        : Nik
+  bio         : "20. #Bitcoin only. Check out my writing Smiling face with sunglasses Clinking beer mugs 👇🏻 @BTCKindergarten Intern for @MartyBent"
+  avatar      : #"/assets/images/bio-photo.jpg"
+  links:
+    - label: #"Email"
+      icon: #"fas fa-fw fa-envelope-square"
+      url: #"mailto:cornelius@thewhip.com"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/nikcantmine"
 
 nikbhatia:
   name        : Nik Bhatia
@@ -1374,6 +1486,18 @@ prateekgoorha:
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/goorha"
 
+prestonbyrne:
+  name        : Preston Byrne
+  bio         : "Visiting Professor. Economist. Contextual contracts, innovation and Bitcoin. Jeffersonian. Writer of books, papers, articles and tweets."
+  avatar      : #"/assets/images/bio-photo.jpg"
+  links:
+    - label: #"Email"
+      icon: #"fas fa-fw fa-envelope-square"
+      url: #"mailto:cornelius@thewhip.com"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/prestonjbyrne"
+
 rafaelschultzekraft:
   name        : Rafael Schultze-Kraft
   bio         : "At the intersection of bitcoin, crypto, data science, machine learning, and on–chain analysis. Building @glassnode."
@@ -1547,6 +1671,21 @@ stadicus:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/Stadicus3000"
+
+stefenreid:
+  name        : Stefen Reid
+  bio         : "Father, Husband, Dream Journalist and Unapologetically Aweful Artist "
+  avatar      : # "/assets/images/bio-photo-2.jpg"
+  links:
+    - label: # "Email"
+      icon: #"fas fa-fw fa-envelope-square"
+      url: #"mailto:billyrick@rick.com"
+    - label: #"Website"
+      icon: #"fas fa-fw fa-link"
+      url: #"https://thewhip.com"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/stefenreid"
 
 stephanlivera:
   name        : Stephan Livera
@@ -1802,6 +1941,36 @@ yassineelmandjra:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/yassineARK"
+
+zachofearth:
+  name        : Zach of Earth
+  bio         : "Bitcoin is your salvation. Submit now and learn, or delay and face the consequences."
+  avatar      : # "/assets/images/bio-photo-2.jpg"
+  links:
+    - label: # "Email"
+      icon: #"fas fa-fw fa-envelope-square"
+      url: #"mailto:billyrick@rick.com"
+    - label: #"Website"
+      icon: #"fas fa-fw fa-link"
+      url: #"https://thewhip.com"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/Zach_of_Earth"
+
+zachofearth:
+  name        : Zach of Earth
+  bio         : "Bitcoin is your salvation. Submit now and learn, or delay and face the consequences."
+  avatar      : # "/assets/images/bio-photo-2.jpg"
+  links:
+    - label: # "Email"
+      icon: #"fas fa-fw fa-envelope-square"
+      url: #"mailto:billyrick@rick.com"
+    - label: #"Website"
+      icon: #"fas fa-fw fa-link"
+      url: #"https://thewhip.com"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/Zach_of_Earth"
 
 zanepocock:
   name        : Zane Pocock
