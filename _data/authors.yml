@@ -318,7 +318,7 @@ thebitcoinobserver:
 
 bradyswenson:
   name        : Brady Swenson
-  bio         : "Waving hand Podcasting our bitcoin journey▫Head of Education @SwanBitcoin Swan http://swanbitcoin.com▫Team @bitcoinersbest. Welcome to the dawn of the Bitcoin Renaissance"
+  bio         : "Waving hand Podcasting our bitcoin journey▫Head of Education @SwanBitcoin Swan swanbitcoin.com Team @bitcoinersbest. Welcome to the dawn of the Bitcoin Renaissance"
   avatar      : # "/assets/images/bio-photo-2.jpg"
   links:
     - label: # "Email"
@@ -663,7 +663,7 @@ ff2k:
 
 francispouliot:
   name        : Francis Pouliot
-  bio         : "CEO of @BullBitcoin_ (former @mybylls). Founder of @cyphernode_io. Bitcoin Embassy 2013-2017. Recovering economic policy analyst ☣️ Remnant #Bitcoin Maximalist."
+  bio         : "CEO of @BullBitcoin_ former @mybylls. Founder of @cyphernode_io. Bitcoin Embassy 2013-2017. Recovering economic policy analyst ☣️ Remnant #Bitcoin Maximalist."
   avatar      : # "/assets/images/bio-photo-2.jpg"
   links:
     - label: # "Email"
@@ -1038,7 +1038,7 @@ jwweatherman:
 
 katiadolzhenko:
   name        : Katia Dolzhenko
-  bio         : "intj • strategy/anarchism/economics • head of SM @trezor • http://linkedin.com/in/bitcoinkatia • my alt @kat0shi • stoic • ₿ water • building @ctdl21"
+  bio         : "intj • strategy,anarchism,economics • head of SM @trezor • linkedin.com/in/bitcoinkatia • my alt @kat0shi • stoic • ₿ water • building @ctdl21"
   avatar      : # "/assets/images/bio-photo-2.jpg"
   links:
     - label: # "Email"
@@ -1104,7 +1104,7 @@ marcvanderchijs:
 
 marianatrip:
   name        : Mariana Trip
-  bio         : "Macro thinker. Fuck giver. Cannabis entrepreneur, "drugs" experimenter"
+  bio         : "Macro thinker. Fuck giver. Cannabis entrepreneur, drugs experimenter"
   avatar      : #"/assets/images/bio-photo.jpg"
   links:
     - label: "Website"
@@ -1941,21 +1941,6 @@ yassineelmandjra:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/yassineARK"
-
-zachofearth:
-  name        : Zach of Earth
-  bio         : "Bitcoin is your salvation. Submit now and learn, or delay and face the consequences."
-  avatar      : # "/assets/images/bio-photo-2.jpg"
-  links:
-    - label: # "Email"
-      icon: #"fas fa-fw fa-envelope-square"
-      url: #"mailto:billyrick@rick.com"
-    - label: #"Website"
-      icon: #"fas fa-fw fa-link"
-      url: #"https://thewhip.com"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/Zach_of_Earth"
 
 zachofearth:
   name        : Zach of Earth
