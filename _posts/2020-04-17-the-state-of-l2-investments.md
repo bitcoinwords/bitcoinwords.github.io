@@ -34,8 +34,6 @@ defaults:
 
 ## Part 1: Progress and Investability of BTC Off-Chain Solutions
 
-Friday, 17th of April 2020 · by [Mohamed Fouda](https://www.tokendaily.co/user/MohamedFFouda)
-
 ![](/assets/images/2020/m4/mf1.png)
 
 In 2017, the crypto bull run triggered explosive trading activity which stress-tested both Bitcoin and Ethereum networks. They each suffered congestion, delayed transactions, and higher fees. In response to these conditions, several scalability solutions were proposed or revisited with renewed interest in off-chain and layer-2 implementations. Entrepreneurs, researchers, and investors largely viewed L2 (Layer 2) solutions as having limited downside: they require only minor changes to the consensus layer and avoid centralization of the base-layer protocols. Meanwhile, their upside appeared uncapped. These solutions include Bitcoin's Lightning Network and Ethereum's Raiden, which can be described as true L2 solutions, and sidechains such as RSK for Bitcoin and Plasma Chains for Ethereum.
