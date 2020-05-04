@@ -32,6 +32,8 @@ defaults:
 ### By [Mohamed Fouda](https://twitter.com/MohamedFFouda)
 ### Posted April 17, 2020
 
+### [Courtesy of Token Daily](https://www.tokendaily.co/)
+
 ## Part 1: Progress and Investability of BTC Off-Chain Solutions
 
 ![](/assets/images/2020/m4/mf1.png)
