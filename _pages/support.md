@@ -26,7 +26,7 @@ We're all fighting the good fight. Any donation is appreciated. If I could do th
 
 ## Help Spread 𝗪𝗢𝗥𝗗𝗦
 
-Have a website or use social networking sites like Twitter, Facebook, or LinkedIn? Consider sharing the content found on *WORDS* or linking to [https://bitcoinwords.github.io](https://bitcoinwords.github.io).
+Have a website or use social networking sites like Twitter, Facebook, or LinkedIn? Consider sharing the content found on **WORDS** or linking to [https://bitcoinwords.github.io](https://bitcoinwords.github.io).
 
 ## Follow us on social media
 
