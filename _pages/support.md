@@ -24,7 +24,7 @@ We're all fighting the good fight. Any donation is appreciated. If I could do th
 
 [<i class="fas fa-money-check-alt"></i> Send CashApp](https://cash.app/$joerodgers76){: .btn .btn--success} [<i class="fab fa-paypal"></i> Send PayPal](https://www.paypal.me/bucwolfser){: .btn .btn--info}
 
-## Help Spread the 𝗪𝗢𝗥𝗗𝗦
+## Help Spread 𝗪𝗢𝗥𝗗𝗦
 
 Have a website or use social networking sites like Twitter, Facebook, or LinkedIn? Consider sharing the content found on *WORDS* or linking to [https://bitcoinwords.github.io](https://bitcoinwords.github.io).
 
