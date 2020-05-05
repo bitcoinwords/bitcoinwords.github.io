@@ -31,8 +31,6 @@ defaults:
 ### By [Erik Cason](https://twitter.com/Erikcason)
 ### Posted March 29, 2020
 
-Tags on Cryptosovereignty: [Anarchism](http://cryptosovereignty.org/tag/anarchism/), [bitcoin](http://cryptosovereignty.org/tag/bitcoin/), [crypto](http://cryptosovereignty.org/tag/crypto/), [cryptography](http://cryptosovereignty.org/tag/cryptography/), [philosophy](http://cryptosovereignty.org/tag/philosophy/)
-
 <figure>
 	<a href="/assets/images/2020/m4/ec1.png"><img src="/assets/images/2020/m4/ec1.png"></a>
 </figure>
