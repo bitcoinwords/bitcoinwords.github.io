@@ -5,7 +5,7 @@ permalink: "/the-last-mortal-man"
 author: hashedentropy
 
 tags:
-  - HashedEntropy
+  - Hashed Entropy
   - CY19 Q4
   - Fiction
   - Bitcoin Fiction
