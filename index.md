@@ -11,7 +11,7 @@ header:
     - label: "SUBSCRIBE NOW (FOR FREE)!"
       url: "https://mailchi.mp/59e9fda5b387/words"
   caption: ""
-excerpt: "Bitcoin's Most Important Writings, Delivered Straight to Your Inbox"
+excerpt: "Bitcoin's Most Important Writings Delivered Monthly, Straight to Your Inbox"
 feature_row:
   - image_path: /assets/images/splash-about.png
     alt: "Read the Journals"
