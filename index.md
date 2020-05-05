@@ -16,21 +16,21 @@ feature_row:
   - image_path: /assets/images/splash-about.png
     alt: "Read the Journals"
     title: "Journals"
-    excerpt: #"WORDS is on a mission to curate and archive the brightest commentary on Bitcoin. We're producing a monthly journal and just getting started."
+    excerpt: "All the journals dating back to February 2018."
     url: "https://bitcoinwords.github.io/categories/journals/"
     btn_label: "Read Journals"
     btn_class: "btn--primary"
-  - image_path: assets/images/splash-posts.png
-    alt: "Posts"
-    title: "Posts"
-    excerpt: #"The journal is built on articles collected from across the internet, from Twitter to Medium to essays, anywhere there's thoughtful commentary."
-    url: "https://bitcoinwords.github.io/tags/"
-    btn_label: "Read Articles"
+  - image_path: assets/images/links-card.png
+    alt: "WORDS Links"
+    title: "Links"
+    excerpt: "WORDS Links is a Bitcoin news aggregator that delivers content via RSS + Lightning paywall."
+    url: "https://bitcoinwords.github.io/links/docs/planet.news.html"
+    btn_label: "Read Links"
     btn_class: "btn--primary"
-  - image_path: /assets/images/moon.png
-    alt: "CY19 Financial Journal"
+  - image_path: /assets/images/links-card.png
+    alt: "Bitcoin Financial Journal"
     title: "Bitcoin Financial Journal"
-    excerpt: #"A comprehensive collection of on and off chain indicators and valuation models for Bitcoin."
+    excerpt: "A comprehensive collection of on and off chain indicators and valuation models for Bitcoin."
     url: "https://bitcoinwords.github.io/bitcoin-financial-journal"
     btn_label: "Read the Bitcoin Financial Journal"
     btn_class: "btn--primary"
