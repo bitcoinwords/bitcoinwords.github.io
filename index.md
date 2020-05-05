@@ -27,7 +27,7 @@ feature_row:
     url: "https://bitcoinwords.github.io/links/docs/planet.news.html"
     btn_label: "Read Links"
     btn_class: "btn--primary"
-  - image_path: /assets/images/links-card.png
+  - image_path: /assets/images/moon.png
     alt: "Bitcoin Financial Journal"
     title: "Bitcoin Financial Journal"
     excerpt: "A comprehensive collection of on and off chain indicators and valuation models for Bitcoin."
