@@ -13,10 +13,10 @@ defaults:
 
 ![](/assets/images/splash-about.png){: .align-center}
 
-**WORDS** is a monthly journal of Bitcoin commentary. For the uninitiated, getting up to speed on Bitcoin can seem daunting. Content is scattered across the internet, in some cases behind paywalls, or even lost forever. That’s why we made this journal, to preserve and further understanding of Bitcoin.
+**WORDS** is a monthly journal of Bitcoin commentary. For the uninitiated, getting up to speed on Bitcoin can seem daunting. Content is scattered across the internet, in some cases behind paywalls, or even lost forever. **WORDS** was created to preserve and further the understanding of Bitcoin.
 
 ## Goals and Scope
-**WORDS** is a journal of Bitcoin commentary, established February 13, 2019. It's purpose is to document and advance commentary and research in disciplines of particular interest to the Bitcoin community. The journal is broad in scope, publishing content from original research, essays, blog posts, and tweetstorms from a wide variety of fields, especially technology, philosophy, politics, economics, and finance, but also legal theory, history, criticism, and social or cultural analysis. Its broader mission is to capture the conversations and think pieces in the Bitcoin space for current and future researchers.
+**WORDS** is a journal of Bitcoin commentary, established February 13, 2019. It's purpose is to ditribute and archive  commentary and research in disciplines of particular interest to Bitcoin communities. The journal is broad in scope, publishing content from original research, essays, blog posts, and tweetstorms from a wide variety of fields, especially technology, philosophy, politics, economics, and finance, but also legal theory, history, criticism, and social or cultural analysis. It's broader mission is to capture the conversations and think pieces about Bitcoin for current and future researchers.
 
 ## History
 There exists a gap in Bitcoin publishing.  For authors with commentary and scholarly papers on Bitcoin topics, the choice of publication outlets is relatively limited. The number of journals that serve as outlets for Bitcoin research is in any event too small, as the number of Bitcoin thinkers continues to grow with every market cycle.
