@@ -8,10 +8,7 @@ author_profile: true
 
 ---
 
-**WORDS** is a monthly Bitcoin journal. Each journal is a collection of articles, essays, and tweets from the Bitcoin community that month.
-
-## Distribution
-Journals are distributed monthly via email newsletter. There are hundreds of subscribers. You should sign up too - apparently it's pretty good.
+**WORDS** is a monthly Bitcoin journal. Each journal is a collection of articles, essays, and tweets from the Bitcoin community that month. Journals are distributed monthly via email newsletter. There are hundreds of subscribers. You should sign up too - apparently it's pretty good.
 
 [<i class="far fa-envelope"></i> Subscribe](https://mailchi.mp/59e9fda5b387/words){: .btn .btn--primary}
 
