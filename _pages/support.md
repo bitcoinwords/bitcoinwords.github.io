@@ -51,6 +51,3 @@ There are now hundreds of subscribers. You should sign up too - apparently it's 
 <i class="fas fa-check-square"></i> We'll only deliver what is promised.
 
 ## Read 𝗪𝗢𝗥𝗗𝗦
-
-
-[<i class="fas fa-bolt"></i> Support 𝗪𝗢𝗥𝗗𝗦](https://bitcoinwords.github.io/support/){: .btn .btn--danger}
