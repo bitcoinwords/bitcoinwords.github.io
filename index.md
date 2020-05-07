@@ -41,7 +41,7 @@ feature_row2:
     excerpt: "WORDS 101 is a quick FAQ about Bitcoin and resources to get you started."
     url: "https://bitcoinwords.github.io/101/"
     btn_label: "WORDS 101"
-    btn_class: "btn--primary"
+    btn_class: "btn--warning"
 ---
 
 [![](https://raw.githubusercontent.com/bitcoinwords/bitcoinwords.github.io/master/assets/images/splash-stats.png)](https://bitcoinwords.github.io/categories/journals/){: .align-center}
