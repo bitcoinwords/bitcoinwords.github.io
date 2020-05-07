@@ -7,6 +7,12 @@ author: satoshinakamoto
 tags:
   - Satoshi Nakamoto
   - 2008 Q4
+  - Canon
+  - Whitepaper
+  - Timestamping
+  - Proof of Work
+  - PoW
+  - Privacy
 
 excerpt: The whitepaper.
 
@@ -17,9 +23,15 @@ defaults:
 
 {% include donation.md %}
 
+The Bitcoin whitepaper was released in 2008 and changed the world. This masterpiece is simple to read and the cornerstone of Bitcoin canon.
+
+> "I think the Bitcoin whitepaper is one of the most seminal works of computer science in the last 20 or 30 years... It's poetry," - Jack Dorsey
+
+[<i class="fas fa-book"></i> Download the Bitcoin whitepaper](https://github.com/bitcoinwords/bitcoinwords.github.io/blob/master/assets/papers/bitcoin.pdf){: .btn .btn--info}
+
 ***
 
-# Bitcoin: A Peer-to-Peer Electronic Cash System
+# [Bitcoin: A Peer-to-Peer Electronic Cash System](https://bitcoinwords.github.io/bitcoin-a-peer-to-peer-electronic-cash-system)
 ### By Satoshi Nakamoto
 ### Posted October 31, 2008
 
