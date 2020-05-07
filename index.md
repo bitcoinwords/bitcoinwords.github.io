@@ -34,8 +34,18 @@ feature_row:
     url: "https://bitcoinwords.github.io/bitcoin-financial-journal"
     btn_label: "Read the Bitcoin Financial Journal"
     btn_class: "btn--primary"
+feature_row2:
+  - image_path: /assets/images/101.png
+    alt: "WORDS 101"
+    title: "WORDS 101"
+    excerpt: "WORDS 101 is a quick FAQ about Bitcoin and resources to get you started."
+    url: "https://bitcoinwords.github.io/101/"
+    btn_label: "WORDS 101"
+    btn_class: "btn--primary"
 ---
 
 [![](https://raw.githubusercontent.com/bitcoinwords/bitcoinwords.github.io/master/assets/images/splash-stats.png)](https://bitcoinwords.github.io/categories/journals/){: .align-center}
 
 {% include feature_row %}
+
+{% include feature_row id="feature_row2" type="left" %}
