@@ -11,6 +11,10 @@ defaults:
       author_profile: true
 ---
 
+## [Tweet featured on the Keiser Report 1534](https://youtu.be/x9owXLhsg-0?t=561)
+### Posted April 29, 2020
+This is nothing special but pretty awesome to see the project on the Keiser Report. No mention of the journal, but we'll take the PR! Thanks Stacy
+[![](/assets/images/media/keiser-report.png)](https://youtu.be/x9owXLhsg-0?t=560)
 
 ## [Conversation with Brian Harrington](https://youtu.be/rMTVUMXcuL8)
 ### Posted April 19, 2020
