@@ -1,5 +1,5 @@
 ---
-title: "All signal, no noise. The best place to read about Bitcoin."
+title: "WORDS Bitcoin Journal is all signal, no noise. The best place to read about Bitcoin."
 layout: splash
 permalink: /
 date: 2019-03-01
@@ -11,7 +11,7 @@ header:
     - label: "SUBSCRIBE NOW (FOR FREE)!"
       url: "https://mailchi.mp/59e9fda5b387/words"
   caption: ""
-excerpt: "Bitcoin's Most Important Writings Delivered Monthly, Straight to Your Inbox"
+excerpt: "A Monthly Publication of Bitcoin's Most Important Writings"
 feature_row:
   - image_path: /assets/images/splash-about.png
     alt: "Read the Journals"
@@ -43,6 +43,11 @@ feature_row2:
     btn_label: "WORDS 101"
     btn_class: "btn--warning"
 ---
+
+## About 𝗪𝗢𝗥𝗗𝗦 
+**WORDS** is one of the founding journals of Bitcoin commentary. The core mission of the project is to help spread the ideas in all disciplines of Bitcoin thought and to preserve those writings for future generations.
+
+[<i class="fas fa-book"></i> Find out more](https://bitcoinwords.github.io/about/){: .btn .btn--warning}
 
 [![](https://raw.githubusercontent.com/bitcoinwords/bitcoinwords.github.io/master/assets/images/splash-stats.png)](https://bitcoinwords.github.io/categories/journals/){: .align-center}
 
