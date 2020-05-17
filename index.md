@@ -1,5 +1,5 @@
 ---
-title: "WORDS Bitcoin Journal is all signal, no noise. The best place to read about Bitcoin."
+title: "WORDS Bitcoin Journal is all signal, no noise."
 layout: splash
 permalink: /
 date: 2019-03-01
@@ -44,7 +44,7 @@ feature_row2:
     btn_class: "btn--warning"
 ---
 
-## About 𝗪𝗢𝗥𝗗𝗦 
+## About WORDS 
 **WORDS** is one of the founding journals of Bitcoin commentary. The core mission of the project is to help spread the ideas in all disciplines of Bitcoin thought and to preserve those writings for future generations.
 
 [<i class="fas fa-book"></i> Find out more](https://bitcoinwords.github.io/about/){: .btn .btn--warning}
