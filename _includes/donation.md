@@ -1,3 +1,2 @@
-
-Support **WORDS**. We're building a bastion of Bitcoin knowledge. Our goal is to preserve Bitcoin writings for future generations. [**Read more**](https://bitcoinwords.github.io/about/##goals-and-scope). | [**Make a Donation**](https://paywall.link/to/thanks){: .btn .btn--warning }
+If you find **WORDS** helpful, Bitcoin donations are unnecessary but appreciated. Our goal is to spread and preserve Bitcoin writings for future generations. [**Read more**](https://bitcoinwords.github.io/about/##goals-and-scope). | [**Make a Donation**](https://paywall.link/to/thanks){: .btn .btn--warning }
 {: .notice--info}
