@@ -11,10 +11,10 @@ defaults:
       author_profile: true
 ---
 
-The posts and journals published here have been carefully curated and crafted as a true labor of love. If you've found this content useful, please consider making a contribution below.
+The posts and journals published here have been carefully curated and transcribed as a true labor of love. If you've found this content useful, consider making a contribution.
 
 ## Send a donation
-We're all fighting the good fight. Any donation is appreciated. If I could do this full time I would!
+Any Bitcoin donation is appreciated but unnecessary. This project will march on with or without your contribution.  If I could do this full time I would!
 
 ### Lightning Donation
 

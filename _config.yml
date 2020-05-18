@@ -19,13 +19,13 @@ locale                   : "en-US"
 title                    : "𝗪𝗢𝗥𝗗𝗦"
 title_separator          : "-"
 name                     : "𝗪𝗢𝗥𝗗𝗦"
-description              : "Bitcoin Journal"
+description              : "WORDS Bitcoin Journal"
 url                      : "https://bitcoinwords.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "bitcoinwords/bitcoinwords.github.io"
 teaser                   : "/assets/images/og-words.png"
 logo                     : "/assets/words-logos/wordsblackoutline-88.png"
-masthead_title           : "Bitcoin Journal"
+masthead_title           : "WORDS Bitcoin Journal"
 breadcrumbs              : true
 words_per_minute         : 200
 comments:
