@@ -1,6 +1,6 @@
 # [WORDS](https://bitcoinwords.github.io/)
 
-![](/assets/images/splash-about.png){: .align-center}
+![](/assets/images/splash-about.png)
 
 **WORDS** is a monthly journal of Bitcoin commentary. For the uninitiated, getting up to speed on Bitcoin can seem daunting. Content is scattered across the internet, in some cases behind paywalls, or even lost forever. **WORDS** was created to preserve and further the understanding of Bitcoin.
 
@@ -19,4 +19,4 @@ Enter **WORDS**. Published independently, **WORDS** is a Bitcoin journal that we
 ## Free and Open Source
 **WORDS** follows the philosophy of Bitcoin by making this project open source. Because open source code is publicly accessible, students and can easily study the contents of **WORDS** as they do their own research. Users can easily fork **WORDS** and build their own copy.
 
-[<i class="fas fa-code-branch"></i> Fork WORDS](https://github.com/bitcoinwords/bitcoinwords.github.io){: .btn .btn--warning}
+[<i class="fas fa-code-branch"></i> Fork WORDS](https://github.com/bitcoinwords/bitcoinwords.github.io)
