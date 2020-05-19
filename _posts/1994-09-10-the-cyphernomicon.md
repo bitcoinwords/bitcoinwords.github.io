@@ -2,7 +2,7 @@
 title: "THE CYPHERNOMICON"
 permalink: "/the-cyphernomicon"
 
-author: #
+author: 
 
 tags:
   - Tim May

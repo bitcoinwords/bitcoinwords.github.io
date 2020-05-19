@@ -2,11 +2,11 @@
 title: "The Crypto Anarchist Manifesto"
 permalink: "/the-crypto-anarchist-manifesto"
 
-author: #
+author: 
 
 tags:
   - Tim May
-  - 1988
+  - 1988 Q2
   - Cypherpunk
   - Manifesto
   - Sovereignty
