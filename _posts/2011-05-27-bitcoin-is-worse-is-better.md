@@ -34,8 +34,7 @@ The genius of Bitcoin, in inventing a digital currency successful in the real wo
 
 However, the sacrifice Bitcoin makes to achieve decentralization is---however practical---a profoundly *ugly* one. Early reactions to Bitcoin by even friendly cryptographers & digital currency enthusiasts were almost uniformly extremely negative, and emphasized the (perceived) inefficiency & (relative to most cryptography) weak security guarantees. Critics let 'perfect be the enemy of better' and did not perceive Bitcoin's potential. However, in an example of 'Worse is Better', the ugly inefficient prototype of Bitcoin successfully created a secure decentralized digital currency, which can wait indefinitely for success, and this was enough to eventually lead to adoption, improvement, and growth into a secure global digital currency.
 
-
----
+***
 
 **What is the great accomplishment of the idea of Bitcoin?** In discussing Bitcoin's recent rise to $10 in 2011, many have been wondering who is the real man under the Satoshi Nakamoto mask; a hard question---how many genius libertarian cryptographers are there?
 But the interesting thing is, Satoshi could be *anybody*, and I believe this gives us an interesting clue to how Bitcoin has been able to bootstrap itself from nothing.
