@@ -28,6 +28,9 @@ defaults:
 ***
 
 # [Bitcoin Is Worse Is Better](https://www.gwern.net/Bitcoin-is-Worse-is-Better)
+### By [Gwern](https://www.gwern.net/)
+### Posted May 27, 2011
+
 
 ## Abstract
 The genius of Bitcoin, in inventing a digital currency successful in the real world, is not in creating any new abstruse mathematics or cryptographic breakthrough, but in putting together decades-old pieces in a semi-novel but extremely *unpopular* way. Everything Bitcoin needed was available for many years, including the key ideas.
