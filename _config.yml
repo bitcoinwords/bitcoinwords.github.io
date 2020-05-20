@@ -300,12 +300,13 @@ defaults:
       related: false
       share: true
       tags: ""
+      classes: wide
   # _pages
   - scope:
       path: ""
       type: pages
     values:
-      author_profile: false
+      author_profile: true
       comments: false
       header:
         teaser: "/assets/images/words-card-200.png"
@@ -313,6 +314,7 @@ defaults:
       read_time: false
       related: true
       share: false
+      classes: wide
       
       
 
