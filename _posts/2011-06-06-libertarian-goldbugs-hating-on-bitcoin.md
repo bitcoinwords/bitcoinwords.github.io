@@ -2,7 +2,7 @@
 title: "Libertarian Goldbugs Hating On Bitcoin – Free Market Money"
 permalink: "/libertarian-goldbugs-hating-on-bitcoin"
 
-author: 
+author: michaelsuede
 
 tags:
   - Michael Suede

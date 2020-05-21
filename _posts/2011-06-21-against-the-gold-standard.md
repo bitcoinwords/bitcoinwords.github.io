@@ -2,7 +2,7 @@
 title: "Against the Gold Standard"
 permalink: "/against-the-gold-standard"
 
-author: 
+author: michaelsuede
 
 tags:
   - Michael Suede

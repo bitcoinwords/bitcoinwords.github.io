@@ -2,7 +2,7 @@
 title: "The Economics Of Bitcoin – How Bitcoins Act As Money"
 permalink: "/the-economics-of-bitcoin-how-bitcoins-act-as-money"
 
-author: 
+author: michaelsuede
 
 tags:
   - Michael Suede

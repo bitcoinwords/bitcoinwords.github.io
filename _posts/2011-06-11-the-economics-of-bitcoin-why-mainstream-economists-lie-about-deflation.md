@@ -2,7 +2,7 @@
 title: "The Economics Of Bitcoin – Why Mainstream Economists Lie About Deflation"
 permalink: "/the-economics-of-bitcoin-why-mainstream-economists-lie-about-deflation"
 
-author: 
+author: michaelsuede
 
 tags:
   - Michael Suede

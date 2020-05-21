@@ -2,13 +2,14 @@
 title: "The Most Dangerous Creation In The History Of Man"
 permalink: "/the-most-dangerous-creation-in-the-history-of-man"
 
-author: 
+author: michaelsuede
 
 tags:
   - Michael Suede
   - 2011 Q2
   - Liberty
   - Sovereignty
+  - Economics
 
 excerpt: Michael Suede shares a quick reflection on Bitcoin as a major threat to governments. Posted May 26, 2011.
 

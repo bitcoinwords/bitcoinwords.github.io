@@ -2,7 +2,7 @@
 title: "How To Use Bitcoin – The Most Important Creation In The History Of Man"
 permalink: "/how-to-use-bitcoin-the-most-important-creation-in-the-history-of-man"
 
-author: 
+author: michaelsuede
 
 tags:
   - Michael Suede
