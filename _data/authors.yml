@@ -1036,6 +1036,21 @@ johnnewbery:
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/jfnewbery"
 
+jonmatonis:
+  name        : Jon Matonis
+  bio         : "Chief Economist at Cypherpunk Holdings, a privacy-centric investment company | Former CEO of Hushmail | Startup Team at VeriSign | Head of FX Trading at VISA"
+  avatar      : # "/assets/images/bio-photo-2.jpg"
+  links:
+    - label: # "Email"
+      icon: #"fas fa-fw fa-envelope-square"
+      url: #"mailto:billyrick@rick.com"
+    - label: #"Website"
+      icon: #"fas fa-fw fa-link"
+      url: #"https://thewhip.com"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/jonmatonis"
+
 jwweatherman:
   name        : JW Weatherman
   bio         : "Learn math and programming through playing a fun game at http://Mathbot.com, grok bitcoin at http://10hoursofbitcoin.com and secure it at http://YetiCold.com."
