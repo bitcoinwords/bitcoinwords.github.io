@@ -30,6 +30,8 @@ defaults:
 ### By [Jon Matonis](https://twitter.com/jonmatonis)
 ### Posted April, 1995
 
+[Digital Cash and Monetary Freedom PDF](https://github.com/bitcoinwords/bitcoinwords.github.io/blob/master/assets/papers/digital-cash-and-monetary-freedom.pdf){: .btn .btn--primary}
+
 ## Contents
 
 [Abstract](http://oz.stern.nyu.edu/fall99/readings/digicash/#Abstract%20Section)
