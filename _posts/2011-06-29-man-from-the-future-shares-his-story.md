@@ -117,13 +117,13 @@ If you would like more insights about the future, check out Jeffery Tucker’s w
 
 Some lectures by economists that touch on the topics this article covers:
 
-[How Government is Unraveling Civilization by Force | Jeffrey Tucker](https://archive.is/o/zSwOa/https://web.archive.org/web/20160512190826/http://www.youtube.com/watch?v=eiSnQAfSH1Q)
+[How Government is Unraveling Civilization by Force - Jeffrey Tucker](https://archive.is/o/zSwOa/https://web.archive.org/web/20160512190826/http://www.youtube.com/watch?v=eiSnQAfSH1Q)
 
-[A Private Law Society | Hans Hoppe](https://archive.is/o/zSwOa/https://web.archive.org/web/20160512190826/http://www.youtube.com/watch?v=pzglDS88u50)
+[A Private Law Society - Hans Hoppe](https://archive.is/o/zSwOa/https://web.archive.org/web/20160512190826/http://www.youtube.com/watch?v=pzglDS88u50)
 
-[Austrian Theory of the Trade Cycle | Roger W. Garrison](https://archive.is/o/zSwOa/https://web.archive.org/web/20160512190826/http://www.youtube.com/watch?v=jFqtTj7TeO0)
+[Austrian Theory of the Trade Cycle - Roger W. Garrison](https://archive.is/o/zSwOa/https://web.archive.org/web/20160512190826/http://www.youtube.com/watch?v=jFqtTj7TeO0)
 
-[The Evils of Intellectual Property | Jeffrey A. Tucker](https://archive.is/o/zSwOa/https://web.archive.org/web/20160512190826/http://www.youtube.com/watch?v=8KSua3Nczjk)
+[The Evils of Intellectual Property - Jeffrey A. Tucker](https://archive.is/o/zSwOa/https://web.archive.org/web/20160512190826/http://www.youtube.com/watch?v=8KSua3Nczjk)
 
 ***
 
