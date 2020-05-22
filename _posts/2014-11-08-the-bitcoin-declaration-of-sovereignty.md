@@ -28,8 +28,8 @@ defaults:
 
 ***
 
-# [The Bitcoin Declaration of Sovereignty]()
-### By [Mirceau Popescu]()
+# [The Bitcoin Declaration of Sovereignty](http://deedbot.org/deed-2014-11-08-17-16-20.txt)
+### By [Mirceau Popescu](http://trilema.com/)
 ### Posted November 8, 2014
 
 -----BEGIN PGP SIGNED MESSAGE-----
