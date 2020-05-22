@@ -16,6 +16,10 @@ The posts and journals published here have been carefully curated and transcribe
 ## Donations
 Any Bitcoin donation is appreciated but unnecessary. This project will march on with or without your contribution.  If I could do this full time I would!
 
+### Bitcoin Donation
+![](/assets/images/words-btc-donation.png)
+bc1q6nwk8awe9tuhgvn5tzy3l4r3cemn7g6qcawcv9
+
 ### Lightning Donation
 
 [<i class="fas fa-bolt"></i> Lightning via Paywall.Link](https://paywall.link/to/thanks){: .btn .btn--danger} [<i class="fas fa-bolt"></i> Lightning via Tippin.me](https://tippin.me/@_joerodgers){: .btn .btn--primary}
