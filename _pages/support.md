@@ -11,9 +11,9 @@ defaults:
       author_profile: true
 ---
 
-The posts and journals published here have been carefully curated and transcribed as a true labor of love. If you've found this content useful, consider making a contribution.
+The posts and journals published here have been carefully curated and transcribed as a true labor of love.
 
-## Send a donation
+## Donations
 Any Bitcoin donation is appreciated but unnecessary. This project will march on with or without your contribution.  If I could do this full time I would!
 
 ### Lightning Donation
@@ -28,21 +28,19 @@ Any Bitcoin donation is appreciated but unnecessary. This project will march on 
 
 Have a website or use social networking sites like Twitter, Facebook, or LinkedIn? Consider sharing the content found on **WORDS** or linking to [https://bitcoinwords.github.io](https://bitcoinwords.github.io).
 
-## Follow us on social media
+## Follow on Twitter
 
-We're active on Twitter and use it as our main line of communication. — We don't rapid fire posts but add commentary where we see fit. Posts are typically links to our content here, trolling nocoiners, sarcastic remarks, and other things regarding development of this site.
-
-Give us a follow:
+I'm active on Twitter and use it as the main line of communication. — I don't rapid fire posts but add commentary where we see fit. Posts are typically links to the content here, trolling nocoiners, sarcastic remarks, and other things regarding development of this site.
 
 [<i class="fab fa-twitter"></i> Twitter](https://twitter.com/_bitcoinwords){: .btn .btn--info}
 
-## Subscribe to our newsletter
+## Subscribe to the newsletter
 
 There are now hundreds of subscribers. You should sign up too - apparently it's pretty good.
 
 [Subscribe](https://mailchi.mp/59e9fda5b387/words){: .btn .btn--primary}
 
-### Our pledge
+### 𝗪𝗢𝗥𝗗𝗦 pledge
 
 <i class="fas fa-check-square"></i> We'll never sell you out.
 
