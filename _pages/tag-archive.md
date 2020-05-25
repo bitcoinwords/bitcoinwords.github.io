@@ -11,7 +11,7 @@ All posts for _WORDS_ are found below. Browse by tag on this page or head head o
 
 Posts are randomly added as we come across them and tags are a constant work in progress.
 
-**To achieve maximum enlightenment**, consider subscribing to the journal's newsletter and follow us on Twitter.
+Consider subscribing to the journal's newsletter and follow us on Twitter.
 
 [Subscribe](https://mailchi.mp/59e9fda5b387/words){: .btn .btn--primary} [<i class="fab fa-twitter"></i> Twitter](https://twitter.com/_bitcoinwords){: .btn .btn--info}
 
