@@ -14,8 +14,6 @@ This generation of Bitcoin thinkers have limited places to submit thought pieces
 
 Enter **WORDS**. Published independently, **WORDS** is a Bitcoin journal that welcomes submissions on a range of topics of interest to various Bitcoin communities.  In addition to conventional research articles, we welcome review essays blog posts, tweets as well as papers in other formats, such as distinguished lectures. Authors retain ownership without restriction of all rights under copyright in their articles. **WORDS** is open access, and we encourage readers to “[read, download, copy, distribute, print, search, or link to the full texts of these articles… or use them for any other lawful purpose.](https://doaj.org/faq#definition)”. This is an archival project on a mission to capture the spirit and voice of the Bitcoin community for future generations.
 
-[![](/assets/images/homepage.PNG)](https://bitcoinwords.github.io/)
-
 ## Free and Open Source
 **WORDS** follows the philosophy of Bitcoin by making this project open source. Because open source code is publicly accessible, students and can easily study the contents of **WORDS** as they do their own research. Users can easily fork **WORDS** and build their own copy.
 
