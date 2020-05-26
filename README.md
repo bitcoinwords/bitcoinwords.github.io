@@ -4,6 +4,8 @@
 
 **WORDS** is a monthly journal of Bitcoin commentary. For the uninitiated, getting up to speed on Bitcoin can seem daunting. Content is scattered across the internet, in some cases behind paywalls, or even lost forever. **WORDS** was created to preserve and further the understanding of Bitcoin.
 
+### [Read WORDS](https://bitcoinwords.github.io/)
+
 ## Goals and Scope
 **WORDS** is one of the first Bitcoin journals, established February 13, 2019. It's purpose is to archive and spread commentary and research in the disciplines of particular interest to various Bitcoin communities. The journal is broad in scope, publishing content from original research, essays, blog posts, and tweetstorms from a wide variety of fields, especially technology, philosophy, politics, economics, and finance, but also game theory, law, history, criticism, and social or cultural analysis. It's broader mission is to capture the conversations and think pieces about Bitcoin for current and future researchers.
 
