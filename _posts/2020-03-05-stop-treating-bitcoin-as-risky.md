@@ -11,7 +11,7 @@ tags:
   - Risk
   - Investments
 
-excerpt: Jill Carlson explains why Bitcoin is not as risky as you think. POsted March 5, 2020.
+excerpt: Jill Carlson explains why Bitcoin is not as risky as you think. Posted March 5, 2020.
 
 defaults:
   - scope:

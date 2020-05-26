@@ -10,7 +10,7 @@ tags:
   - Freedom
   - Liberty
 
-excerpt: POsted March 15, 2019 by Aleks Svetski, this article explains why Bitcoin matters.
+excerpt: Posted March 15, 2019 by Aleks Svetski, this article explains why Bitcoin matters.
 
 defaults:
   - scope:

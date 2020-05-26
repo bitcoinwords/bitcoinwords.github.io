@@ -9,7 +9,7 @@ tags:
   - CY20 Q2
   - Fiction
 
-excerpt: enter excerpt here
+excerpt: A Man in Black shares a short story about Bitcoin. Posted April, 2020.
 
 defaults:
   - scope:
@@ -23,7 +23,7 @@ defaults:
 
 # [THE HONEY BADGER](https://www.amaninblack.net/the-honey-badger)
 ### By [The Man in Black](https://twitter.com/AManInBlack_)
-### Posted April 
+### Posted April, 2020.
 
 **(Preview. 10min read)**
 

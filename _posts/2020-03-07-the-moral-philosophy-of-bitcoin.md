@@ -17,7 +17,7 @@ tags:
   - Freedom
   - Merit
 
-excerpt: Prateek Goorha outlines 5 virtues of Bitcoiners. POsted March 7, 2020.
+excerpt: Prateek Goorha outlines 5 virtues of Bitcoiners. Posted March 7, 2020.
 
 defaults:
   - scope:

@@ -10,7 +10,7 @@ tags:
   - Technology
   - BIP
 
-excerpt: A technical lookback at 2019 from Bitcoin Optech Newsletter. POsted December 28, 2019.
+excerpt: A technical lookback at 2019 from Bitcoin Optech Newsletter. Posted December 28, 2019.
 
 defaults:
   - scope:

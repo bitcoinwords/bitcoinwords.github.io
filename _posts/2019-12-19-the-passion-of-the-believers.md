@@ -13,7 +13,7 @@ tags:
   - Hereafter
   - Prayer
 
-excerpt: enter excerpt here
+excerpt: Hass McCook shares perspective about Bitcoin as a religion. Posted December 19, 2019.
 
 defaults:
   - scope:

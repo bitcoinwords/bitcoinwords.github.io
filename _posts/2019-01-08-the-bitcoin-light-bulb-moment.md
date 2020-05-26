@@ -9,7 +9,7 @@ tags:
   - CY19 Q1
   - 
 
-excerpt: enter excerpt here
+excerpt: Beautyon shares thightbulb moment for Bitcoin compared to the evolution of lightbulbs. Posted January 8th 2019.
 
 defaults:
   - scope:

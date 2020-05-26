@@ -17,7 +17,7 @@ tags:
   - Beliefs
   - Antifragile
 
-excerpt: Parker Lewis channels his inner Alamo battle cry for Bitcoin! POsted March 26, 2020.
+excerpt: Parker Lewis channels his inner Alamo battle cry for Bitcoin! Posted March 26, 2020.
 
 defaults:
   - scope:

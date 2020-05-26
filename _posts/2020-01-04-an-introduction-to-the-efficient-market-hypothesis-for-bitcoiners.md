@@ -15,7 +15,7 @@ tags:
   - Pricing
   - 
 
-excerpt: enter excerpt here
+excerpt: Nic Carter shares his position on the Efficient Market and Bitcoin. Posted January 4, 2020.
 
 defaults:
   - scope:

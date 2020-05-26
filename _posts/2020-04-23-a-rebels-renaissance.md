@@ -12,7 +12,7 @@ tags:
   - Printing Press
   - Double Entry Bookkeeping
 
-excerpt: enter excerpt here
+excerpt: Stefen Reid shares a great article about the Bitcoin revolution. Posted April 23, 2020
 
 defaults:
   - scope:
@@ -25,7 +25,7 @@ defaults:
 
 # [BITCOIN-A REBELS RENAISSANCE](https://medium.com/the-capital/bitcoin-a-rebels-renaissance-9f71bfa5f2e0)
 ### By [Stefen Reid](https://twitter.com/stefenreid)
-### Posted Aptil 23, 2020
+### Posted April 23, 2020
 
 ![](/assets/images/2020/m4/sr1.png)
 

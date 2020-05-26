@@ -17,7 +17,7 @@ tags:
   - Financial
   - Financial Models
 
-excerpt: Nick attempts to model S2F and Bitcoin price. POsted March 27, 2020
+excerpt: Nick attempts to model S2F and Bitcoin price. Posted March 27, 2020
 
 defaults:
   - scope:

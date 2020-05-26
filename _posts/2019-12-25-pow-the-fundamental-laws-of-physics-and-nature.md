@@ -14,7 +14,7 @@ tags:
   - Bitcoin Times
   - Thermodynamics
 
-excerpt: Rory Highside explains the thermodynamics behind PoW and Bitcoin. POsted December 25, 2019.
+excerpt: Rory Highside explains the thermodynamics behind PoW and Bitcoin. Posted December 25, 2019.
 
 defaults:
   - scope:

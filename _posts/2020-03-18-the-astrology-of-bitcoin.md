@@ -13,7 +13,7 @@ tags:
   - Mystery
   - Tarot
 
-excerpt: enter excerpt here
+excerpt: Coeli AStrology shares a fun read on the Bitcoin and astrology. Posted March 18, 2020.
 
 defaults:
   - scope:

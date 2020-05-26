@@ -11,7 +11,7 @@ tags:
   - Change
   - Money
 
-excerpt: Marty pens a quick note on the importance of voting with your money. POsted April 23, 2020.
+excerpt: Marty pens a quick note on the importance of voting with your money. Posted April 23, 2020.
 
 defaults:
   - scope:

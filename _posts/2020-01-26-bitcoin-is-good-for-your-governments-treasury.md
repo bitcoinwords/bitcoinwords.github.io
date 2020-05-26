@@ -11,7 +11,7 @@ tags:
   - Treasury
   - Monetary Policy
 
-excerpt: FF2K puts it simply, Bitcoin is good for Government. POsted January 26, 2020.
+excerpt: FF2K puts it simply, Bitcoin is good for Government. Posted January 26, 2020.
 
 defaults:
   - scope:
