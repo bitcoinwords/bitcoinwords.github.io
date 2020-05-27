@@ -631,6 +631,21 @@ erikcason:
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/erikcason"
 
+fabianjahr:
+  name        : Fabian Jahr
+  bio         : "@fjahr"
+  avatar      : # "/assets/images/bio-photo-2.jpg"
+  links:
+    - label: # "Email"
+      icon: #"fas fa-fw fa-envelope-square"
+      url: #"mailto:billyrick@rick.com"
+    - label: #"Website"
+      icon: #"fas fa-fw fa-link"
+      url: #"https://thewhip.com"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/fjahr"
+
 ferdousbhai:
   name        : Ferdous Bhai
   bio         : "#bitcoin #longevity #mindfulness ⚡✨🧙‍♂️"
@@ -1035,6 +1050,21 @@ johnnewbery:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/jfnewbery"
+
+johnvallis:
+  name        : John Vallis
+  bio         : "Truth, Freedom, Curiosity, Possibility. These drive me. Exploring the future of money on the Bitcoin Rapid-Fire podcast: http://bit.ly/2Nlr3WS"
+  avatar      : # "/assets/images/bio-photo-2.jpg"
+  links:
+    - label: # "Email"
+      icon: #"fas fa-fw fa-envelope-square"
+      url: #"mailto:billyrick@rick.com"
+    - label: #"Website"
+      icon: #"fas fa-fw fa-link"
+      url: #"https://thewhip.com"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/johnkvallis"
 
 jonmatonis:
   name        : Jon Matonis
@@ -1986,6 +2016,21 @@ yassineelmandjra:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/yassineARK"
+
+yuridegaia:
+  name        : Yuri de Gaia
+  bio         : "Bitcoin and citadels. Partner at @l2bglobal (@reservebitcoin + @moontowerHQ + @LiquiditiHQ)."
+  avatar      : # "/assets/images/bio-photo-2.jpg"
+  links:
+    - label: # "Email"
+      icon: #"fas fa-fw fa-envelope-square"
+      url: #"mailto:billyrick@rick.com"
+    - label: #"Website"
+      icon: #"fas fa-fw fa-link"
+      url: #"https://thewhip.com"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/Y_deGaia"
 
 zachofearth:
   name        : Zach of Earth
