@@ -6,11 +6,11 @@ author: btchap
 
 tags:
   - BTChap
-  - 2020 Q2
+  - 2020 Q1
   - Value Propostition
   - Money
 
-excerpt: BTChap
+excerpt: BTChap looks at Bitcoin versus the alternatives. Posted March 22, 2020.
 
 classes: wide
 

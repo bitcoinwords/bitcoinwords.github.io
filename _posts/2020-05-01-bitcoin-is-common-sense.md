@@ -31,7 +31,7 @@ defaults:
 ***
 
 # [Bitcoin is Common Sense](https://unchained-capital.com/blog/bitcoin-is-common-sense/)
-### By [Parker Lewis](https://twitter.com/parkeralewis)
+### By [Parker Lewis](https://twitter.com/parkeralewis) on [Unchained Capital](https://unchained-capital.com/blog/bitcoin-is-common-sense/)
 ### Posted May 1, 2020
 
 [AUDIO VERSION BY Bitcoin Audible](https://anchor.fm/thecryptoconomy/episodes/Read_390---Bitcoin-is-Common-Sense-Parker-Lewis-edk952/a-a23t5vr)

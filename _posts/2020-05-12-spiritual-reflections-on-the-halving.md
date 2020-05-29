@@ -10,6 +10,8 @@ tags:
   - Halving
   - Reflections
   - Revolution
+  - History
+  - Epoch
 
 excerpt: Allen Farrington looks at the halvening and what it means. Posted May 12, 2020.
 

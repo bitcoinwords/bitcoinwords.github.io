@@ -33,7 +33,7 @@ defaults:
 ***
 
 # [How Does Quantitative Easing (QE) Affect the Price of Bitcoin?](https://medium.com/quantum-economics/how-does-quantitative-easing-qe-affect-the-price-of-bitcoin-ed963981df7f)
-### By [Pedro Febrero](https://twitter.com/Febrocas)
+### By [Pedro Febrero](https://twitter.com/Febrocas) on [Quantum Economics](https://medium.com/quantum-economics)
 ### Posted May 11, 2020
 
 ## With QE on the rise, is Bitcoin poised to fill the gap?

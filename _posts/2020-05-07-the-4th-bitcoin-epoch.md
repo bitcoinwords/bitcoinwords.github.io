@@ -13,6 +13,7 @@ tags:
   - 4th Epoch
   - Scarcity
   - Time Preference
+  - Tweetstorm
 
 excerpt: John Vallis walks us through the momentous halving and into the 4th Epoch. Posted May 7, 2020.
 

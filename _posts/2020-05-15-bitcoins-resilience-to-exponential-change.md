@@ -11,6 +11,8 @@ tags:
   - Change
   - Exponential
   - Resilience
+  - Game Theory
+  - Technology
 
 excerpt: Yassine Elmandjra and Shrub Bansal discuss first principles and how Bitcoin is resistant to change. Posted May 15, 2020.
 
