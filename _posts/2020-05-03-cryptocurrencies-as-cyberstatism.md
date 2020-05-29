@@ -112,14 +112,6 @@ Do you like my work and want to give back?
 Donate bitcoin: [3FguRzVXe24cicayb2tmVnHVu4Sp1rULNC](bitcoin://3FguRzVXe24cicayb2tmVnHVu4Sp1rULNC)
 
 
-
-
-
-
-
-
-
-
 ***
 
 {% include signup.md %}

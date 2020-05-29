@@ -23,7 +23,7 @@ defaults:
 
 ***
 
-# [Bitcoin’s Value Proposition – Is It Truly the Best Currency?]()
+# [Bitcoin’s Value Proposition – Is It Truly the Best Currency?](https://journal.bitcoinreserve.com/bitcoins-value-proposition-the-king-of-the-hill/)
 ### By [BTChap](https://twitter.com/BTChap) on [The Bitcoin Reserve Journal](https://journal.bitcoinreserve.com/)
 ### Posted March 22, 2020
 

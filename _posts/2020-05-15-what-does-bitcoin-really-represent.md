@@ -25,8 +25,6 @@ defaults:
 
 ***
 
-
-
 # [What Does Bitcoin Really Represent?](https://medium.com/in-bitcoin-we-trust/what-does-bitcoin-really-represent-adae04104425)
 ## Bitcoin beyond the technical aspect.
 ### By [Sylvain Saurel](https://twitter.com/ssaurel) on [In Bitcoin We Trust](https://medium.com/in-bitcoin-we-trust/what-does-bitcoin-really-represent-adae04104425) 

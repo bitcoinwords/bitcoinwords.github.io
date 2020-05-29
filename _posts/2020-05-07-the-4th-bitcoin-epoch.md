@@ -28,7 +28,7 @@ defaults:
 
 ***
 
-# [Tweetstorm: The 4th Bitcoin Epoch]()
+# [Tweetstorm: The 4th Bitcoin Epoch](https://twitter.com/johnkvallis/status/1258578344834207745)
 ### By [John Vallis](https://twitter.com/johnkvallis)
 ### Posted May 7, 2020
 
