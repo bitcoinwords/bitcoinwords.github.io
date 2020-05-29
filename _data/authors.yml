@@ -376,6 +376,21 @@ brendanbernstein:
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/BMBernstein"
 
+btchap:
+  name        : BTChap
+  bio         : "Bitcoin historian and biographer."
+  avatar      : # "/assets/images/bio-photo-2.jpg"
+  links:
+    - label: # "Email"
+      icon: #"fas fa-fw fa-envelope-square"
+      url: #"mailto:billyrick@rick.com"
+    - label: #"Website"
+      icon: #"fas fa-fw fa-link"
+      url: #"https://thewhip.com"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/BTChap"
+
 caitlinlong:
   name        : Caitlin Long
   bio         : "I’m a 22-year Wall Street veteran who has been active in bitcoin since 2012, and whose passion is a fair and stable financial system."
@@ -690,6 +705,21 @@ francispouliot:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/francispouliot_"
+
+frankbraun:
+  name        : Frank Braun
+  bio         : "Cypherpunk, cryptoanarchist, @scritcash, co-host of the Cypherpunk Bitstream podcast: http://taz0.org/bitstream/"
+  avatar      : # "/assets/images/bio-photo-2.jpg"
+  links:
+    - label: # "Email"
+      icon: #"fas fa-fw fa-envelope-square"
+      url: #"mailto:billyrick@rick.com"
+    - label: #"BitPiggys"
+      icon: #"fas fa-fw fa-link"
+      url: #"http://bitpiggys.com"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/thefrankbraun"
 
 gaborgurbacs:
   name        : Gabor Gurbacs
@@ -1381,6 +1411,18 @@ nikbhatia:
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/timevalueofbtc"
 
+nopara:
+  name        : Nopara
+  bio         : "Coffee Artist at Wasabi Wallet."
+  avatar      : #"/assets/images/bio-photo.jpg"
+  links:
+    - label: #"Email"
+      icon: #"fas fa-fw fa-envelope-square"
+      url: #"mailto:cornelius@thewhip.com"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/nopara73"
+
 obiwan:
   name        : O₿iWan
   bio         : " "
@@ -1440,6 +1482,18 @@ paulsztorc:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/Truthcoin"
+
+pedrofebrero:
+  name        : Pedro Febrero
+  bio         : "Founder @bityondpower, Analyst @QE4everyone. 🍊 coin good. Numba go up 🏴‍☠️"
+  avatar      : #"/assets/images/bio-photo.jpg"
+  links:
+    - label: #"Email"
+      icon: #"fas fa-fw fa-envelope-square"
+      url: #"mailto:cornelius@thewhip.com"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/Febrocas"
 
 perbylund:
   name        : Per Bylund
