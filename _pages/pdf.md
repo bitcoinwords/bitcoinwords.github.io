@@ -14,6 +14,7 @@ We've worked hard to make our Bitcoin archives accesible to the masses. Our hope
 
 | Month         | PDF | ePUB |
 | --------         | ------ | ------ |
+| [![CY20 May Journal Cover](/assets/images/covers/CY20M5-cover-150.png "CY20 May Journal Cover")](https://paywall.link/to/2020M5) | [May 2020 PDF](https://paywall.link/to/2020M5){: .btn .btn--primary} | [May 2020 ePUB](https://paywall.link/to/2020M5epub){: .btn .btn--primary} |
 | [![CY20 April Journal Cover](/assets/images/covers/CY20M4-cover-150.png "CY20 April Journal Cover")](https://paywall.link/to/2020M4) | [April 2020 PDF](https://paywall.link/to/2020M4){: .btn .btn--primary} | [April 2020 ePUB](https://paywall.link/to/2020M4epub){: .btn .btn--primary} |
 | [![CY20 March Journal Cover](/assets/images/covers/CY20M3-cover-150.png "CY20 March Journal Cover")](https://paywall.link/to/2020M3) | [March 2020 PDF](https://paywall.link/to/2020M3){: .btn .btn--primary} | ------ |
 | [![CY20 February Journal Cover](/assets/images/covers/CY20M2-cover-150.png "CY29 February Journal Cover")](https://paywall.link/to/2020M2) | [February 2020 PDF](https://paywall.link/to/2020M2){: .btn .btn--primary} | ------ |
