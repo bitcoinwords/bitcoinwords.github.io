@@ -13,7 +13,7 @@ defaults:
 
 ![](/assets/images/yellow.png){: .align-center}
 
-Please reach out to us with questions, concerns, or recommendations. Our DM's are wide open and we welcome feedback. 
+Reach out to us with questions, concerns, or recommendations. 
 
 
 [<i class="fab fa-twitter"></i> WORDS on Twitter](https://twitter.com/_bitcoinwords){: .btn .btn--info}
@@ -23,7 +23,6 @@ Please reach out to us with questions, concerns, or recommendations. Our DM's ar
 
 ## PGP
 
-```
 -----BEGIN PGP PUBLIC KEY BLOCK-----
 
 mQINBF7H4fEBEADedA/TH+YuOJ/oIqejcbTl5f4B93AQaYD7yMNZ/tkW1X7mPcmk
@@ -75,4 +74,3 @@ sHLv8/gOW+7+hss40GzQ0p5vbLjuEraXmTMwOTyLKzdsSwWlua9e06+U1595D7gD
 BMZuwFtdWv/7sVccaC2dnFJfbwwk8vuqTWzQKWWsWSPJU0IZjR4a8YBF
 =EAeq
 -----END PGP PUBLIC KEY BLOCK-----
-```
