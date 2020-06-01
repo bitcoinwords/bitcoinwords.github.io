@@ -1,5 +1,5 @@
 ---
-permalink: /pgp/
+permalink: /pgp1/
 title: "PGP 101"
 classes: wide
 author_profile: true
