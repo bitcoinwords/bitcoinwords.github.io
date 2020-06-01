@@ -1,5 +1,5 @@
 ---
-permalink: /pgp1/
+permalink: /pgp/
 title: "PGP 101"
 classes: wide
 author_profile: true
@@ -28,8 +28,8 @@ Be fearless. The only way to learn is to get in some reps!
 
 Download the software and watch the tutorial at the links below. The video was extremely helpful. It walked me through everything to get started.
 
-[PGP Software](https://www.gpg4win.org/index.html){: .btn .btn--warning}
-[PGP Tutorial](https://youtu.be/CEADq-B8KtI){: .btn .btn--warning}
+[PGP Software](https://www.gpg4win.org/index.html){: .btn .btn--primary}
+[PGP Tutorial](https://youtu.be/CEADq-B8KtI){: .btn .btn--primary}
 
 
 Once you are setup with Kleopatra, import my public key and send me a message!
@@ -39,4 +39,4 @@ Once you are setup with Kleopatra, import my public key and send me a message!
 When you are ready, consider uploading your public key to your website or to a keyserver. 
 
 I use this keyserver:
-[keys.openpgp.org/](keys.openpgp.org){: .btn .btn--warning}
+[keys.openpgp.org](https://keys.openpgp.org/){: .btn .btn--primary}
