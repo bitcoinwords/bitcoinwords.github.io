@@ -29,12 +29,9 @@ defaults:
 
 ***
 
-
 # [Why Bitcoin might not survive a Bitcoin Standard](https://insights.deribit.com/market-research/why-bitcoin-might-not-survive-a-bitcoin-standard/)
 ### By [Hasu](https://twitter.com/hasufl) on [Deribit Insights](https://insights.deribit.com/market-research/why-bitcoin-might-not-survive-a-bitcoin-standard/)
 ### Posted May 25, 2020
-
-
 
 ![](/assets/images/2020/m5/h1.png)
 

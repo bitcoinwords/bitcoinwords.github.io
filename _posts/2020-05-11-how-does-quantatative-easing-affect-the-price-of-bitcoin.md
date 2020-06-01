@@ -44,8 +44,7 @@ In this article, we aim to explore the impact that quantitative easing (QE) has 
 
 Finally, we’ll connect the dots by showing how QE and other expansive monetary measures have influenced the price of traditional assets and commodities, including bitcoin. We’ll conclude the piece by sharing our thoughts on why the return to a hard-money asset is the long-term solution to this particular economic crisis.
 
-How money differs from currency
-===============================
+## How money differs from currency
 
 ![](/assets/images/2020/m5/pf1.png)
 *Image: Author*

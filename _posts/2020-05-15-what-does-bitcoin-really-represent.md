@@ -259,16 +259,6 @@ So I advise you to ask yourself what Bitcoin really is. By looking for the answe
 
 After that, I think there is a good chance that you will become a Bitcoiner too.
 
-
-
-
-
-
-
-
-
-
-
 ***
 
 {% include signup.md %}
