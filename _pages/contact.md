@@ -22,7 +22,7 @@ Reach out to us with questions, concerns, or recommendations.
 [<i class="fas fa-envelope-open-text"></i> Email the Editor](mailto:bitcoinwords@gmail.com){: .btn .btn--primary}
 
 ## PGP
-
+Send me a message via PGP. Read my PGP explainer if you're wondering "[WTF is PGP?](https://bitcoinwords.github.io/pgp/)".
 ```
 -----BEGIN PGP PUBLIC KEY BLOCK-----
 
