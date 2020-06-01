@@ -36,7 +36,9 @@ Once you are setup with Kleopatra, import my public key and send me a message!
 
 [WORDS Public Key](https://raw.githubusercontent.com/bitcoinwords/bitcoinwords.github.io/master/assets/public-key/WORDS-public-key.txt){: .btn .btn--warning}
 
-When you are ready, consider uploading your public key to your website or to a keyserver. 
+When you are ready, consider uploading your public key to your website or a keyserver. A keyserver is a directory of public keys. People can lookup your public key by email address with these tools. 
 
 I use this keyserver:
 [keys.openpgp.org](https://keys.openpgp.org/){: .btn .btn--primary}
+
+Now get out there and take back your sovereignty!
