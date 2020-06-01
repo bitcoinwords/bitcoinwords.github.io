@@ -18,8 +18,8 @@ PGP allows you to send a messages in privacy. Basically, the recipient will only
 
 This is accomplished via the creation of a pair of keys:
 
-1. Private Key - your secret key that's used to sign messages and files. **DO NOT SHARE** your private key. 
-2. Public Key - you publicly available key where users can send you specific messages or files. Senders use your specific public key in order to make messages **ONLY** viewable by you. You can also sign a message and display publicly and viewers can use your public key to verify you wrote the message.
+**1. Private Key** - your secret key that's used to sign messages and files. **DO NOT SHARE** your private key. 
+**2. Public Key** - you publicly available key where users can send you specific messages or files. Senders use your specific public key in order to make messages **ONLY** viewable by you. You can also sign a message and display publicly and viewers can use your public key to verify you wrote the message.
 
 Besides sending an encrypted or private message, you can also **sign files**. By sigining a file, viewers will be able to verify that it has not been tampered with since it was signed. Perhaps you wanted to release a journal about Bitcoin and you want readers to verify that you were the author... you could use PGP to accomplish this. Readers could verify with your signature and rest assured that the journal has not been tampered with since it was published. 
 
@@ -30,7 +30,6 @@ Download the software and watch the tutorial at the links below. The video was e
 
 [PGP Software](https://www.gpg4win.org/index.html){: .btn .btn--primary}
 [PGP Tutorial](https://youtu.be/CEADq-B8KtI){: .btn .btn--primary}
-
 
 Once you are setup with Kleopatra, import my public key and send me a message!
 
