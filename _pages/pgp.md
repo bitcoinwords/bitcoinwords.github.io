@@ -21,7 +21,7 @@ This is accomplished via the creation of a pair of keys:
 1. **Private Key** - your secret key that's used to sign messages and files. **DO NOT SHARE** your private key. 
 2. **Public Key** - you publicly available key where users can send you specific messages or files. Senders use your specific public key in order to make messages **ONLY** viewable by you. You can also sign a message and display publicly and viewers can use your public key to verify you wrote the message.
 
-Besides sending an encrypted or private message, you can also **sign files**. By sigining a file, viewers will be able to verify that it has not been tampered with since it was signed. Perhaps you wanted to release a journal about Bitcoin and you want readers to verify that you were the author... you could use PGP to accomplish this. Readers could verify with your signature and rest assured that the journal has not been tampered with since it was published. 
+Besides sending an encrypted or private message, you can also **sign files**. By signing a file, viewers will be able to verify that it has not been tampered with since it was signed. Perhaps you wanted to release a journal about Bitcoin and you want readers to verify that you were the author... you could use PGP to accomplish this. Readers could verify with your signature and rest assured that the journal has not been tampered with since it was published. 
 
 ## How to get started?
 Be fearless. The only way to learn is to get in some reps!
@@ -35,7 +35,7 @@ Once you are setup with Kleopatra, import my public key and send me a message!
 
 [WORDS Public Key](https://raw.githubusercontent.com/bitcoinwords/bitcoinwords.github.io/master/assets/public-key/WORDS-public-key.txt){: .btn .btn--warning}
 
-When you are ready, consider uploading your public key to your website or a keyserver. A keyserver is a directory of public keys. People can lookup your public key by email address with these tools. 
+When you are ready, consider uploading your public key to your website or a keyserver. A keyserver is a directory of public keys. People can lookup your public key by email address with these tools. Be sure to verify that the public key you have for the individual is definitely theirs by checking with that person. You can’t just search a key server for this, you need to check with them directly or pick it up from a website or social media post that can be reliably anchored to their identity. **Remember, don't trust, verify.**
 
 I use this keyserver:
 [keys.openpgp.org](https://keys.openpgp.org/){: .btn .btn--primary}
