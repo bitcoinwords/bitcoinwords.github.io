@@ -7,6 +7,9 @@ author: niccarter
 tags:
   - CY19 Q1
   - Nic Carter
+  - Assurances
+  - Censorship Resistance
+  - Features
 
 defaults:
   # _posts
@@ -23,6 +26,8 @@ defaults:
 ---
 
 {% include donation.md %}
+
+***
 
 # [Unpacking Bitcoin's Assurances](https://medium.com/@nic__carter/unpacking-bitcoins-assurances-a3c98824d3f0)
 ## Dis-aggregating the system's guarantees
@@ -95,3 +100,8 @@ There are a few strategies to reckon with this. One is to obfuscate the origin o
 Ultimately, I expect that a tranche of grey or black-market Bitcoins will emerge, with coins available at a discount in exchange for their reduced access to capital markets. This will not be a death knell — there will likely be more than enough demand globally for slightly cheaper Bitcoins, even if they cannot be traded on Coinbase. The world is a big place, with a variety of regulatory regimes, and individuals fleeing hyperinflation may not be too bothered by the fact that the Bitcoins they acquired cannot be deposited on US-regulated exchanges.
 
 The objective for this piece was to present a framework of the major assurances that Bitcoin provides to users, and make it clear that censorship resistance is only one of them. Additionally, I wanted to make the point that Bitcoin the software is only one part of a much vaster system — a collaborative social and industrial project aiming to provide unencumbered financial tools to individuals the world over. Entrepreneurs that have created hardware wallets, merchant services, novel exchanges, voucher systems, Bitcoin contract structuring, and hybrid custody models have all done their bit to advance user sovereignty and discretion when it comes to their personal wealth. They deserve to be recognized, as does the broader struggle to make these touted assurances a reality.
+
+
+***
+
+{% include signup.md %}

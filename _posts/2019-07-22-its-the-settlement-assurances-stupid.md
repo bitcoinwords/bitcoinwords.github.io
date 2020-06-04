@@ -10,6 +10,11 @@ tags:
   - On-Chain Settlement
   - Security
   - Ledger Value
+  - ASsurances
+  - Security
+  - Economics
+  - Transactions
+  - Banking
 
 
 excerpt: Nic Carter explains why Bitcoin is the fastest cryptocurrency when using settlement as the core metric. Posted July 22, 2019.
@@ -20,6 +25,8 @@ defaults:
 ---
 
 {% include donation.md %}
+
+***
 
 # [It's the settlement assurances, stupid](https://medium.com/@nic__carter/its-the-settlement-assurances-stupid-5dcd1c3f4e41)
 ## How to evaluate blockchains
@@ -277,3 +284,7 @@ In this article, I tried to enumerate the variables which I believe are most cri
 If we ignore these questions, they will be forced upon us through necessity. As short-side liquidity emerges for a larger share of the market, whole new classes of attacks will open up and exchanges will find themselves targeted more and more. Equally, as major custodians and clearinghouses start to take cryptocurrency deposits totaling hundreds of millions or billions, they will need to devise formal rules for what constitutes settlement. They would do well to think deeply about the security of the blockchains that they are reliant on.
 
 ### Thanks to Anthony Lusardi, Hugo Nguyen, and Matt Walsh.
+
+***
+
+{% include signup.md %}

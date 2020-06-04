@@ -5,8 +5,13 @@ permalink: "/media-coverage-of-bitcoin-is-still-a-total-disaster"
 tags:
   - Nic Carter
   - CY18 Q3
+  - FUD
+  - Media
+  - Politics
+  - Information
+  - Journalists
 
-excerpt: NIc Carter looks at 
+excerpt: Nic Carter looks at the current state of media coverage for Bitcoin and outlines what they are getting wrong. Posted August 11, 2018.
 
 defaults:
   # _posts
@@ -20,6 +25,12 @@ defaults:
       share: true
       related: false
 ---
+
+
+{% include donation.md %}
+
+***
+
 
 # [Media Coverage of Bitcoin Is Still a Total Disaster](https://medium.com/s/story/media-coverage-of-bitcoin-is-still-a-total-disaster-7d0d34d98971)
 ## A recent Washington Post article shows how journalists get cryptocurrency wrong
@@ -179,3 +190,8 @@ I f any of this resonates with you, and you want to learn about this novel econo
 * [BitMEX research](https://blog.bitmex.com/category/research/?lang=en_us): long-form investigations into bitcoin economics, the Tether mystery, and market dynamics
 
 _Thank you to_ [_hasufly_](https://medium.com/@hasufly) _and_ [_Larry Sukernik_](https://medium.com/@LarrySukernik) _for their feedback._
+
+***
+
+
+{% include signup.md %}

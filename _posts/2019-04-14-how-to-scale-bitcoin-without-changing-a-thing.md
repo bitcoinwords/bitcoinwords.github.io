@@ -7,6 +7,13 @@ author: niccarter
 tags:
   - Nic Carter
   - CY19 Q2
+  - Banks
+  - Banking
+  - Interest Rates
+  - Proof of Reserves
+  - Scaling
+  - Lending
+  - Credit
 
 excerpt: Nic lays out a future where Bitcoin banks earn their keep. Posted April, 14 2019.
 
@@ -25,6 +32,8 @@ defaults:
 ---
 
 {% include donation.md %}
+
+***
 
 # [How to scale Bitcoin (without changing a thing)](https://medium.com/@nic__carter/how-to-scale-bitcoin-without-changing-a-thing-bc4750dd16c7)
 ## Why Bitcoin banks need to prove their solvency
@@ -316,3 +325,7 @@ This would be the case if a vibrant industry of non-full-reserve Bitcoin banks w
 I don't think there is anything inherently wrong with the creation of credit, as it is the most basic component to finance. If credit is being created in a transparent way, on top of a reserve asset that is no one else's liability, that's a significant improvement over our current system. And I think it's something worth pursuing.
 
 _Thanks to_ [_Hasu_](https://medium.com/@hasufly) _, Matt Walsh, and Warren Togami for their feedback and assistance with this article._
+
+***
+
+{% include signup.md %}

@@ -7,6 +7,7 @@ author: niccarter
 tags:
   - Nic Carter
   - CY18 Q4
+  - Blockchain
 
 excerpt: Nic Carter looks at the mythical word that has everyone scratching their head... "blockchain". He proposes what we should do with this word. Posted October 5, 2018.
 
@@ -28,8 +29,6 @@ defaults:
 ## Why haven't we abandoned it?
 ### By [Nic Carter](https://medium.com/@nic__carter)
 ### Posted October 5, 2018
-
-Credit: Bigmouse108/iStock/Getty Images Plus
 
 "Blockchain" this, "blockchain" that. It's a concept so momentous that it has even managed to shed its article. Proponents don't speak of "the" blockchain or "a" blockchain. Instead, they reverently preach Blockchain: the solution to all enterprise needs (in particular, supply chain management). The brute, unassailable, self-evident concept has disrupted not only the rules of commerce but those of grammar. Question it and you'll be exposed as a hopeless rube and a Luddite. Use it sincerely and you'll be lumped in with the hype men and techno-utopians.
 

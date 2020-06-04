@@ -7,6 +7,13 @@ author: niccarter
 tags:
   - Nic Carter
   - CY19 Q2
+  - Design
+  - Features
+  - Technology
+  - Tradeoffs
+  - Supply
+  - Monetary Police
+  - Economics
 
 excerpt: Nic Carter reviews some tradeoffs and how Bitcoin doesn't take the easy road. Posted June 19, 2019.
 
@@ -24,6 +31,8 @@ defaults:
 ---
 
 {% include donation.md %}
+
+***
 
 # [Bitcoin bites the bullet](https://medium.com/@nic__carter/bitcoin-bites-the-bullet-8005a2a62d29)
 ## Some of its most puzzling tradeoffs explained
@@ -201,3 +210,8 @@ If there's anything I hope to communicate with this post, it's that design featu
 Satoshi was not an all-seeing savant, and s/he certainly failed to anticipate some of the ways the system would develop, but the tradeoffs that ended up in Bitcoin are generally quite defensible. Whether they are absolutely correct remains to be seen. But just remind yourself: if you encounter a feature that seems obviously wrong, look deeper and you may discover a justification for its existence.
 
 _Thank you to_ [_Allen Farrington_](https://medium.com/@allenfarrington) _and_ [_Matt Walsh_](https://medium.com/@MattWalshCIV) _for the feedback._
+
+***
+
+{% include signup.md %}
+

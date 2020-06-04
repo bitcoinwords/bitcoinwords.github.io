@@ -7,6 +7,12 @@ author: niccarter
 tags:
   - Nic Carter
   - CY18 Q4
+  - Leadership
+  - Game Theory
+  - Politics
+  - Development
+  - Decentralizatiuon
+
 
 excerpt: By Nic Carter, posted October 31, 2018
 
@@ -23,6 +29,11 @@ defaults:
       share: true
       related: false
 ---
+
+
+{% include donation.md %}
+
+***
 
 # [Bitcoin's Existential Crisis](https://medium.com/s/story/what-is-it-like-to-be-a-bitcoin-56109f3e6753)
 ## Cryptocurrencies lack leaders — they have no single source of truth. Philosophically, this can get complicated.
@@ -130,3 +141,8 @@ Labels can be dangerous, and excessive labeling is usually not very useful. But 
 The last year has been a period of relative respite in the war over Bitcoin's soul. However, the battles will continue. This is the nature of the system; it cannot possibly be another way.
 
 ### Building a fundamental piece of technology that will bring Bitcoin to the next billion users? Reach out: [castleisland.vc](http://www.castleisland.vc/)
+
+
+***
+
+{% include signup.md %}
