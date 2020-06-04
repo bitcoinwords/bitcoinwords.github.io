@@ -42,6 +42,14 @@ feature_row2:
     url: "https://bitcoinwords.github.io/101/"
     btn_label: "WORDS 101"
     btn_class: "btn--warning"
+feature_row3:
+  - image_path: /assets/images/anthology.png
+    alt: "WORDS Anthology"
+    title: "WORDS Anthology"
+    excerpt: "WORDS Anthology are author-specific collections of writing."
+    url: "https://bitcoinwords.github.io/categories/anthology/"
+    btn_label: "WORDS Anthology"
+    btn_class: "btn--warning"
 ---
 
 ## About WORDS 
@@ -54,3 +62,5 @@ feature_row2:
 {% include feature_row %}
 
 {% include feature_row id="feature_row2" type="left" %}
+
+{% include feature_row id="feature_row3" type="right" %}
