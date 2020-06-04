@@ -34,7 +34,7 @@ defaults:
       related: false
 ---
 
-[![The Complete Carter](/assets/images/covers/words-the-complete-carter-150.png "The Complete Carter")](https://bitcoinwords.github.io/assets/publications/words-the-complete-carter.pdf){: .align-left} This is a curated collection of posts and essays from [Nic Carter](https://twitter.com/nic__carter) created on June 4, 2020.
+[![The Complete Carter](/assets/images/covers/words-the-complete-carter-cover-150.png "The Complete Carter")](https://bitcoinwords.github.io/assets/publications/words-the-complete-carter.pdf){: .align-left} This is a curated collection of posts and essays from [Nic Carter](https://twitter.com/nic__carter) created on June 4, 2020.
 
 *WORDS* is a monthly journal of Bitcoin commentary. For the uninitiated, getting up to speed on Bitcoin can seem daunting. Content is scattered across the internet, in some cases behind paywalls, and content has been lost forever. That’s why we made this journal, to preserve and further the understanding of Bitcoin.
 
