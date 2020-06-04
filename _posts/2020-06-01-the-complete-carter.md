@@ -5,12 +5,12 @@ permalink: "/the-complete-carter"
 author: niccarter
 
 header:
-  teaser: /assets/images/covers/words-gigi-cover-1000.png
-  overlay_image: /assets/images/covers/words-gigi-cover-header.png
+  teaser: /assets/images/covers/words-the-complete-carter-cover-1000.png
+  overlay_image: /assets/images/covers/words-the-complete-carter-cover-header.png
   overlay_filter: 0.50
   actions:
     - label: "Download The Complete Carter"
-      url: "/assets/publications/words-gigi.pdf"
+      url: "/assets/publications/words-the-complete-carter.pdf"
 
 category: "anthology"
 excerpt: A collection posts and essays from Nic Carter.
@@ -34,7 +34,11 @@ defaults:
       related: false
 ---
 
-This is a curated collection of posts and essays from [Nic Carter](https://twitter.com/nic__carter). This collection was put together as of June 4, 2020.
+[![The Complete Carter](/assets/images/covers/words-the-complete-carter-150.png "The Complete Carter")](https://bitcoinwords.github.io/assets/publications/words-the-complete-carter.pdf){: .align-left} This is a curated collection of posts and essays from [Nic Carter](https://twitter.com/nic__carter) that was put together as of June 4, 2020.
+
+*WORDS* is a monthly journal of Bitcoin commentary. For the uninitiated, getting up to speed on Bitcoin can seem daunting. Content is scattered across the internet, in some cases behind paywalls, and content has been lost forever. That’s why we made this journal, to preserve and further the understanding of Bitcoin.
+
+<br>
 
 ***
 
