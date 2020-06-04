@@ -1353,7 +1353,7 @@ murch:
 
 niccarter:
   name        : Nic Carter
-  bio         : "the"
+  bio         : "serf on jack's feudal estate"
   avatar      : #"/assets/images/bio-photo.jpg"
   links:
     - label: #"Email"
