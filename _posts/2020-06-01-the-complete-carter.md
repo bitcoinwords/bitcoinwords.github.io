@@ -6,7 +6,7 @@ author: niccarter
 
 header:
   teaser: /assets/images/covers/words-the-complete-carter-cover-1000.png
-  overlay_image: /assets/images/covers/words-the-complete-carter-cover-header.jpg
+  overlay_image: /assets/images/covers/words-the-complete-carter-header.png
   overlay_filter: 0.50
   actions:
     - label: "Download The Complete Carter"
