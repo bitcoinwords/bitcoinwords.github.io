@@ -10,8 +10,6 @@ main:
     url: https://bitcoinwords.github.io/about/
   - title: "Contact"
     url: https://bitcoinwords.github.io/contact/
-  - title: "Submissions"
-    url: https://bitcoinwords.github.io/submissions/
   - title: "Support"
     url: https://bitcoinwords.github.io/support  
   - title: "Side Notes"
