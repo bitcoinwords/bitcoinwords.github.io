@@ -40,9 +40,9 @@ defaults:
 ** Atención ** Esto es experimental. Sé que las imágenes están rotas. Por favor, comparte tus comentarios si eres hispanohablante. Me gustaría entender que la traducción es legible.
 {: .notice--danger}
 
-[! [The Complete Carter] (/ assets / images / covers / words-the-complete-carter-cover-150.png "The Complete Carter")] (https://bitcoinwords.github.io/assets/publications/ words-the-complete-carter.pdf) {: .align-left} Esta es una colección curada de publicaciones y ensayos de [Nic Carter] (https://twitter.com/nic__carter) creada el 4 de junio de 2020.
+[![The Complete Carter](/assets/images/covers/words-the-complete-carter-cover-150.png "The Complete Carter")] (https://bitcoinwords.github.io/assets/publications/words-the-complete-carter.pdf){: .align-left} Esta es una colección curada de publicaciones y ensayos de [Nic Carter] (https://twitter.com/nic__carter) creada el 4 de junio de 2020.
 
-* WORDS * es un diario mensual de comentarios de Bitcoin. Para los no iniciados, ponerse al día con Bitcoin puede parecer desalentador. El contenido está disperso en Internet, en algunos casos detrás de los muros de pago, y el contenido se ha perdido para siempre. Es por eso que hicimos este diario, para preservar y ampliar la comprensión de Bitcoin.
+*WORDS* es un diario mensual de comentarios de Bitcoin. Para los no iniciados, ponerse al día con Bitcoin puede parecer desalentador. El contenido está disperso en Internet, en algunos casos detrás de los muros de pago, y el contenido se ha perdido para siempre. Es por eso que hicimos este diario, para preservar y ampliar la comprensión de Bitcoin.
 
 ![](/assets/images/covers/words-the-complete-carter-cover-card.png)
 
