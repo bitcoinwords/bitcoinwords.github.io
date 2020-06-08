@@ -20,7 +20,7 @@ This is nothing special but pretty awesome to see the project on the Keiser Repo
 ### Posted April 19, 2020
 [![](/assets/images/media/brianharrington.png)](https://youtu.be/rMTVUMXcuL8?t=1)
 
-Joe Rodgers Editor of WORDS Bitcoin Journal - 1:08:29 - 
+Joe Rodgers Editor of **WORDS** Bitcoin Journal - 1:08:29 - 
 * Catch up 
 * WORDS
 * Links
@@ -32,7 +32,7 @@ Joe Rodgers Editor of WORDS Bitcoin Journal - 1:08:29 -
 ### Posted February 12, 2020
 [![](/assets/images/media/funwithbitcoin.png)](https://anchor.fm/funwithbitcoin/episodes/Interview-with-Joe-Rodgers-WORDS-eapkfi)
 
-Interview with Joe Rodgers (WORDS)	49:23	2/12/2020	
+Interview with Joe Rodgers (**WORDS**)	49:23 play time, recorded	2/12/2020	
 * Rh story 
 * Hackers wants ransom in BTC 
 * Genesis story through tragedy 

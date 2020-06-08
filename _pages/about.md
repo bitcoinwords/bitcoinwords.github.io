@@ -30,7 +30,7 @@ Enter **WORDS**. Published independently, **WORDS** is a Bitcoin journal that [w
 
 [<i class="fas fa-code-branch"></i> Fork WORDS](https://github.com/bitcoinwords/bitcoinwords.github.io){: .btn .btn--warning}
 
-## [Media](https://bitcoinwords.github.io/media/)
+## [Media Appearances](https://bitcoinwords.github.io/media/)
 **WORDS** has been interviewed a couple times. Those interviews are on our [Media page](https://bitcoinwords.github.io/media/). **WORDS** welcomes requests to chat and collaborate. 
 
 ## For a deeper dive down the rabbit hole...
