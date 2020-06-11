@@ -12,7 +12,7 @@ tags:
   - Engineering
   - Design
 
-excerpt: enter excerpt here
+excerpt: Yuri de Gaia examines a future of citadels. Posted March 25, 2020.
 
 classes: wide
 
@@ -33,7 +33,7 @@ defaults:
 
 ![](/assets/images/2020/m5/y1.png)
 
-With the ongoing COVID-19 pandemic and a global financial collapse, it is interesting and, often, frightening to watch how various governments react to the event. As covered in [_Perspective Matters_](https://degaia.co/perspective-matters/)_, _the spread of the virus is used by opportunistic elites to grab more power. This is not unexpected. At the end of the day, just like the purpose of the police is not to "serve and protect" but rather enforce the law, the purpose of the government is not to provide social services, but to exert control over the population. Any crisis is an opportunity to do so. A question arises, then: How would a citadel deal with such a situation? My thoughts are below.
+With the ongoing COVID-19 pandemic and a global financial collapse, it is interesting and, often, frightening to watch how various governments react to the event. As covered in [_Perspective Matters_](https://degaia.co/perspective-matters/), the spread of the virus is used by opportunistic elites to grab more power. This is not unexpected. At the end of the day, just like the purpose of the police is not to "serve and protect" but rather enforce the law, the purpose of the government is not to provide social services, but to exert control over the population. Any crisis is an opportunity to do so. A question arises, then: How would a citadel deal with such a situation? My thoughts are below.
 
 ## Asteria's Measures
 
