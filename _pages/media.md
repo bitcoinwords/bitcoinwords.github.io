@@ -14,7 +14,7 @@ defaults:
 ## [Live with John Vallis](https://twitter.com/johnkvallis/status/1271256915075428352)
 ### Posted June 11, 2020
 An informal conversation with [John Vallis](https://twitter.com/johnkvallis) about the current and future world.
-![john vallis tweet](/assets/images/media/jv1.png)
+[![john vallis tweet](/assets/images/media/jv1.png)](https://twitter.com/johnkvallis/status/1271256915075428352)
 
 ## [Tweet featured on the Keiser Report 1534](https://youtu.be/x9owXLhsg-0?t=561)
 ### Posted April 29, 2020
@@ -35,7 +35,7 @@ Joe Rodgers Editor of **WORDS** Bitcoin Journal - 1:08:29 -
 
 ## [Fun with Bitcoin Podcast](https://anchor.fm/funwithbitcoin/episodes/Interview-with-Joe-Rodgers-WORDS-eapkfi)
 ### Posted February 12, 2020
-[![](/assets/images/media/funwithbitcoin.png)](https://anchor.fm/funwithbitcoin/episodes/Interview-with-Joe-Rodgers-WORDS-eapkfi)
+[![](/assets/images/media/fwb.png)](https://anchor.fm/funwithbitcoin/episodes/Interview-with-Joe-Rodgers-WORDS-eapkfi)
 
 Interview with Joe Rodgers (**WORDS**)	49:23 play time, recorded	2/12/2020	
 * Rh story 
