@@ -28,10 +28,21 @@ Be fearless. The only way to learn is to get in some reps!
 
 Download the software and watch the tutorial at the links below. The video was extremely helpful. It walked me through everything to get started.
 
-[PGP Software](https://www.gpg4win.org/index.html){: .btn .btn--primary}
-[PGP Tutorial](https://youtu.be/CEADq-B8KtI){: .btn .btn--primary}
+### Windows
+The software below is so easy, even I can do it. I am a GUI guy so this was very easy for me to use. 
+
+[GPG4Win and Kleopatra](https://www.gpg4win.org/index.html){: .btn .btn--primary}
+[Kleopatra Tutorial](https://youtu.be/CEADq-B8KtI){: .btn .btn--primary}
 
 Once you are setup with Kleopatra, import my public key and send me a message!
+
+### Mac
+There are plenty of options for Mac users. Unfortunately I do not have hands on experience with PGP and Mac so this is a recommendation from a friend. 
+
+[GPGTools](https://gpgtools.org/){: .btn .btn--primary}
+[GPG Tools Tutorial](https://www.youtube.com/watch?v=JK2q-kYCg1Y){: .btn .btn--primary}
+
+Once you're setup with GPGTools, import my private keys and say hello!
 
 [WORDS Public Key](https://raw.githubusercontent.com/bitcoinwords/bitcoinwords.github.io/master/assets/public-key/WORDS-public-key.txt){: .btn .btn--warning}
 
