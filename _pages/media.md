@@ -11,6 +11,11 @@ defaults:
       author_profile: true
 ---
 
+## [Live with John Vallis](https://twitter.com/johnkvallis/status/1271256915075428352)
+### Posted June 11, 2020
+An informal conversation with [John Vallis](https://twitter.com/johnkvallis) about the current and future world.
+![john vallis tweet](/assets/images/media/jv1.png)
+
 ## [Tweet featured on the Keiser Report 1534](https://youtu.be/x9owXLhsg-0?t=561)
 ### Posted April 29, 2020
 This is nothing special but pretty awesome to see the project on the Keiser Report. No mention of the journal, but we'll take the PR! Thanks Stacy
