@@ -1126,6 +1126,21 @@ jwweatherman:
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/JWWeatherman_"
 
+karosagorus:
+  name        : Karo Zagorus
+  bio         : "Your friendly Toxic Bitcoin Maximalist Dragon Lord SoulInTheGame 2A NSFW +dampmud15B"
+  avatar      : # "/assets/images/bio-photo-2.jpg"
+  links:
+    - label: # "Email"
+      icon: #"fas fa-fw fa-envelope-square"
+      url: #"mailto:billyrick@rick.com"
+    - label: #"Website"
+      icon: #"fas fa-fw fa-link"
+      url: #"https://thewhip.com"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/btcdragonlord"
+
 katiadolzhenko:
   name        : Katia Dolzhenko
   bio         : "intj • strategy,anarchism,economics • head of SM @trezor • linkedin.com/in/bitcoinkatia • my alt @kat0shi • stoic • ₿ water • building @ctdl21"
