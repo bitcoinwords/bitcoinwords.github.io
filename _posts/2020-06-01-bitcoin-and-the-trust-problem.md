@@ -173,7 +173,37 @@ The finding in the book seem to suggest, that distrust towards banks has not inc
 
 ### B. The Era of Post-Truth
 
-  Ever since the beginning of early days of modern journalism, the press was a prestigious institution, which had the most vital role in modern day democracies. The free press’s role is to oversee our free democracies and hold those in power to account for their actions. Without the free press, we would not be able to hold politicians accountable for the embezzlement of funds, or for their misuse of power. As of today, the role of the free press is damaged, and people trust it less. (Edelman) With the advent of the social media, the speed of news accelerated, and it is now not just journalists who can break the news, but the ordinary people too. Let it be a protest against a corrupt government, disaster happening or police abusing their power, news now propagate much faster thanks to these new mass communication solutions. Unfortunately, it is not just news that people share, but falsified stories that do not have any gram of truth behind them. Since the 2016 US Presidential Elections, we are living the era of the post-truth where information we consume is not pure, but instead it is actively manipulated by third parties that have different political ideologies at play and wish to influence our decision-making abilities, with that making their own choice of political candidates elected and their own discourse continued. This apparent interference with the quality and impartiality of the news seems to have damaged American’s view of both the media and that of politics, since many now cannot get access to the information they require to make informed decisions. The information they now receive is now biased. Donald J. Trump the 45th President of the United States now often calls out media outlets who he views as biased as Fake News, these outlets are often then have their operations restricted, their press passes removed and sanctioned, blocking their abilities to do their jobs. But although we must view these from the opposite side, because these news outlets are often biased towards President Donald Trump. The coverage of the Russia Probe has gained more a traction on left-leaning news outlets than those of right-leaning, while liberal news outlets mostly focused on critical views of Donald Trump have often subsided positive developments of the Presidency. Such as protection of autoworker and coal miner jobs, which was more favored by the President during his campaign, but liberals consider these less pressing than the protection of civil rights, minorities, free access to abortions and protection of different sexual orientations. The news landscape in the United States is now very different than pre-2010, according to the Economist, there is now a greater ideological gap between Americans regarding their political views, about whether or not media outlets as biased, and what kind of actions they would take against outlets that are biased in their perspective. Left-leaning voters often favor not touching outlets but while Conservative leaning considers sanctioning or closing down outlets that are not impartial in content. (The Economist) Noam Chomsky argues that this is because of the ever-degrading quality of the news provided for Americans while other more controversial media outlets often provide views that Americans do not often have access to. Some of these outlets Chomsky have claimed were for example RT and SputnikNews, while he has distanced himself from outlets like CNN or the BBC. (Chomsky) Similar events have developed in Hungary when Viktor Orban’s childhood friend, Lorinc Meszaros, who was originally a plumber by profession, has begun purchasing media outlets in Hungary. When the State Media was transformed in Hungary, the new official guidance for the company was to be a political propaganda outlet that parroted the Hungarian Government’s views and that of the FIDESZ-KDNP party. (SIXX) In 2016, the Hungarian government used a shady Austrian company called as Vienna Capital Partners, who was the majority owner of Mediaworks, to shut down a left-leaning newspaper called Nepszabadsag, with this essentially beginning the war on the free press in the country. Nepszabadsag was a major newspaper that enjoyed favourable views of the Hungarian middle and lower classes. By having the company eliminated through this trickery, the Hungarian government has essentially cut the news source of hundreds of thousands of Hungarians. Overnight the media landscape of the country was changed, and the discourse has begun tilting towards that of the Hungarian Government’s. (Sarkadi) Hungary although is a different case because the country only had brief periods of time when it had its media free of political interference. Before the change of system in Hungary in 1989, the media was heavily censored by the ruling socialists who were abiding by the ideological standards of the USSR. The news back in those days were basically political propaganda, which attempted to portray the west as an evil to socialism. (Cull, Gatov and Pomerantsev) This inherent culturally encoded inability of some Hungarians resulted in the careless consumption of news, especially among those who are uneducated and the elderly. The state media M1 TV offers hourly news and reports from Hungary on all kinds of issues, this repetition of information often feeds altered perceptions and views for Hungarians, especially during election times, that over time attempts to alter the perception of viewers of certain political messages and objectives that are important for the government. This repetition often reinforces the information over time and forms misconceptions in the minds of the viewers who will be more susceptive later to believe that the European Union is impeding on their country’s democracy or that there are still migrants coming to Hungary who attempt to steal their jobs and bring crime with themselves. These concepts often create an artificial fear in people, especially the elderly, who will be terrorized by the prospects of migrants[\[4\]](#_ftn4) invading their home country or their homes. (Halasz and Boros) The effect of this news alienation has on educated viewers are even more stark. Educated consumers of news are able to filter out fake news and establish a reality check for news that do not conform to their reality. Often these people end up having to expose themselves to more news media outlets, especially on the internet, in order to make a better educated attempt of establishing the truth for themselves by comparing and contrasting headlines and content of information across news sites. This although does not make it easier to establish facts from multiple sources and instead re-confirms bias and makes the consumption of information much harder that further erodes people’s trust in the news media. (Langlois) Through the actual brainwashing of the people, governments can control them through carefully constructed messages that over time makes their views conform to that of the ruling party’s (Magyar, Gulyas and Kovacs), just as similarly as how George Orwell’s Nineteen Eighty-Four portrays a world where a totalitarian regime has taken over and are now actively manipulating the discourse and instilling fears into the minds of the people to force them to keep believing what they are saying, while all of that information is not true but that of a fabrication. The similarities between Hungary’s example and that of Orwell’s book is quite striking (Magyar, Gulyas and Kovacs), it is arguable that Hungary’s totalitarian control of the news media was directly copied over from that of Russia’s example. But so far, the Hungarian example has avoided every type of bodily harm in contrast to that of the model set by Russia. (Magyari) When teenagers from the Macedonian village of Veles started creating fake news sites, their main goal was to have a stream of income generated by advertising. These sites managed to gain attraction because they propagated partisan false news that conformed to the bias of the readers who were not just conservative leaning. Catchy, sensationalist headlines often served as a very good starting point for convincing consumers that the news have some value of truth while it only attempted to fool the readers. (Subramanian) The sheer amount of fake news people consumed during the US Presidential Elections was staggering, and it has prompted Google and Facebook to actively curate news and ban sites from their search engines and to cut ad revenue for them. (Subramanian) Troll Farms[\[5\]](#_ftn5) operated in Russia by the Russian Government also attempted to interfere in the electoral discourse. Their operation on Facebook attempted to create social conflict between both sides of the political spectrum just to intensify differences and enable the spread of false news to be more effective. Voters who saw messages that do not confirm to their political views were more than likely to be later susceptive to other fake news that have targeted their political views with over exaggerated messages with false content. Often this content was very politically biased or contained over exaggerated statements. (Lee) Our demand for access to unbiased news is constantly eroding our trust in the news media. Whether we are conservative or liberal, the evil cycle of trust erosion in the institutions of the media is never ending. Attacks targeting journalists, as like how Viktor Orban or other members of the FIDESZ-KDNP party attack journalists by labelling them as organizations funded by George Soros or Lajos Simicska[\[6\]](#_ftn6), they directly attack their image and portray these news outlets impartiality questionable for others, hinting that the news they are covering is funded by Soros and should not be trusted by anyone. (Beauchamp) The problem this poses for us is quite immense, because without a properly functioning free press that is able to provide us with unbiased news, we cannot establish the factuality of the information provided and we cannot exercise our rights as citizens to oversee the correct operation of our democracies.  Because of this in countries like Russia, people like Russian President Vladimir Putin can freely do whatever he wants without anyone in Russia rising an issue about his executive actions as President of the Federation. If it is even somehow reaching the public, the information can be put to rest by the careful control of the discourse that attempts to silence those who wish to raise a word about the possible corruption ongoing. If journalists in Russia keep attempting to investigate scandals, they can easily find themselves in hot water, have their news outlet bought up by a Russian Oligarch and later shut down, have the authorities make their lives impossible or have Strong-Man’s paid to resort to physical harassments, attacks and even murder to silence their opponents. (Denber)                                                      
+  Ever since the beginning of early days of modern journalism, the press was a prestigious institution, which had the most vital role in modern day democracies. The free press’s role is to oversee our free democracies and hold those in power to account for their actions. Without the free press, we would not be able to hold politicians accountable for the embezzlement of funds, or for their misuse of power. 
+
+As of today, the role of the free press is damaged, and people trust it less. (Edelman) With the advent of the social media, the speed of news accelerated, and it is now not just journalists who can break the news, but the ordinary people too. Let it be a protest against a corrupt government, disaster happening or police abusing their power, news now propagate much faster thanks to these new mass communication solutions. 
+
+Unfortunately, it is not just news that people share, but falsified stories that do not have any gram of truth behind them. Since the 2016 US Presidential Elections, we are living the era of the post-truth where information we consume is not pure, but instead it is actively manipulated by third parties that have different political ideologies at play and wish to influence our decision-making abilities, with that making their own choice of political candidates elected and their own discourse continued. This apparent interference with the quality and impartiality of the news seems to have damaged American’s view of both the media and that of politics, since many now cannot get access to the information they require to make informed decisions. The information they now receive is now biased. 
+
+Donald J. Trump the 45th President of the United States now often calls out media outlets who he views as biased as Fake News, these outlets are often then have their operations restricted, their press passes removed and sanctioned, blocking their abilities to do their jobs. But although we must view these from the opposite side, because these news outlets are often biased towards President Donald Trump. The coverage of the Russia Probe has gained more a traction on left-leaning news outlets than those of right-leaning, while liberal news outlets mostly focused on critical views of Donald Trump have often subsided positive developments of the Presidency. Such as protection of autoworker and coal miner jobs, which was more favored by the President during his campaign, but liberals consider these less pressing than the protection of civil rights, minorities, free access to abortions and protection of different sexual orientations. 
+
+The news landscape in the United States is now very different than pre-2010, according to the Economist, there is now a greater ideological gap between Americans regarding their political views, about whether or not media outlets as biased, and what kind of actions they would take against outlets that are biased in their perspective. Left-leaning voters often favor not touching outlets but while Conservative leaning considers sanctioning or closing down outlets that are not impartial in content. (The Economist) Noam Chomsky argues that this is because of the ever-degrading quality of the news provided for Americans while other more controversial media outlets often provide views that Americans do not often have access to. Some of these outlets Chomsky have claimed were for example RT and SputnikNews, while he has distanced himself from outlets like CNN or the BBC. (Chomsky) 
+
+Similar events have developed in Hungary when Viktor Orban’s childhood friend, Lorinc Meszaros, who was originally a plumber by profession, has begun purchasing media outlets in Hungary. When the State Media was transformed in Hungary, the new official guidance for the company was to be a political propaganda outlet that parroted the Hungarian Government’s views and that of the FIDESZ-KDNP party. (SIXX) 
+
+In 2016, the Hungarian government used a shady Austrian company called as Vienna Capital Partners, who was the majority owner of Mediaworks, to shut down a left-leaning newspaper called Nepszabadsag, with this essentially beginning the war on the free press in the country. Nepszabadsag was a major newspaper that enjoyed favourable views of the Hungarian middle and lower classes. By having the company eliminated through this trickery, the Hungarian government has essentially cut the news source of hundreds of thousands of Hungarians. Overnight the media landscape of the country was changed, and the discourse has begun tilting towards that of the Hungarian Government’s. (Sarkadi) 
+
+Hungary although is a different case because the country only had brief periods of time when it had its media free of political interference. Before the change of system in Hungary in 1989, the media was heavily censored by the ruling socialists who were abiding by the ideological standards of the USSR. The news back in those days were basically political propaganda, which attempted to portray the west as an evil to socialism. (Cull, Gatov and Pomerantsev) 
+
+This inherent culturally encoded inability of some Hungarians resulted in the careless consumption of news, especially among those who are uneducated and the elderly. The state media M1 TV offers hourly news and reports from Hungary on all kinds of issues, this repetition of information often feeds altered perceptions and views for Hungarians, especially during election times, that over time attempts to alter the perception of viewers of certain political messages and objectives that are important for the government. This repetition often reinforces the information over time and forms misconceptions in the minds of the viewers who will be more susceptive later to believe that the European Union is impeding on their country’s democracy or that there are still migrants coming to Hungary who attempt to steal their jobs and bring crime with themselves. These concepts often create an artificial fear in people, especially the elderly, who will be terrorized by the prospects of migrants[\[4\]](#_ftn4) invading their home country or their homes. (Halasz and Boros) 
+
+The effect of this news alienation has on educated viewers are even more stark. Educated consumers of news are able to filter out fake news and establish a reality check for news that do not conform to their reality. Often these people end up having to expose themselves to more news media outlets, especially on the internet, in order to make a better educated attempt of establishing the truth for themselves by comparing and contrasting headlines and content of information across news sites. This although does not make it easier to establish facts from multiple sources and instead re-confirms bias and makes the consumption of information much harder that further erodes people’s trust in the news media. (Langlois) 
+
+Through the actual brainwashing of the people, governments can control them through carefully constructed messages that over time makes their views conform to that of the ruling party’s (Magyar, Gulyas and Kovacs), just as similarly as how George Orwell’s Nineteen Eighty-Four portrays a world where a totalitarian regime has taken over and are now actively manipulating the discourse and instilling fears into the minds of the people to force them to keep believing what they are saying, while all of that information is not true but that of a fabrication. The similarities between Hungary’s example and that of Orwell’s book is quite striking (Magyar, Gulyas and Kovacs), it is arguable that Hungary’s totalitarian control of the news media was directly copied over from that of Russia’s example. But so far, the Hungarian example has avoided every type of bodily harm in contrast to that of the model set by Russia. (Magyari) 
+
+When teenagers from the Macedonian village of Veles started creating fake news sites, their main goal was to have a stream of income generated by advertising. These sites managed to gain attraction because they propagated partisan false news that conformed to the bias of the readers who were not just conservative leaning. Catchy, sensationalist headlines often served as a very good starting point for convincing consumers that the news have some value of truth while it only attempted to fool the readers. (Subramanian) 
+
+The sheer amount of fake news people consumed during the US Presidential Elections was staggering, and it has prompted Google and Facebook to actively curate news and ban sites from their search engines and to cut ad revenue for them. (Subramanian) 
+
+Troll Farms[\[5\]](#_ftn5) operated in Russia by the Russian Government also attempted to interfere in the electoral discourse. Their operation on Facebook attempted to create social conflict between both sides of the political spectrum just to intensify differences and enable the spread of false news to be more effective. Voters who saw messages that do not confirm to their political views were more than likely to be later susceptive to other fake news that have targeted their political views with over exaggerated messages with false content. Often this content was very politically biased or contained over exaggerated statements. (Lee) 
+
+Our demand for access to unbiased news is constantly eroding our trust in the news media. Whether we are conservative or liberal, the evil cycle of trust erosion in the institutions of the media is never ending. Attacks targeting journalists, as like how Viktor Orban or other members of the FIDESZ-KDNP party attack journalists by labelling them as organizations funded by George Soros or Lajos Simicska[\[6\]](#_ftn6), they directly attack their image and portray these news outlets impartiality questionable for others, hinting that the news they are covering is funded by Soros and should not be trusted by anyone. (Beauchamp) 
+
+The problem this poses for us is quite immense, because without a properly functioning free press that is able to provide us with unbiased news, we cannot establish the factuality of the information provided and we cannot exercise our rights as citizens to oversee the correct operation of our democracies.  Because of this in countries like Russia, people like Russian President Vladimir Putin can freely do whatever he wants without anyone in Russia rising an issue about his executive actions as President of the Federation. If it is even somehow reaching the public, the information can be put to rest by the careful control of the discourse that attempts to silence those who wish to raise a word about the possible corruption ongoing. If journalists in Russia keep attempting to investigate scandals, they can easily find themselves in hot water, have their news outlet bought up by a Russian Oligarch and later shut down, have the authorities make their lives impossible or have Strong-Man’s paid to resort to physical harassments, attacks and even murder to silence their opponents. (Denber)                                                      
 
 **C.** **The Great Chasm of Political Polarization**
 ----------------------------------------------------
@@ -401,73 +431,203 @@ It is a conclusion that the last two mentioned reasons, namely, the anti-authori
 
 _“Change here to the Moon and beyond.”_ The system we live in is designed to work like this since governments do not know other alternatives to be able to compete against other competing states. As of today, Keynesian Economics is taught all around the world in higher education as the de-facto standard of the basis of the global economic world order. If a nation attempts to step outside the boundaries of that system, then the consequences are immediate and will negatively affect its citizens. Since the rules of competition is based upon these standards, the participants must organize themselves along the lines that can keep an economy functioning while increasing the GDP constantly. It is not possible to determine whether this system was designed with malice, but evidence within this Thesis seems to suggest the fact that this system was engineered to keep members of society under control. We can also see that as the system was built out, the goal to become superior has become the forefront goal of countries. This is deeply rooted in the ability of the United States to manipulate its currency and use its economic and political might to exercise control over the political order of the world. As the gold backing of the US dollar was manipulated slowly and then removed suddenly, it started off a cascade of events that keeps leading us towards economic bubbles and extreme polarization of society and politics. The only solution that could solve this problem is to return to a monetary system that is based upon a sound monetary medium. But this is not possible anymore. Since a return to the gold standard could potentially give the competitive edge to a hostile nation that another might not want to happen, therefore, this becomes an impossible choice for a government. Return of the gold standard would also change consumer behavior, and a complete change of the economic model and how the world produces goods would be also required. Moreover, the possibility of a failure of such a process is extremely high if it is not professionally managed by a government. Communism’s failure in the Soviet Union clearly shows that governments are especially bad at managing centrally planned economies and they are destined to failure. One of the possible solutions for this problem is to abolish the usage of paper currencies all together and to return to an economic model based on bartering. But because of the advanced state of civilization where most human beings in western societies live in large population centers where land is limited, it is no longer possible to produce products to barter with them, except in the services sector. Therefore, a return to such a system is impossible. The only alternative that remains to fix this problem is the total abolishment of the central banking system and the creation of separation between state and currency. Governments although would never allow such change to happen, because it removes too much power from them and places it back into the hands of the people. Therefore, the solution must come from the people who can initiate this change; only the people can bring about a global restructuring and reformation of the socio-economic-political order. But fortunately, even if governments would not want it, this reformation of the world’s socio-economic-political order is already underway as a direct effect of the digital sovereign money[\[56\]](#_ftn56) that operates on the Internet under the name Bitcoin with the trade ticker BTC (or XBT). This process has reached the point of no return and can no longer be stopped by anyone. Slowing down the process is certainly possible, but just temporarily. If anyone would attempt to attack Bitcoin, one of the protective layers of its ecosystem will eventually enact mutations to the system (just like a virus would mutate through DNA proof-reading as it copies itself) and it will become stronger and more resistant to further attacks, incurring more higher costs and more time to make further attempts. Any form of attack can target Bitcoin, but as long as there are people out there who are willing to acquire bitcoins and hold them long term, with that giving value for each individual coin, which is limited at 21 million coins, the effects of bitcoin will continue and will go on until Bitcoin eventually changes the world, permanently. Due to National Central Banking becoming an obsolete institution, with that immediately phasing out Keynesian Economic norms, no further analysis of the trust problem (related to fiat money) is required, because _Bitcoin fixes this_.      
 
-**Appendix 1: The Bitcoiner’s Lexicon**
-=======================================
+## Appendix 1: The Bitcoiner’s Lexicon
+_Satoshi Nakamoto_ Pseudonymous programmer and cypherpunk, creator of Bitcoin. Has disappeared in 2014 and no plausible evidence exists that he ever attempted to communicate with anyone afterwards. His whereabouts are unknown to us all.   
 
- _Satoshi Nakamoto_ Pseudonymous programmer and cypherpunk, creator of Bitcoin. Has disappeared in 2014 and no plausible evidence exists that he ever attempted to communicate with anyone afterwards. His whereabouts are unknown to us all.   _Hal Finney_ Hal Finney was the first recipient of bitcoins mined by Satoshi Nakamoto, he has worked and communicated with Satoshi Nakamoto in the past. The term “running bitcoin” was coined by him when he tweeted that he is running Bitcoin software for the first time. Hal Finney was battling Amyotrophic lateral sclerosis, after death was frozen by the Alcor Life Extension Foundation and his body is being cryogenically preserved for a potential later revival.  _Hodl_ Hodl comes from a possible miss-spelling of the word hold, which means holding bitcoins in this context. Some users argue that the intoxication of a forum user on the BitcoinTalk forums were the origin of this coined term when he misspelled it, others claim that it is a complex acronym of “hold on for dear life” aka hodl. Hodl in this concept reached a form of cultural behavioral norm where users of bitcoin are expected to hold bitcoin long term to enforce the network effect on the price of bitcoin by removing bitcoin liquidity from exchanges with that tightening the order books that contain available traded bitcoins on offer.  The basis of “hodling” seems in some sense to provide the basic price of bitcoin, because a bitcoin can be owned physically if someone is within possession of his own private key and can verify that his coins are present on those addresses associated with his private key.   _1 BTC = 1 BTC_ This refers to the fact that 1 BTC will always equal 1 BTC because there is no central authority to inflate the money supply of Bitcoin. Therefore 1 BTC will always worth 1 BTC on the Bitcoin Protocol.     _‘Sup Freaks_ A catch phrase used by Marty Bent on the Tails from the Crypt Bitcoin Podcast. _Sovereign Individual_ A person that is independent that of nations and not restricted by borders, a true free individual who is in control his own destiny within the free market economy.   _Brrr_ It is the sound that a money printer machine makes when it prints new money. This have become popular during the 2019-2020- COVID-19 Pandemic. The United States’ Federal Reserve have begun its quantitative easing program in response to battle the global COVID-19 pandemic, this resulted in the creation of multi-trillion dollars and the expansion of the money supply. (IMRD)   _Don’t Trust, Verify._ A techno-philosophical approach towards the verification of aspects of reality, not just within computer science. It heeds users of Bitcoin to don’t trust information they see and instead go to extra lengths to verify their truth content by themselves.   _Stacking Sats_ Stacking Sats was a term used by Marty Bent on the Tails from the Crypt podcast where he references the repeat purchases of bitcoins in its fractional units, satoshis as a process of stacking these units into larger stacks.   _Toxic Bitcoin Maximalist_ Individuals who advocate for the rejection all forms of alternative currencies; they fully support the use of Bitcoin only. They advocate for the development of the technology and endlessly educate potential users about its use and efficacy.               _Bitcoin Plebs_ Common ever day users of bitcoin, (mostly bitcoin maximalists), who reject ideologies spread by influencers on the internet. They support self-education and self-awareness in the bitcoin space. The Bitcoin Plebs group was started on Twitter in response to the doxing attempt against the pseudonymous bitcoiner Hodlonaut, the group later moved onto Telegram where it operates uninterrupted even today. The Bitcoin Plebs are active users of Twitter. Their group can be accessed with this link: t.me/BitcoinPlebs   _Taco Carnivore Bitcoin Plebs_ A splinter group that decided to form a separate Telegram group after the decentralization attempts of the original Bitcoin Plebs Telegram group. Their members advocate for the total rejection of all forms “shitcoinery”. They often engage other bitcoiners also who they perceive as not adhering completely to the expected standards of bitcoin maximalism. This has led to many members of the group separating based on ideological lines. Most users in this group are also still members of the original Bitcoin Plebs group. Their group can be access with this link: t.me/TacoCarnivoreBitcoinPlebs   _O.G. Bitcoiner_ Original Gangster. It is an acronym that come to mean that someone is a long-time participant individual who is unique in every aspect within the Bitcoin community.   _Influencer_ A person who influencers people in the real world with their speeches and activities, attempting to influence their activities and behaviours. They often run Podcasts.   _UASF_ Was titled the User Activated Soft-Fork as part of Bitcoin Improvement Proposal 148. It is often mistaken for the abbreviation of the US Air Force. It mentioned the first militarization of the community that stood up against third party attackers that seek to profit from the bitcoin protocol’s forceful changes.       _NO2X_ The No 2X movement was a community action by bitcoiners who refused to comply with miners demands to activate Segwit-2MB block increase, the miners lost the war and it was never activated.   _#WeAreAllHodlonaut_ Was a campaign by Bitcoiners on Twitter in response to the doxing attempts against Hodlonaut who deleted all his social media accounts due to fears of safety for his physical safety and to protect his identity. Bitcoiners changed their avatars to the avatar of Hodlonaut, which is an Astronaut Space Cat, with that symbolically defending Hodlonaut.   _Myth of the Bitcoin Time-Traveler_ The story of the Bitcoin Time Traveler titled _“I am a time-traveler from the future, here to beg you to stop what you are doing.”_ is a message posted onto the popular message board Reddit by a non-existing anonymous reddit user. On the post, the user describes the effects of bitcoin on the future and talks about how it is going to end up causing a damaged dystopian future. The post initially was called into question, if it can be a considered a credible warning since the reddit user’s account could not be loaded anymore. Based on a popular myth, if the user changed the effects of history by describing the future, the outcome of the future potentially has changed and that could be a reason for the missing account. Since the time traveler did not have to return back to the past, then the account is was never created. On the 27th of October 2019, the reddit post was modified describing the dangers of reckless investing, the account’s profile is still leading to a non-existent page, some speculate that this might have been manipulated by twitter moderators to downplay the message’s importance.   _bcash_ Is a derogatory slang name of Bitcoin Cash, but alternative forms are also used like: bcrash and btrash.           _Bitcoin Citadel_ The concept of Bitcoin Citadels originates from the reddit post of the Bitcoin Time-Traveler who described fortified gated communities as quasi citadels where bitcoin users concentrate to protect themselves from those that are hostile towards users of Bitcoin. As of today, there are many discussions about the existence of these citadels and has become a quasi-meme among bitcoiners. Pseudonymous Twitter user FartFace2000 (FF2K) has pledged that if the value of bitcoin rises up again, he will re-structure his construction business to specialize in the planning and building of real-life bitcoin citadels.   _Antifragile_ Antifragile is the antonym of fragile, a state that when put out to effects of shocks and damage, it becomes better instead of breaking apart. It is also the title of a Book popular among Bitcoiners that was written by Nassim Nicholas Taleb. The book also talks about the effects of antifragile systems that benefit from disorder, such system like Bitcoin. (Taleb, Antifragile)   _6.15 BTC_ 6.15 BTC, pronounced as six-point-five bee-tee-cee, is a meme created on the online discussion board Reddit by a Twitter user @american\_hodl (currently running under @hodl\_american username on Twitter because of a repeated suspension), who has been previously banned multiple times on the social media platform due to his repeated breaking of rules because of his persistent issues with his obsessive defiance disorder. His coining of the term created an over sexualized version of immense reward of bitcoin ownership in perspective of the future. As @american_hodl claims, the 6.15 BTC equals infinite riches and “big titty bitches”. This sexualization of bitcoin ownership coincides with previous version of Lamborghini ownership as a sign of success within the bitcoin space.   _Paralel__n__í Polis_ Paralelní Polis is a bitcoin café, hackerspace and cryptoanarchist hangout in Prague-Holešovice, Czechia. They only accept cryptocurrencies as payment option. It gives home to the annual Hacker’s Congress. Founded by Slovakian hackers and Artists and Activists from Czechia to advocate for liberation of society and use of advanced technologies that help this process. Can be found at Dělnická 475, 170 00 Praha 7-Holešovice _Hacker’s Congress Paralel__n__í Polis_ Is a major cryptoanarchist conference in Prague, Czechia. The conference often brings about a large bases of users (annually since 2014) who are interested in the topics related to Bitcoin, cryptocurrencies, hacking, cryptoanarchy, liberty, science, libertarianism, and privacy. Hacker’s Congress is now a large international event attracting attendees from all over the world. The congress often partners with La Fabrika to provide conference space for the event.   _Paralelná Polis_ Paralelná Polis is a bitcoin café, hackerspace and cryptoanarchist hangout in Bratislava, Slovakia. It was founded by some of the original Slovakian hackers who also helped found Paralelní Polis in Prague. They also strive to advocate the liberation of society and the use of technologies that help achieve these goals. Can be found at Kominárska 1552/3a, 831 04 Bratislava   _Boating Accident_ Bitcoiners often joke with the term boating accident, when referring to losing their wallet. Often this is used as plausible deniability, claiming that they lost their wallet and there are no more copies of their private key to access their funds.   _BTFD_ Buy the Fucking Dip is a slang term used by Bitcoiners when the price of bitcoin goes lower or crashes more in USD price, with that telling each other to buy more bitcoin.   _Not your keys, not your coins_ Is a term that refers to the ownership of the private key, custodial exchanges do not provide the private key to users therefore they are not in possession of their own coins because the custodial is in possession of it while providing an IOU (I owe you) type of bitcoin substitute that buyers can possibly withdraw from exchanges. Exchange hacks often results with the exchange’s bitcoins becoming stolen, if someone doesn’t hold their own private key then they simply don’t own their coins.         _Bitko_ Bitko, the Bitcoin Monster, the Apex Predator of Fiat Currencies. Imaginary Bitcoin monster drawn by the artist Bitko Yinowsky. The creature is a funny B figure with a single eye in the upper hole of the character B and the lower hole is his mouth, he have a long tongue and likes to feast on fiat currencies.   _Satoshi’s Place_ It is an online drawing board where users can donate satoshis over the lightning network and can place coloured pixels onto the board.   _Satoshi Games_ An independent game developer studio creating creative games that can interact with the lightning network. They create browser-based games that can be played on the internet.   _Lightnite_ A Battle Royale like 3D action game that gives rewards for player in satoshis for activities that they can withdraw from the game. It is still currently in development.  _Shitcoin_ Shitcoin is a derogatory term that attempts to display distain with the existence of alternative cryptocurrencies that were created to attempt to replicate the effects of bitcoin. Since bitcoin over the years seen massive appreciation of value, those with capabilities to alter the source code of bitcoin began developing alternatives and “improved” iterations of the original bitcoin. This has led to a massive economy of “shitcoins” of over 10000 cryptocurrencies and tokens circulating on their own respective blockchain networks or glorified MySQL databases. As programmable additions were created also under the so called smart-contract variant blockchains, it has enabled and accelerated the creation of scam tokens and speculative assets that saw their prices being pump and dumped as speculators began using them to produce profits on their volatility. Since most of these alternative blockchains have very little proof of work securing their blockchain, a direct attack by a nation state or even by a bitcoin miner with larger E/Hs mining power, they could potentially destroy these chains by participating in a 51% double spend attack on these networks. Since “shitcoins” do not enable anything else other than the advancement of the inherent human greed. Bitcoiners coined the term “shitcoin” for their identification since they are in quality and property are much more inferior to that of bitcoin. Shitcoins also can be a form of attack on the bitcoin ecosystem, because whenever a new coin is created, new speculators are pulled into it and with that potentially removing more available value flow from bitcoin, with that slowing down its adoption process. The word can also be used as an adjective to refer to those who use shitcoins.   _Room 77_ Is a café in Berlin that accepts Bitcoin as a currency and regularly hosts the biggest regular Bitcoin meetup in Berlin, Germany. Can be found at Graefestraße 77, 10967 Berlin   _When Moon?_ The phrase When Moon in the bitcoin community refers to expected profits with the USD price of bitcoin. Since trading platforms often utilize candles to trade, their increments often symbolize rocket spaceship like lift-offs that seem like the price of bitcoin is headed towards the moon. Therefore, speculator users began coining the term when moon or mooning to describe either a question of potential lift-off in price or the currently ongoing positive price changes of bitcoin.   _When Lambo?_ When Lambo and When Moon are terms associated with the impending profits experienced by speculating individuals. Usual behavior can be observed in chat rooms and online discussion boards and the social media site Twitter. Lamborghini ownership within the bitcoin space began symbolizing immense success within the space. As the astronomical rise in the USD price of bitcoin made it possible for many early holders of bitcoin to be able to afford iconic creations of the Italian super sports car manufacturer Lamborghini. Often owners of Lamborghinis placed custom license plates on their cars brandishing their origin of wealth or affiliation towards bitcoin.               _Faketoshi_ Self-proclaimed Satoshi Nakamoto and serial fraudster Craig Steven Wright[\[57\]](#_ftn57) received this nick due to his repeated claims to be the bitcoin inventor Satoshi Nakamoto. Faketoshi is now also used as a term for anyone who claims to be Satoshi Nakamoto, it is widely understood by bitcoiners that Satoshi Nakamoto has left the space this way to protect his creation against interference that wants to use him to destroy it.   _Babies are dying!_ It was a viral phrase Roger K Ver bcash (BCH) founder have uttered during a conference claiming that the original Bitcoin is killing babies in war and famine torn countries. Bitcoiners were quick to turn it into a meme online.   _Two weeks™_ A phrase often associated with software that is built upon bitcoin, it means that something will be ready when it is ready. Usually not within two weeks.   _Vires in Numeris_ Strength in Numbers. It is the official latin motto of Bitcoin Protocol.   _Bitcoin fixes this_ It is a term used to refer to problems that can be solved by Bitcoin, due to Bitcoin’s overwhelming effect on politics, society and economics, the problems that Bitcoin can fix seem to make up a very long and diverse list, therefore Bitcoiners often use this term liberally.          
+_Hal Finney_ Hal Finney was the first recipient of bitcoins mined by Satoshi Nakamoto, he has worked and communicated with Satoshi Nakamoto in the past. The term “running bitcoin” was coined by him when he tweeted that he is running Bitcoin software for the first time. Hal Finney was battling Amyotrophic lateral sclerosis, after death was frozen by the Alcor Life Extension Foundation and his body is being cryogenically preserved for a potential later revival.  
 
-**Appendix 2: Cryptographic Proofs**
-====================================
+_Hodl_ Hodl comes from a possible miss-spelling of the word hold, which means holding bitcoins in this context. Some users argue that the intoxication of a forum user on the BitcoinTalk forums were the origin of this coined term when he misspelled it, others claim that it is a complex acronym of “hold on for dear life” aka hodl. Hodl in this concept reached a form of cultural behavioral norm where users of bitcoin are expected to hold bitcoin long term to enforce the network effect on the price of bitcoin by removing bitcoin liquidity from exchanges with that tightening the order books that contain available traded bitcoins on offer.  The basis of “hodling” seems in some sense to provide the basic price of bitcoin, because a bitcoin can be owned physically if someone is within possession of his own private key and can verify that his coins are present on those addresses associated with his private key.   
+
+_1 BTC = 1 BTC_ This refers to the fact that 1 BTC will always equal 1 BTC because there is no central authority to inflate the money supply of Bitcoin. Therefore 1 BTC will always worth 1 BTC on the Bitcoin Protocol.     
+
+_‘Sup Freaks_ A catch phrase used by Marty Bent on the Tails from the Crypt Bitcoin Podcast. 
+
+_Sovereign Individual_ A person that is independent that of nations and not restricted by borders, a true free individual who is in control his own destiny within the free market economy.
+
+_Brrr_ It is the sound that a money printer machine makes when it prints new money. This have become popular during the 2019-2020- COVID-19 Pandemic. The United States’ Federal Reserve have begun its quantitative easing program in response to battle the global COVID-19 pandemic, this resulted in the creation of multi-trillion dollars and the expansion of the money supply. (IMRD)   
+
+_Don’t Trust, Verify._ A techno-philosophical approach towards the verification of aspects of reality, not just within computer science. It heeds users of Bitcoin to don’t trust information they see and instead go to extra lengths to verify their truth content by themselves.   
+
+_Stacking Sats_ Stacking Sats was a term used by Marty Bent on the Tails from the Crypt podcast where he references the repeat purchases of bitcoins in its fractional units, satoshis as a process of stacking these units into larger stacks. 
+
+_Toxic Bitcoin Maximalist_ Individuals who advocate for the rejection all forms of alternative currencies; they fully support the use of Bitcoin only. They advocate for the development of the technology and endlessly educate potential users about its use and efficacy.
+
+_Bitcoin Plebs_ Common ever day users of bitcoin, (mostly bitcoin maximalists), who reject ideologies spread by influencers on the internet. They support self-education and self-awareness in the bitcoin space. The Bitcoin Plebs group was started on Twitter in response to the doxing attempt against the pseudonymous bitcoiner Hodlonaut, the group later moved onto Telegram where it operates uninterrupted even today. The Bitcoin Plebs are active users of Twitter. Their group can be accessed with this link: [t.me/BitcoinPlebs](t.me/BitcoinPlebs)   
+
+_Taco Carnivore Bitcoin Plebs_ A splinter group that decided to form a separate Telegram group after the decentralization attempts of the original Bitcoin Plebs Telegram group. Their members advocate for the total rejection of all forms “shitcoinery”. They often engage other bitcoiners also who they perceive as not adhering completely to the expected standards of bitcoin maximalism. This has led to many members of the group separating based on ideological lines. Most users in this group are also still members of the original Bitcoin Plebs group. Their group can be access with this link: t.me/TacoCarnivoreBitcoinPlebs  
+
+_O.G. Bitcoiner_ Original Gangster. It is an acronym that come to mean that someone is a long-time participant individual who is unique in every aspect within the Bitcoin community.  
+
+_Influencer_ A person who influencers people in the real world with their speeches and activities, attempting to influence their activities and behaviours. They often run Podcasts.  
+
+_UASF_ Was titled the User Activated Soft-Fork as part of Bitcoin Improvement Proposal 148. It is often mistaken for the abbreviation of the US Air Force. It mentioned the first militarization of the community that stood up against third party attackers that seek to profit from the bitcoin protocol’s forceful changes.
+
+_NO2X_ The No 2X movement was a community action by bitcoiners who refused to comply with miners demands to activate Segwit-2MB block increase, the miners lost the war and it was never activated.   
+
+_#WeAreAllHodlonaut_ Was a campaign by Bitcoiners on Twitter in response to the doxing attempts against Hodlonaut who deleted all his social media accounts due to fears of safety for his physical safety and to protect his identity. Bitcoiners changed their avatars to the avatar of Hodlonaut, which is an Astronaut Space Cat, with that symbolically defending Hodlonaut.   
+
+_Myth of the Bitcoin Time-Traveler_ The story of the Bitcoin Time Traveler titled _“I am a time-traveler from the future, here to beg you to stop what you are doing.”_ is a message posted onto the popular message board Reddit by a non-existing anonymous reddit user. On the post, the user describes the effects of bitcoin on the future and talks about how it is going to end up causing a damaged dystopian future. The post initially was called into question, if it can be a considered a credible warning since the reddit user’s account could not be loaded anymore. Based on a popular myth, if the user changed the effects of history by describing the future, the outcome of the future potentially has changed and that could be a reason for the missing account. Since the time traveler did not have to return back to the past, then the account is was never created. On the 27th of October 2019, the reddit post was modified describing the dangers of reckless investing, the account’s profile is still leading to a non-existent page, some speculate that this might have been manipulated by twitter moderators to downplay the message’s importance.   
+
+_bcash_ Is a derogatory slang name of Bitcoin Cash, but alternative forms are also used like: bcrash and btrash.           
+
+_Bitcoin Citadel_ The concept of Bitcoin Citadels originates from the reddit post of the Bitcoin Time-Traveler who described fortified gated communities as quasi citadels where bitcoin users concentrate to protect themselves from those that are hostile towards users of Bitcoin. As of today, there are many discussions about the existence of these citadels and has become a quasi-meme among bitcoiners. Pseudonymous Twitter user FartFace2000 (FF2K) has pledged that if the value of bitcoin rises up again, he will re-structure his construction business to specialize in the planning and building of real-life bitcoin citadels.   
+
+_Antifragile_ Antifragile is the antonym of fragile, a state that when put out to effects of shocks and damage, it becomes better instead of breaking apart. It is also the title of a Book popular among Bitcoiners that was written by Nassim Nicholas Taleb. The book also talks about the effects of antifragile systems that benefit from disorder, such system like Bitcoin. (Taleb, Antifragile)   
+
+_6.15 BTC_ 6.15 BTC, pronounced as six-point-five bee-tee-cee, is a meme created on the online discussion board Reddit by a Twitter user @american\_hodl (currently running under @hodl\_american username on Twitter because of a repeated suspension), who has been previously banned multiple times on the social media platform due to his repeated breaking of rules because of his persistent issues with his obsessive defiance disorder. His coining of the term created an over sexualized version of immense reward of bitcoin ownership in perspective of the future. As @american_hodl claims, the 6.15 BTC equals infinite riches and “big titty bitches”. This sexualization of bitcoin ownership coincides with previous version of Lamborghini ownership as a sign of success within the bitcoin space.   
+
+_Paralel__n__í Polis_ Paralelní Polis is a bitcoin café, hackerspace and cryptoanarchist hangout in Prague-Holešovice, Czechia. They only accept cryptocurrencies as payment option. It gives home to the annual Hacker’s Congress. Founded by Slovakian hackers and Artists and Activists from Czechia to advocate for liberation of society and use of advanced technologies that help this process. Can be found at Dělnická 475, 170 00 Praha 7-Holešovice 
+
+_Hacker’s Congress Paralel__n__í Polis_ Is a major cryptoanarchist conference in Prague, Czechia. The conference often brings about a large bases of users (annually since 2014) who are interested in the topics related to Bitcoin, cryptocurrencies, hacking, cryptoanarchy, liberty, science, libertarianism, and privacy. Hacker’s Congress is now a large international event attracting attendees from all over the world. The congress often partners with La Fabrika to provide conference space for the event.   
+
+_Paralelná Polis_ Paralelná Polis is a bitcoin café, hackerspace and cryptoanarchist hangout in Bratislava, Slovakia. It was founded by some of the original Slovakian hackers who also helped found Paralelní Polis in Prague. They also strive to advocate the liberation of society and the use of technologies that help achieve these goals. Can be found at Kominárska 1552/3a, 831 04 Bratislava   
+
+_Boating Accident_ Bitcoiners often joke with the term boating accident, when referring to losing their wallet. Often this is used as plausible deniability, claiming that they lost their wallet and there are no more copies of their private key to access their funds.   
+
+_BTFD_ Buy the Fucking Dip is a slang term used by Bitcoiners when the price of bitcoin goes lower or crashes more in USD price, with that telling each other to buy more bitcoin.   
+
+_Not your keys, not your coins_ Is a term that refers to the ownership of the private key, custodial exchanges do not provide the private key to users therefore they are not in possession of their own coins because the custodial is in possession of it while providing an IOU (I owe you) type of bitcoin substitute that buyers can possibly withdraw from exchanges. Exchange hacks often results with the exchange’s bitcoins becoming stolen, if someone doesn’t hold their own private key then they simply don’t own their coins.
+
+_Bitko_ Bitko, the Bitcoin Monster, the Apex Predator of Fiat Currencies. Imaginary Bitcoin monster drawn by the artist Bitko Yinowsky. The creature is a funny B figure with a single eye in the upper hole of the character B and the lower hole is his mouth, he have a long tongue and likes to feast on fiat currencies.   
+
+_Satoshi’s Place_ It is an online drawing board where users can donate satoshis over the lightning network and can place coloured pixels onto the board.   
+
+_Satoshi Games_ An independent game developer studio creating creative games that can interact with the lightning network. They create browser-based games that can be played on the internet.   
+
+_Lightnite_ A Battle Royale like 3D action game that gives rewards for player in satoshis for activities that they can withdraw from the game. It is still currently in development.  
+
+_Shitcoin_ Shitcoin is a derogatory term that attempts to display distain with the existence of alternative cryptocurrencies that were created to attempt to replicate the effects of bitcoin. Since bitcoin over the years seen massive appreciation of value, those with capabilities to alter the source code of bitcoin began developing alternatives and “improved” iterations of the original bitcoin. This has led to a massive economy of “shitcoins” of over 10000 cryptocurrencies and tokens circulating on their own respective blockchain networks or glorified MySQL databases. As programmable additions were created also under the so called smart-contract variant blockchains, it has enabled and accelerated the creation of scam tokens and speculative assets that saw their prices being pump and dumped as speculators began using them to produce profits on their volatility. Since most of these alternative blockchains have very little proof of work securing their blockchain, a direct attack by a nation state or even by a bitcoin miner with larger E/Hs mining power, they could potentially destroy these chains by participating in a 51% double spend attack on these networks. Since “shitcoins” do not enable anything else other than the advancement of the inherent human greed. Bitcoiners coined the term “shitcoin” for their identification since they are in quality and property are much more inferior to that of bitcoin. Shitcoins also can be a form of attack on the bitcoin ecosystem, because whenever a new coin is created, new speculators are pulled into it and with that potentially removing more available value flow from bitcoin, with that slowing down its adoption process. The word can also be used as an adjective to refer to those who use shitcoins.   
+
+_Room 77_ Is a café in Berlin that accepts Bitcoin as a currency and regularly hosts the biggest regular Bitcoin meetup in Berlin, Germany. Can be found at Graefestraße 77, 10967 Berlin   
+
+_When Moon?_ The phrase When Moon in the bitcoin community refers to expected profits with the USD price of bitcoin. Since trading platforms often utilize candles to trade, their increments often symbolize rocket spaceship like lift-offs that seem like the price of bitcoin is headed towards the moon. Therefore, speculator users began coining the term when moon or mooning to describe either a question of potential lift-off in price or the currently ongoing positive price changes of bitcoin.   
+
+_When Lambo?_ When Lambo and When Moon are terms associated with the impending profits experienced by speculating individuals. Usual behavior can be observed in chat rooms and online discussion boards and the social media site Twitter. Lamborghini ownership within the bitcoin space began symbolizing immense success within the space. As the astronomical rise in the USD price of bitcoin made it possible for many early holders of bitcoin to be able to afford iconic creations of the Italian super sports car manufacturer Lamborghini. Often owners of Lamborghinis placed custom license plates on their cars brandishing their origin of wealth or affiliation towards bitcoin.
+
+_Faketoshi_ Self-proclaimed Satoshi Nakamoto and serial fraudster Craig Steven Wright[\[57\]](#_ftn57) received this nick due to his repeated claims to be the bitcoin inventor Satoshi Nakamoto. Faketoshi is now also used as a term for anyone who claims to be Satoshi Nakamoto, it is widely understood by bitcoiners that Satoshi Nakamoto has left the space this way to protect his creation against interference that wants to use him to destroy it.   
+
+_Babies are dying!_ It was a viral phrase Roger K Ver bcash (BCH) founder have uttered during a conference claiming that the original Bitcoin is killing babies in war and famine torn countries. Bitcoiners were quick to turn it into a meme online. 
+
+_Two weeks™_ A phrase often associated with software that is built upon bitcoin, it means that something will be ready when it is ready. Usually not within two weeks.  
+
+_Vires in Numeris_ Strength in Numbers. It is the official latin motto of Bitcoin Protocol.
+
+_Bitcoin fixes this_ It is a term used to refer to problems that can be solved by Bitcoin, due to Bitcoin’s overwhelming effect on politics, society and economics, the problems that Bitcoin can fix seem to make up a very long and diverse list, therefore Bitcoiners often use this term liberally.          
+
+## Appendix 2: Cryptographic Proofs
 
   Author’s Previous Versioning Attestation via OpenTimeStamps.org   Name: FORRELEASE-2020-Thesis.docx Size: 423185 bytes (413 KiB) SHA256: A1E266FDC3689FE9C59981381981563E087CAD922167BD47E05D01DDEF39DFF7 Author: Karo Zagorus PGP of Author: 8E06 CD76 ACE6 1F00 Latest Bitcoin Block: 0000000000000000000c4cd95acf70721608cc93c938a46e09f2a2a02f785abc                                                                                                     _Art by Koridian Lionell_        
 
-**References**
-==============
+## References
 
- Abramson, Alana. _Hillary Clinton Officially Wins Popular Vote by Nearly 2.9 Million_. ABC News, 22 Dec 2016. Web. 15 Oct 2019. 
+Abramson, Alana. _Hillary Clinton Officially Wins Popular Vote by Nearly 2.9 Million_. ABC News, 22 Dec 2016. Web. 15 Oct 2019. 
+
 Achenbach, Joel and Scott Clement. _America really is more divided than ever_. The Washington Post, 16 July 2016. Web. 02 August 2019. 
+
 Acinq. _Lightning Network Explorer_. n.d. <explorer.acinq.co>. 
+
 Adamant Capital. _Bitcoin in Heavy Accumulation_. Adamant Capital, 18 April 2019. 19 April 2019. 
+
 Adler, Robert. "Entering a dark age of innovation." 02 July 2005. 06 Jun 2019. 
+
 Ajiboye, Timi, et al. _The Little Bitcoin Book_. 2019\. 
+
 Ammous, Saifedean. _The Bitcoin Standard, The Decentralized Alternative to Central Banking_. John Wiley & Sons, Inc., 2018. 
+
 Andersch, Manuel. "Megatrend Digitalisation, Is Bitcoin outshining gold?" 2019. 
+
 Anon1. _Erste Bank has ruined my life_ Karo Zagorus. 10 Jun 2019. Telephone. 
+
 Antonopoulos, Andreas M. _Mastering Bitcoin, Programming the Open Blockchain_. O'Reilly Media Inc., 2017. 
+
 Arnott, Jonathan. _Will outrageous EU interference in British democracy ever end? European Parliament’s beastly bid to block Brexit_. RT, 10 Oct 2019. Web. 24 Oct 2019. 
+
 Avan-Nomayo, Osato. _Wikileaks have recevied more than $46 million in bitcoin_. Bitcoinist, 07 July 2019. 07 July 2019. 
+
 Barlow, John Perry. _A Declaration of the Independence of Cyberspace_. Davos, Switzerland, 08 Feb 1996. 01 March 2019. <eff.org/cyberspace-independence>. 
+
 Barr, Caelainn. _The areas and demographics where the Brexit vote was won_. The Guardian, 24 Jun 2016. Web. 24 Oct 2019. 
+
 Bashir, Masooda, Beth Strickland and Jeremiah Bohr. "What Motivates People to Use Bitcoin?" 19 Oct 2016. 01 May 2019. 
+
 Bayer, Lili. _Viktor Orbán’s former BFF vows to take down Fidesz_. Politico, 28 06 2017. Web. 05 Sept 2019. 
+
 BBC Trending. _The country where Facebook posts whipped up hate_. 12 Sept 2018. 06 Jun 2019. 
+
 Beauchamp, Zack. _It happened there: how democracy died in Hungary_. 13 Sept 2018. Web. 14 Sept 2018.
+
 Beedham, Matthew. _$200M cryptocurrency mixing operation dismantled by Eurocops_. The Next Web, 23 May 2019. Web. 23 May 2019. 
+
 Bialik, Kristen. _State of the Union 2019: How Americans see major national issues_. Pew Research Center, 04 Feb 2019. Web. 09 Feb 2019. 
+
 Biggs, John. _What You Need To Know About The Liberator 3D-Printed Pistol_. Techcrunch, 06 05 2013. Web. 24 Oct 2019. 
+
 BigTanGringo. _#Liberator12k ZZ6-12_. 24 July 2019. Twitter. 10 Aug 2019. <twitter.com/BigTanGringo/status/1153834924438257666?s=20>. 
+
 BitMEX Research. "Anatomics of the Next Global Financial Crisis." 12 February 2019. 29 May 2019. —. "The Economics of the Difficulty Adjustment." 15 September 2017. 29 May 2019. 
+
 Block Digest. _SHI256 #2 - UASF & NYA_. Prod. @brian_trollz Shinobi. 01 Aug 2019. YouTube. 01 Aug 2019. <youtube.com/watch?v=MdG3BgoKWVE>. 
+
 Bogart, Spencer. _Bitcoin is a Demographic Mega-Trend: Data Analysis_. 30 April 2019. 01 May 2019. <medium.com/blockchain-capital-blog/bitcoin-is-a-demographic-mega-trend-data-analysis-160d2f7731e5>. 
+
 Bogatyy, Ivan. _Breaking Mimblewimble’s Privacy Model_. 18 Nov 2019. Web. 18 Nov 2019. 
+
 Bohr, Jeremiah and Masooda Bashir. "Who Uses Bitcoin?" _2014 Twelfth Annual Conference on Privacy, Security and Trust (PST)_. Urbana, USA, 2014. 01 May 2019. 
+
 Bomberger, William A. and Gail E. Makinen. "The Hungarian Hyperinflation and Stabilization of 1945-1946." _Journal of Political Economy 91, no. 5_ (1983): 801-824. Document. 12 March 2020. 
+
 Borger, Julian. _Journalist Pelin Ünker sentenced to jail in Turkey over Paradise Papers investigation_. 09 Jan 2019. 09 Jan 2019. 
+
 Brown, Ben. _‘There’s Bitcoin and Then There’s Shitcoin (Libra)’. Congress Finally Gets It_. CCN, 19 July 2019. Web. 19 July 2019. 
+
 BTCPay Server. _About TOR and BTCPay Server_. 28 Feb 2019. Web. 10 Oct 2019. <medium.com/@BtcpayServer/about-tor-and-btcpay-server-2ec1e4bd5e51>. 
+
 Caldwell, Leigh Ann. _New year, same stalemate in Congress on government spending, DACA_. NBC News, 03 Jan 2018. Web. 03 Jan 2018. 
+
 Capital Creators. _One Dollar or One Bitcoin | College Students Asked What They Would Accept_. 20 May 2019. YouTube. 29 May 2019. <youtube.com/watch?v=whrORgwyLE4>. 
+
 Caras, Michael. _Bitcoin Money: A Tale of Bitville Discovering Good Money_. Lightning Source UK Ltd., 2019. 
+
 Castillo, Michael del. _Bitcoin’s Last Gunslinger_. 03 Jan 2018. 03 Jan 2018. 
+
 CDC. _CDC funds 34 innovative projects to combat antibiotic resistance_. Center for Disease Control and Prevention, 06 Oct 2016. Web. 23 10 2019. 
+
 Chang, Alvin. _The Facebook and Cambridge Analytica scandal, explained with a simple diagram_. Vox, 02 May 2018. Web. 02 May 2018. 
+
 Chappell, Bill. _Supreme Court Declares Same-Sex Marriage Legal In All 50 States_. NPR, 26 June 2015. Web. 26 June 2015. 
+
 Cheng, Evelyn. _Bitcoin bubble dwarfs tulip mania from 400 years ago, Elliott Wave analyst says_. Ed. CNBC. 20 Jul 2017. 04 Jan 2018. 
+
 Cheong, Ian Miles. _Rebel Against the Extinction Rebellion_. Human Events, 22 10 2019. Web. 23 10 2019. 
+
 Chomsky, Noam. _Email Conversation_ Karo Zagorus. Redacted Redacted Redacted. Email. 
+
 CNBC. _Disruptors are 'clearly shaking the system,' IMF's Lagarde says_. CNBC, 10 April 2019. 10 Apr 2019. 
+
 CNN Politics. _GOP Texas state Rep. Briscoe Cain tweeted at Beto O’Rourke saying, “My AR is ready for you Robert Francis,” in response to O’Rourke’s mandatory gun buyback proposal._ 13 Sept 2019. Twitter. <twitter.com/CNNPolitics/status/1172480899939799041>. 
+
 Cohan, William D. _How Wall Street's Bankers Stayed Out of Jail_. The Atlantic, Sept 2015. Web. 10 March 2019. 
+
 Cull, Nichilas J., et al. _Soviet Subversion, Disinformation and Propaganda: How the West Fought Against it_. LSE Consulting, October 2017. Web. 15 Oct 2019. 
+
 Davidson, James Dale and Lord William Rees-Mogg. _The Sovereign Individual, Mastering the Transition to the Information Age_. Touchstone, 1999. 
+
 Davies, Alex. _General Motors Is Going All Electric_. Wired, 02 10 2017. Web. 23 10 2019. 
+
 De, Nikhilesh. _‘A Real Bubble’: Billionaire Warren Buffett Doubles Down on Bitcoin Doubt_. 26 Oct 2017. 28 Dec 2017. 
+
 Deener, Will. _No one went to prison after the 2008 financial crisis - and the fault lies with us_. Dallas News, 13 Feb 2017. Web. 05 Jun 2019. 
+
 Denber, Rachel. _Russia Is No Safe Place For Independent Journalists_. Human Rights Watch, 23 Oct 2017. Web. 20 Oct 2019. 
+
 Deterrence Dispensed. _FGC-9_. CTRLPew, 28 March 2020. YouTube Video. 28 March 2020. <youtube.com/watch?v=1zabSOHd0Ag>. 
+
 Dimbleby, Kitty and Bel Mooney. _'Mum and I will never understand each other's views on Brexit'_. The Telegraph, 04 Sept 2019. Web. 11 Sept 2019. 
+
 Dodds, Laurence. _China floods Facebook with undeclared coronavirus propaganda ads blaming Trump_. The Telegraph, 05 April 2020. Web. 05 April 2020. 
-Doherty, Brian. _Bitcoin: If It Ain't Dead, It Should Be Because It's All About "White Privilege"_. 27 Feb 2014. Web. 10 Jan 2019. 
+
+Doherty, Brian. _Bitcoin: If It Ain't Dead, It Should Be Because It's All About "White Privilege"_. 27 Feb 2014. Web. 10 Jan 2019.
+
 Edelman. "2008 Edelman Trust Barometer." 2008. PDF. 16 Jun 2019. 
 —. "2009 Edelman Trust Baromter." 2009. PDF. 16 Jun 2019. 
 —. "2010 Edelman Trust Baromter." 2010. PDF. 16 Jun 2019. 
@@ -480,139 +640,263 @@ Edelman. "2008 Edelman Trust Barometer." 2008. PDF. 16 Jun 2019.
 —. "2017 Edelman Trust Barometer." 2017. PDF. 25 August 2018. 
 —. "2018 Edelman Trust Barometer." 2018. PDF. 03 March 2019. 
 —. "2019 Edelman Trust Barometer." 2019. PDF. 03 March 2019. 
+
 Eisinger, Jesse. _Why Only One Top Banker Went to Jail for the Financial Crisis_. The New York Times, 30 Apr 2014. Web. 08 Oct 2018. 
+
 Emese, Fekete. _Így lett Magyarország devizapokol_. Origo, 22 08 2011. Web. 23 02 2019. 
+
 English, Carleton. _Nouriel Roubini says Bitcoin is ‘bulls–t’_. 02 May 2018. Web. 25 Jan 2019. 
+
 European Center for Disease Prevention and Control. _Combined resistance to multiple antibiotics: a growing problem in the EU_. ECDC, 17 Nov 2017. Web. 23 10 2019. 
+
 Europol. _Multi-Million Euro Cryptocurrency Laundering Service BESTMIXER.IO Taken Down_. 22 May 2019. Web. 22 May 2019. 
+
 Federal Reserve Bank of St. Louis. "Banking Act of 1933." 1933. Web. 12 Jan 2020. 
+
 Fischer, Tibor. _Happy 10th birthday, bitcoin. It’s amazing you still exist_. 03 Jan 2019. Web. 03 Jan 2019. 
+
 Frean, Alexandra. _Bitcoin will become the world’s single currency, Twitter chief says_. 21 March 2018. 30 August 2018. 
+
 Frisby, Dominic. _Bitcoin, The Future of Money?_ Unbound, 2014. 
+
 FuggGunControl. _Fuck Gun Control 9 Carbine_. 03 Oct 2019. Twitter. 03 Oct 2019. <twitter.com/FuggGunControl/status/1179792028021989376>. 
 —. _Plastikov 3D Printed AK Receiver_. 23 Oct 2019. Twitter. 23 Oct 2019. <twitter.com/FuggGunControl/status/1185642575551782918>. 
+
 Fukuyama, Francis. _Trust: Human Nature and the Reconstitution of Social Order: The Social Virtues and the Creation of Prosperity_. Free Press Paperbacks, 1995. 
+
 Gladstein, Alex. "Why Bitcoin Matters for Freedom." 2018. _TIME._ 28 12 2018. 
+
 Glahn, Richard Von. _Fountain of Fortune_. University of California Press, 1996. 
+
 Glenski, Maria, Emily Saldanha and Svitlana Volkova. "Characterizing Speed and Scale of Cryptocurrency Discussion Spread on Reddit." 27 May 2019. 09 Jun 2019. 
+
 Goldblatt, David and Daniel Nolan. _Viktor Orbán’s reckless football obsession_. The Guardian, 11 Jan 2018. Web. 23 10 2019. 
+
 Golumbia, David. _The Politics of Bitcoin, Software as Right-Wing Extremism_. University of Minnesota Press, 2016. 
+
 Graff, Garrett M. _Did Satoshi Nakamoto Write This Book Excerpt? A WIRED Investigation_. Wired, 01 January 2018. Web. 10 March 2020. 
+
 Grym, Aleksi and Bank of Finland. "The great illusion of digital currencies." 2018. 
+
 Gurgutz, Dr. Zeynep, Prof William Knottenbelt and Imperial College of London. "CRYPTOCURRENCIES: OVERCOMING BARRIERS TO TRUST AND ADOPTION." 2018. 
+
 Halasz, Julia and Juli Boros. _Ők azt gondolják, 1 migránsból lesz 6 migráns, 6-ból meg 12, és a végén elfoglalják egész Őcsényt, egész Magyarországot_. 444.hu, 28 Sept 2017. Web. 28 Sept 2017. 
+
 Harmat, Balint and David Molnar. _Interview with the creators of Wasabi Wallet_ Karo Zagorus. Budapest, 28 Oct 2019. Notes. 
+
 Hayek, Friedrich A. _The Road to Serfdom_. Routeledge Press, 1944. 
 —. "The Use of Knowledge in Society." _The American Economic Review, Vol. 35, No. 4 (Sep., 1945), pp. 519-530_ n.d. 05 Jun 2019. 
+
 Hayes, Arthur. _Two sides of the coin: the bifurcated near-future of money_. 03 Jan 2019. Website. 03 Jan 2019. 
+
 Henley, Jon. _What is the current state of the migration crisis in Europe?_ The Guardian, 21 Nov 2018. Web. 05 May 2019. 
+
 Hertig, Alyssa. _Bitcoin Devs Are Feeling More Optimistic About MimbleWimble_. 23 Jan 2017. 03 Jan 2019. 
+
 Hodlonaut. _The Bitcoin Plebs Interview 1_ Karo Zagorus. 15 11 2019. Chat. 
+
 Huebner, Jonathan. "A possible declining trend for worldwide innovation." 10 September 2005. 01 May 2019. 
+
 Hughes, Eric. _A Cypherpunk's Manifesto_. 9 March 1993. 07 Feb 2019. <activism.net/cypherpunk/manifesto.html>. 
+
 Hutton, Will. _Britain is being led to an epic act of national self-harm over Brexit_. 03 Jun 2017. The Guardian. 08 Jan 2019. 
+
 IMRD. _Money printer go BRRR_. Internet Memetic Research & Development, 2020. Web. 
+
 Jacobs, Ben. _Trump defends Mexican rapist claim during conspiracy-laden speech_. The Guardian, 05 April 2018. Web. 05 Jun 2019. 
+
 jimbo. _Orange Coin Good: The Value of Bitcoin_. Early Access by Author. 2020. 
+
 Jones, Owen. _Feel no pity for Theresa May. She has been the worst prime minister in modern times_. The Guardian, 24 May 2019. Web. 25 May 2019. 
+
 Kasher, Prof. Asa, et al. _The Migration Wave into Europe_. Ed. Fiamma Nirenstein. Jerusalem Center for Public Affairs, 31 Mar 2019. 06 Jun 2019. 
+
 kasnykm. _Végigbüntette az MNB a behajtócégeket_. 29 Sept 2015. 14 Jun 2019. 
+
 Krawisz, Daniel. _Why Bitcoin Will Continue to Grow_. The Nakamoto Institute, 01 Feb 2014. Web. 12 Feb 2019. 
+
 Krawisz, Daniel. _Hyperbitcoinization_. The Nakamoto Institute, 29 March 2014. Web. 12 Feb 2019. 
+
 Krieg, Gregory. _How did Trump win? Here are 24 theories_. CNN. 10 November 2016. 27 Jun 2019. 
+
 Kyodo. _Number of newborns in Japan fell to record low while population dropped faster than ever in 2018_. 07 Jun 2019. Web. 23 10 2019. 
+
 Langlois, Shawn. _How biased is your news source? You probably won’t agree with this chart_. MarketWatch, 21 Apr 2018. Web. 20 Oct 2019. 
+
 Lee, David. _The tactics of a Russian troll farm_. BBC, 16 Feb 2018. Web. 24 Oct 2019. 
+
 Lenard, Dr. Rita. "Vulnerability and chaos in the Hungarian healthcare system." 2018. Web. 10 March 2020. 
+
 Li, Chanel and Ragnar Lifthrasir. _2: Behind Enemy Lines – A.G. Leaks_. Guns n' Bitcoin, 03 Sept 2019. Web. 25 Sept 2019. <gunsnbitcoin.com/podcast/ep2/>. 
 —. _5: Come and Print It – Ivan The Troll_. Guns n' Bitcoin, September 2019. Web. 01 October 2019. <gunsnbitcoin.com/podcast/ep5/>. 
 —. _7: BitcoinGun Lawyer Part I_. Guns n' Bitcoin, 08 October 2019. Web. 15 October 2019. <gunsnbitcoin.com/podcast/bitcoin-gun-lawyer-part-i/>. 
+
 London Real. _Andreas Antonopoulos - The Death of Money - PART 1/2 | London Real_. 15 Jan 2017. Web. 9 July 2019. <youtube.com/watch?v=DuoE5CXlIdY>. 
+
 Maddox, Alexia, et al. "An ethnography of Bitcoin: Towards a future research agenda." _Australian Journal of Telecommunications and the Digital Economy_ 4.1 (2016). 18 March 2020. 
+
 Magyar, Hajnalka, et al. _Van egy magyar Magyarország_. 16 Jun 2018. Web. 16 Jun 2018. 
+
 Magyari, Peter. _Tudományosan bizonyították, hogy Orbán Viktor egyre inkább paráztat_. 444.hu, 04 July 2018. Web. 04 July 2018. 
+
 Márk, Herczeg. _Ellenzéki képviselőnők együtt kezdeményezik a kilakoltatási moratórium meghosszabbítását_. 444, 18 Apr 2019. Web. 27 Jun 2019. 
+
 Mason, Rowena and Peter Walker. _‘Surrender act’: Johnson ignores calls to restrain his language_. The Guardian, 29 Sept 2019. Web. 30 Sept 2019. 
+
 McCammond, Alexi. _Beto ignites split among 2020 Democrats on guns_. AXIOS, 03 Oct 2019. Web. 24 Oct 2019. 
+
 McCann, Kate and Tom Morgan. _Nigel Farage: £350 million pledge to fund the NHS was 'a mistake'_. The Telegraph, 24 June 2016. Web. 24 June 2016. 
+
 McKay, Hollie. _Moscow feels vindicated in the wake of “no collusion”_. Fox News, 25 March 2019. Web. 25 March 2019. 
+
 Ministry of Finance and Economic Affairs of Iceland. _Progress of the Plan for Removal of Capital Controls_. Government of Iceland, 25 Oct 2017. Web. 01 Dec 2019. <government.is/library/Files/greinargerd\_okt17-2\_enska.pdf>. 
+
 Monaghan, Angela. _Bitcoin is a fraud that will blow up, says JP Morgan boss_. 13 Sept 2017. 28 Dec 2017. 
+
 Mozur, Paul. _A Genocide Incited on Facebook, With Posts From Myanmar’s Military_. 15 Oct 2018. 6 Jun 2019. 
+
 MTI. _ELFOGADTÁK A KILAKOLTATÁSI MORATÓRIUM MEGHOSSZABBÍTÁSÁT_. Magyar Idok, 31 Oct 2017. Web. 25 Sept 2018. 
+
 Myers, Jolie and Monika Evstatieva. _Meet The Activist Who Uncovered The Russian Troll Factory Named In The Mueller Probe_. NPR, 15 March 2018. Web. 15 March 2018. 
+
 Nakamoto, Satoshi. _Bitcoin open source implementation of P2P currency_. 11 Feb 2009. Web. 01 Dec 2019. <p2pfoundation.ning.com/forum/topics/bitcoin-open-source>. 
 —. _Bitcoin v0.1 released_. Nakamoto Institute, 08 January 2009. Web. <satoshi.nakamotoinstitute.org/emails/cryptography/16/>. 
 —. "Bitcoin: A Peer-to-Peer Electronic Cash System." 2008. 
+
+
 Nardelli, Alberto. _Are there really 8 million foreigners in Britain?_ The Guardian, 26 Aug 2015. Web. 10 Oct 2019. 
+
 Nicholson, Catheryne. _MimbleWimble: Silly Sounding Tech Could Seriously Reform Bitcoin_. 30 April 2017. 03 Jan 2019. 
+
 Nirenstein, Fiamma. _The Immigration Crisis in Europe_. Jerusalem Center for Public Affairs, 31 Mar 2019. Web. 06 Jun 2019. 
+
 nopara73 and TDevD. _ZeroLink: The Bitcoin Fungibility Framework_. 28 July 2017. Web. 02 January 2019. nopara73. _Samourai vs Wasabi Mixing Architecture_. 25 Oct 2019. Web. 25 Oct 2019. 
+
 O'Kane, Sean. _Tesla posts back-to-back profits for the first time_. The Verge, 30 Jan 2019. Web. 23 10 2019. 
+
 Oliver, John. _Brexit III: Last Week Tonight with John Oliver (HBO)_. HBO, 18 Feb 2019. 15 April 2019. <youtube.com/watch?v=HaBQfSAVt0s>. 
+
 Ossinger, Joanna. _Roubini Says Bitcoin Is the ‘Biggest Bubble in Human History’_. 02 Feb 2018. Web. 02 Feb 2018. 
+
 OTP Bank. "Üzletszabályzat a természetes személyek adósságrendezéséről (Magáncsőd) lakossági ügyfelek részére." 25 May 2018. Web. 27 Jun 2019. <otpbank.hu/static/portal/sw/file/Magancsod\_USZ\_LAK_20180525.pdf>. 
+
 Peck, Morgen E. _Bitcoin: The Cryptoanarchists’ Answer to Cash_. 30 May 2012. Web. 16 Jan 2019. 
+
 Perez, Yessi Bello. _Why Bitcoin’s Star is Rising in the Czech Republic_. 12 February 2015. Web. 09 Jan 2019. 
+
 Pesce, Lyn. _This is exactly how often cocaine and feces show up on your dollar bills_. MarketWatch, 11 July 2017. Web. 28 Nov 2019. 
+
 Pew Research Center. _Political Polarization in the American Public_. 12 June 2014. Web. 15 March 2019. 
+
 Pilkington, Ed. _Traces of cocaine found on up to 90% of dollar bills in American cities_. The Guardian, 17 Aug 2009. Web. 28 Nov 2019. 
+
 Pinsker, Joe. _Why Aren’t Any Bankers in Prison for Causing the Financial Crisis?_ 16 Aug 2016. 06 Jun 2019. 
+
 PlanB. _Modeling Bitcoin's Value with Scarcity_. 22 March 2019. Web. 25 March 2019. <medium.com/@100trillionUSD/modeling-bitcoins-value-with-scarcity-91fa0fc03e25>. 
 —. "Verification of Monetary Supply of Bitcoin." _I just personally verified #bitcoin monetary base_. 14 Jun 2019. Tweet. 14 Jun 2019. <twitter.com/100trillionUSD/status/1139519771190484993>. 
+
 Polityuk, Pavel. _Ukraine kidnappers free bitcoin analyst after $1 mln ransom paid_. Reuters, 29 Dec 2017. Web. 07 March 2020. 
+
 Pollack, Andrew. _Drug Goes From $13.50 a Tablet to $750, Overnight_. New York Times, 20 Sept 2015. Web. Sept 2015. 
+
 Portfolio.hu. _Bedőlt lakossági hitelek tízmilliárdjait adja el a magyar Erste_. Portfolio.hu, 28 Oct 2016. Web. 10 Feb 2019. 
+
 Prentice, Ben and Heavily Armed Clown. _WTF Happened in 1971?_ 2019\. Web. 10 09 2019. <wtfhappenedin1971.com>. 
+
 Pritzker, Yan. _Inventing Bitcoin_. Middleton, DE, 2019. 
+
 Prokop, Andrew. _Cambridge Analytica shutting down: the firm’s many scandals, explained_. Vox, 02 May 2018. Web. 02 May 2018. 
+
 Rapaport, Lisa. _Another look at the surge in EpiPen costs_. Reuters, 27 March 2017. Web. 08 Sept 2018. 
+
 Resnick, Brian. _The science behind why fake news is so hard to wipe out_. Vox, 31 Oct 2017. Web. 27 Jun 2019. 
+
 Roberts, Jeff John and Nicolas Rapp. _Exclusive: Nearly 4 Million Bitcoins Lost Forever, New Study Says_. Fortune, 25 November 2017. Web. 11 March 2020. 
+
 Rosenbaum, Kalle. _grokking Bitcoin_. Manning Publications Co., 2019. 
+
 Rosenberg, Eli. _Chart: Libertarianism Is on the Rise_. The Atlantic, 20 Jun 2011. Web. 24 Oct 2019. 
+
 Rothbard, Murray N. _Man, Economy, and State_. New York: D. Van Nostrand, 1962. 
+
 Sacchetti, Maria. _U.S. asylum officer say Trump's 'Remain in Mexico' policy is threathening migrant's lives, ask federal court to end it_. The Washington Post, 26 Jun 2019. Web. 26 Jun 2019. 
+
 Saphiro, Ben. _Antifa and the Alt-Right, Growing in Opposition to One Another_. National Review, 15 Aug 2017. Web. 10 Jan 2018. 
+
 Sarkadi, Zsolt. _Hiába állítja Mészáros, hogy semmi köze a Népszabadság felvásárlójához, nem mond igazat_. 444.hu, 27 Oct 2016. Web. 10 Oct 2019. 
+
 Scannell, Kara and Richard Milne. _Who was convicted because of the global financial crisis?_ 09 August 2017. Web. 06 Jun 2019. 
+
 Schoenberg, Tom and Matt Robinson. _Bitcoin ATMs May Be Used to Launder Money_. Bloomberg, 14 Dec 2018. Web. 09 March 2020. 
+
 Seres, Istvan Andras. Interview. Karo Zagorus. 17 Dec 2019. Email. 
+
 Servon, Lisa. _The Unbanking of America: How the New Middle Class Survives_. Houghton Mifflin Harcourt Publishing Company, 2017. 
+
 Sharma, Gaurav. _Trump Vowed To Save Coal But U.S.' Largest Mining Basin Remains In Decline_. Forbes. 14 Apr 2019. Web. 20 Jun 2019. 
+
 Shuster, Simon. _The U.K.'s Old Decided for the Young in the Brexit Vote_. TIME, 24 Jun 2016. Web. 27 Sept 2017. 
+
 SIXX. _Magyar Helsinki Bizottság: A kormány szócsöve lett a közmédia_. 26 06 2015. Web. 09 Oct 2019. <comment.blog.hu/2015/06/26/magyar\_helsinki\_bizottsag\_a\_kormany\_szocsove\_lett\_a\_kozmedia>. 
+
 Song, Jimmy. _Understanding Segwit Block Size_. 03 July 2017. Web. 27 Nov 2019. <medium.com/@jimmysong/understanding-segwit-block-size-fd901b87c9d4>. 
+
 Steil, Benn. _The Dangers of Monetary Nationalism_. Real Clear Politics, 09 Dec 2010. Web. 08 02 2019. 
+
 Steinmetz, Katy. _This Bitcoin-Trading Family Man Faced Years in Prison. Now He’s Telling His Story_. 1 March 2018. Web. 28 Dec 2018. 
+
 Stewart, Heather. _Theresa May announces she will resign on 7 June_. The Guardian, 24 May 2019. Web. 24 May 2019. 
+
 Stockler, Asher. _BETO O'ROURKE SUGGESTS POLICE WOULD 'VISIT' HOMES TO IMPLEMENT PROPOSED ASSAULT WEAPONS BAN_. Newsweek, 16 Oct 2019. Web. 19 Oct 2019. 
+
 Strasser, Annie-Rose. _Bitcoin: By The Privileged, For The Privileged_. 27 Feb 2014. Web. 10 Jan 2019. 
+
 Strickland, Patric. _What is the future of Greece's neo-fascist Golden Dawn?_ Al-Jazeera English, 17 Apr 2018. Web. 05 Jan 2019. 
+
 Subramanian, Samanth. _Inside the Macedonian Fake-News Complex_. WIRED, 15 Feb 2017. Web. 10 July 2017. 
+
 Swan, Melanie. _Blockchain, Blueprint for a New Economy_. O'Reilly Media Inc., 2015. 
+
 Syncrhon Lizing Zrt. _Adósságrendezési eljárás (Magáncsőd)_. 2019\. Web. 27 Jun 2019. <synchronlizing.hu/magancsod>. 
+
 Szabo, Nick. _Bit gold_. December 2005. Web. 16 Jan 2019. 
 —. _Shelling Out -- The Origins of Money_. 2002\. Web. 20 Aug 2018. 
+
 Szmigiera, M. _Number of Blockchain wallet users globally 2016-2019_. January 2020. Web. January 2020. <statista.com/statistics/647374/worldwide-blockchain-wallet-users/>. 
+
 Taiberg, Michael. _A New Report Shows People Are Warming Up to Bitcoin_. Bitcoin Magazine, 01 May 2019. Web. 01 May 2019. <bitcoinmagazine.com/articles/new-report-shows-people-are-warming-bitcoin/>. 
+
 Taleb, Nassim Nicholas. _Antifragile_. Penguin Books, 2012. 
 —. _Bitcoin_. 22 Jan 2018. 08 Aug 2018. 
 —. _Skin in the Game_. Penguin Random House UK, 2018. 
 —. _The Black Swan_. 2nd. Penguin Random House, 2010. 
+
 The Economist. _Attitudes towards the mainstream media take an unconstitutional turn._ 02 August 2017. Web. 15 Sept 2017. 
+
 The Guardian. _Cambridge Analytica a year on: ‘a lesson in institutional failure’_. 17 March 2019. Web. 17 March 2019. 
+
 The Swede. _Bull Bitcoin — Protecting Against Financial Censorship And Reclaiming Customers’ Privacy, One Coinjoin At A Time_. 04 July 2019. Web. 04 July 2019. 
+
 The Tor Project. _History of the Tor Project_. n.d. Web. <torproject.org/about/history/>. 
+
 U.S. Food and Drug Administration. _Combating Antibiotic Resistance_. FDA, 15 11 2011. Web. 23 10 2019. 
+
 Vauplane, Hubert de. _The debate on the fungibility of Bitcoin_. 22 Sept 2018. Web. 20 Feb 2020. 
+
 Wagner, Kurt. _Here’s how Facebook allowed Cambridge Analytica to get data for 50 million users_. Vox, 17 Mar 2018. Web. 18 Mar 2018. 
+
 Wallet, Samourai. _Diving head first into Whirlpool Anonymity Sets._ 24 Oct 2019. Web. 24 Oct 2019. 
+
 Walt, Stephen M. _The Collapse of the Liberal World Order_. 26 June 2016. Web. 21 Jun 2019. 
+
 Weise, Elizabeth. _Russian fake accounts showed posts to 126 million Facebook users_. USA Today, 01 Nov 2017. Web. 01 Nov 2017. 
+
 Wheeler, Brian, Paul Seddon and Richard Morris. _Brexit: All you need to know about the UK leaving the EU_. BBC. 10 May 2019. Web. 10 May 2019. 
+
 World Bank. _Gross domestic savings (% of GDP) - Japan_. 2017\. Web. 23 10 2019. <data.worldbank.org/indicator/NY.GDS.TOTL.ZS?locations=JP>. 
+
 Yeginsu, Ceylan. _N.H.S. Overwhelmed in Britain, Leaving Patients to Wait_. The New York Times, 03 Jan 2018. Web. 22 Oct 2019. 
+
 Yglesias, Matthew. _There’s actually lots of evidence of Trump-Russia collusion_. Vox, 11 Jun 2018. Web. 05 July 2018.     
 
 
