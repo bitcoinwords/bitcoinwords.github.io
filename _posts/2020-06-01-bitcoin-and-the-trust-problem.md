@@ -1460,6 +1460,9 @@ Yeginsu, Ceylan. _N.H.S. Overwhelmed in Britain, Leaving Patients to Wait_. The 
 
 Yglesias, Matthew. _There’s actually lots of evidence of Trump-Russia collusion_. Vox, 11 Jun 2018. Web. 05 July 2018.     
 
+***
+
+## Footnotes
 
 [^1]: According to the book by Lisa Servon about 128 million US Citizens are struggling daily to make a living. (Servon)
 [^2]: Similar trends can also be viewed connected to Payday lenders in the United States where these lenders often give non-compliant or non-paying debtors loans to collection agencies whom later able to change the terms of the loan and impose higher fees or late payment added interests on the debtor’s total  outstanding debt. (Servon) 
