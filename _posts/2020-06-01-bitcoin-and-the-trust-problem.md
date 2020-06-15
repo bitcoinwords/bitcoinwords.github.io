@@ -25,12 +25,6 @@ classes: wide
 defaults:
   - scope:
       type: posts
-
-toc: true
-toc_sticky: false
-toc_label: " Contents"
-toc_icon: "bookmark"  # corresponding Font Awesome icon name (without fa prefix)
-
 ---
 
 {% include donation.md %}
