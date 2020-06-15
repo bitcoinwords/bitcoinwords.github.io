@@ -1466,60 +1466,113 @@ Yglesias, Matthew. _There’s actually lots of evidence of Trump-Russia collusio
 
 [^#_ftn1]: According to the book by Lisa Servon about 128 million US Citizens are struggling daily to make a living. (Servon) [↩](ref:#_ftn1)
 [[1]](#_ftnref1) According to the book by Lisa Servon about 128 million US Citizens are struggling daily to make a living. (Servon) 
+
 [[2]](#_ftnref2) Similar trends can also be viewed connected to Payday lenders in the United States where these lenders often give non-compliant or non-paying debtors loans to collection agencies whom later able to change the terms of the loan and impose higher fees or late payment added interests on the debtor’s total  outstanding debt. (Servon) 
+
 [[3]](#_ftnref3) It should be noted that for example in Hungary, it was not possible to declare a personal bankruptcy until 2015. Up until that time the absence of this law made it much harder to repay debts that are impossible to finance any longer for individuals, but in no sense does it completely eradicate the debt of debtors and their responsibility to repay outstanding debts towards creditors. (OTP Bank) 
+
 [[4]](#_ftnref4) We must note here that often these concepts are deeply associated with being a refugee. The conceptualization of the word “refugee” has transformed in Hungary and are now fully associated with other meanings like migrant, muslim, illegal immigrant, rapist and terrorist. The example of events in the town of Ocseny shows that these concepts are now more closely tied together than before. (Halasz and Boros) 
+
 [[5]](#_ftnref5) Troll Farms (especially in Russia) are state funded institutions that engage in Social Media manipulation by releasing falsified information or running propaganda campaigns in foreign countries. 
+
 [[6]](#_ftnref6) Lajos Simicska was a teenage friend of Hungarian Prime Minister, Viktor Orban. Due to their friendship deteriorating, they have entered a political feud that prompted Lajos Simicska to buy news outlets and wage a political media war against Viktor Orban. Orban in response has begun personally discrediting and smearing Simicska for cooperating with the billionaire speculator George Soros. (Bayer) 
+
 [[7]](#_ftnref7) During the Obama Administration, a landmark ruling was passed by the US Supreme Court that allowed Americans to marry others of the same sex in all 50 continental US States. (Chappell) 
+
 [[8]](#_ftnref8) Monetary Policy, referred here as Monetary Nationalism, is a sovereign State’s ability to issue its money and control its monetary policy, money supply and its functions as a sovereign Nation. Either through a ruler like a king, emperor, dictator, or through an independent national central bank. (Ammous; Steil) 
+
 [[9]](#_ftnref9) Time preference is a behavior trait that determines how we will decide about actions where we might demand instant gratification for our needs. A high time preference trait makes us want to fulfill our needs immediately, while a low time preference makes us defer these actions later into the future. Individuals with low time preference tend to save more money and defer from spending it immediately while those with high will reach for lines of credit, overspending without any possibility of savings. (Rothbard) 
+
 [[10]](#_ftnref10) A person who uses strong cryptography to communicate online on the internet and who advocates for the usage of surveillance circumventing encryption standards and Bitcoin. 
 [[11]](#_ftnref11) A double spend is a form of malicious action by someone who attempts to spend their value twice. In different digital currencies preceding bitcoin, it was possible to commit double spends.
+
 [[12]](#_ftnref12) Satoshi is the smallest fractional unit of a bitcoin. 1 BTC = 100.000.000 sats. On the Lightning Network, 1 BTC can be broken down to 100.000.000.000 millisats (msats). 
+
 [[13]](#_ftnref13) Transaction malleability although exists within older version of Bitcoin, with legacy transactions, since the network is backwards compatible, malicious nodes (or attackers) could interfere with the script of a transaction and modify it in a way that the transaction would fail or become invalid. An attacker could re-order the fields on a transaction, that would produce a functionally identical but different ID. This problem was solved by the activation of segregated witness proposal. Due to the technical complexity of the segregated witness improvement, it is out of scope for this paper. (Rosenbaum) 
+
 [[14]](#_ftnref14) Stock-to-flow here means two things, stock is the amount of metal held by others, and flow means the inflation of the supply that the incoming new metal is expanding the supply with. Gold has a stock-to-flow of just over 50. (Ammous; Andersch) 
+
 [[15]](#_ftnref15) The Foreign Exchange Act of Iceland was enacted in response to the 2008 Financial Crisis and sought to prevent the outflow of capital from Iceland to foreign countries. Essentially the use of Bitcoin in commerce was prohibited until the law was amended in 2017. (Ministry of Finance and Economic Affairs of Iceland) 
+
 [[16]](#_ftnref16) This is an example of a mnemonic key: 1. VISA 2. EXIST 3. FLAG 4. DEPOSIT 5. ESCAPE 6. CONVINCE 7. FUNNY 8. CLIFF 9. STEP 10. CRYSTAL 11. FEATURE 12. OWN 13. PACT 14. MAIL 15. HARVEST 16. SADNESS 17. SEARCH 18. GHOST 19. OFFER 20. INCH 21. MERGE 22. FEW 23. TIRED 24. SNOW 
+
 [[17]](#_ftnref17) The 25th passphrase word can be anything up to 100 characters long. 
+
 [[18]](#_ftnref18) Referenced as spoken by Professor Laszlo K. 
+
 [[19]](#_ftnref19) As in lacking morality that could impact human life, since it is in its purest form Bitcoin is only a monetary tool that serves human beings as a payment system. 
+
 [[20]](#_ftnref20) A miner is a computer software that hashes repeatedly to find a bitcoin block. 
+
 [[21]](#_ftnref21) ‘It’ is used here because miners are automated computer software running on computers or application specific integrated circuits. In shorter name ASIC is a computer specifically designed for a given computational task to perform, here in this case ASIC miners are used to mine Bitcoin to be more cost effective and profitable. 
+
 [[22]](#_ftnref22) Jameson Lopp maintains a database of crimes committed against bitcoiners and those transacting with bitcoin on a github repository that can be found by following this link: https://github.com/jlopp/physical-bitcoin-attacks/blob/master/README.md 
+
 [[23]](#_ftnref23) Electrum is a lightweight Bitcoin wallet. 
+
 [[24]](#_ftnref24) Alternative cryptocurrencies that are inferior to Bitcoin. We will discuss the origin of this word in a later chapter. 
+
 [[25]](#_ftnref25) The Onion Router was developed by employees of the US Naval Research Laboratory to protect that of US intelligence operative’s online communication. (The Tor Project) 
+
 [[26]](#_ftnref26) Wasabi Wallet is a desktop Bitcoin wallet that also allows coinjoining through its coordinator. 
+
 [[27]](#_ftnref27) Samourai Wallet is a mobile Bitcoin wallet that allows coinjoining through its Whirlpool service. 
+
 [[28]](#_ftnref28) Blockstream Green is a Bitcoin mobile wallet that also allows access to Blockstream’s Liquid Network. 
+
 [[29]](#_ftnref29) “bitcoind” is the first node software and protocol that implemented remote procedure call (RPC), it is also the runtime for many Bitcoin nodes and Bitcoin full stack environments like BTCPay Server. [[30]](#_ftnref30) BTCPay Server is a self-hosted full-stack business solution for bitcoin accepting businesses and private individuals. 
+
 [[31]](#_ftnref31) Is a Bitcoin Node full stack with many additional functionalities. 
+
 [[32]](#_ftnref32) Samourai Dojo is a private Bitcoin server for Samourai Wallet users that allow self-hosted interaction with the Whirlpool coordinator without exposing our IP or xpub keys. 
+
 [[33]](#_ftnref33) An Electrum Private Server is a private node that can receive connections from Electrum clients, which in return allows private queries of blockchain headers and other blockchain data. It makes the querying of transactions for wallets more private by concealing the IP address of the desktop wallet from other servers. It can also relay transactions and this way no xpub information leaks out onto the internet. 
+
 [[34]](#_ftnref34) Know Your Customer is a mandatory financial regulation that forces businesses to profile their users for legal compliance reasons. 
+
 [[35]](#_ftnref35) Anti-Money Laundering directive that seeks to halt all forms of money laundering and some also applies to halt illegal financing of terrorism. 
+
 [[36]](#_ftnref36) Mixing services are (often) trusted third party services that mix bitcoins with other coins to the point that they can not be traced to their origin. One notable mixer was BestMixer.io which was shut down by Dutch Police and Europol in 2019. (Europol) 
+
 [[37]](#_ftnref37) Anonymity set is a debated term due to their wording and usage of the term, which is supposed to refer to the strength of anonymity given for one unspent bitcoin transaction within a UTXO that went through a coinjoin like in Wasabi, Whirlpool or JoinMarket. Samourai Wallet developers argue that there is no central anonymity set possible to determine since every coinjoin is different in shape and size to draw parallels or standards. (nopara73 and TDevD, ZeroLink: The Bitcoin Fungibility Framework) 
+
 [[38]](#_ftnref38) The Author of this Thesis was the 25th participating member of the #LNTrustChain. 
 [[39]](#_ftnref39) Is the act of hoax calling the police and claiming that a serious incident is happening that will eventually result in armed police storming the premises. 
+
 [[40]](#_ftnref40) Two examples of these parallel societies can be found in Europe, one in Prage, Czechia called Paralelní Polis and the other in Bratislava, Slovakia called Paralelná Polis. Both communities call themselves cryptoanarchist and actively utilize Bitcoin as the primary form of unit of account and medium of exchange. 
+
 [[41]](#_ftnref41) Bitcoind is the Bitcoin protol implementation for remote procedure call (RPC), it functions as part of Bitcoin full nodes. There are other alternatives also like Libbitcoin and BitcoinJS the latter which runs on node.js programming framework. 
+
 [[42]](#_ftnref42) One of this list of resources is maintained by Jameson Lopp at www.lopp.net 
+
 [[43]](#_ftnref43) Toxic here means that a user of Bitcoin can be unwilling or unaccepting towards other ideas or intolerant towards ideologies of other users or their behavior. These behaviors can range from casino like gambling with alternative currencies or other behaviors that seem to suggest ideology-based changes to bitcoin, we will examine this within Bitcoin Maximalism section within this chapter later. 
+
 [[44]](#_ftnref44) A 51% mining attack is when someone owns 51% of the total Hashing power of Bitcoin and uses that to mint coins or to alter transactions. 
+
 [[45]](#_ftnref45) The term Bitcoin Maximalism originates from Vitalik B. who used the term to derogatorily refer to toxic users of Bitcoin. Later Bitcoiners adopted the term and turned it into an integral part of the community vocabulary. For more terms adopted by Bitcoiners, for a limited list see Apendix 1 in the end of this Thesis. 
+
 [[46]](#_ftnref46) It is possible to access the group on the popular communication application Telegram by following this link: t.me/rektplebs 
+
 [[47]](#_ftnref47) Privacy extremism refers to the usage of privacy protecting or enhancing tools or software to protect one’s real world identity either online or in real life. 
+
 [[48]](#_ftnref48) Good online privacy, the usage of virtual private networks (VPNs) and proxies and the Tor network’s anonymity layer can all help maintain proper privacy hygiene. Although most services other than Tor comes at a cost if we wish to protect our privacy.
+
 [[49]](#_ftnref49) Bitcoin users refer to Craig S. Wright as Faketoshi because his claims that he is Satoshi Nakamoto are unsubstantiated and unproven. 
+
 [[50]](#_ftnref50) Like the User Activated Soft Fork (UASF) often portrayed as the US Air Force’s insignia, intended as a pun to portray superiority of their action and the #NO2X acronym that was used in tweets by those who opposed the 2MB block size upgrade. 
+
 [[51]](#_ftnref51) Links to these groups can be found in Appendix 1. 
+
 [[52]](#_ftnref52) This can be attributed to Bitcoin’s ability to re-introduce savings and normalize them, with that prompting individuals to delay gratification and think in long term goals. (Ammous) 
+
 [[53]](#_ftnref53) For more information about spontaneous sociability, please refer to Francis Fukuyama’s “_Trust: The Social Virtues and The Creation of Prosperity_” pp. 26-29. 
+
 [[54]](#_ftnref54) Like that of the UASF (User Activated Soft Fork), #NO2X block size increase and the #WeAreAllHodolonaut events all constitute as one. 
+
 [[55]](#_ftnref55) Bitcoin in its initial stages, rely on inflation to expand the money supply towards the goal of 21 million bitcoins. This is a process called as block rewards that miners receive for producing blocks through proof of work. As the block reward is halved roughly every four years, bitcoin will become deflationary for the time being until the price of bitcoin stabilizes. From that point on, Bitcoin can become a non-flationary currency void of inflation and deflation. As it will become ever increasingly easier to break down a bitcoin to the tiniest fraction of a unit, deflationary effects will not be possible to observe anymore. In theory, only catastrophic losses of coins will be able to cause massive deflationary value explosions, but as it becomes easier and much more secure to store bitcoins, the chances of such catastrophic human errors decrease over time. This is very apparent after the 2009-2011 period of exploratory usage of the Bitcoin protocol when its users were very reckless with the storage and handling of bitcoins. (Ammous) 
+
 [[56]](#_ftnref56) A form of money that cannot be confiscated or controlled by governments and cannot be impeded upon by any law, judges, or sovereign nation’s military. This is because of the provided option for individuals to refuse cooperation by imposed violence. If an individual refuse to hand over the private keys or passphrases, extraordinarily little can be done outside of the avenues of physical violence to coerce its extraction. Even if such physical violence is exercised, tricks can be employed to trick attackers to think there are limited amounts of bitcoins available for extraction form one individual’s possession, this is called as ‘plausible deniability’. 
+
 [[57]](#_ftnref57) It was proven in US district of Florida court that Craig S. Wright multiple times mislead the court about his claimed identity, showing forged documents, manipulated screenshots of applications, and claiming that aged shelf companies were holding his genesis block coins that a bonded courier were supposed to bring him that allows him to access the coins.
 
 
