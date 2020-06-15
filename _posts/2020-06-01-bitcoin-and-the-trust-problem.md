@@ -1078,7 +1078,21 @@ _Bitcoin fixes this_ It is a term used to refer to problems that can be solved b
 
 ## Appendix 2: Cryptographic Proofs
 
-  Author’s Previous Versioning Attestation via OpenTimeStamps.org   Name: FORRELEASE-2020-Thesis.docx Size: 423185 bytes (413 KiB) SHA256: A1E266FDC3689FE9C59981381981563E087CAD922167BD47E05D01DDEF39DFF7 Author: Karo Zagorus PGP of Author: 8E06 CD76 ACE6 1F00 Latest Bitcoin Block: 0000000000000000000c4cd95acf70721608cc93c938a46e09f2a2a02f785abc                                                                                                     _Art by Koridian Lionell_        
+Author’s Previous Versioning Attestation via OpenTimeStamps.org   
+
+```
+Name: FORRELEASE-2020-Thesis.docx 
+Size: 423185 bytes (413 KiB) 
+SHA256: A1E266FDC3689FE9C59981381981563E087CAD922167BD47E05D01DDEF39DFF7 
+Author: Karo Zagorus 
+PGP of Author: 8E06 CD76 ACE6 1F00 
+Latest Bitcoin Block: 0000000000000000000c4cd95acf70721608cc93c938a46e09f2a2a02f785abc
+```
+![kz chocolate](/assets/images/2020/m6/kz3.png){: .align-center}
+_Art by Koridian Lionell_ 
+
+![kz chocolate](/assets/images/2020/m6/kz4.png){: .align-center}
+_Art by Koridian Lionell_
 
 ## References
 
