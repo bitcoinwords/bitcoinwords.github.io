@@ -44,6 +44,7 @@ toc_icon: "bookmark"  # corresponding Font Awesome icon name (without fa prefix)
 **Examining how our trust is being breached and abused, how we are used for rent-seeking, how governments impoverish us through the use of Monetary Nationalism and examining whether Bitcoin is the solution to restore individual freedom and limit the reach of government.**
 
 ![coverart](/assets/images/2020/m6/kz1.png)
+
 *Art by Made X Forever*
 
 ## Disclaimer
