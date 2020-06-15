@@ -1465,6 +1465,7 @@ Yglesias, Matthew. _There’s actually lots of evidence of Trump-Russia collusio
 ***
 
 [^#_ftn1]: According to the book by Lisa Servon about 128 million US Citizens are struggling daily to make a living. (Servon) [↩](ref:#_ftn1)
+
 [[1]](#_ftnref1) According to the book by Lisa Servon about 128 million US Citizens are struggling daily to make a living. (Servon) 
 
 [[2]](#_ftnref2) Similar trends can also be viewed connected to Payday lenders in the United States where these lenders often give non-compliant or non-paying debtors loans to collection agencies whom later able to change the terms of the loan and impose higher fees or late payment added interests on the debtor’s total  outstanding debt. (Servon) 
@@ -1484,6 +1485,7 @@ Yglesias, Matthew. _There’s actually lots of evidence of Trump-Russia collusio
 [[9]](#_ftnref9) Time preference is a behavior trait that determines how we will decide about actions where we might demand instant gratification for our needs. A high time preference trait makes us want to fulfill our needs immediately, while a low time preference makes us defer these actions later into the future. Individuals with low time preference tend to save more money and defer from spending it immediately while those with high will reach for lines of credit, overspending without any possibility of savings. (Rothbard) 
 
 [[10]](#_ftnref10) A person who uses strong cryptography to communicate online on the internet and who advocates for the usage of surveillance circumventing encryption standards and Bitcoin. 
+
 [[11]](#_ftnref11) A double spend is a form of malicious action by someone who attempts to spend their value twice. In different digital currencies preceding bitcoin, it was possible to commit double spends.
 
 [[12]](#_ftnref12) Satoshi is the smallest fractional unit of a bitcoin. 1 BTC = 100.000.000 sats. On the Lightning Network, 1 BTC can be broken down to 100.000.000.000 millisats (msats). 
@@ -1520,7 +1522,9 @@ Yglesias, Matthew. _There’s actually lots of evidence of Trump-Russia collusio
 
 [[28]](#_ftnref28) Blockstream Green is a Bitcoin mobile wallet that also allows access to Blockstream’s Liquid Network. 
 
-[[29]](#_ftnref29) “bitcoind” is the first node software and protocol that implemented remote procedure call (RPC), it is also the runtime for many Bitcoin nodes and Bitcoin full stack environments like BTCPay Server. [[30]](#_ftnref30) BTCPay Server is a self-hosted full-stack business solution for bitcoin accepting businesses and private individuals. 
+[[29]](#_ftnref29) “bitcoind” is the first node software and protocol that implemented remote procedure call (RPC), it is also the runtime for many Bitcoin nodes and Bitcoin full stack environments like BTCPay Server. 
+
+[[30]](#_ftnref30) BTCPay Server is a self-hosted full-stack business solution for bitcoin accepting businesses and private individuals. 
 
 [[31]](#_ftnref31) Is a Bitcoin Node full stack with many additional functionalities. 
 
