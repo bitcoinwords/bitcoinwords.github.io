@@ -37,7 +37,7 @@ defaults:
 
 **Examining how our trust is being breached and abused, how we are used for rent-seeking, how governments impoverish us through the use of Monetary Nationalism and examining whether Bitcoin is the solution to restore individual freedom and limit the reach of government.**
 
-![coverart](/assets/images/2020/m6/kz1.png)
+![coverart](/assets/images/2020/m6/kz1.png){: .align-center}
 
 *Art by Made X Forever*
 
@@ -449,7 +449,8 @@ When we are spending from a wallet, we spend directly from addresses by using a 
 
 Here we can see a Quick Response code containing the public key of a Bitcoin wallet with the receiving address utilizing the latest bech32 address format. These QR codes can be scanned with mobile wallets and we can initiate transactions to the address. 
 
-bc1qgdy5grttdc6me29lta7ycdkfcwrcjl44e5dz6z   
+![bitcoin address](/assets/images/2020/m6/kz2.png){: .align-center}
+`bc1qgdy5grttdc6me29lta7ycdkfcwrcjl44e5dz6z`
 
 When a transaction is signed it can be broadcasted out to nodes that receive our transaction which is propagated over the entire Bitcoin network within seconds. If anyone seeks to manipulate a signed transaction the master key that signed the transaction is necessary to modify a transaction, in the absence of the private key, it is _nearly_ impossible[^13] to modify transactions. (Antonopoulos) 
 
