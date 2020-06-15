@@ -43,6 +43,9 @@ toc_icon: "bookmark"  # corresponding Font Awesome icon name (without fa prefix)
 
 **Examining how our trust is being breached and abused, how we are used for rent-seeking, how governments impoverish us through the use of Monetary Nationalism and examining whether Bitcoin is the solution to restore individual freedom and limit the reach of government.**
 
+![coverart](/assets/images/2020/m6/kz1.png)
+*Art by Made X Forever*
+
 ## Disclaimer
 
 This Thesis here, **is not**, in any sense, shape or form **a** **financial advice**. Information found in this Thesis are the findings of the author and his own personal views and does not constitute an advice in any form. Investing in Bitcoin, other Cryptocurrencies, Blockchain Technology or Companies that use Blockchain Technology comes with an **extreme risk**. Cryptocurrencies are **extremely volatile** and often traded on **illiquid markets**. Investing in cryptocurrencies can incur **complete loss of investment**. Consult a _professional_ before investing. The author of this Thesis or his Consultants **are not liable** for **any damages** deriving from reckless **investments that resulted** from uneducated decisions that originate or manifest from information within this Thesis or based on the content of this Thesis. Loss incurring from reckless investment based on the findings in this Thesis **is not in any way the responsibility of the Author** of this Thesis. 
@@ -1147,7 +1150,7 @@ BTCPay Server. _About TOR and BTCPay Server_. 28 Feb 2019. Web. 10 Oct 2019. <me
 
 Caldwell, Leigh Ann. _New year, same stalemate in Congress on government spending, DACA_. NBC News, 03 Jan 2018. Web. 03 Jan 2018. 
 
-Capital Creators. _One Dollar or One Bitcoin | College Students Asked What They Would Accept_. 20 May 2019. YouTube. 29 May 2019. <youtube.com/watch?v=whrORgwyLE4>. 
+Capital Creators. _One Dollar or One Bitcoin - College Students Asked What They Would Accept_. 20 May 2019. YouTube. 29 May 2019. <youtube.com/watch?v=whrORgwyLE4>. 
 
 Caras, Michael. _Bitcoin Money: A Tale of Bitville Discovering Good Money_. Lightning Source UK Ltd., 2019. 
 
@@ -1192,17 +1195,17 @@ Dodds, Laurence. _China floods Facebook with undeclared coronavirus propaganda a
 Doherty, Brian. _Bitcoin: If It Ain't Dead, It Should Be Because It's All About "White Privilege"_. 27 Feb 2014. Web. 10 Jan 2019.
 
 Edelman. "2008 Edelman Trust Barometer." 2008. PDF. 16 Jun 2019. 
-—. "2009 Edelman Trust Baromter." 2009. PDF. 16 Jun 2019. 
-—. "2010 Edelman Trust Baromter." 2010. PDF. 16 Jun 2019. 
-—. "2011 Edelman Trust Barometer." 2011. PDF. 16 Jun 2019. 
-—. "2012 Edelman Trust Baromter." 2012. PDF. 16 Jun 2019. 
-—. "2013 Edelman Trust Barometer." 2013. PDF. 16 Jun 2019. 
-—. "2014 Edelman Trust Barometer." 2014. PDF. 16 Jun 2019. 
-—. "2015 Edelman Trust Barometer." 2015. PDF. 16 Jun 2019. 
-—. "2016 Edelman Trust Barometer." 2016. PDF. 16 Jun 2019. 
-—. "2017 Edelman Trust Barometer." 2017. PDF. 25 August 2018. 
-—. "2018 Edelman Trust Barometer." 2018. PDF. 03 March 2019. 
-—. "2019 Edelman Trust Barometer." 2019. PDF. 03 March 2019. 
+- "2009 Edelman Trust Baromter." 2009. PDF. 16 Jun 2019. 
+- "2010 Edelman Trust Baromter." 2010. PDF. 16 Jun 2019. 
+- "2011 Edelman Trust Barometer." 2011. PDF. 16 Jun 2019. 
+- "2012 Edelman Trust Baromter." 2012. PDF. 16 Jun 2019. 
+- "2013 Edelman Trust Barometer." 2013. PDF. 16 Jun 2019. 
+- "2014 Edelman Trust Barometer." 2014. PDF. 16 Jun 2019. 
+- "2015 Edelman Trust Barometer." 2015. PDF. 16 Jun 2019. 
+- "2016 Edelman Trust Barometer." 2016. PDF. 16 Jun 2019. 
+- "2017 Edelman Trust Barometer." 2017. PDF. 25 August 2018. 
+- "2018 Edelman Trust Barometer." 2018. PDF. 03 March 2019. 
+- "2019 Edelman Trust Barometer." 2019. PDF. 03 March 2019. 
 
 Eisinger, Jesse. _Why Only One Top Banker Went to Jail for the Financial Crisis_. The New York Times, 30 Apr 2014. Web. 08 Oct 2018. 
 
@@ -1222,8 +1225,8 @@ Frean, Alexandra. _Bitcoin will become the world’s single currency, Twitter ch
 
 Frisby, Dominic. _Bitcoin, The Future of Money?_ Unbound, 2014. 
 
-FuggGunControl. _Fuck Gun Control 9 Carbine_. 03 Oct 2019. Twitter. 03 Oct 2019. <twitter.com/FuggGunControl/status/1179792028021989376>. 
-—. _Plastikov 3D Printed AK Receiver_. 23 Oct 2019. Twitter. 23 Oct 2019. <twitter.com/FuggGunControl/status/1185642575551782918>. 
+FuggGunControl. _Fuck Gun Control 9 Carbine_. 03 Oct 2019. Twitter. 03 Oct 2019. [twitter.com/FuggGunControl/status/1179792028021989376](twitter.com/FuggGunControl/status/1179792028021989376). 
+-  _Plastikov 3D Printed AK Receiver_. 23 Oct 2019. Twitter. 23 Oct 2019. [twitter.com/FuggGunControl/status/1185642575551782918](twitter.com/FuggGunControl/status/1185642575551782918). 
 
 Fukuyama, Francis. _Trust: Human Nature and the Reconstitution of Social Order: The Social Virtues and the Creation of Prosperity_. Free Press Paperbacks, 1995. 
 
@@ -1260,7 +1263,7 @@ Hodlonaut. _The Bitcoin Plebs Interview 1_ Karo Zagorus. 15 11 2019. Chat.
 
 Huebner, Jonathan. "A possible declining trend for worldwide innovation." 10 September 2005. 01 May 2019. 
 
-Hughes, Eric. _A Cypherpunk's Manifesto_. 9 March 1993. 07 Feb 2019. <activism.net/cypherpunk/manifesto.html>. 
+Hughes, Eric. _A Cypherpunk's Manifesto_. 9 March 1993. 07 Feb 2019. [activism.net/cypherpunk/manifesto.html](activism.net/cypherpunk/manifesto.html). 
 
 Hutton, Will. _Britain is being led to an epic act of national self-harm over Brexit_. 03 Jun 2017. The Guardian. 08 Jan 2019. 
 
@@ -1290,11 +1293,11 @@ Lee, David. _The tactics of a Russian troll farm_. BBC, 16 Feb 2018. Web. 24 Oct
 
 Lenard, Dr. Rita. "Vulnerability and chaos in the Hungarian healthcare system." 2018. Web. 10 March 2020. 
 
-Li, Chanel and Ragnar Lifthrasir. _2: Behind Enemy Lines – A.G. Leaks_. Guns n' Bitcoin, 03 Sept 2019. Web. 25 Sept 2019. <gunsnbitcoin.com/podcast/ep2/>. 
-—. _5: Come and Print It – Ivan The Troll_. Guns n' Bitcoin, September 2019. Web. 01 October 2019. <gunsnbitcoin.com/podcast/ep5/>. 
-—. _7: BitcoinGun Lawyer Part I_. Guns n' Bitcoin, 08 October 2019. Web. 15 October 2019. <gunsnbitcoin.com/podcast/bitcoin-gun-lawyer-part-i/>. 
+Li, Chanel and Ragnar Lifthrasir. _2: Behind Enemy Lines – A.G. Leaks_. Guns n' Bitcoin, 03 Sept 2019. Web. 25 Sept 2019. [gunsnbitcoin.com/podcast/ep2/](gunsnbitcoin.com/podcast/ep2/). 
+- _5: Come and Print It – Ivan The Troll_. Guns n' Bitcoin, September 2019. Web. 01 October 2019. [gunsnbitcoin.com/podcast/ep5/](gunsnbitcoin.com/podcast/ep5/). 
+- _7: BitcoinGun Lawyer Part I_. Guns n' Bitcoin, 08 October 2019. Web. 15 October 2019. [gunsnbitcoin.com/podcast/bitcoin-gun-lawyer-part-i/](gunsnbitcoin.com/podcast/bitcoin-gun-lawyer-part-i/). 
 
-London Real. _Andreas Antonopoulos - The Death of Money - PART 1/2 | London Real_. 15 Jan 2017. Web. 9 July 2019. <youtube.com/watch?v=DuoE5CXlIdY>. 
+London Real. _Andreas Antonopoulos - The Death of Money - PART 1/2 | London Real_. 15 Jan 2017. Web. 9 July 2019. [youtube.com/watch?v=DuoE5CXlIdY](youtube.com/watch?v=DuoE5CXlIdY). 
 
 Maddox, Alexia, et al. "An ethnography of Bitcoin: Towards a future research agenda." _Australian Journal of Telecommunications and the Digital Economy_ 4.1 (2016). 18 March 2020. 
 
@@ -1322,9 +1325,9 @@ MTI. _ELFOGADTÁK A KILAKOLTATÁSI MORATÓRIUM MEGHOSSZABBÍTÁSÁT_. Magyar Ido
 
 Myers, Jolie and Monika Evstatieva. _Meet The Activist Who Uncovered The Russian Troll Factory Named In The Mueller Probe_. NPR, 15 March 2018. Web. 15 March 2018. 
 
-Nakamoto, Satoshi. _Bitcoin open source implementation of P2P currency_. 11 Feb 2009. Web. 01 Dec 2019. <p2pfoundation.ning.com/forum/topics/bitcoin-open-source>. 
-—. _Bitcoin v0.1 released_. Nakamoto Institute, 08 January 2009. Web. <satoshi.nakamotoinstitute.org/emails/cryptography/16/>. 
-—. "Bitcoin: A Peer-to-Peer Electronic Cash System." 2008. 
+Nakamoto, Satoshi. _Bitcoin open source implementation of P2P currency_. 11 Feb 2009. Web. 01 Dec 2019. [p2pfoundation.ning.com/forum/topics/bitcoin-open-source](p2pfoundation.ning.com/forum/topics/bitcoin-open-source). 
+- _Bitcoin v0.1 released_. Nakamoto Institute, 08 January 2009. Web. [satoshi.nakamotoinstitute.org/emails/cryptography/16/](satoshi.nakamotoinstitute.org/emails/cryptography/16/). 
+- "Bitcoin: A Peer-to-Peer Electronic Cash System." 2008. 
 
 
 Nardelli, Alberto. _Are there really 8 million foreigners in Britain?_ The Guardian, 26 Aug 2015. Web. 10 Oct 2019. 
@@ -1337,11 +1340,11 @@ nopara73 and TDevD. _ZeroLink: The Bitcoin Fungibility Framework_. 28 July 2017.
 
 O'Kane, Sean. _Tesla posts back-to-back profits for the first time_. The Verge, 30 Jan 2019. Web. 23 10 2019. 
 
-Oliver, John. _Brexit III: Last Week Tonight with John Oliver (HBO)_. HBO, 18 Feb 2019. 15 April 2019. <youtube.com/watch?v=HaBQfSAVt0s>. 
+Oliver, John. _Brexit III: Last Week Tonight with John Oliver (HBO)_. HBO, 18 Feb 2019. 15 April 2019. [youtube.com/watch?v=HaBQfSAVt0s](youtube.com/watch?v=HaBQfSAVt0s). 
 
 Ossinger, Joanna. _Roubini Says Bitcoin Is the ‘Biggest Bubble in Human History’_. 02 Feb 2018. Web. 02 Feb 2018. 
 
-OTP Bank. "Üzletszabályzat a természetes személyek adósságrendezéséről (Magáncsőd) lakossági ügyfelek részére." 25 May 2018. Web. 27 Jun 2019. <otpbank.hu/static/portal/sw/file/Magancsod\_USZ\_LAK_20180525.pdf>. 
+OTP Bank. "Üzletszabályzat a természetes személyek adósságrendezéséről (Magáncsőd) lakossági ügyfelek részére." 25 May 2018. Web. 27 Jun 2019. [otpbank.hu/static/portal/sw/file/Magancsod\_USZ\_LAK_20180525.pdf](otpbank.hu/static/portal/sw/file/Magancsod\_USZ\_LAK_20180525.pdf). 
 
 Peck, Morgen E. _Bitcoin: The Cryptoanarchists’ Answer to Cash_. 30 May 2012. Web. 16 Jan 2019. 
 
@@ -1355,8 +1358,8 @@ Pilkington, Ed. _Traces of cocaine found on up to 90% of dollar bills in America
 
 Pinsker, Joe. _Why Aren’t Any Bankers in Prison for Causing the Financial Crisis?_ 16 Aug 2016. 06 Jun 2019. 
 
-PlanB. _Modeling Bitcoin's Value with Scarcity_. 22 March 2019. Web. 25 March 2019. <medium.com/@100trillionUSD/modeling-bitcoins-value-with-scarcity-91fa0fc03e25>. 
-—. "Verification of Monetary Supply of Bitcoin." _I just personally verified #bitcoin monetary base_. 14 Jun 2019. Tweet. 14 Jun 2019. <twitter.com/100trillionUSD/status/1139519771190484993>. 
+PlanB. _Modeling Bitcoin's Value with Scarcity_. 22 March 2019. Web. 25 March 2019. [medium.com/@100trillionUSD/modeling-bitcoins-value-with-scarcity-91fa0fc03e25](medium.com/@100trillionUSD/modeling-bitcoins-value-with-scarcity-91fa0fc03e25). 
+- "Verification of Monetary Supply of Bitcoin." _I just personally verified #bitcoin monetary base_. 14 Jun 2019. Tweet. 14 Jun 2019. [twitter.com/100trillionUSD/status/1139519771190484993](twitter.com/100trillionUSD/status/1139519771190484993). 
 
 Polityuk, Pavel. _Ukraine kidnappers free bitcoin analyst after $1 mln ransom paid_. Reuters, 29 Dec 2017. Web. 07 March 2020. 
 
@@ -1364,7 +1367,7 @@ Pollack, Andrew. _Drug Goes From $13.50 a Tablet to $750, Overnight_. New York T
 
 Portfolio.hu. _Bedőlt lakossági hitelek tízmilliárdjait adja el a magyar Erste_. Portfolio.hu, 28 Oct 2016. Web. 10 Feb 2019. 
 
-Prentice, Ben and Heavily Armed Clown. _WTF Happened in 1971?_ 2019\. Web. 10 09 2019. <wtfhappenedin1971.com>. 
+Prentice, Ben and Heavily Armed Clown. _WTF Happened in 1971?_ 2019\. Web. 10 09 2019. [wtfhappenedin1971.com](wtfhappenedin1971.com). 
 
 Pritzker, Yan. _Inventing Bitcoin_. Middleton, DE, 2019. 
 
@@ -1400,9 +1403,9 @@ Sharma, Gaurav. _Trump Vowed To Save Coal But U.S.' Largest Mining Basin Remains
 
 Shuster, Simon. _The U.K.'s Old Decided for the Young in the Brexit Vote_. TIME, 24 Jun 2016. Web. 27 Sept 2017. 
 
-SIXX. _Magyar Helsinki Bizottság: A kormány szócsöve lett a közmédia_. 26 06 2015. Web. 09 Oct 2019. <comment.blog.hu/2015/06/26/magyar\_helsinki\_bizottsag\_a\_kormany\_szocsove\_lett\_a\_kozmedia>. 
+SIXX. _Magyar Helsinki Bizottság: A kormány szócsöve lett a közmédia_. 26 06 2015. Web. 09 Oct 2019. [comment.blog.hu/2015/06/26/magyar\_helsinki\_bizottsag\_a\_kormany\_szocsove\_lett\_a\_kozmedia](comment.blog.hu/2015/06/26/magyar\_helsinki\_bizottsag\_a\_kormany\_szocsove\_lett\_a\_kozmedia). 
 
-Song, Jimmy. _Understanding Segwit Block Size_. 03 July 2017. Web. 27 Nov 2019. <medium.com/@jimmysong/understanding-segwit-block-size-fd901b87c9d4>. 
+Song, Jimmy. _Understanding Segwit Block Size_. 03 July 2017. Web. 27 Nov 2019. [medium.com/@jimmysong/understanding-segwit-block-size-fd901b87c9d4](medium.com/@jimmysong/understanding-segwit-block-size-fd901b87c9d4). 
 
 Steil, Benn. _The Dangers of Monetary Nationalism_. Real Clear Politics, 09 Dec 2010. Web. 08 02 2019. 
 
@@ -1420,19 +1423,19 @@ Subramanian, Samanth. _Inside the Macedonian Fake-News Complex_. WIRED, 15 Feb 2
 
 Swan, Melanie. _Blockchain, Blueprint for a New Economy_. O'Reilly Media Inc., 2015. 
 
-Syncrhon Lizing Zrt. _Adósságrendezési eljárás (Magáncsőd)_. 2019\. Web. 27 Jun 2019. <synchronlizing.hu/magancsod>. 
+Syncrhon Lizing Zrt. _Adósságrendezési eljárás (Magáncsőd)_. 2019\. Web. 27 Jun 2019. [synchronlizing.hu/magancsod](synchronlizing.hu/magancsod). 
 
 Szabo, Nick. _Bit gold_. December 2005. Web. 16 Jan 2019. 
-—. _Shelling Out -- The Origins of Money_. 2002\. Web. 20 Aug 2018. 
+- _Shelling Out -- The Origins of Money_. 2002\. Web. 20 Aug 2018. 
 
-Szmigiera, M. _Number of Blockchain wallet users globally 2016-2019_. January 2020. Web. January 2020. <statista.com/statistics/647374/worldwide-blockchain-wallet-users/>. 
+Szmigiera, M. _Number of Blockchain wallet users globally 2016-2019_. January 2020. Web. January 2020. [statista.com/statistics/647374/worldwide-blockchain-wallet-users/](statista.com/statistics/647374/worldwide-blockchain-wallet-users/). 
 
-Taiberg, Michael. _A New Report Shows People Are Warming Up to Bitcoin_. Bitcoin Magazine, 01 May 2019. Web. 01 May 2019. <bitcoinmagazine.com/articles/new-report-shows-people-are-warming-bitcoin/>. 
+Taiberg, Michael. _A New Report Shows People Are Warming Up to Bitcoin_. Bitcoin Magazine, 01 May 2019. Web. 01 May 2019. [bitcoinmagazine.com/articles/new-report-shows-people-are-warming-bitcoin/](bitcoinmagazine.com/articles/new-report-shows-people-are-warming-bitcoin/). 
 
 Taleb, Nassim Nicholas. _Antifragile_. Penguin Books, 2012. 
-—. _Bitcoin_. 22 Jan 2018. 08 Aug 2018. 
-—. _Skin in the Game_. Penguin Random House UK, 2018. 
-—. _The Black Swan_. 2nd. Penguin Random House, 2010. 
+- _Bitcoin_. 22 Jan 2018. 08 Aug 2018. 
+- _Skin in the Game_. Penguin Random House UK, 2018. 
+- _The Black Swan_. 2nd. Penguin Random House, 2010. 
 
 The Economist. _Attitudes towards the mainstream media take an unconstitutional turn._ 02 August 2017. Web. 15 Sept 2017. 
 
@@ -1440,7 +1443,7 @@ The Guardian. _Cambridge Analytica a year on: ‘a lesson in institutional failu
 
 The Swede. _Bull Bitcoin — Protecting Against Financial Censorship And Reclaiming Customers’ Privacy, One Coinjoin At A Time_. 04 July 2019. Web. 04 July 2019. 
 
-The Tor Project. _History of the Tor Project_. n.d. Web. <torproject.org/about/history/>. 
+The Tor Project. _History of the Tor Project_. n.d. Web. [torproject.org/about/history/](torproject.org/about/history/). 
 
 U.S. Food and Drug Administration. _Combating Antibiotic Resistance_. FDA, 15 11 2011. Web. 23 10 2019. 
 
@@ -1456,7 +1459,7 @@ Weise, Elizabeth. _Russian fake accounts showed posts to 126 million Facebook us
 
 Wheeler, Brian, Paul Seddon and Richard Morris. _Brexit: All you need to know about the UK leaving the EU_. BBC. 10 May 2019. Web. 10 May 2019. 
 
-World Bank. _Gross domestic savings (% of GDP) - Japan_. 2017\. Web. 23 10 2019. <data.worldbank.org/indicator/NY.GDS.TOTL.ZS?locations=JP>. 
+World Bank. _Gross domestic savings (% of GDP) - Japan_. 2017\. Web. 23 10 2019. [data.worldbank.org/indicator/NY.GDS.TOTL.ZS?locations=JP](data.worldbank.org/indicator/NY.GDS.TOTL.ZS?locations=JP). 
 
 Yeginsu, Ceylan. _N.H.S. Overwhelmed in Britain, Leaving Patients to Wait_. The New York Times, 03 Jan 2018. Web. 22 Oct 2019. 
 
@@ -1574,8 +1577,3 @@ Yglesias, Matthew. _There’s actually lots of evidence of Trump-Russia collusio
 [^56]: A form of money that cannot be confiscated or controlled by governments and cannot be impeded upon by any law, judges, or sovereign nation’s military. This is because of the provided option for individuals to refuse cooperation by imposed violence. If an individual refuse to hand over the private keys or passphrases, extraordinarily little can be done outside of the avenues of physical violence to coerce its extraction. Even if such physical violence is exercised, tricks can be employed to trick attackers to think there are limited amounts of bitcoins available for extraction form one individual’s possession, this is called as ‘plausible deniability’. 
 
 [^57]: It was proven in US district of Florida court that Craig S. Wright multiple times mislead the court about his claimed identity, showing forged documents, manipulated screenshots of applications, and claiming that aged shelf companies were holding his genesis block coins that a bonded courier were supposed to bring him that allows him to access the coins.
-
-
-***
-
-{% include signup.md %}
