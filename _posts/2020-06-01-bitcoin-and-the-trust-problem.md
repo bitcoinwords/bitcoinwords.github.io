@@ -1088,6 +1088,7 @@ Author: Karo Zagorus
 PGP of Author: 8E06 CD76 ACE6 1F00 
 Latest Bitcoin Block: 0000000000000000000c4cd95acf70721608cc93c938a46e09f2a2a02f785abc
 ```
+
 ![kz chocolate](/assets/images/2020/m6/kz3.png){: .align-center}
 _Art by Koridian Lionell_ 
 
