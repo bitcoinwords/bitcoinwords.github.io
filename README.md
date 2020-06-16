@@ -20,3 +20,5 @@ Enter **WORDS**. Published independently, **WORDS** is a Bitcoin journal that we
 **WORDS** follows the philosophy of Bitcoin by making this project open source. Because open source code is publicly accessible, students and can easily study the contents of **WORDS** as they do their own research. Users can easily fork **WORDS** and build their own copy.
 
 [<i class="fas fa-code-branch"></i> Fork WORDS](https://github.com/bitcoinwords/bitcoinwords.github.io)
+
+![GitHub Commits](https://badgen.net/github/commits/bitcoinwords/bitcoinwords)
