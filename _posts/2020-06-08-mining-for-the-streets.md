@@ -116,9 +116,9 @@ normal mode, in USD amounts per day <strong><u>NOT including mining fees</u></st
 | 13/kWh | $4.36   | $6.10   | $-1.74 |
 
 
-You would mine around .000453 BTC per day, equivalent to around \$4.36 If your electricity cost is \$0.09/kWh, you would pay around \$4.22 USD per day to run the miner. What does that really mean? It is the equivalent of going into CashApp with \$4.36 andbuying the .000453 BTC, except when you back out of the app you aren’t broke--you still have \$0.14 remaining. **So while BTC price is \$9,625, you will have paid an exchange rate of \$9,315**. <i><u>**You bought at ~3% discount**</u></i>.
+You would mine around .000453 BTC per day, equivalent to around \$4.36 If your electricity cost is \$0.09/kWh, you would pay around \$4.22 USD per day to run the miner. What does that really mean? It is the equivalent of going into CashApp with \$4.36 andbuying the .000453 BTC, except when you back out of the app you aren’t broke--you still have \$0.14 remaining. **So while BTC price is \$9,625, you will have paid an exchange rate of \$9,315**. <u>**_You bought at ~3% discount_**</u>.
 
-Looked at another way, you essentially have set up an account on Swan Bitcoin and requested to purchase \$30 of Bitcoin per week in their "Savings" plan. You've obtained .003171 BTC at a cost of \$29.54. You pay your electric bill in USD, you receive BTC. **This is, for all intents and purposes, Dollar Cost Average (DCA) buying**. <i><u>**This way though, you have avoided the KYC databases**</u></i>.
+Looked at another way, you essentially have set up an account on Swan Bitcoin and requested to purchase \$30 of Bitcoin per week in their "Savings" plan. You've obtained .003171 BTC at a cost of \$29.54. You pay your electric bill in USD, you receive BTC. **This is, for all intents and purposes, Dollar Cost Average (DCA) buying**. <u>**_This way though, you have avoided the KYC databases_**</u>.
 
 This may seem like too rosy a picture to paint, so let's look at it from more of a "worst case" type scenario. Difficulty has historically risen in Bitcoin, and in my opinion, is likely to do so for the foreseeable future. The all time high difficulty to this point was ~16.55T. Difficulty rises when more hashpower joins the network, resulting in blocks being mined on average less than 10 minutes apart over a period of 2016 blocks. Conversely, difficulty drops if hash leaves and blocks take longer than the 10 minute target. 
 
@@ -140,7 +140,7 @@ In trying to stay off KYC databases, you also want to avoid having your name and
 
 I feel it's important here to note the distinction between non-KYC and anonymous.
 
-<u><i>**Buying something without doing full KYC does not necessarily mean remaining fully anonymous. In my opinion, the most important thing is to keep your name, photo ID, date of birth, social security number, and bank account information off an easily requested database of users, such as one necessarily held by the most used Bitcoin exchanges today.**</u></i>
+<u>**_Buying something without doing full KYC does not necessarily mean remaining fully anonymous. In my opinion, the most important thing is to keep your name, photo ID, date of birth, social security number, and bank account information off an easily requested database of users, such as one necessarily held by the most used Bitcoin exchanges today._**</u>
 
 Often these exchanges are favored for their convenience and ease of use. I'll skip the whole no KYC only spiel, and assume if you are still reading it's because you understand why it is important.
 
@@ -166,7 +166,7 @@ As a quick example, I will pick on Kaboomracks for a bit. Their marketplace can 
 
 **Used in Excellent Condition, A**
 
-**$1299 each all-in which includes domestic shipping includes built-in Bitmain APW9 power supplies no minimum order size ships from Ohio, United States  Contact Sales: [t.me/kaboomracksNick](t.me/kaboomracksNick) 🍕#kb00737 #used #sha256 #usa | June 2nd, 2020 Miners for Sale → [t.me/kaboomracks](t.me/kaboomracks) 🔆🔆**
+**$1299 each all-in which includes domestic shipping includes built-in Bitmain APW9 power supplies no minimum order size ships from Ohio, United States  Contact Sales: [t.me/kaboomracksNick](t.me/kaboomracksNick) 🍕#kb00737 #used #sha256 #usa June 2nd, 2020 Miners for Sale → [t.me/kaboomracks](t.me/kaboomracks) 🔆🔆**
 
 It is advised to scroll for ads for miners you would like to buy, rather than post a "Want
 To Buy" (WTB) ad in Hardware Market. The reason is simple--scams.
@@ -179,7 +179,7 @@ Say you wanted to buy one of the 81 S17 PRO 50Th/s miners at an all-in (shipping
 
 <p style="color:red;">KYC free != Anonymous</p>
 
-If State agents try hard enough in situations such as these, it is likely one may be deanonymized using a shipping address. If that is a concern, I leave it on your own research to find ways of setting up P.O. Boxes or having them set up in different names, or having it delivered somewhere other than your home address. <u>*In my opinion, it is very likely enough to keep name, DOB, SSN, bank info, and photo ID off an exchange database*</u>. Only supplying a shipping address provides a certain amount of deniability, requiring far more work than sending a single subpoena to an exchange and rounding up 1 million users at once. That part is on you to decide, I advise not making it too difficult, and instead aiming to keep the lowest hanging fruit out of Big Brother's face. **If you have concerns about these things, have a frank conversation with the verified seller about your issues**. As I said, dealing with fellow bitcoiners generally makes explaining these things much easier than telling Joe Schmoe why you value your privacy. These guys get it.
+If State agents try hard enough in situations such as these, it is likely one may be deanonymized using a shipping address. If that is a concern, I leave it on your own research to find ways of setting up P.O. Boxes or having them set up in different names, or having it delivered somewhere other than your home address. *<u>In my opinion, it is very likely enough to keep name, DOB, SSN, bank info, and photo ID off an exchange database</u>*. Only supplying a shipping address provides a certain amount of deniability, requiring far more work than sending a single subpoena to an exchange and rounding up 1 million users at once. That part is on you to decide, I advise not making it too difficult, and instead aiming to keep the lowest hanging fruit out of Big Brother's face. **If you have concerns about these things, have a frank conversation with the verified seller about your issues**. As I said, dealing with fellow bitcoiners generally makes explaining these things much easier than telling Joe Schmoe why you value your privacy. These guys get it.
 
 Once you order and receive the miner, and have verified it is the miner you ordered in the
 condition advertised, you and the seller will post a final message in a chat group specifically used to increase/decrease reputation. The seller will claim to make a deal with your Telegram username, you will reply to that message with a simple "Confirmed", and that's that. You are now ready to mine on.
@@ -202,7 +202,7 @@ Do you have a room that can be kept cool enough to allow your miner to operate? 
 
 ![dusty miner](/assets/images/2020/m6/d7.png){: .align-center}
 
-<i><u>**Whatsminer and Antminer may not be compatible, so be sure to check on your miner's specifications before ordering**</u></i>. Usually either be 120mm or 140mm, but check each miner before ordering. Flexible ducting can be picked up or ordered for around $10-20 online or at Wal-Mart, takes nothing more than a screwdriver to mount it all, *mounts right on the miner using existing screws and holes, no scary drilling or extra parts to worry over*.
+<u>**_Whatsminer and Antminer may not be compatible, so be sure to check on your miner's specifications before ordering_**</u>. Usually either be 120mm or 140mm, but check each miner before ordering. Flexible ducting can be picked up or ordered for around $10-20 online or at Wal-Mart, takes nothing more than a screwdriver to mount it all, *mounts right on the miner using existing screws and holes, no scary drilling or extra parts to worry over*.
 
 Depending on your situation, you may need to go even a step further. Might want to keep your miner(s) "on ice" to try and keep sound low and the spouse happiest. Insert the cooler as a possible sound barrier.
 
