@@ -35,7 +35,7 @@ defaults:
 ### By [Diverter "No ID" BTC](https://twitter.com/DiverterNoKYC)
 ### Posted June 8, 2020
 
-[**Download**](https://diverterbtc.keybase.pub/Mining%20for%20the%20Streets%20(4)%20(1).pdf?dl=1) the orignal *Mining in the Streets*  report PDF.
+[**Download**](https://github.com/bitcoinwords/bitcoinwords.github.io/raw/master/assets/papers/Mining-for-the-Streets-2020.pdf) the orignal *Mining in the Streets*  report PDF.
 {: .notice--info}
 
 ![rig in a box](/assets/images/2020/m6/d1.png){: .align-center}

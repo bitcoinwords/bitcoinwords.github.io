@@ -35,7 +35,7 @@ defaults:
 ### By [Karo Zagorus](https://twitter.com/btcdragonlord)
 ### Posted June 4, 2020 
 
-[**Download**](https://karozagorus.keybase.pub/KaroZagorus-2020-Thesis.pdf?dl=1) the *Bitcoin and the Trust Problem* original thesis PDF.
+[**Download**](https://github.com/bitcoinwords/bitcoinwords.github.io/raw/master/assets/papers/KaroZagorus-2020-Thesis.pdf) the *Bitcoin and the Trust Problem* original thesis PDF.
 {: .notice--info}
 
 **Examining how our trust is being breached and abused, how we are used for rent-seeking, how governments impoverish us through the use of Monetary Nationalism and examining whether Bitcoin is the solution to restore individual freedom and limit the reach of government.**
