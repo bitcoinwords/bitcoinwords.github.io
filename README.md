@@ -29,4 +29,5 @@ Enter **WORDS**. Published independently, **WORDS** is a Bitcoin journal that we
 
 [![](https://badgen.net/badge/LNPay.co/Donation/yellow?icon=bitcoin-lightning)](https://paywall.link/to/thanks)
 
-[![](https://badgen.net/badge/BTCPay/Donation/icon=bitcoin)](https://bitcoinwords.github.io/support/#bitcoin-donation)
+[![](https://badgen.net/badge/icon/BTCPay%20Donation?icon=bitcoin&label)](https://bitcoinwords.github.io/support/#bitcoin-donation)
+
