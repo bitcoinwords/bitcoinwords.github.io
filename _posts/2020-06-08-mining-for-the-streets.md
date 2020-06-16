@@ -35,6 +35,9 @@ defaults:
 ### By [Diverter "No ID" BTC](https://twitter.com/DiverterNoKYC)
 ### Posted June 8, 2020
 
+[**Download**](https://diverterbtc.keybase.pub/Mining%20for%20the%20Streets%20(4)%20(1).pdf?dl=1) the orignal *Mining in the Streets*  report PDF.
+{: .notice--info}
+
 ![rig in a box](/assets/images/2020/m6/d1.png){: .align-center}
 
 *Simple Guide for Acquiring Bitcoin Without KYC/AML Using ASIC Mining*
