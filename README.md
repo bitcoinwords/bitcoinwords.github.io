@@ -19,12 +19,4 @@ Enter **WORDS**. Published independently, **WORDS** is a Bitcoin journal that we
 ## Free and Open Source
 **WORDS** follows the philosophy of Bitcoin by making this project open source. Because open source code is publicly accessible, students and can easily study the contents of **WORDS** as they do their own research. Users can easily fork **WORDS** and build their own copy.
 
-[<i class="fas fa-code-branch"></i> Fork WORDS](https://github.com/bitcoinwords/bitcoinwords.github.io)
-
-[![GitHub Commits](https://badgen.net/github/commits/bitcoinwords/bitcoinwords.github.io)](#)
-
-[![](https://badgen.net/badge/LNPay.co/Donation/yellow?icon=bitcoin-lightning)](https://paywall.link/to/thanks)
-
-[![](https://badgen.net/badge/icon/BTCPay%20Donation?icon=bitcoin&label)](https://bitcoinwords.github.io/support/#bitcoin-donation)
-
 [![](https://badgen.net/badge/Build%20with%20❤️/by%20Joe/F96854)](https://twitter.com/_joerodgers)
