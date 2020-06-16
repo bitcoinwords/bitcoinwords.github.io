@@ -21,4 +21,4 @@ Enter **WORDS**. Published independently, **WORDS** is a Bitcoin journal that we
 
 [<i class="fas fa-code-branch"></i> Fork WORDS](https://github.com/bitcoinwords/bitcoinwords.github.io)
 
-![GitHub Commits](https://badgen.net/github/commits/bitcoinwords/bitcoinwords.github.io)
+[![GitHub Commits](https://badgen.net/github/commits/bitcoinwords/bitcoinwords.github.io)](#)
