@@ -1258,6 +1258,18 @@ mattahlborg:
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/MattAhlborg"
 
+matthuang:
+  name        : Matt Huang
+  bio         : "@Paradigm. Previously, partner @Sequoia."
+  avatar      : #"/assets/images/bio-photo.jpg"
+  links:
+    - label: #"Email"
+      icon: #"fas fa-fw fa-envelope-square"
+      url: #"mailto:cornelius@thewhip.com"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/matthuang"
+
 mattwalsh:
   name        : Matt Walsh
   bio         : "Partner, Castle Island Ventures"
