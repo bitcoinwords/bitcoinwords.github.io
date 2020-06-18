@@ -32,7 +32,7 @@ defaults:
 ### By [Matt Huang](https://twitter.com/matthuang) on behalf of [Paradigm](https://twitter.com/Paradigm)
 ### Posted May 2020
 
-[**Download**](https://github.com/bitcoinwords/bitcoinwords.github.io/raw/master/assets/papers/Mining-for-the-Streets-2020.pdf) the orignal *Bitcoin for the Open-Minded Skeptic*  report PDF.
+[**Download**](https://github.com/bitcoinwords/bitcoinwords.github.io/raw/master/assets/papers/2020-Bitcoin_For_The_Open_Minded_Skeptic.pdf) the orignal *Bitcoin for the Open-Minded Skeptic*  report PDF.
 {: .notice--info}
 
 Bitcoin has grown from idea (2008), to working system (2009), to its first real-world use at <\$0.01 per coin (2010), to a global currency valued at \$8K+ per coin and \$150B+ in aggregate (May 2020).
