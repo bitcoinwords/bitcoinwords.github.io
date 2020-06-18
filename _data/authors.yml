@@ -1186,6 +1186,18 @@ knutsvanholm:
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/knutsvanholm"
 
+leozhang:
+  name        : Leo Zhang
+  bio         : "Founder at Anicca Research"
+  avatar      : #"/assets/images/bio-photo.jpg"
+  links:
+    - label: #"Email"
+      icon: #"fas fa-fw fa-envelope-square"
+      url: #"mailto:cornelius@thewhip.com"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/leorzhang"
+
 lucasnuzzi:
   name        : Lucas Nuzzi
   bio         : "Dir. of Technology Research @DAR_Crypto Researching/Programming/Hacking #Bitcoin since '12. PGP: 9BC8 0DAF FA83 9310 713E A6AE CCBE 6232 8E12 C14E"
