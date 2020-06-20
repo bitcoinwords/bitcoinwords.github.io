@@ -12,7 +12,7 @@ tags:
   - Citadels
   - Politics
 
-excerpt: enter excerpt here
+excerpt: Yuri de Gaia shares a post that draws comparisons between monarch and anarchy. POsted May 1, 2020.
 
 classes: wide
 
