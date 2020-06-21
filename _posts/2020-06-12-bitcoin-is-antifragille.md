@@ -72,26 +72,12 @@ That the most powerful players in bitcoin could not influence the network reinfo
 Attempts to influence the network consensus rules may be the most acute stressor, as it is these rules that underpin the entire system and create order out of disorder, but bitcoin is consistently exposed to a myriad of smaller stressors that similarly strengthen the network as a whole and over time. There are many different forms of stress, but because bitcoin is exposed to stress on a consistent basis and of a wide variety, it forces the network to constantly adapt and evolve while also building its immune system from the outside in.
 
 | Type of Stressor | Example | Impact/Outcome |
-| ================ | ======= | ============== |
+| :--------------- | ------- | -------------: |
 | Consensus Rules | <ul><li>Segwit2x Civil War</li><li>Bitcoin Cash Hard-Fork</li></ul> | <ul><li>Bitcoin proves to be censorship resistant</li><li>Bitcoin wins, strengthens</li></ul> |
 | Government action | <ul><li>Indian central bank banning banks ability to service bitcoin companies</li><li>China clamping down on exchanges and mining activities</li><li>U.S. Congress representatives calling for bans or restrictions</li><li>Bitcoin addresses being put on OFAC list</li></ul> | <ul><li>Network continues to function uninterrupted</li><li>Network adapts and immunizes threat</li><li>Bitcoin wins, strengthens</li></ul> |
-| Competing protocols | <ul><li></li></ul>
-
-– Bitcoin hard forks and copies – World Computer – Utility Tokens – Stablecoins – Facebook’s Libra
-
-– Competing currencies fail – Bitcoin remains dominant – Market tests provide information – Bitcoin wins, strengthens
-
-Company or service provider error
-
-– Mt. Gox hack – stolen bitcoin – Bitfinex hack – stolen bitcoin – Binance hack – stolen bitcoin – BlockFi hack – stolen personal information – Hardware wallet vulnerabilities
-
-– Errors owned by responsible parties – No bailouts – Accountability eliminates moral hazard – Companies adapt or fail – Bitcoin wins, strengthens
-
-Individual user error
-
-– Individual exchange accounts getting hacked – Accounts being frozen or terminated – SIM Swaps – Bitcoin wallets being lost or stolen – Forgetting passphrases to private keys – Malicious browser extensions or malware
-
-– Errors owned by responsible parties – No bailouts – Accountability eliminates moral hazard – Individuals adapt or lose money – Bitcoin wins, strengthens
+| Competing protocols | <ul><li>Bitcoin hard forks and copies</li><li>World Computer</li><li>Utility Tokens</li><li>Stablecoins</li><li>Facebook’s Libra</li></ul> | <ul><li>Competing currencies fail</li><li>Bitcoin remains dominant</li><li>Market tests provide information</li><li>Bitcoin wins, strengthens</li></ul> |
+| Company or service provider error | <ul><li>Mt. Gox hack – stolen bitcoin</li><li>Bitfinex hack – stolen bitcoin</li><li>Binance hack – stolen bitcoin</li><li>BlockFi hack – stolen personal information</li><li>Hardware wallet vulnerabilities</li></ul> | <ul><li>Errors owned by responsible parties</li><li>No bailouts</li><li>Accountability eliminates moral hazard</li><li>Companies adapt or fail</li><li>Bitcoin wins, strengthens</li></ul> |
+| Individual user error | <ul><li>Individual exchange accounts getting hacked</li><li>Accounts being frozen or terminated</li><li>SIM Swaps</li><li>Bitcoin wallets being lost or stolen</li><li>Forgetting passphrases to private keys</li><li>Malicious browser extensions or malware</li></ul> | <ul><li>Errors owned by responsible parties</li><li>No bailouts – Accountability eliminates moral hazard</li><li></li><li>Individuals adapt or lose money</li><li>Bitcoin wins, strengthens</li></ul> |
 
 Each form of stress hardens the bitcoin network and often for different reasons. Whenever governments take action in an attempt to ban bitcoin or otherwise restrict its use, the network continues to function unperturbed. China and India, countries with a combined population of 2.7 billion people, have both taken material actions to curb the spread of bitcoin. Despite this, the network as a whole continues to function without flaw, and bitcoin continues to be used in both countries. After the RBI (Central Bank of India) restricted the ability for banks to service bitcoin or cryptocurrency-related companies, the Supreme Court in India ultimately overturned the ban as unconstitutional. It sets precedent in more ways than one. First, that the central bank was overruled; second, that the ban was ultimately unsuccessful as people continued to find ways to access bitcoin; and third, that despite these actions, the network was unphased. Separately, China has taken measures to restrict the ability of exchanges to facilitate bitcoin trading and has expressed an interest in eliminating bitcoin mining. Similar to India, people continue to use bitcoin in China and the bitcoin network has been undeterred. Naturally, as government regulation in China has become more restrictive, miners have begun to look to more stable jurisdictions. Bitcoin mining in the United States (among other regions) continues to grow, and [Peter Thiel recently backed a startup](https://fortune.com/2019/10/15/what-is-bitcoin-mining-layer1-peter-thiel-crypto-investment/) that is building out mining operations in West Texas. Regardless of the threat, bitcoin exists beyond countries (and governments). The network adapts to jurisdictional risks and continues to function without interruption. As network participants observe the failed attempts to inhibit bitcoin’s growth and witness how it adapts, bitcoin does not merely remain static; it actually becomes more resilient through this process by routing around and immunizing each passing threat. 
 
