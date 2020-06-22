@@ -36,17 +36,17 @@ defaults:
 
 ## TLDR;
 
-— [Alistair Milne tweeted](https://twitter.com/alistairmilne/status/1266037520715915267) that he planned to giveaway 1 Bitcoin in a wallet generated using a 12-word mnemonic. 
-— With 8 known words there are 2⁴⁰ (~1.1 trillion) possible mnemonics. 
-— To test a single mnemonic we have to generate a seed from the mnemonic, master private key from the seed, and an address from the master private key. 
-— I wrote a CPU version in Rust to benchmark performance of a CPU solver. My Macbook was only able to check ~1,250 mnemonics per second which means it would have taken about **25 years** to check all 2⁴⁰ possible mnemonics. 
-— I ported all necessary code for generating and checking a mnemonic (SHA-256, SHA-512, RIPEMD-160, EC Addition, EC Multiplication) to OpenCL C which is a programming language to run code on a GPU. 
-— The GPU version was able to check ~143,000 mnemonics per second which means it would take ~83 days to check all 2⁴⁰ possible mnemonics. 
-— I wrote a server application that would orchestrate the distribution of work into batches of ~16 million mnemonics to a pool of GPU workers. Each GPU worker would ask the server for the next batch of work to do, perform the work, and log the result back to the server. 
-— I spent ~$350 renting GPUs from vast.ai (plus ~$75 for free from Azure). 
-— I was worried about other people doing the same and is why I included a .01 BTC miner fee. I didn’t think even this would be enough and thought there could be a ‘race to zero’ where people continually increased the fee trying to get the miners to include their transaction in the next block. 
-— I have open sourced all the code used to do this. Please see the bottom of the article for the links to the various projects. 
-— Creating a contest that isn’t won by software is difficult. I’d like to pay-it-forward and try crafting one myself. Follow me on Twitter [@johncantrell97](https://twitter.com/JohnCantrell97) for details.
+* [Alistair Milne tweeted](https://twitter.com/alistairmilne/status/1266037520715915267) that he planned to giveaway 1 Bitcoin in a wallet generated using a 12-word mnemonic. 
+* With 8 known words there are 2⁴⁰ (~1.1 trillion) possible mnemonics. 
+* To test a single mnemonic we have to generate a seed from the mnemonic, master private key from the seed, and an address from the master private key. 
+* I wrote a CPU version in Rust to benchmark performance of a CPU solver. My Macbook was only able to check ~1,250 mnemonics per second which means it would have taken about **25 years** to check all 2⁴⁰ possible mnemonics. 
+* I ported all necessary code for generating and checking a mnemonic (SHA-256, SHA-512, RIPEMD-160, EC Addition, EC Multiplication) to OpenCL C which is a programming language to run code on a GPU. 
+* The GPU version was able to check ~143,000 mnemonics per second which means it would take ~83 days to check all 2⁴⁰ possible mnemonics. 
+* I wrote a server application that would orchestrate the distribution of work into batches of ~16 million mnemonics to a pool of GPU workers. Each GPU worker would ask the server for the next batch of work to do, perform the work, and log the result back to the server. 
+* I spent ~$350 renting GPUs from vast.ai (plus ~$75 for free from Azure). 
+* I was worried about other people doing the same and is why I included a .01 BTC miner fee. I didn’t think even this would be enough and thought there could be a ‘race to zero’ where people continually increased the fee trying to get the miners to include their transaction in the next block. 
+* I have open sourced all the code used to do this. Please see the bottom of the article for the links to the various projects. 
+* Creating a contest that isn’t won by software is difficult. I’d like to pay-it-forward and try crafting one myself. Follow me on Twitter [@johncantrell97](https://twitter.com/JohnCantrell97) for details.
 
 ## Full Story
 
@@ -100,21 +100,21 @@ Let’s look at an example of how you can convert a number into a 12-word seed.
 
 First let’s start with a really big number:
 
-> 34,267,283,446,455,273,173,114,040,093,663,453,845
+> `34,267,283,446,455,273,173,114,040,093,663,453,845`
 
 From here we need to convert this number into a 128-bit number in binary.
 
-> 00011001110001111010001110000011110100110001011100011001001000100111110101001000101010000011111100000111001010100110001010010101
+> `00011001110001111010001110000011110100110001011100011001001000100111110101001000101010000011111100000111001010100110001010010101`
 
 We can get the last 4 bits (the checksum) by calculating the SHA-256 hash of this value and taking the first 4 bits of the result. In this case we get a checksum of 0101.
 
 Now we append the checksum to the end and split our 132 bits into groups of 11 bits:
 
-> |00011001110|00111101000|11100000111|10100110001|01110001100|10010001001|11110101001|00010101000|00111111000|00111001010|10011000101|00101010101|
+> `|00011001110|00111101000|11100000111|10100110001|01110001100|10010001001|11110101001|00010101000|00111111000|00111001010|10011000101|00101010101|`
 
 We then convert each group of 11 bits into a number representing the index:
 
-> |206|488|1799|1329|908|1161|1961|168|504|458|1221|341|
+> `|206|488|1799|1329|908|1161|1961|168|504|458|1221|341|`
 
 Finally we use these as indices into the [BIP-39 english wordlist](https://github.com/bitcoin/bips/blob/master/bip-0039/english.txt) to find each corresponding word:
 
@@ -234,11 +234,9 @@ At the peak I was testing about 40 billion mnemonics per hour. This means it sho
 
 As the day went on without finding the solution I became worried it wouldn’t work because there were a lot of ways that my approach could fail:
 
-— I assumed the words he was releasing were in the correct order. If they were not in order there would have been 8! (factorial) more possibilities (making 8 words basically impossible to brute force) and my code wasn’t trying the different permutations anyway.
-
-— I assumed I had all 8 words correct. While most were obvious there were a couple where I felt like there could be other options. I was not trying any of those other options, only the 8 I thought were correct.
-
-— I assumed he was using the first address of the first account of the HD wallet derived at m/49'/0'/0'/0/0. If he used any other derivation path (second or later address) I would not have found it. I was _REALLY_ nervous about this one because there was no way I could know for sure what derivation path he had used. Luckily, he used a brand new wallet without generating extra addresses before depositing the 1 BTC.
+* I assumed the words he was releasing were in the correct order. If they were not in order there would have been 8! (factorial) more possibilities (making 8 words basically impossible to brute force) and my code wasn’t trying the different permutations anyway.
+* I assumed I had all 8 words correct. While most were obvious there were a couple where I felt like there could be other options. I was not trying any of those other options, only the 8 I thought were correct.
+* I assumed he was using the first address of the first account of the HD wallet derived at m/49'/0'/0'/0/0. If he used any other derivation path (second or later address) I would not have found it. I was _REALLY_ nervous about this one because there was no way I could know for sure what derivation path he had used. Luckily, he used a brand new wallet without generating extra addresses before depositing the 1 BTC.
 
 After a full day of running my work server status showed that it was about 85% of the way done with testing all possibilities and I had largely given up hope that it would work. I literally almost turned it off at this point to implement a version that tested more than just the first address because I was convinced that assumption was wrong.
 
