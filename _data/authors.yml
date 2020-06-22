@@ -391,6 +391,27 @@ brendanbernstein:
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/BMBernstein"
 
+brianharrington:
+  name        : Brian Harrington
+  bio         : "#Bitcoin Community Organizer. Conscious Objector to Central Banks."
+  avatar      : # "/assets/images/bio-photo-2.jpg"
+  links:
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "https://www.brianharrington.org/"
+    - label: # "Email"
+      icon: #"fas fa-fw fa-envelope-square"
+      url: #"mailto:billyrick@rick.com"
+    - label: #"Medium"
+      icon: #"fab fa-medium"
+      url: #"https://medium.com/@johncantrell97"
+    - label: "Keybase"
+      icon: "fab fa-keybase"
+      url: "https://keybase.io/brainharrington"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/BrainHarrington"
+
 btchap:
   name        : BTChap
   bio         : "Bitcoin historian and biographer."
@@ -1096,7 +1117,22 @@ joerodgers:
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/_joerodgers/"
 
-johnnewbery:
+johncantrell:
+  name        : John Cantrell
+  bio         : "getjuggernaut.com #Bitcoin"
+  avatar      : # "/assets/images/bio-photo-2.jpg"
+  links:
+    - label: # "Email"
+      icon: #"fas fa-fw fa-envelope-square"
+      url: #"mailto:billyrick@rick.com"
+    - label: "Medium"
+      icon: "fab fa-medium"
+      url: "https://medium.com/@johncantrell97"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/JohnCantrell97"
+
+      johnnewbery:
   name        : John Newbery
   bio         : "Maximalish @Chaincodelabs in NYC."
   avatar      : # "/assets/images/bio-photo-2.jpg"
@@ -2013,6 +2049,27 @@ tamasblummer:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/TamasBlummer"
+
+tatianakoffman:
+  name        : Tatiana Koffman
+  bio         : "Investor. Writer @Forbes. ฿. Prior - Derivatives Trader; VC @TheChainsmokers & @LinkinPark; JD/MBA. Currently writing a book on the future of money Books"
+  avatar      : # "/assets/images/bio-photo-2.jpg"
+  links:
+    - label: #"Website"
+      icon: #"fas fa-fw fa-link"
+      url: #"https://thewhip.com"
+    - label: # "Email"
+      icon: #"fas fa-fw fa-envelope-square"
+      url: #"mailto:billyrick@rick.com"
+    - label: "Medium"
+      icon: "fab fa-medium"
+      url: "https://medium.com/@tatianakoffman"
+    - label: #"Keybase"
+      icon: #"fab fa-keybase"
+      url: #"https://keybase.pub/diverterbtc/"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/tatianakoffman"
 
 taylorpearson:
   name        : Taylor Pearson
