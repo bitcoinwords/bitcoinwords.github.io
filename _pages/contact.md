@@ -13,16 +13,16 @@ defaults:
 
 ![](/assets/images/yellow.png){: .align-center}
 
-Reach out to us with questions, concerns, or recommendations. 
+Reach out with questions, concerns, or recommendations. 
 
-
-[<i class="fab fa-twitter"></i> WORDS on Twitter](https://twitter.com/_bitcoinwords){: .btn .btn--info}
-[<i class="fab fa-twitter"></i> Editor on Twitter](https://twitter.com/_joerodgers){: .btn .btn--info}
-[<i class="fab fa-telegram-plane"></i> Join us on Telegram](https://t.me/bitcoinwordsjournal){: .btn .btn--info}
+[<i class="fab fa-twitter"></i> WORDS on Twitter](https://twitter.com/_bitcoinwords){: .btn .btn--primary}
+[<i class="fab fa-twitter"></i> Editor on Twitter](https://twitter.com/_joerodgers){: .btn .btn--primary}
+[<i class="fab fa-telegram-plane"></i> Join us on Telegram](https://t.me/bitcoinwordsjournal){: .btn .btn--primary}
 [<i class="fas fa-envelope-open-text"></i> Email the Editor](mailto:bitcoinwords@gmail.com){: .btn .btn--primary}
 
 ## PGP
 Send me a message via PGP. Read my PGP explainer if you're wondering "[WTF is PGP?](https://bitcoinwords.github.io/pgp/)".
+
 ```
 -----BEGIN PGP PUBLIC KEY BLOCK-----
 
