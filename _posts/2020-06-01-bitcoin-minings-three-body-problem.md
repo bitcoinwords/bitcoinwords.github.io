@@ -27,7 +27,7 @@ defaults:
 ***
 
 # [Bitcoin Mining’s Three Body Problem](https://www.aniccaresearch.tech/blog/bitcoin-minings-three-body-problem)
-### By [Leo Zhang](https://twitter.com/leorzhang) on [Anica Research](https://www.aniccaresearch.tech/)
+### By [Leo Zhang](https://twitter.com/leorzhang) on [Anicca Research](https://www.aniccaresearch.tech/)
 ### Posted June 1, 2020
 
 
