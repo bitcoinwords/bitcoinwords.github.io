@@ -9,7 +9,7 @@ tags:
   - 2020 Q2
   - Network Effects
 
-excerpt: Sylvail Saurel explains the relationship between the protocol and the individual. Posted June 13, 2020.
+excerpt: Sylvain Saurel explains the relationship between the protocol and the individual. Posted June 13, 2020.
 
 classes: wide
 
