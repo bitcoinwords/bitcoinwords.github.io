@@ -194,8 +194,6 @@ Bitcoin circa 2014-2018.
 ## Important Disclosures
 *The content of this paper is provided for informational purposes only. Nothing herein constitutes investment, legal, or tax advice or recommendations. This paper should not be relied upon as a basis for making an investment decision and is not an offer to provide advisory services. It should not be assumed that any investment in the asset class described herein will be profitable and there can be no assurance that future events and market factors would lead to results similar to any historical results described in this paper. The asset discussed herein is not representative of all assets in which Paradigm invests. Any projections, estimates, forecasts, targets, prospects and/or opinions expressed in this paper are based on the subjective views of its author, are subject to change without notice and may differ or be contrary to views expressed by others. Certain information contained in this paper has been obtained from third-party sources. While such information is believed to be reliable for the purposes used herein, Paradigm has not independently verified such information and makes no representation or warranty, express or implied, as to the accuracy or completeness of the information contained herein.*
 
-
-
 ***
 
 {% include signup.md %}

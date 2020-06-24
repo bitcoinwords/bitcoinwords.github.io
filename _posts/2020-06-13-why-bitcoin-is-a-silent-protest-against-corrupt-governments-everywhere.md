@@ -110,10 +110,6 @@ And so, Bitcoin allows us the opportunity to opt-out of the current system — a
 Think of it like playing monopoly with your friends. Once you realize that the bank is corrupt, all the players could simply agree to create a new form of money. There is no need to burn houses or hotels. We can continue to play the game and remove the power of money from the greedy banker — and thus, we take away the most authoritative weapon they have.
 
 
-
-
-
-
 ***
 
 {% include signup.md %}

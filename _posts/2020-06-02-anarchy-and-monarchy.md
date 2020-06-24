@@ -186,10 +186,6 @@ By decentralizing the world into thousands of independent states while centraliz
 Shall we?
 
 
-
-
-
-
 ***
 
 {% include signup.md %}
