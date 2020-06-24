@@ -57,7 +57,7 @@ It is here I must stress the marked difference in mentality to be taken when ent
 
 So if you plan to begin Bitcoin mining as a business, I sincerely hope you have millions of dollars to get started. If you plan to begin mining as a way to acquire BTC without KYC/AML regulations, and to help maintain the security of the network that you have time and value invested in at the same time, the barrier to entry is much lower. **Knowing the difference between these two is paramount to having a good experience with Bitcon mining.**
 
-![genesis mining miners in a rack](/assets/images/2020/m6/d2.png){: .align-center}
+![genesis mining miners in a rack](/assets/images/2020/m6/d3.png){: .align-center}
 
 ## Infrastructure Needs
 
