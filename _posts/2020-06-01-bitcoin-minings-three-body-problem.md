@@ -27,7 +27,7 @@ defaults:
 ***
 
 # [Bitcoin Mining’s Three Body Problem](https://www.aniccaresearch.tech/blog/bitcoin-minings-three-body-problem)
-### By [Leo Zhang](https://twitter.com/leorzhang) on [Anicca Research](https://www.aniccaresearch.tech/)
+### By [Leo Zhang](https://twitter.com/leorzhang) on [Annicca Research](https://www.aniccaresearch.tech/)
 ### Posted June 1, 2020
 
 
@@ -181,6 +181,7 @@ Advanced machines means higher upfront capital expenditure, which in turn pushes
 In the meantime, should we be concerned that industrialization will further centralize the mining game? Hardware manufacturing is a reproduction process that actively eliminates the need for genetic mutation. At its current state, it benefits from standardization and centralized management. Industrialization is unstoppable in mining. Decentralizing mining is better focused downstream on the distributing ownership of hashpower voting, such as [_Stratum v2_](https://stratumprotocol.org/).
 
 After a decade of barbaric growth, the mining industry is at crossroads. The entanglement of the three forces produces unpredictable short-term variances, but over the long-term as Bitcoin integrates deeper and wider with the rest of the economy, mining will become more competitive and resource-intensive. In the past miners only needed to focus on keeping expenses as low as possible. Going forward, the thinning profit margin will force the miners to be more conscious about cash flow and risk management. Two major trends will shape the industry in the future: **industrialization** and **financialization**.
+
 
 ***
 
