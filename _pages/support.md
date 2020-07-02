@@ -38,7 +38,7 @@ Any Bitcoin donation is appreciated but unnecessary. This project will march on 
 
 ### Lightning Donation
 
-[<i class="fas fa-bolt"></i> Lightning via Paywall.Link](https://paywall.link/to/thanks){: .btn .btn--danger} [<i class="fas fa-bolt"></i> Lightning via Tippin.me](https://tippin.me/@_joerodgers){: .btn .btn--primary}
+[<i class="fas fa-bolt"></i> Lightning strike](https://strike.me/joer){: .btn .btn--primary} [<i class="fas fa-bolt"></i> Lightning via Paywall.Link](https://paywall.link/to/thanks){: .btn .btn--primary} [<i class="fas fa-bolt"></i> Lightning via Tippin.me](https://tippin.me/@_joerodgers){: .btn .btn--primary}
 
 ### Dirty Fiat
 
