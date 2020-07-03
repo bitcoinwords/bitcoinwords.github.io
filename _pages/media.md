@@ -11,6 +11,10 @@ defaults:
       author_profile: true
 ---
 
+## [Drinks in Quarantine - Pleb Take Over](https://www.youtube.com/watch?v=Xnk93WfGvNE)
+This is what happens when a bunch of plebs live stream together. This was a fun one. 
+[![Drinks in Quarantine - Pleb Take Over](/assets/images/media/diq.png)](https://www.youtube.com/watch?v=Xnk93WfGvNE)
+
 ## [Live with John Vallis](https://twitter.com/johnkvallis/status/1271256915075428352)
 ### Posted June 11, 2020
 An informal conversation with [John Vallis](https://twitter.com/johnkvallis) about the current and future world.
