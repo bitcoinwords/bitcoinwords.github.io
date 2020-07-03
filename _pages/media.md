@@ -1,6 +1,6 @@
 ---
 permalink: /media/
-title: "Media"
+title: "Social WORDS"
 defaults:
   # _pages
   - scope:
