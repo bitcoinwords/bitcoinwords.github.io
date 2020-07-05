@@ -8,7 +8,7 @@ defaults:
       author_profile: true
 ---
 
-We've worked hard to make our Bitcoin archives accesible to the masses. Our hope is to preserve conversations about Bitcoin for generations. Below, you will find our entire archive below available for download. Make a lightning network donation as small as 1 satoshi and receive the PDF of that months journal.
+We've worked hard to make  archives accesible to the masses. Our hope is to preserve conversations about Bitcoin for generations. Below, you will find our entire archive below available for download. Make a lightning network donation receive the PDF of that months journal.
 
 ## Donate and Download PDF & ePUB
 
