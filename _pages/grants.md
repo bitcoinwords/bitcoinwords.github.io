@@ -40,5 +40,5 @@ This page is an attempt to track all the Bitcoin grants. This is a work in progr
 
 ## Open Grants
 |Grant Date | Grantor | Grantee | Information/URL | GitHub | Product | Amount | Announcement |
-| --- |--- |--- |--- |--- |--- |--- |--- |--- |--- |
+| --- |--- |--- |--- |--- |--- |--- |--- |
 | 2020/05 |Square Crypto | TBD, accepting applications for Grant | Stratum V2 | | Bitcoin, Mining |  | - |
