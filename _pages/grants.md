@@ -33,7 +33,9 @@ This page is an attempt to track all the Bitcoin grants. This is a work in progr
 | [2020/03](https://blog.bitmex.com/continued-support-of-bitcoin-development-hdr-provides-a-2nd-gift-to-the-mit-dci/) | [BitMEX](https://twitter.com/BitMEXResearch) | MIT Digital Currency Initiative | Digital Currency Initiative | mit-dci | Bitcoin |  $250,000 |
 | [2019/12](https://twitter.com/sqcrypto/status/1204815615678177280) | [Square Crypto](https://twitter.com/sqcrypto) | ZmnSCPxj | | | Bitcoin, Lightning |  |
 | [2019/12](https://blog.okcoin.com/2020/02/10/fabian-jahr-receives-independent-developer-grant/) | OKCoin | Fabian Jahr | | fjahr | Bitcoin |  |
-| [2019/11](https://blog.btcpayserver.org/dg-grant-2019/) | Digital Garage Inc. | BtcPayServer | BTC Pay Server | btcpayserver | Bitcoin |  $30,000 |
+| [2019/11](https://blog.btcpayserver.org/dg-grant-2019/) | Digital Garage Inc.[^note] | BtcPayServer | BTC Pay Server | btcpayserver | Bitcoin |  $30,000 |
 | [2019/07](https://blog.bitmex.com/2019-ford-bitcoin-grant/) | [BitMEX](https://twitter.com/BitMEXResearch) | [Michael Ford](https://twitter.com/fanquake) |  | [fanquake](https://github.com/fanquake) | Bitcoin |  $60,000 |
 | [2019/05](https://blog.bitmex.com/donation/) | [BitMEX](https://twitter.com/BitMEXResearch) | [MIT Digital Currency Initiative](https://twitter.com/mitDCI/) | [The Digital Currency Initiative is a research community at the MIT Media Lab focused on cryptocurrency and blockchain technology.](https://github.com/mit-dci) | [mit-dci](https://github.com/mit-dci) | Bitcoin |  $250,000 |
 | [2018/10](https://hardcore.fund/) | [Hardcore Fund](https://hardcore.fund/) | [Luke Dash Jr.](https://twitter.com/LukeDashjr) | Bitcoin Core Contributor | [luke-jr](https://github.com/luke-jr) | Bitcoin | |
+
+[^note]: note here
