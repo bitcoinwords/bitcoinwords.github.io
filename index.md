@@ -89,4 +89,3 @@ row4:
 
 {% include feature_row id="row4" %}
 
-text
