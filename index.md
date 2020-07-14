@@ -50,7 +50,7 @@ feature_row3:
     url: "https://bitcoinwords.github.io/categories/anthology/"
     btn_label: "WORDS Anthology"
     btn_class: "btn--warning"
-feature_row4:
+row4:
   - image_path: /assets/images/splash-about.png
     alt: "Read the Journals"
     title: "Journals"
@@ -87,4 +87,6 @@ feature_row4:
 
 {% include feature_row id="feature_row3" type="right" %}
 
-{% include feature_row id="feature_row4" %}
+{% include feature_row id="row4" %}
+
+text
