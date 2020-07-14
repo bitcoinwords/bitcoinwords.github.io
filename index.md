@@ -51,26 +51,26 @@ feature_row3:
     btn_label: "WORDS Anthology"
     btn_class: "btn--warning"
 row4:
-  - image_path: /assets/images/splash-about.png
-    alt: "Read the Journals"
-    title: "Journals"
-    excerpt: "All the journals dating back to February 2018."
-    url: "https://bitcoinwords.github.io/categories/journals/"
-    btn_label: "Read Journals"
+  - image_path: /assets/images/101.png
+    alt: "WORDS 101"
+    title: "WORDS 101"
+    excerpt: "WORDS 101 is a quick FAQ about Bitcoin and resources to get you started."
+    url: "https://bitcoinwords.github.io/101/"
+    btn_label: "WORDS 101"
     btn_class: "btn--primary"
-  - image_path: assets/images/links-card.png
-    alt: "WORDS Links"
-    title: "Links"
-    excerpt: "WORDS Links is a Bitcoin news aggregator that delivers content via RSS + Lightning paywall."
-    url: "https://bitcoinwords.github.io/links/docs/planet.news.html"
-    btn_label: "Read Links"
+  - image_path: /assets/images/anthology.png
+    alt: "WORDS Anthology"
+    title: "WORDS Anthology"
+    excerpt: "WORDS Anthology are author-specific collections of writing."
+    url: "https://bitcoinwords.github.io/categories/anthology/"
+    btn_label: "WORDS Anthology"
     btn_class: "btn--primary"
-  - image_path: /assets/images/moon.png
-    alt: "Bitcoin Financial Journal"
-    title: "Bitcoin Financial Journal"
-    excerpt: "A comprehensive collection of on and off chain indicators and valuation models for Bitcoin."
-    url: "https://bitcoinwords.github.io/bitcoin-financial-journal"
-    btn_label: "Read the Bitcoin Financial Journal"
+  - image_path: /assets/images/grants.png
+    alt: "Bitcoin Grants Tracker"
+    title: "Bitcoin Grants Tracker"
+    excerpt: "A table that shows Bitcoin development grants."
+    url: "https://bitcoinwords.github.io/grants/"
+    btn_label: "Bitcoin Grants Tracker"
     btn_class: "btn--primary"
 ---
 
@@ -82,10 +82,6 @@ row4:
 [![](https://raw.githubusercontent.com/bitcoinwords/bitcoinwords.github.io/master/assets/images/splash-stats.png)](https://bitcoinwords.github.io/categories/journals/){: .align-center}
 
 {% include feature_row %}
-
-{% include feature_row id="feature_row2" type="left" %}
-
-{% include feature_row id="feature_row3" type="right" %}
 
 {% include feature_row id="row4" %}
 
