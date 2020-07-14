@@ -1,5 +1,5 @@
 ---
-permalink: /style/
+permalink: /style-guide/
 title: "Style Guide"
 classes: wide
 author_profile: true
