@@ -46,7 +46,7 @@ Any Bitcoin donation is appreciated but unnecessary. This project will march on 
 
 ## Help Spread 𝗪𝗢𝗥𝗗𝗦
 
-Have a website or use social networking sites like Twitter, Facebook, or LinkedIn? Consider sharing the content found on **WORDS** or linking to [https://bitcoinwords.github.io](https://bitcoinwords.github.io).
+Have a website or use social networking sites like Twitter, Facebook, or LinkedIn? Consider sharing the content found on **WORDS** or linking to [https://bitcoinwords.github.io](https://bitcoinwords.github.io). I recently acquired [words.pub](words.pub) as a url redirect. The GitHub url is such a mouthful, so commit [words.pub](words.pub) to  your memory!
 
 ## Follow on Twitter
 
@@ -60,12 +60,3 @@ There are now hundreds of subscribers. You should sign up too - apparently it's 
 
 [Subscribe](https://mailchi.mp/59e9fda5b387/words){: .btn .btn--primary}
 
-### 𝗪𝗢𝗥𝗗𝗦 pledge
-
-<i class="fas fa-check-square"></i> We'll never sell you out.
-
-<i class="fas fa-check-square"></i> We'll never shill you shitcoins.
-
-<i class="fas fa-check-square"></i> We'll only deliver what is promised.
-
-## Read 𝗪𝗢𝗥𝗗𝗦
