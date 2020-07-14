@@ -11,8 +11,8 @@ This page is an attempt to track all the Bitcoin grants. This is a work in progr
 
 ## Grants
 
-|Grant Date | Grantor | Grantee | Information/URL | GitHub | Product | Amount | Announcement |
-| --- |--- |--- |--- |--- |--- | --- |--- |
+|Grant Date | Grantor | Grantee | Information/URL | GitHub | Product | Amount |
+| --- |--- |--- |--- |--- |--- | --- |
 | [2020/07](https://twitter.com/sqcrypto/status/1281269625901256718) | [Square Crypto](https://twitter.com/sqcrypto) | [Steve Myers](https://twitter.com/notmandatory) | [Development of Bitcoin Developer Kit (BDK)](https://bitcoindevkit.org/) | [BitcoinDevKit](https://github.com/bitcoindevkit) | Bitcoin | - |
 | [2020/07](https://twitter.com/sqcrypto/status/1278356152036634626) | [Square Crypto](https://twitter.com/sqcrypto) | [Christoph Ono](https://twitter.com/GBKS) |  | [GBKS](https://github.com/GBKS) | Bitcoin Design | - |
 | [2020/06](https://twitter.com/sqcrypto/status/1277633234227134464) | [Square Crypto](https://twitter.com/sqcrypto) | [Vasil Dimov](https://people.freebsd.org/~vd/vdcv/vdcv.html) | P2P and Privacy on Bitcoin | [vasild](https://github.com/vasild) | Bitcoin Core and LN | - |
