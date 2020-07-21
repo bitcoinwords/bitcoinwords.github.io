@@ -30,15 +30,10 @@ Enter **WORDS**. Published independently, **WORDS** is a Bitcoin journal that [w
 
 [<i class="fas fa-code-branch"></i> Fork WORDS](https://github.com/bitcoinwords/bitcoinwords.github.io){: .btn .btn--warning}
 
-## [Social WORDS](https://bitcoinwords.github.io/media/)
-**WORDS** has been interviewed a couple times. Those interviews are on our [Media page](https://bitcoinwords.github.io/media/). **WORDS** welcomes requests to chat and collaborate. 
-
-## For a deeper dive down the rabbit hole...
-Check out [Bitcoin-Only](https://bitcoin-only.com/). It is a curated repo of strictly **"BITCOIN ONLY"** products, services, content, and more. You won't be disappointed.
-
-[![](/assets/images/new-bo.png)](https://bitcoin-only.com/)
+## Social WORDS
+**WORDS** has been interviewed a handful of times. Interviews can be found on the [media page](https://bitcoinwords.github.io/media/) and requests for interview or collaboration are 💯.
 
 ## Colophon
-**WORDS** is hosted on [GitHub Pages](https://pages.github.com/) and uses the theme [Minimal Mistakes](https://mmistakes.github.io/minimal-mistakes/) by [Michael Rose](https://twitter.com/mmistakes). 99.99% of the text on this site is written by people smarter than me. If you would like to submit something to the journal, please follow the instructions on the [submissions page](https://bitcoinwords.github.io/submissions/).
+**WORDS** is hosted on [GitHub Pages](https://pages.github.com/) and uses the [Minimal Mistakes](https://mmistakes.github.io/minimal-mistakes/) theme by [Michael Rose](https://twitter.com/mmistakes). 99.99% of the text on this site is written by people smarter than me. If you would like to submit something to the journal, please follow the instructions on the [submissions page](https://bitcoinwords.github.io/submissions/).
 
 [Mailchimp](https://mailchimp.com/) is used for newsletter distribution and [LNPay.co](https://lnpay.co) powers content distribution and donations. [Visual Studio Code](https://code.visualstudio.com/) is used for text editing and Microsoft Office is used to format the journal. Cover art is sourced from [Unsplash](https://unsplash.com/) and with permission from original artists. [Twitter](https://twitter.com) and [Feedly](https://feedly.com) are the weapons of choice for content discovery.
