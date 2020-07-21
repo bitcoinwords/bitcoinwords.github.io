@@ -31,7 +31,7 @@ Enter **WORDS**. Published independently, **WORDS** is a Bitcoin journal that [w
 [<i class="fas fa-code-branch"></i> Fork WORDS](https://github.com/bitcoinwords/bitcoinwords.github.io){: .btn .btn--warning}
 
 ## Social WORDS
-**WORDS** has been interviewed a handful of times. Interviews can be found on the [media page](https://bitcoinwords.github.io/media/) and requests for interview or collaboration are 💯.
+**WORDS** has been interviewed a handful of times. Interviews can be found on the [media page](https://bitcoinwords.github.io/media/) and requests for interview or collaboration are welcomed.
 
 ## Colophon
 **WORDS** is hosted on [GitHub Pages](https://pages.github.com/) and uses the [Minimal Mistakes](https://mmistakes.github.io/minimal-mistakes/) theme by [Michael Rose](https://twitter.com/mmistakes). 99.99% of the text on this site is written by people smarter than me. If you would like to submit something to the journal, please follow the instructions on the [submissions page](https://bitcoinwords.github.io/submissions/).
