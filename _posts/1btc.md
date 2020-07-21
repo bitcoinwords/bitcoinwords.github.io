@@ -1,5 +1,5 @@
 ---
-title: "1BTC = 1BTC"
+title: "Hidden Meaning in 1 BTC = 1 BTC"
 permalink: "/1btc-equals-1btc" 
 
 author: 
@@ -8,7 +8,7 @@ header:
   teaser: /assets/images/prtsc/1btc.png
 
 category: "prtsc"
-excerpt: A screenshot worth of signal.
+excerpt: Hidden Meaning in 1 BTC = 1 BTC
 
 defaults:
   # _posts
