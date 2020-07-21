@@ -37,3 +37,8 @@ Enter **WORDS**. Published independently, **WORDS** is a Bitcoin journal that [w
 Check out [Bitcoin-Only](https://bitcoin-only.com/). It is a curated repo of strictly **"BITCOIN ONLY"** products, services, content, and more. You won't be disappointed.
 
 [![](/assets/images/new-bo.png)](https://bitcoin-only.com/)
+
+## Colophon
+**WORDS** is hosted on [GitHub Pages](https://pages.github.com/) and uses the theme [Minimal Mistakes](https://mmistakes.github.io/minimal-mistakes/) by [Michael Rose](https://twitter.com/mmistakes). 99.99% of the text on this site is written by people smarter than me. If you would like to submit something to the journal, please follow the instructions on the [submissions page](https://bitcoinwords.github.io/submissions/).
+
+[Mailchimp](https://mailchimp.com/) is used for newsletter distribution and [LNPay.co](https://lnpay.co) powers content distribution and donations. [Visual Studio Code](https://code.visualstudio.com/) is used for text editing and Microsoft Office is used to format the journal. Cover art is sourced from [Unsplash](https://unsplash.com/) and with permission from original artists. [Twitter](https://twitter.com) and [Feedly](https://feedly.com) are the weapons of choice for content discovery.
