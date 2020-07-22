@@ -952,6 +952,21 @@ hasu:
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/hasufl/"
 
+hectorrosenkrans:
+  name        : Hector Rosenkrans
+  bio         : "Freedom maximalist. Husband and father, Annapolis and Bitcoin. Not holding your keys at @Casahodl"
+  avatar      : # "/assets/images/bio-photo-2.jpg"
+  links:
+    - label: # "Email"
+      icon: #"fas fa-fw fa-envelope-square"
+      url: #"mailto:billyrick@rick.com"
+    - label: #"Website"
+      icon: #"fas fa-fw fa-link"
+      url: #"https://thewhip.com"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/HectorRosekrans"
+
 hugonguyen:
   name        : Hugo Nguyen
   bio         : "I chain, therefore I am ⛓️"
@@ -1177,6 +1192,21 @@ jonmatonis:
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/jonmatonis"
 
+jpkoning:
+  name        : JP Koning
+  bio         : "monetary economics, history of money, central banking, free banking, gold, payments, financial privacy, financial inclusion, data viz, alt-currency"
+  avatar      : # "/assets/images/bio-photo-2.jpg"
+  links:
+    - label: # "Email"
+      icon: #"fas fa-fw fa-envelope-square"
+      url: #"mailto:billyrick@rick.com"
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "https://jpkoning.blogspot.com"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/jp_koning"
+
 jwweatherman:
   name        : JW Weatherman
   bio         : "Learn math and programming through playing a fun game at http://Mathbot.com, grok bitcoin at http://10hoursofbitcoin.com and secure it at http://YetiCold.com."
@@ -1260,6 +1290,18 @@ lucasnuzzi:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/LucasNuzzi"
+
+lynalden:
+  name        : Lyn Alden
+  bio         : "Founder of Lyn Alden Investment Strategy. Value investing with a global macro overlay. Finance/Engineering blended background."
+  avatar      : #"/assets/images/bio-photo.jpg"
+  links:
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "https://www.lynalden.com"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/LynAldenContact"
 
 marcelburger:
   name        : Marcel Burger
@@ -1564,6 +1606,18 @@ parkerlewis:
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/parkeralewis"
 
+paulknight:
+  name        : Paul Knight
+  bio         : "City planner (AICP), urban & architectural designer at http://HistoricalConcepts.com. Executive Director at @DCAInstitute. Bitcoin advocate."
+  avatar      : #"/assets/images/bio-photo.jpg"
+  links:
+    - label: #"Email"
+      icon: #"fas fa-fw fa-envelope-square"
+      url: #"mailto:cornelius@thewhip.com"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/PLK5280"
+
 pascalhugli:
   name        : Pascal Hügli
   bio         : "Pascal Hügli is a Swiss journalist at financialmedia AG, with a focus on economic and financial topics, in particular in the area of Bitcoin and crypto finance. He is also a lecturer at the University of Applied Sciences in Business Administration Zurich and a public moderator and debater."
@@ -1767,6 +1821,18 @@ renatoshirakashi:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/renato_shira"
+
+reedwomack:
+  name        : Reed Womack
+  bio         : "Author of Bitcoin Buddha: Beginners' Newsletter http://eepurl.com/gMePyT"
+  avatar      : #"/assets/images/bio-photo.jpg"
+  links:
+    - label: #"Email"
+      icon: #"fas fa-fw fa-envelope-square"
+      url: #"mailto:cornelius@thewhip.com"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/ReedWommack"
 
 rhythm:
   name        : Rhythm
