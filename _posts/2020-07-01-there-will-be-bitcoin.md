@@ -38,9 +38,9 @@ There is no greater quantity of stranded and wasted energy in the world than the
 
 Some quick facts:
 
-*   Natural gas flaring volumes reported to be 145 billion cubic meters in 2018, representing approximately 5% of total natural gas production globally. \[Source: World Bank\]
-*   Venting and flaring volumes are largely under reported by oil and gas producers, volumes likely significantly higher. _I can also attest to this fact from direct field experience._ \[[1](https://www.spglobal.com/en/research-insights/articles/are-some-shale-producers-under-reporting-gas-flaring-to-keep-oil-flowing)\]
-*   Economically stranded gas wells represent a massively growing liability. _I wrote about this here:_ \[[2](https://www.upstreamdata.ca/post/saving-stranded-gas-distributed-bitcoin-mining-to-the-rescue)\]
+*   Natural gas flaring volumes reported to be 145 billion cubic meters in 2018, representing approximately 5% of total natural gas production globally. [Source: World Bank]
+*   Venting and flaring volumes are largely under reported by oil and gas producers, volumes likely significantly higher. _I can also attest to this fact from direct field experience._ [[1](https://www.spglobal.com/en/research-insights/articles/are-some-shale-producers-under-reporting-gas-flaring-to-keep-oil-flowing)]
+*   Economically stranded gas wells represent a massively growing liability. _I wrote about this here:_ [[2](https://www.upstreamdata.ca/post/saving-stranded-gas-distributed-bitcoin-mining-to-the-rescue)]
 *   Oil and gas still accounts for the lions share of energy produced annually:
 
 ![](/assets/images/2020/m7/sb2.png)
