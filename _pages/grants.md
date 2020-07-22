@@ -13,6 +13,7 @@ This page is an attempt to track all the Bitcoin grants. This is a work in progr
 
 |Grant Date | Grantor | Grantee | Project Information | GitHub | Contribution | Amount |
 | --- |--- |--- |--- |--- |--- | --- |
+| [2020/07](https://blog.bitmex.com/bitcoin-developer-grant-provided-to-jeremy-rubin/) | [BitMEX](https://twitter.com/BitMEXResearch)[^bmex] | [Jeremy Rubin](https://twitter.com/JeremyRubin) | [BIP 119](https://github.com/bitcoin/bips/blob/master/bip-0119.mediawiki) | [jeremyrubin](https://github.com/jeremyrubin) | Bitcoin | $50,000 |
 | [2020/07](https://twitter.com/matthuang/status/1282781520730533888) | [Paradigm](https://twitter.com/paradigm) | [Anthony Towns](https://twitter.com/ajtowns) | [Bitcoin](https://bitcoin.org/) | [ajtowns](https://github.com/ajtowns) | Bitcoin | - |
 | [2020/07](https://twitter.com/sqcrypto/status/1281269625901256718) | [Square Crypto](https://twitter.com/sqcrypto) | [Steve Myers](https://twitter.com/notmandatory) | [Development of Bitcoin Developer Kit (BDK)](https://bitcoindevkit.org/) | [BitcoinDevKit](https://github.com/bitcoindevkit) | Bitcoin | - |
 | [2020/07](https://twitter.com/sqcrypto/status/1278356152036634626) | [Square Crypto](https://twitter.com/sqcrypto) | [Christoph Ono](https://twitter.com/GBKS) |  | [GBKS](https://github.com/GBKS) | Bitcoin Design | - |
