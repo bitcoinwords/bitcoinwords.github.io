@@ -24,7 +24,6 @@ defaults:
 
 ***
 
-
 # [There will be bitcoin.](https://medium.com/@stevegbarbour/there-will-be-bitcoin-d02d486a5d6b)
 ### By [Steve Barbour](https://twitter.com/SGBarbour)
 ### Posted June 23, 2020
