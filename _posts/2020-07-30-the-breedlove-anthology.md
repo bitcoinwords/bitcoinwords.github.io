@@ -5,8 +5,8 @@ permalink: "/the-breedlove-anthology"
 author: robertbreedlove
 
 header:
-  teaser: /assets/images/covers/words-the-complete-carter-cover-1000.png
-  overlay_image: /assets/images/covers/words-the-complete-carter-header.png
+  teaser: /assets/images/covers/words-the-breedlove-anthology-cover-1000.png
+  overlay_image: /assets/images/covers/words-the-breedlove-anthology-header.png
   overlay_filter: 0.50
   actions:
     - label: "Download The Breedlove Anthology"
@@ -34,11 +34,11 @@ defaults:
       related: false
 ---
 
-[![The Breedlove Anthology](/assets/images/covers/words-the-complete-carter-cover-150.png "The Breedlove Anthology")](https://bitcoinwords.github.io/assets/publications/words-the-complete-carter.pdf){: .align-left} This is a curated collection of posts and essays from [Robert Breedlove](https://twitter.com/Breedlove22) ccurated on July 23, 2020.
+[![The Breedlove Anthology](/assets/images/covers/words-the-breedlove-anthology-cover-150.png "The Breedlove Anthology")](https://bitcoinwords.github.io/assets/publications/words-the-breedlove-anthology.pdf){: .align-left} This is a curated collection of posts and essays from [Robert Breedlove](https://twitter.com/Breedlove22) ccurated on July 23, 2020.
 
 *WORDS* is a monthly journal of Bitcoin commentary. For the uninitiated, getting up to speed on Bitcoin can seem daunting. Content is scattered across the internet, in some cases behind paywalls, and content has been lost forever. That’s why we made this journal, to preserve and further the understanding of Bitcoin.
 
-![](/assets/images/covers/words-the-complete-carter-cover-card.png)
+![](/assets/images/covers/words-the-breedlove-anthology-cover-card.png)
 
 <br>
 
@@ -413,7 +413,7 @@ After ten years of virtually perfect operation, the Bitcoin network has gone fro
 
 ***
 
-</br>
+<br>
 
 # [Money, Bitcoin and Time: 2 of 3](https://medium.com/@breedlove22/money-bitcoin-and-time-part-2-of-3-eecdc668951d)
 ### By [Robert Breedlove](https://twitter.com/Breedlove22)
@@ -860,7 +860,7 @@ Bitcoin has made a major impact in the world in its 10 years of existence, and i
 
 ***
 
-</br>
+<br>
 
 # [Money, Bitcoin and Time: 3 of 3](https://medium.com/@breedlove22/money-bitcoin-and-time-part-3-of-3-e5d0a1ce0c07)
 ### By [Robert Breedlove](https://twitter.com/Breedlove22)
@@ -1141,7 +1141,7 @@ Only time will tell.
 
 ***
 
-</br>
+<br>
 
 # [Tweetstorm: The Bitcoin Common Tongue](https://twitter.com/Breedlove22/status/1141567060847149056)
 ### By [Robert Breedlove](https://twitter.com/Breedlove22)
@@ -1323,7 +1323,7 @@ You can follow [@Breedlove22](https://twitter.com/intent/user?screen_name=Breedl
 
 ***
 
-</br>
+<br>
 
 # [An Open Letter to Ray Dalio re: Bitcoin](https://medium.com/@breedlove22/an-open-letter-to-ray-dalio-re-bitcoin-4b07c52a1a98)
 ## An open letter to hedge fund colossus Ray Dalio regarding his worldview, the forces of financial nature, and how Bitcoin is bound to reshape both.
@@ -2201,7 +2201,7 @@ dd. [https://www.amazon.com/Bitcoin-Sovereignty-mathematics-Knut-Svanholm/dp/109
 
 ***
 
-</br>
+<br>
 
 
 # [Bitcoin and the Tyranny of Time Scarcity](https://medium.com/the-bitcoin-times/bitcoin-and-the-tyranny-of-time-scarcity-1d1550dfd8b0)
@@ -2409,7 +2409,7 @@ If you found value in this or any of the other essays and articles, please suppo
 
 ***
 
-</br>
+<br>
 
 
 # [The Number Zero and Bitcoin](https://medium.com/@breedlove22/the-number-zero-and-bitcoin-4c193336db5b)
@@ -2775,7 +2775,7 @@ Sources:
 
 ***
 
-</br>
+<br>
 
 # [Masters and Slaves of Money](https://medium.com/@breedlove22/masters-and-slaves-of-money-255ecc93404f)
 ### By [Robert Breedlove](https://twitter.com/Breedlove22)
