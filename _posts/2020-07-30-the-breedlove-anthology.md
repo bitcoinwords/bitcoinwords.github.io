@@ -34,7 +34,7 @@ defaults:
       related: false
 ---
 
-[![The Breedlove Anthology](/assets/images/covers/words-the-breedlove-anthology-cover-150.png "The Breedlove Anthology")](https://bitcoinwords.github.io/assets/publications/words-the-breedlove-anthology.pdf){: .align-left} This is a curated collection of posts and essays from [Robert Breedlove](https://twitter.com/Breedlove22) ccurated on July 23, 2020.
+[![The Breedlove Anthology](/assets/images/covers/words-the-breedlove-anthology-cover-150.png "The Breedlove Anthology")](https://bitcoinwords.github.io/assets/publications/words-the-breedlove-anthology.pdf){: .align-left} This is a curated collection of posts and essays from [Robert Breedlove](https://twitter.com/Breedlove22) curated on July 23, 2020.
 
 *WORDS* is a monthly journal of Bitcoin commentary. For the uninitiated, getting up to speed on Bitcoin can seem daunting. Content is scattered across the internet, in some cases behind paywalls, and content has been lost forever. That’s why we made this journal, to preserve and further the understanding of Bitcoin.
 
