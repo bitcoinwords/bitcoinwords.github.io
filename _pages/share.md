@@ -1,5 +1,5 @@
 ---
-permalink: /share/
+permalink: /share-words/
 title: "Share WORDS"
 defaults:
   # _pages
