@@ -5,7 +5,7 @@ permalink: "/scaling-bitcoin-trust-and-trustless"
 author: 
 
 header:
-  teaser: /assets/images/prtsc/SCALE.png
+  teaser: /assets/images/prtsc/scale.png
 
 category: "prtsc"
 excerpt: Hidden Meaning in 1 BTC = 1 BTC
