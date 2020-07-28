@@ -8,7 +8,7 @@ header:
   teaser: /assets/images/prtsc/scale.png
 
 category: "prtsc"
-excerpt: Hidden Meaning in 1 BTC = 1 BTC
+excerpt: Scaling Bitcoin - Trust and Trustless
 
 defaults:
   # _posts
