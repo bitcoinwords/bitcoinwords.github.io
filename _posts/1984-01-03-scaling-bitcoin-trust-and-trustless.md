@@ -1,5 +1,5 @@
 ---
-title: "Hidden Meaning in 1 BTC = 1 BTC"
+title: "Scaling Bitcoin: Trust and Trustless"
 permalink: "/scaling-bitcoin-trust-and-trustless" 
 
 author: 
