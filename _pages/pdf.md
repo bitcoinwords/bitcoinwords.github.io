@@ -14,6 +14,7 @@ We've worked hard to make the archives accessible to the masses. Our hope is to 
 
 | Month         | PDF | ePUB |
 | --------         | ------ | ------ |
+| [![CY20 July Journal Cover](/assets/images/covers/CY20M7-cover-150.png "CY20 July Journal Cover")](https://paywall.link/to/2020M7) | [July 2020 PDF](https://paywall.link/to/2020M7){: .btn .btn--primary} | [July 2020 ePUB](https://paywall.link/to/2020M7epub){: .btn .btn--primary} |
 | [![CY20 June Journal Cover](/assets/images/covers/CY20M6-cover-150.png "CY20 June Journal Cover")](https://paywall.link/to/2020M6) | [June 2020 PDF](https://paywall.link/to/2020M6){: .btn .btn--primary} | [June 2020 ePUB](https://paywall.link/to/2020M6epub){: .btn .btn--primary} |
 | [![CY20 May Journal Cover](/assets/images/covers/CY20M5-cover-150.png "CY20 May Journal Cover")](https://paywall.link/to/2020M5) | [May 2020 PDF](https://paywall.link/to/2020M5){: .btn .btn--primary} | [May 2020 ePUB](https://paywall.link/to/2020M5epub){: .btn .btn--primary} |
 | [![CY20 April Journal Cover](/assets/images/covers/CY20M4-cover-150.png "CY20 April Journal Cover")](https://paywall.link/to/2020M4) | [April 2020 PDF](https://paywall.link/to/2020M4){: .btn .btn--primary} | [April 2020 ePUB](https://paywall.link/to/2020M4epub){: .btn .btn--primary} |
