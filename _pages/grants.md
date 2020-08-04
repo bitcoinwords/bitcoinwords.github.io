@@ -13,6 +13,10 @@ This page is an attempt to track all the Bitcoin grants. This is a work in progr
 
 |Grant Date | Grantor | Grantee | Project Information | GitHub/Source Code | Contribution | Amount |
 | --- |--- |--- |--- |--- |--- | --- |
+
+| [2020/08](https://twitter.com/HRF/status/1290680292756332544) | [Human Rights Foundation](https://twitter.com/HRF) | [openoms](https://twitter.com/openoms) | [JoinInbox](https://github.com/openoms/joininbox) | [openoms](https://github.com/openoms) | Bitcoin Market GUI | 1 BTC |
+| [2020/08](https://twitter.com/HRF/status/1290680292756332544) | [Human Rights Foundation](https://twitter.com/HRF) | [Fontaine](https://twitter.com/Fonta1n3) | [Fully Noded](https://github.com/Fonta1n3/FullyNoded) | [Fonta1n3](https://github.com/Fonta1n3) | Bitcoin Core Client for iOS | 1 BTC |
+| [2020/08](https://twitter.com/HRF/status/1290680292756332544) | [Human Rights Foundation](https://twitter.com/HRF) | [Evan Kaloudis](https://twitter.com/evankaloudis) | [Zeus](https://github.com/ZeusLN/zeus) | [kaloudis](https://github.com/kaloudis) | Lightning Node Client | 1 BTC |
 | [2020/08](https://twitter.com/sqcrypto/status/1290339026462019585) | [Square Crypto](https://twitter.com/sqcrypto) | [Lloyd Fournier](https://twitter.com/LLFOURN) | [secp256kFUN!](https://github.com/LLFourn/secp256kfun) | [LLFourn](https://github.com/LLFourn) | Bitcoin | - |
 | [2020/07](https://twitter.com/sqcrypto/status/1290339026462019585) | [Square Crypto](https://twitter.com/sqcrypto) | [Thorbjoern Koenig](https://twitter.com/ThorbjornKonig) | [A Human-first angle on Private Key Management](https://docs.google.com/document/d/1YagxF-jwFluCKgOF1q8oPGQGYMqrrd8AY_P6iOmpraM/edit) | [Design and UX](https://www.behance.net/thorbjoernkoenig) | Bitcoin UX | - |
 | [2020/07](https://blog.bitmex.com/bitcoin-developer-grant-provided-to-jeremy-rubin/) | [BitMEX](https://twitter.com/BitMEXResearch)[^bmex] | [Jeremy Rubin](https://twitter.com/JeremyRubin) | [BIP 119](https://github.com/bitcoin/bips/blob/master/bip-0119.mediawiki) | [jeremyrubin](https://github.com/jeremyrubin) | Bitcoin | $50,000 |
