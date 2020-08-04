@@ -11,9 +11,10 @@ This page is an attempt to track all the Bitcoin grants. This is a work in progr
 
 ## Grants
 
-|Grant Date | Grantor | Grantee | Project Information | GitHub | Contribution | Amount |
+|Grant Date | Grantor | Grantee | Project Information | GitHub/Source Code | Contribution | Amount |
 | --- |--- |--- |--- |--- |--- | --- |
 | [2020/08](https://twitter.com/sqcrypto/status/1290339026462019585) | [Square Crypto](https://twitter.com/sqcrypto) | [Lloyd Fournier](https://twitter.com/LLFOURN) | [secp256kFUN!](https://github.com/LLFourn/secp256kfun) | [LLFourn](https://github.com/LLFourn) | Bitcoin | - |
+| [2020/07](https://twitter.com/sqcrypto/status/1290339026462019585) | [Square Crypto](https://twitter.com/sqcrypto) | [Thorbjoern Koenig](https://twitter.com/ThorbjornKonig) | [A Human-first angle on Private Key Management](https://docs.google.com/document/d/1YagxF-jwFluCKgOF1q8oPGQGYMqrrd8AY_P6iOmpraM/edit) | [Design and UX](https://www.behance.net/thorbjoernkoenig) | Bitcoin UX | - |
 | [2020/07](https://blog.bitmex.com/bitcoin-developer-grant-provided-to-jeremy-rubin/) | [BitMEX](https://twitter.com/BitMEXResearch)[^bmex] | [Jeremy Rubin](https://twitter.com/JeremyRubin) | [BIP 119](https://github.com/bitcoin/bips/blob/master/bip-0119.mediawiki) | [jeremyrubin](https://github.com/jeremyrubin) | Bitcoin | $50,000 |
 | [2020/07](https://twitter.com/matthuang/status/1282781520730533888) | [Paradigm](https://twitter.com/paradigm) | [Anthony Towns](https://twitter.com/ajtowns) | [Bitcoin](https://bitcoin.org/) | [ajtowns](https://github.com/ajtowns) | Bitcoin | - |
 | [2020/07](https://twitter.com/sqcrypto/status/1281269625901256718) | [Square Crypto](https://twitter.com/sqcrypto) | [Steve Myers](https://twitter.com/notmandatory) | [Development of Bitcoin Developer Kit (BDK)](https://bitcoindevkit.org/) | [BitcoinDevKit](https://github.com/bitcoindevkit) | Bitcoin | - |
