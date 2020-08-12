@@ -36,6 +36,8 @@ Any Bitcoin donation is appreciated but unnecessary. This project will march on 
 <img src="https://btcpayjungle.com/img/logo.svg" style="height:57px;display:inline-block;padding: 5% 0 5% 5px;">
 </button></form>
 
+<br>
+
 [<i class="fab fa-bitcoin"></i> PayNym](http://paynym.is/+oldtooth670){: .btn .btn--primary}
 
 ### Lightning Donation
