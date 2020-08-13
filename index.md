@@ -77,7 +77,7 @@ row4:
 ## About WORDS 
 **WORDS** is one of the founding journals of Bitcoin thought. The core mission of the project is to spread and preserve writings about Bitcoin for future generations.
 
-[<i class="fas fa-book"></i> Find out more](https://bitcoinwords.github.io/about/){: .btn .btn--warning}
+[<i class="fas fa-book"></i> Find out more](https://bitcoinwords.github.io/about/){: .btn .btn--primary}
 
 [![](https://raw.githubusercontent.com/bitcoinwords/bitcoinwords.github.io/master/assets/images/splash-stats.png)](https://bitcoinwords.github.io/categories/journals/){: .align-center}
 

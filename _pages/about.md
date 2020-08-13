@@ -28,7 +28,7 @@ Enter **WORDS**. Published independently, **WORDS** is a Bitcoin journal that [w
 ## Free and Open Source
 **WORDS** follows the philosophy of Bitcoin by making this project open source. Because open source code is publicly accessible, students and can easily study the contents of **WORDS** as they do their own research. Users can easily fork **WORDS** and build their own copy.
 
-[<i class="fas fa-code-branch"></i> Fork WORDS](https://github.com/bitcoinwords/bitcoinwords.github.io){: .btn .btn--warning}
+[<i class="fas fa-code-branch"></i> Fork WORDS](https://github.com/bitcoinwords/bitcoinwords.github.io){: .btn .btn--primary}
 
 ## Social WORDS
 **WORDS** has been interviewed a handful of times. Interviews can be found on the [media page](https://bitcoinwords.github.io/media/) and requests for interview or collaboration are welcomed.
