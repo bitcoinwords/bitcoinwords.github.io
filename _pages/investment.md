@@ -30,3 +30,9 @@ Much has been written about the investment cases for Bitcoin. Here is a selectio
     <a href="https://github.com/bitcoinwords/bitcoinwords.github.io/blob/master/assets/papers/investment/Parker%20Lewis%20The-End-fo-the-Beginning-June-2020-3.pdf"><img src="https://raw.githubusercontent.com/bitcoinwords/bitcoinwords.github.io/master/assets/papers/investment/Parker%20Lewis%20The-End-fo-the-Beginning-June-2020-3.png"></a>
     <figcaption>(LEFT) VanEck - The Investment Case for Bitcoin | (RIGHT) Unchained Capital - The End of the Beginning </figcaption>
 </figure>
+
+<figure class="half">
+    <a href="https://github.com/bitcoinwords/bitcoinwords.github.io/blob/master/assets/papers/investment/Bitcoin%20in%20Heavy%20Accumulation.pdf"><img src="https://raw.githubusercontent.com/bitcoinwords/bitcoinwords.github.io/master/assets/papers/investment/Bitcoin%20in%20Heavy%20Accumulation.png"></a>
+    <a href="https://github.com/bitcoinwords/bitcoinwords.github.io/blob/master/assets/papers/investment/the-case-for-a-small-allocation-of-bitcoin.pdf"><img src="https://raw.githubusercontent.com/bitcoinwords/bitcoinwords.github.io/master/assets/papers/investment/the-case-for-a-small-allocation-of-bitcoin.png"></a>
+    <figcaption>(LEFT) Adamant Capital - Bitcoin in Heavy Accumulation | (RIGHT) Wences Cesares of Xapo - The Case for a Small Allocation of Bitcoin</figcaption>
+</figure>
