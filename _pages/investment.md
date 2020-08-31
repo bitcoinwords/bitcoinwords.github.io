@@ -25,8 +25,6 @@ Much has been written about the investment cases for Bitcoin. Here is a selectio
     <figcaption>(LEFT) Fidelity - Bitcoin Investment Thesis | (RIGHT) Grayscale - Valuing Bitcoin</figcaption>
 </figure>
 
-    
-
 <figure class="half">
     <a href="https://github.com/bitcoinwords/bitcoinwords.github.io/blob/master/assets/papers/investment/vaneck-digital-assets--the-investment-case-for-bitcoin.pdf"><img src="https://raw.githubusercontent.com/bitcoinwords/bitcoinwords.github.io/master/assets/papers/investment/vaneck-digital-assets--the-investment-case-for-bitcoin.png"></a>
     <a href="https://github.com/bitcoinwords/bitcoinwords.github.io/blob/master/assets/papers/investment/Parker%20Lewis%20The-End-fo-the-Beginning-June-2020-3.pdf"><img src="https://raw.githubusercontent.com/bitcoinwords/bitcoinwords.github.io/master/assets/papers/investment/Parker%20Lewis%20The-End-fo-the-Beginning-June-2020-3.png"></a>
