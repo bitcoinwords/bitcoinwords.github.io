@@ -5,6 +5,9 @@ permalink: "/the-case-for-a-small-allocation-to-bitcoin"
 tags:
   - Wences Cesares
   - CY19 Q2
+  - Investment
+  - Financial
+  - Portfolio
 
 excerpt: Wences Cesares makes the case for why an allocation of your portfolio must be Bitcoin. Posted April 11, 2019
 
@@ -30,7 +33,7 @@ defaults:
 
 Why most portfolios should allocate up to 1% to Bitcoin
 
-Summary
+## Summary
 
 Bitcoin is a fascinating experiment but it is still just that: an experiment. As such it still has a chance of failing and becoming worthless. In my (subjective) opinion the chances of Bitcoin failing are at least 20%. But after 10 years of working well without interruption, with more than 60 million holders, adding more than 1 million new holders per month and moving more than $1 billion per day worldwide, it has a good chance of succeeding. In my (subjective) opinion those chances of succeeding are at least 50%. If Bitcoin does succeed, 1 Bitcoin may be worth more than $1 million in 7 to 10 years. That is 250 times what it is worth today (at the time of writing the price of Bitcoin is ~ $4,000).
 
@@ -40,7 +43,7 @@ In today's world where every asset seems priced for perfection, it is hard, if n
 
 It would be irresponsible to have an exposure to Bitcoin that one cannot afford to lose because the risk of losing the principal is very real. But it would be almost as irresponsible to not have any exposure at all.
 
-What is interesting about the Bitcoin Blockchain?
+## What is interesting about the Bitcoin Blockchain?
 
 Throughout this essay I refer to the "Bitcoin Blockchain" when I am referring to the Bitcoin platform as a whole, including the Bitcoin Blockchain and the Bitcoin currency. Many different systems for different use cases may one day run on top of the Bitcoin Blockchain. When I refer to "Bitcoin" I am referring to Bitcoin the currency, that can be bought, sold, sent, received, held, etc. You can think of the Bitcoin currency as the first system to run on top of the Bitcoin Blockchain.
 
@@ -50,7 +53,7 @@ Bitcoin miners secure the Bitcoin Blockchain because they get paid in bitcoins t
 
 If a group of people wanted to take away the Bitcoin Blockchain sovereignty today they would not only need an extraordinary amount of capital and the capacity to develop specialized mining hardware in very large quantities, but they would also need access to the equivalent of the United States largest hydroelectric dam for an extended period of time. That would be hard to do but not impossible. Every day that goes by it gets even harder to "break" the Bitcoin Blockchain sovereignty. The Bitcoin Blockchain sovereignty has been attacked in the past (in fact, one of those attacks found me on the wrong side of history and that is how I painfully learned many of these lessons, but that's another story...) and so far it has always survived intact. We can expect the Bitcoin Blockchain sovereignty to come under attack from more and more resourceful bad actors, coalitions of bad actors or even from nation states eventually. Only time will tell if Bitcoin is truly sovereign or not.
 
-Where can a sovereign platform add value?
+## Where can a sovereign platform add value?
 
 It is a lot easier to see where the Bitcoin Blockchain will NOT add any value. For any Blockchain to add value it has to be the ultimate arbiter of truth: nothing has to be able to contest it or change it. For any use case in which the Blockchain information can be contested or changed by a government, by a registrar of deeds, by a court, by the police, by the SEC or by any other authority it does not make sense to use a Blockchain. Claims that the Blockchain can solve property titles, securities settlement, supply chain management, the authenticity of works of art and many other similar cases are misplaced. It is true that the systems that we are using today in all of those cases are old, antiquated and inefficient. And it is true that all of those cases involve many stakeholders that use different data formats and transaction protocols that are often proprietary, but all of those problems would be better solved if those stakeholders agreed to use open standards and if they used better technology. Most often the word "Blockchain" is being waved frantically by consultants who want to scare their corporate customers into buying new technology projects, or by executives at those corporations who do not yet understand the Blockchain but understand that they may get the budget they want if they say their project is using "Blockchain", or by entrepreneurs who think they are more likely to get the funding or press coverage they want if they add the word "Blockchain" to whatever they are doing.
 
@@ -60,7 +63,7 @@ But there is a use case that makes a lot of sense and, in fact, it is already wo
 
 Bitcoin is not an asset. It does not produce earnings or dividends and it does not generate interest. And Bitcoin has no intrinsic value. Bitcoin is simply money and most forms of good money have no intrinsic value. Gold, the US dollar and national currencies do not have any intrinsic value either but because they have had a monetary value for a long time most people perceive them as being intrinsically valuable, which is a big advantage. The main hurdle Bitcoin has to clear to become successful is to develop a similar widespread social perception of value and achieving that is quite an ambitious goal.
 
-What does a world in which Bitcoin succeeded look like?
+## What does a world in which Bitcoin succeeded look like?
 
 If Bitcoin succeeds it will most likely not replace any national currency. It may be a supranational currency that exists on top of all national currencies. If Bitcoin succeeds it may be a global non-political standard of value and settlement.
 
@@ -76,7 +79,7 @@ When your granddaughter asks "Grandpa, how did you guys keep track of all these 
 
 "Really? But isn't that the currency of the United States?" after you say yes she may ask "And how did you keep track of the US dollar?" to which you will say "Well... mostly in Euros, sometimes in Yen, Swiss Francs or other currencies depending on what we were talking about". She may think we were weird.
 
-Why not another cryptocurrency instead of Bitcoin?
+## Why not another cryptocurrency instead of Bitcoin?
 
 There are about 1,000 cryptocurrencies that have at least one transaction a day. So why Bitcoin and not any one of those other ones? Over 60 million people own Bitcoin and over 1 million people become new owners every month. The other 1,000 cryptocurrencies have less than 5 million owners combined, so Bitcoin will add more users in the next 5 months than those 1,000 cryptocurrencies added in their combined history. Bitcoin is moving over $1 billion a day which is also more than all the other cryptocurrencies combined.
 
@@ -86,7 +89,7 @@ The Bitcoin Blockchain is a open protocol, not a company. The history of protoco
 
 Many interesting technologies and applications that are being tested with other cryptocurrencies and other Blockchains and, if they are successful, they may be implemented on top of the Bitcoin Blockchain. It is not efficient to invest massive amounts of new hardware and electricity to replicate sovereignty when we already have a most solid and robust sovereign Bitcoin Blockchain. It is more efficient to simply build on top of it. For example, the Bitcoin Blockchain is limited in that it can only process approximately 3,000 transactions every 10 minutes, you have to wait 10 minutes for the transaction to be recorded in the Blockchain and up to 1 hour if you want to make sure it is irreversible. And you have to pay anywhere from 5 cents to 50 cents in transaction fees for the miners to process your transaction. The Lightning Network takes advantage of the robustness of the Bitcoin Blockchain and it works as a "Layer 2" solution on top of the Bitcoin Blockchain, enabling thousands of transactions per second of as little as 1 satoshi ($0.00004), for free and in real time. Similarly, other early examples of Layer 2 solutions that work on top of the Bitcoin Blockchain are RSK which enables the full functionality of Ethereum but on top of the much more robust Bitcoin Blockchain. Liquid is an open source wholesale settlement network developed by Blockstream that operates on top of the Bitcoin Blockchain. There are many more examples of technologies being developed to take advantage of the sovereignty and robustness of the Bitcoin Blockchain and enhance its capabilities by building on top of it.
 
-How can Bitcoin fail?
+## How can Bitcoin fail?
 
 Bitcoin can fail in many different ways. It could be taken over by a bad actor. It could be displaced by a better platform. It could be hacked. And Bitcoin can probably fail in many ways that we cannot imagine yet. Because Bitcoin does not have any intrinsic value, and because it's value depends on a social consensus which is a sort of collective delusion, in my opinion, the most likely way in which Bitcoin could fail is a price panic. If we all decide at the same time that we think Bitcoin is worthless, then it will be worthless. It is a self-fulfilled prophecy. If the price of Bitcoin were to plummet to zero or near zero, even if the platform remained intact, its reputation would suffer immensely and it could take a generation to rebuild that credibility. This could happen if people buy amounts of Bitcoin they cannot afford to lose, for example if people invest their retirement funds or their kids' college funds into Bitcoin, and as the price goes does down they are forced to sell, pushing the price further down and forcing others to sell. So, in my opinion, the biggest risk to Bitcoin is people investing amounts they cannot afford to lose.
 
@@ -94,7 +97,7 @@ Most of the capital invested in Bitcoin today seems to be capital that people ca
 
 After 10 years of Bitcoin working well without interruption more concerning than a complete failure is a scenario where Bitcoin does not fail but it becomes irrelevant. Something similar to what happened to the BitTorrent protocol, which still exists but is less and less relevant as the real revolution in digital file sharing and entertainment happened through Dropbox, Spotify, Netflix, and many others. Similarly, there is a chance that Bitcoin does not fail but that it never becomes mainstream, that is only used by a group of believers and fanatics but not much more beyond that. That could happen because financial institutions, governments, and regulators manage to keep Bitcoin separate and ostracized from the rest of the financial world, like a non-convertible currency, but it could also happen even if financial institutions, governments, and regulators keep going on their current path of enabling Bitcoin to be fully connected to the financial world. If Bitcoin never becomes mainstream bitcoins will still have a price but most likely lower than what it is today. In my (subjective) opinion the chance of this happening is 30%.
 
-Bitcoin's price action
+## Bitcoin's price action
 
 Bitcoin launched in January 2009 but it did not have a price until July 2010 when it began to to change hands informally at $0.05 cents per bitcoin. In November 2010 Bitcoin had its first price rally that took the price to a peak of $0.39 cents to then "crash" to $0.19 cents. The price was at its peak of $0.39 cents only very briefly and the volume on prices near $0.39 cents was negligible, for most casual observers the rally simply took the price of Bitcoin from $0.05 cents to $0.19 cents, an increase of 280%, but most of the commentary at the time focused on the Bitcoin "crash" of over 50% from $0.39 to $0.19 cents. This exact same story has repeated itself 6 times in Bitcoin's history so far. There have been 6 of these rallies in Bitcoin's 10-year history and in between the rallies the price of Bitcoin has traded sideways or downward for months or years at a time. During most of Bitcoin's 10-year history, the press has been commenting and worrying about Bitcoin's latest "crash". How can something that constantly crashes go from
 
@@ -108,13 +111,13 @@ Every Bitcoin bear market is about working out the excesses of the rally. During
 
 If Bitcoin succeeds it is likely that the price will do another 6 of these rallies over the next 7 to 10 years. Anyone who tells you that they know what the price of Bitcoin will be next week, much less next year is either ignorant or outright lying to you. It is not possible to know when the price will hit bottom or when the next rally will come and the penalty for trying to time the bottom or the top and getting it wrong can be much higher than the money you were trying to save. If you decide to buy Bitcoin simply decide what is the amount of money you can afford to lose (ideally less than 1% of your net worth), deploy it at market and at once and forget about it for 7 to 10 years. I have been giving this advice for 6 years and, by watching what people do with this advice, I can tell you that "Forget about it for 7 to 10 years" is the most difficult part of the simple recipe I am proposing. This lack of discipline destroys a lot more value than you would anticipate. The price volatility rattles people and makes them trade. If the price goes down a lot they want to buy more to reduce their average their cost, they buy more and now they have more than they can afford to lose so they care even more about the price volatility. Even worse: when the price goes up 10 times they decide to sell to rebalance because now Bitcoin represents too much of their net worth and it is too risky (it is hard to double your portfolio with a 1% exposure if you rebalance it every time it multiplies by 10). If you think this may happen to you, I suggest you invest in two buckets: keep one bucket that you will not trade for 7 to 10 years, and another bucket that you will trade as much as you want (but be responsible and be sure that both buckets combined add to an amount then you can afford to lose).
 
-Why do I believe 1 Bitcoin may be worth $1 million in 7 to 10 years?
+## Why do I believe 1 Bitcoin may be worth $1 million in 7 to 10 years?
 
 How much a Bitcoin may be worth if Bitcoin succeeds is pure speculation. Today Bitcoin is worth a total of ~ $70 billion (~ 17.5 million bitcoins in circulation x ~ $4,000 per Bitcoin). If Bitcoin ever becomes the world's standard of value and settlement it may have to be worth more than gold and less than the world's narrow supply of money. All the gold that was ever been mined is worth ~ $7 trillion the world's narrow supply of money is ~ $40 trillion. If Bitcoin is ever worth as much as gold each Bitcoin would be worth ~ $300,000, and if Bitcoin is ever worth as much as the world's narrow supply of money it would be worth ~ $2 million.
 
 My preferred way of guessing how the price of Bitcoin may evolve is much more prosaic. I have noticed over time that the price of Bitcoin fluctuates around ~ $7,000 x how many people own bitcoins. So if that constant maintains and if 3 billion people ever own Bitcoin it would be worth ~ $21 trillion (~ $7,000 x 3 billion) or $1 million per Bitcoin.
 
-In closing
+## In closing
 
 This essay is focused on making the case for a small allocation to Bitcoin and, therefore, it focuses on the possible financial gain to be had if Bitcoin succeeds. But if Bitcoin does for Money what the Internet did for information the prospect of unprecedented economic freedom is much more exciting than any possible financial gain.
 
