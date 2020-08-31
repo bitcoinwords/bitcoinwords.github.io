@@ -10,16 +10,8 @@ Much has been written about the investment cases for Bitcoin. Here is a selectio
 <figure class="half">
     <a href="https://github.com/bitcoinwords/bitcoinwords.github.io/blob/master/assets/papers/investment/Bitwise-The-Case-For-Bitcoin-In-An-Institutional-Portfolio.pdf"><img src="https://raw.githubusercontent.com/bitcoinwords/bitcoinwords.github.io/master/assets/papers/investment/Bitwise-The-Case-For-Bitcoin-In-An-Institutional-Portfolio.png"></a>
     <a href="https://github.com/bitcoinwords/bitcoinwords.github.io/blob/master/assets/papers/investment/-en--report---a-little-bitcoin-goes-a-long-way.pdf"><img src="https://raw.githubusercontent.com/bitcoinwords/bitcoinwords.github.io/master/assets/papers/investment/-en--report---a-little-bitcoin-goes-a-long-way.png"></a>
-    <figcaption>(LEFT) | (RIGHT)</figcaption>
+    <figcaption>(LEFT) Bitwise - The Case for Bitcoin in an Institutional Portfolio | (RIGHT) CoinShares - A Little Bitcoin Goes a Long Way</figcaption>
 </figure>
-
-
-<figure class="half">
-    <a href="https://github.com/bitcoinwords/bitcoinwords.github.io/blob/master/assets/papers/investment/Grayscale_Valuing_Bitcoin.pdf"><img src="https://raw.githubusercontent.com/bitcoinwords/bitcoinwords.github.io/master/assets/papers/investment/Grayscale_Valuing_Bitcoin.png"></a>
-    <a href="https://github.com/bitcoinwords/bitcoinwords.github.io/blob/master/assets/papers/investment/May-2020-BVI-Letter-Macro-Outlook.pdf"><img src="https://raw.githubusercontent.com/bitcoinwords/bitcoinwords.github.io/master/assets/papers/investment/May-2020-BVI-Letter-Macro-Outlook.png"></a>
-    <figcaption>(LEFT) | (RIGHT)</figcaption>
-</figure>
-
 
 <figure class="half">
     <a href="https://github.com/bitcoinwords/bitcoinwords.github.io/blob/master/assets/papers/investment/MicroStrategy-Adopts-Bitcoin-as-Primary-Treasury-Reserve-Asset.pdf"><img src="https://raw.githubusercontent.com/bitcoinwords/bitcoinwords.github.io/master/assets/papers/investment/MicroStrategy-Adopts-Bitcoin-as-Primary-Treasury-Reserve-Asset.png"></a>
@@ -31,4 +23,10 @@ Much has been written about the investment cases for Bitcoin. Here is a selectio
     <a href="https://github.com/bitcoinwords/bitcoinwords.github.io/blob/master/assets/papers/investment/bitinvthessisstoreofvalue.pdf"><img src="https://raw.githubusercontent.com/bitcoinwords/bitcoinwords.github.io/master/assets/papers/investment/bitinvthessisstoreofvalue.png"></a>
     <a href="https://github.com/bitcoinwords/bitcoinwords.github.io/blob/master/assets/papers/investment/vaneck-digital-assets--the-investment-case-for-bitcoin.pdf"><img src="https://raw.githubusercontent.com/bitcoinwords/bitcoinwords.github.io/master/assets/papers/investment/vaneck-digital-assets--the-investment-case-for-bitcoin.png"></a>
     <figcaption>(LEFT) Fidelity - Bitcoin Investment Thesis | (RIGHT) VanEck - The Investment Case for Bitcoin</figcaption>
+</figure>
+
+<figure class="half">
+    <a href="https://github.com/bitcoinwords/bitcoinwords.github.io/blob/master/assets/papers/investment/Grayscale_Valuing_Bitcoin.pdf"><img src="https://raw.githubusercontent.com/bitcoinwords/bitcoinwords.github.io/master/assets/papers/investment/Grayscale_Valuing_Bitcoin.png"></a>
+    <a href="https://github.com/bitcoinwords/bitcoinwords.github.io/blob/master/assets/papers/investment/Parker%20Lewis%20The-End-fo-the-Beginning-June-2020-3.pdf"><img src="https://raw.githubusercontent.com/bitcoinwords/bitcoinwords.github.io/master/assets/papers/investment/Parker%20Lewis%20The-End-fo-the-Beginning-June-2020-3.png"></a>
+    <figcaption>(LEFT) Grayscale - Valuing Bitcoin | (RIGHT) Unchained Capital - The End of the Beginning </figcaption>
 </figure>
