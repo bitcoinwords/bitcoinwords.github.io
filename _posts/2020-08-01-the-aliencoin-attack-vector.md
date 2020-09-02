@@ -7,6 +7,10 @@ author: knutsvanholm
 tags:
   - Knut Svanholm
   - 2020 Q3
+  - Space
+  - Alien
+  - Galaxy
+  - Attack Vector
 
 excerpt: Knut Svanholm explores the idea of a better alien money that could disrupt Bitcoin. Posted July 29, 2020. 
 
