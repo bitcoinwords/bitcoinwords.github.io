@@ -2167,6 +2167,21 @@ thatzenboi:
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/thatzenboi"
 
+thibaudmarechal:
+  name        : Thibaud Marechal
+  bio         : "Bitcoin native @knoxcustody"
+  avatar      : # "/assets/images/bio-photo-2.jpg"
+  links:
+    - label: # "Email"
+      icon: #"fas fa-fw fa-envelope-square"
+      url: #"mailto:billyrick@rick.com"
+    - label: #"Website"
+      icon: #"fas fa-fw fa-link"
+      url: #"https://thewhip.com"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/thibm_"
+
 timdraper:
   name        : Tim Draper
   bio         : "Founder of @DFJvc, @drapervc, @Draper_U, @IYS_Org."
