@@ -25,7 +25,7 @@ defaults:
 ***
 
 # [In Memory of Hal Finney, RIP — Builder of a More Trusted World](https://medium.com/asecuritysite-when-bob-met-alice/in-memory-of-hal-finney-rip-builder-of-a-more-trusted-world-aff0ce1cb826)
-### By [Bill Buchanan](https://twitter.com/billatnapier
+### By [Bill Buchanan](https://twitter.com/billatnapier)
 ### Posted August 22, 2020
 
 ![Image for post](/assets/images/2020/m8/bb1.jpg)
