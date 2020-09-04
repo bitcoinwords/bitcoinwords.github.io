@@ -39,6 +39,6 @@ Much has been written about the investment cases for Bitcoin. Here is a selectio
 
 <figure class="half">
     <a href="https://github.com/bitcoinwords/bitcoinwords.github.io/blob/master/assets/papers/investment/Bitcoin_For_The_Open_Minded_Skeptic.pdf"><img src="https://raw.githubusercontent.com/bitcoinwords/bitcoinwords.github.io/master/assets/papers/investment/Bitcoin_For_The_Open_Minded_Skeptic.png"></a>
-    <a href="https://github.com/bitcoinwords/bitcoinwords.github.io/blob/master/assets/papers/investment/ARKInvest_090320_Bitcoin_PART_1.pdf"><img src="https://github.com/bitcoinwords/bitcoinwords.github.io/blob/master/assets/papers/investment/ARKInvest_090320_Bitcoin_PART_1.png"></a>
+    <a href="https://github.com/bitcoinwords/bitcoinwords.github.io/blob/master/assets/papers/investment/ARKInvest_090320_Bitcoin_PART_1.pdf"><img src="https://raw.githubusercontent.com/bitcoinwords/bitcoinwords.github.io/master/assets/papers/investment/ARKInvest_090320_Bitcoin_PART_1.png"></a>
     <figcaption>(LEFT) Paradigm by Matt Huang - Bitcoin for the Open-Minded Skeptic | (RIGHT) ArkInvest by Yassine Elmandjra - Bitcoin: A Novel Economic Institution</figcaption>
 </figure>
