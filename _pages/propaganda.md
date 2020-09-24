@@ -11,6 +11,8 @@ defaults:
       author_profile: true
 ---
 
+![Ministry of Propaganda](/assets/images/pages-art/propaganda.png)
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/HFsRsdLvLCU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/nJeddv1QbeQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
