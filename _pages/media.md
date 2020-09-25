@@ -11,6 +11,11 @@ defaults:
       author_profile: true
 ---
 
+
+## [Drinks in Quarantine - Pleb Take Over 2](https://www.youtube.com/watch?v=QwfoEpOjmTA)
+More plebs, this time I was the host. Fun rip! 
+[![Drinks in Quarantine - Pleb Take Over 2](/assets/images/media/diq2.png)](https://www.youtube.com/watch?v=QwfoEpOjmTA)
+
 ## [Drinks in Quarantine - Pleb Take Over](https://www.youtube.com/watch?v=Xnk93WfGvNE)
 This is what happens when a bunch of plebs live stream together. This was a fun one. 
 [![Drinks in Quarantine - Pleb Take Over](/assets/images/media/diq.png)](https://www.youtube.com/watch?v=Xnk93WfGvNE)
