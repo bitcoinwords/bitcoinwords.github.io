@@ -45,5 +45,11 @@ Much has been written about the investment cases for Bitcoin. Here is a selectio
 
 <figure class="half">
     <a href="https://github.com/bitcoinwords/bitcoinwords.github.io/blob/master/assets/papers/investment/the-bullish-case-for-bitcoin.pdf"><img src="https://raw.githubusercontent.com/bitcoinwords/bitcoinwords.github.io/master/assets/papers/investment/the-bullish-case-for-bitcoin.png"></a>
-    <figcaption>Vijay Boyapati - The Bullish Case for Bitcoin</figcaption>
+    <a href="https://github.com/bitcoinwords/bitcoinwords.github.io/blob/master/assets/papers/investment/Tuur%20Demeester%20-%20The%20Bitcoin%20Reformation.pdf"><img src="https://raw.githubusercontent.com/bitcoinwords/bitcoinwords.github.io/master/assets/papers/investment/Tuur%20Demeester%20-%20The%20Bitcoin%20Reformation.png"></a>
+    <figcaption>(Left) Vijay Boyapati - The Bullish Case for Bitcoin | (Right) Tuur Demeester - The Bitcoin Reformation</figcaption>
+</figure>
+
+<figure class="half">
+    <a href="https://github.com/bitcoinwords/bitcoinwords.github.io/blob/master/assets/papers/investment/Kraken's%20The%20Great%20Debate_%20Bitcoin%20%26%20Intrinsic%20Value.pdf"><img src="https://raw.githubusercontent.com/bitcoinwords/bitcoinwords.github.io/master/assets/papers/investment/Kraken's%20The%20Great%20Debate_%20Bitcoin%20%26%20Intrinsic%20Value.png"></a>
+    <figcaption>(Left) Kraken - The Great Debate</figcaption>
 </figure>
