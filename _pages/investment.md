@@ -33,8 +33,8 @@ Much has been written about the investment cases for Bitcoin. Here is a selectio
 
 <figure class="half">
     <a href="https://github.com/bitcoinwords/bitcoinwords.github.io/blob/master/assets/papers/investment/Bitcoin%20in%20Heavy%20Accumulation.pdf"><img src="https://raw.githubusercontent.com/bitcoinwords/bitcoinwords.github.io/master/assets/papers/investment/Bitcoin%20in%20Heavy%20Accumulation.png"></a>
-    <a href="https://github.com/bitcoinwords/bitcoinwords.github.io/blob/master/assets/papers/investment/the-case-for-a-small-allocation-of-bitcoin.pdf"><img src="https://raw.githubusercontent.com/bitcoinwords/bitcoinwords.github.io/master/assets/papers/investment/the-case-for-a-small-allocation-of-bitcoin.png"></a>
-    <figcaption>(LEFT) Adamant Capital - Bitcoin in Heavy Accumulation | (RIGHT) Wences Cesares of Xapo - The Case for a Small Allocation of Bitcoin</figcaption>
+    <a href="https://github.com/bitcoinwords/bitcoinwords.github.io/blob/master/assets/papers/investment/Tuur%20Demeester%20-%20The%20Bitcoin%20Reformation.pdf"><img src="https://raw.githubusercontent.com/bitcoinwords/bitcoinwords.github.io/master/assets/papers/investment/Tuur%20Demeester%20-%20The%20Bitcoin%20Reformation.png"></a>
+    <figcaption>(LEFT) Adamant Capital - Bitcoin in Heavy Accumulation | (Right) Tuur Demeester - The Bitcoin Reformation</figcaption>
 </figure>
 
 <figure class="half">
@@ -45,8 +45,8 @@ Much has been written about the investment cases for Bitcoin. Here is a selectio
 
 <figure class="half">
     <a href="https://github.com/bitcoinwords/bitcoinwords.github.io/blob/master/assets/papers/investment/the-bullish-case-for-bitcoin.pdf"><img src="https://raw.githubusercontent.com/bitcoinwords/bitcoinwords.github.io/master/assets/papers/investment/the-bullish-case-for-bitcoin.png"></a>
-    <a href="https://github.com/bitcoinwords/bitcoinwords.github.io/blob/master/assets/papers/investment/Tuur%20Demeester%20-%20The%20Bitcoin%20Reformation.pdf"><img src="https://raw.githubusercontent.com/bitcoinwords/bitcoinwords.github.io/master/assets/papers/investment/Tuur%20Demeester%20-%20The%20Bitcoin%20Reformation.png"></a>
-    <figcaption>(Left) Vijay Boyapati - The Bullish Case for Bitcoin | (Right) Tuur Demeester - The Bitcoin Reformation</figcaption>
+    <a href="https://github.com/bitcoinwords/bitcoinwords.github.io/blob/master/assets/papers/investment/the-case-for-a-small-allocation-of-bitcoin.pdf"><img src="https://raw.githubusercontent.com/bitcoinwords/bitcoinwords.github.io/master/assets/papers/investment/the-case-for-a-small-allocation-of-bitcoin.png"></a>
+    <figcaption>(Left) Vijay Boyapati - The Bullish Case for Bitcoin | (RIGHT) Wences Cesares of Xapo - The Case for a Small Allocation of Bitcoin</figcaption>
 </figure>
 
 <figure class="half">
