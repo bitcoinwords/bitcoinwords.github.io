@@ -802,6 +802,21 @@ gabrielshapiro:
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/lex_node"
 
+gaelsanchezzmith:
+  name        : Gael Sanchez Smith
+  bio         : "Bitcoin Economics Inversión Macro Not Investment Advice/ No doy consejos de Inversión"
+  avatar      : # "/assets/images/bio-photo-2.jpg"
+  links:
+    - label: # "Email"
+      icon: #"fas fa-fw fa-envelope-square"
+      url: #"mailto:billyrick@rick.com"
+    - label: "Medium"
+      icon: "fas fa-fw fa-link"
+      url: "https://medium.com/@gaelgss"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/gaelsansmith"
+
 georgekikvadze:
   name        : George Kikvadze
   bio         : "@BitFuryGroup | @Wharton | @SAISHopkins | @YPO | @BlockChainSum | @GBBCouncil | @BlockchainTA | @ExonumPlatform | @Hut8Mining | @FinalFrontierio"
