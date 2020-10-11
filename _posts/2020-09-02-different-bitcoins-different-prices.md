@@ -27,7 +27,7 @@ defaults:
 
 ***
 
-### [Different bitcoins different prices](http://jpkoning.blogspot.com/2020/09/different-bitcoins-different-prices.html)
+# [Different bitcoins different prices](http://jpkoning.blogspot.com/2020/09/different-bitcoins-different-prices.html)
 ### By [JP Koning](https://twitter.com/jp_koning)
 ### Posted September 2, 2020
 
