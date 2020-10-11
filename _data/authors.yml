@@ -225,6 +225,21 @@ anthonypompliano:
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/APompliano"
 
+antoineriard:
+  name        : Antoine Riard
+  bio         : " "
+  avatar      : # "/assets/images/bio-photo-2.jpg"
+  links:
+    - label: # "Email"
+      icon: #"fas fa-fw fa-envelope-square"
+      url: #"mailto:billyrick@rick.com"
+    - label: "Medium"
+      icon: "fas fa-fw fa-link"
+      url: "https://medium.com/@antoine.riard"
+    - label: #"Twitter"
+      icon: #"fab fa-fw fa-twitter-square"
+      url: #"https://twitter.com/APompliano"
+
 arthurhayes:
   name        : Arthur Hayes
   bio         : "Arthur Hayes, Co-Founder & CEO of BitMEX"
@@ -802,7 +817,7 @@ gabrielshapiro:
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/lex_node"
 
-gaelsanchezzmith:
+gaelsanchezsmith:
   name        : Gael Sanchez Smith
   bio         : "Bitcoin Economics Inversión Macro Not Investment Advice/ No doy consejos de Inversión"
   avatar      : # "/assets/images/bio-photo-2.jpg"
@@ -876,6 +891,21 @@ gigi:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/dergigi"
+
+gloriazhao:
+  name        : Gloria Zhao
+  bio         : "I like Bitcoin. studying cs at berkeley"
+  avatar      : # "/assets/images/bio-photo-2.jpg"
+  links:
+    - label: # "Email"
+      icon: #"fas fa-fw fa-envelope-square"
+      url: #"mailto:billyrick@rick.com"
+    - label: #"Website"
+      icon: #"fas fa-fw fa-link"
+      url: #"https://thewhip.com"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/glozow"
 
 gregmaxwell:
   name        : Greg Maxwell
@@ -1957,6 +1987,18 @@ rustyrussell:
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/rusty_twit"
 
+sergiodemianlerner:
+  name        : Sergio Demian Lerner
+  bio         : "Cryptocurrency Security Consultant. Head of Innovation at IOV Labs. Designer of RSK (https://rsk.co)"
+  avatar      : #"/assets/images/bio-photo.jpg"
+  links:
+    - label: #"Email"
+      icon: #"fas fa-fw fa-envelope-square"
+      url: #"mailto:cornelius@thewhip.com"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/SDLerner"
+
 shaanray:
   name        : Shaan Ray
   bio         : "Creating new businesses using emerging technologies | ENTJ | #Science #Tech #Meditation | http://Lansaar.com for the latest #EmergingTech intel."
@@ -1968,6 +2010,18 @@ shaanray:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/ShaanRay"
+
+shinobi:
+  name        : Shinobi
+  bio         : "bring down the government, they don't speak for us A.K.A. = shinobius monk  @blockdigest @bitcoinshirtco"
+  avatar      : #"/assets/images/bio-photo.jpg"
+  links:
+    - label: #"Email"
+      icon: #"fas fa-fw fa-envelope-square"
+      url: #"mailto:cornelius@thewhip.com"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/brian_trollz"
 
 solairis:
   name        : Solairis

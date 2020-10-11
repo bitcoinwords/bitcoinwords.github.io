@@ -11,6 +11,20 @@ defaults:
       author_profile: true
 ---
 
+This is a collection of various pod and video stream appearances. 
+
+## [Down the Rabbit Hole Podcast Interview](https://anchor.fm/dtrhole/episodes/DTRH8---Sovereignty-through-Technology-with-Joe-Rodgers-ektbc3)
+### Posted October 11, 2020
+[Young Kaz](https://twitter.com/btcbycko) interviews me and we discuss:
+- 3D printing guns
+- Meme warfare
+- How ideas spread
+- Autonomous vehicles 
+- Virtual worlds
+
+And of course.. #Bitcoin
+
+[![](/assets/images/media/dtrh.png)](https://anchor.fm/dtrhole/episodes/DTRH8---Sovereignty-through-Technology-with-Joe-Rodgers-ektbc3)
 
 ## [Meet the Taco Plebs](https://www.youtube.com/watch?v=xP9_HQ0vAZ8&t=9s)
 ### Posted September 26, 2020
