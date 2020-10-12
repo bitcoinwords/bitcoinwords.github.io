@@ -16,7 +16,7 @@ feature_row:
   - image_path: /assets/images/splash-about.png
     alt: "Read the Journals"
     title: "Journals"
-    excerpt: "All the journals dating back to February 2018."
+    excerpt: "Browse the journal archives dating back to January 2018."
     url: "https://bitcoinwords.github.io/categories/journals/"
     btn_label: "Read Journals"
     btn_class: "btn--primary"
