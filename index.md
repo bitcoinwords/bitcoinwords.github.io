@@ -20,12 +20,12 @@ feature_row:
     url: "https://bitcoinwords.github.io/categories/journals/"
     btn_label: "Read Journals"
     btn_class: "btn--primary"
-  - image_path: assets/images/links-card.png
-    alt: "WORDS Links"
-    title: "Links"
-    excerpt: "WORDS Links is a Bitcoin news aggregator that delivers content via RSS + Lightning paywall."
-    url: "https://bitcoinwords.github.io/links/docs/planet.news.html"
-    btn_label: "Read Links"
+  - image_path: assets/images/investment.png
+    alt: "Bitcoin Investment Cases"
+    title: "Bitcoin Investment Cases"
+    excerpt: "A collection of pdf's and articles that highlight the Investment Case for Bitcoin."
+    url: "https://bitcoinwords.github.io/investment/"
+    btn_label: "Investment Cases"
     btn_class: "btn--primary"
   - image_path: /assets/images/moon.png
     alt: "Bitcoin Financial Journal"
