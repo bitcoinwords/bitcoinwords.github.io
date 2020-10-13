@@ -23,8 +23,8 @@ This is a collection of writings on the Investment Case for Bitcoin. They are bo
 
 <figure class="half">
     <a href="https://github.com/bitcoinwords/bitcoinwords.github.io/blob/master/assets/papers/investment/bitinvthessisstoreofvalue.pdf"><img src="https://raw.githubusercontent.com/bitcoinwords/bitcoinwords.github.io/master/assets/papers/investment/bitinvthessisstoreofvalue.png"></a>
-    <a href="https://github.com/bitcoinwords/bitcoinwords.github.io/blob/master/assets/papers/investment/Grayscale_Valuing_Bitcoin.pdf"><img src="https://raw.githubusercontent.com/bitcoinwords/bitcoinwords.github.io/master/assets/papers/investment/Grayscale_Valuing_Bitcoin.png"></a>
-    <figcaption>(LEFT) Fidelity - Bitcoin Investment Thesis | (RIGHT) Grayscale - Valuing Bitcoin</figcaption>
+    <a href="https://github.com/bitcoinwords/bitcoinwords.github.io/blob/master/assets/papers/investment/fidelity-bitcoin-alternative-investment.pdf"><img src="https://raw.githubusercontent.com/bitcoinwords/bitcoinwords.github.io/master/assets/papers/investment/fidelity-bitcoin-alternative-investment.png"></a>
+    <figcaption>(LEFT) Fidelity - Bitcoin Investment Thesis "An aspirational store of value"| (RIGHT) Fidelity - Bitcoin Investment Thesis "Bitcoin's role as an alternative investment"</figcaption>
 </figure>
 
 <figure class="half">
@@ -55,4 +55,9 @@ This is a collection of writings on the Investment Case for Bitcoin. They are bo
     <a href="https://github.com/bitcoinwords/bitcoinwords.github.io/blob/master/assets/papers/investment/the-bullish-case-for-bitcoin.pdf"><img src="https://raw.githubusercontent.com/bitcoinwords/bitcoinwords.github.io/master/assets/papers/investment/the-bullish-case-for-bitcoin.png"></a>
     <a href="https://github.com/bitcoinwords/bitcoinwords.github.io/blob/master/assets/papers/investment/the-case-for-a-small-allocation-of-bitcoin.pdf"><img src="https://raw.githubusercontent.com/bitcoinwords/bitcoinwords.github.io/master/assets/papers/investment/the-case-for-a-small-allocation-of-bitcoin.png"></a>
     <figcaption>(Left) Vijay Boyapati - The Bullish Case for Bitcoin | (RIGHT) Wences Cesares of Xapo - The Case for a Small Allocation of Bitcoin</figcaption>
+</figure>
+
+<figure class="half">
+    <a href="https://github.com/bitcoinwords/bitcoinwords.github.io/blob/master/assets/papers/investment/Grayscale_Valuing_Bitcoin.pdf"><img src="https://raw.githubusercontent.com/bitcoinwords/bitcoinwords.github.io/master/assets/papers/investment/Grayscale_Valuing_Bitcoin.png"></a>
+    <figcaption>(RIGHT) Grayscale - Valuing Bitcoin</figcaption>
 </figure>
