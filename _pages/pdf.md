@@ -8,7 +8,7 @@ defaults:
       author_profile: true
 ---
 
-We've worked hard to make the archives accessible to the masses. Our hope is to preserve conversations about Bitcoin for future generations.
+Individual entries are collecting into monthly journals and are available for download in PDF and ePUB format for 10,000 sats.
 
 ## Donate and Download PDF & ePUB
 
