@@ -5,6 +5,8 @@ classes: wide
 author_profile: true
 ---
 
+![](https://bitcoinwords.github.io/investment/)
+
 This is a collection of writings on the Investment Case for Bitcoin. They are both institutional papers & presentations as well as selected posts from individuals. Share this with friends, family, and colleagues that you care about.
 
 <figure class="half">
