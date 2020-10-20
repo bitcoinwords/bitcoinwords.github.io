@@ -8,7 +8,7 @@ defaults:
       author_profile: true
 ---
 
-Individual entries are collecting into monthly journals and are available for download in PDF and ePUB format for 10,000 sats.
+Each month entries are curated into monthly journals and are available to purchase and download in PDF and ePUB formats.
 
 ## Donate and Download PDF & ePUB
 
