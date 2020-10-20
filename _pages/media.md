@@ -13,6 +13,12 @@ defaults:
 
 This is a collection of various pod and video stream appearances. 
 
+## [Drinks in Quarantine - Political Censorship, Fidelity Recommends Bitcoin!, Schnorr Advancements](https://www.youtube.com/watch?v=5LPxqa-vcgs)
+### Posted October 15, 2020
+This one goes cosmic. 
+
+[![Drinks in Quarantine ](/assets/images/media/diq3.png)](https://www.youtube.com/watch?v=5LPxqa-vcgs)
+
 ## [Down the Rabbit Hole Podcast Interview](https://anchor.fm/dtrhole/episodes/DTRH8---Sovereignty-through-Technology-with-Joe-Rodgers-ektbc3)
 ### Posted October 11, 2020
 [Young Kaz](https://twitter.com/btcbycko) interviews me and we discuss:
