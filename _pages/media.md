@@ -11,7 +11,14 @@ defaults:
       author_profile: true
 ---
 
-This is a collection of various pod and video stream appearances. 
+This is a collection of various pod and video stream appearances.
+
+## [Drinks in Quarantine - October 29th - Bitcoin Magazine](https://www.youtube.com/watch?v=vwXt3qRhhwI)
+### Posted October 29, 2020
+Kind of a shit show. Wild group. Microstrategy, Iran, Bitcoin Banking and hashrate.
+
+[![Drinks in Quarantine ](/assets/images/media/diq4.png)](https://www.youtube.com/watch?v=vwXt3qRhhwI)
+
 
 ## [Drinks in Quarantine - Political Censorship, Fidelity Recommends Bitcoin!, Schnorr Advancements](https://www.youtube.com/watch?v=5LPxqa-vcgs)
 ### Posted October 15, 2020
