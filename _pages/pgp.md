@@ -42,7 +42,7 @@ There are plenty of options for Mac users. Unfortunately I do not have hands on 
 [GPGTools](https://gpgtools.org/){: .btn .btn--primary}
 [GPG Tools Tutorial](https://www.youtube.com/watch?v=JK2q-kYCg1Y){: .btn .btn--primary}
 
-Once you're setup with GPGTools, import my private keys and say hello!
+Once you're setup with GPGTools, import my public key and say hello!
 
 [WORDS Public Key](https://raw.githubusercontent.com/bitcoinwords/bitcoinwords.github.io/master/assets/public-key/WORDS-public-key.txt){: .btn .btn--warning}
 
