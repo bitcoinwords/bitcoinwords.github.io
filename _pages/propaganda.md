@@ -13,6 +13,8 @@ defaults:
 
 ![Ministry of Propaganda](/assets/images/pages-art/propaganda.png)
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/k0BIg5Y3amg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/VxwxQloOct0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/_9sS7eqz1l4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
