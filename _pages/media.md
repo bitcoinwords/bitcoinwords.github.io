@@ -13,6 +13,12 @@ defaults:
 
 This is a collection of various pod and video stream appearances.
 
+
+## [Bitcoin Happy Hour #2 - Bitcoin Magazine](https://youtu.be/74lYHt1ztOA)
+### November 20, 2020
+
+[![BMHH2](/assets/images/media/bmhh2.png)](https://youtu.be/74lYHt1ztOA)
+
 ## [Drinks in Quarantine - October 29th - Bitcoin Magazine](https://www.youtube.com/watch?v=vwXt3qRhhwI)
 ### Posted October 29, 2020
 Kind of a shit show. Wild group. Microstrategy, Iran, Bitcoin Banking and hashrate.
