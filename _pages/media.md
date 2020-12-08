@@ -13,6 +13,15 @@ defaults:
 
 This is a collection of various pod and video stream appearances.
 
+## [Bitcoin Matrix Podcast](https://podcasts.apple.com/us/podcast/joe-rodgers-3d-printing-guns-bitcoin/id1534519469?i=1000501072349)
+### December 2, 2020
+
+[![BMHH2](/assets/images/media/btcmatrix.jpg)](https://podcasts.apple.com/us/podcast/joe-rodgers-3d-printing-guns-bitcoin/id1534519469?i=1000501072349)
+
+## [Bitcoin Kindergarten - Can't Stop the Signal](https://www.youtube.com/watch?v=mwoLJ6NGpXk)
+### December 03, 2020
+
+[![BMHH2](/assets/images/media/btck.png)](https://www.youtube.com/watch?v=mwoLJ6NGpXk)
 
 ## [Bitcoin Happy Hour #2 - Bitcoin Magazine](https://youtu.be/74lYHt1ztOA)
 ### November 20, 2020
