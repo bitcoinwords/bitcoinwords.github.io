@@ -13,6 +13,19 @@ defaults:
 
 This is a collection of various pod and video stream appearances.
 
+https://www.youtube.com/watch?v=4u680SH2SLo
+
+## [Simply Bitcoin Podcast](https://www.youtube.com/watch?v=4u680SH2SLo)
+### December 10, 2020
+
+[![Simply Bitcoin](/assets/images/media/simply.png)](https://www.youtube.com/watch?v=4u680SH2SLo)
+
+## [Bitcoin Magazine Happy Hour - Pleb Takeover](https://www.youtube.com/watch?v=Md8kRJsSJ-g)
+### December 10, 2020
+
+[![Bitcoin Magazine Happy Hour](/assets/images/media/bmhh121020.png)](https://www.youtube.com/watch?v=Md8kRJsSJ-g)
+
+
 ## [Bitcoin Matrix Podcast](https://podcasts.apple.com/us/podcast/joe-rodgers-3d-printing-guns-bitcoin/id1534519469?i=1000501072349)
 ### December 2, 2020
 
