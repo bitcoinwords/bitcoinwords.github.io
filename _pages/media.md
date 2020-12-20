@@ -13,7 +13,11 @@ defaults:
 
 This is a collection of various pod and video stream appearances.
 
-https://www.youtube.com/watch?v=4u680SH2SLo
+## [Interview with Tyler Winklevoss](https://www.youtube.com/watch?v=Q1rmdgUnQwU)
+### December 17, 2020
+
+[![Interview with Tyler](/assets/images/media/tyler.png)](https://www.youtube.com/watch?v=Q1rmdgUnQwU)
+
 
 ## [Simply Bitcoin Podcast](https://www.youtube.com/watch?v=4u680SH2SLo)
 ### December 10, 2020
