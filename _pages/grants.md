@@ -13,7 +13,6 @@ This page is an attempt to track all the Bitcoin grants. This is a work in progr
 
 |Grant Date | Grantor | Grantee | Project Information | GitHub/Source Code | Contribution | Amount |
 | --- |--- |--- |--- |--- |--- | --- |
-
 | [2020/12](https://blog.coinbase.com/announcing-our-first-bitcoin-core-developer-grants-3d88559db068) | [Coinbase](https://twitter.com/coinbase) | [0xB10C](https://twitter.com/0xB10C) | [Mempool Observer](https://b10c.me/) | [0xb10c](https://github.com/0xb10c) | Bitcoin Transactions and Fees | - |
 | [2020/12](https://blog.coinbase.com/announcing-our-first-bitcoin-core-developer-grants-3d88559db068) | [Coinbase](https://twitter.com/coinbase) | [João Barbosa](https://twitter.com/promag) | [Bitcoin Core](https://github.com/bitcoin/bitcoin) | [promag](https://github.com/promag) | Bitcoin mobile development and code review | - |
 | [2020/12](https://twitter.com/sqcrypto/status/1338529455636172803) | [Square Cyrpto](https://twitter.com/sqcrypto) | [Patrícia Estevão](https://twitter.com/patestevao) | [Bitcoin UX Proposal](https://github.com/patestevao/Bitcoin-UX-research-proposal/blob/master/README.md) | [patestevao](https://github.com/patestevao) | Bitcoin UX development | - |
