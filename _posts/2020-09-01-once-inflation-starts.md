@@ -12,7 +12,7 @@ tags:
   - Investing
   - Fiat
 
-excerpt: Gael Sanmchez Smith explores how and why inflation can't be stopped. Posted June 12, 2020.
+excerpt: Gael Sannchez Smith explores how and why inflation can't be stopped. Posted June 12, 2020.
 
 classes: wide
 
