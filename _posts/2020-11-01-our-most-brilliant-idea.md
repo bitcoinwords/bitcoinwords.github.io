@@ -2,13 +2,16 @@
 title: "Our Most Brilliant Idea"
 permalink: "/our-most-brilliant-idea"
 
-author: 
+author: robertbreedlove
 
 tags:
-  - Author
-  - Year Quarter
+  - Robert Breedlove
+  - 2020 Q4
+  - Philosophy
+  - Morality
+  - Civilization
 
-excerpt: 
+excerpt: Robert expands on the philosophy of Bitcoin. Posted November 1, 2020.
 
 classes: wide
 
@@ -27,7 +30,7 @@ defaults:
 
 Ideas ambulate humanity across history. A new and useful idea is an innovation, which can benefit everyone for the rest of time. Therefore, it is critical we construct socioeconomic structures conducive to the creation of new ideas: civilization can only advance amid an everlasting flow of fresh knowledge. Free trade is the means by which we maximize ideation and its physical manifestation: wealth creation. Anything that impedes trade—like central banking—is (by definition) a terrible idea. Contrarily, all accelerants to free trade—like money—are among the most brilliant ideas we’ve ever had.
 
-![Image for post](https://miro.medium.com/max/896/1*y13ashMdPysCOorMAll8VA.jpeg)
+![Image for post](/assets/images/2020/m11/rb1.jpg)
 
 ## Ideas Drive Economics
 
@@ -43,7 +46,7 @@ Or as William Durant elaborates:
 
 Pouring forth from our forebears is this civilizing heritage of ideas sharpened through free trade and expressed in the tools, techniques, and cultures we make for ourselves. As we trade, our ideas become better, giving everything we say, do, or make more want-satisfying qualities. Consider how our language has evolved from grunts to enunciations, or how our behaviors have been shaped by culture, or how our transportation technologies have progressed from wagons to airplanes. Substantive ingredients for all modern miracles surrounding us today have always been available, but prior to their invention, we simply lacked the ideas necessary to manifest them. As the living generation responsible for ideation, our aim must be to forge our ideas into finer form for posterity: an aim we accomplish through innovation.
 
-![Image for post](https://miro.medium.com/max/800/1*B5s5EbBW-jXsd1pxnAH5ZQ.jpeg)
+![Image for post](/assets/images/2020/m11/rb2.jpg)
 
 Ideally, our civilization is the manifestation of our most useful ideas.
 
@@ -61,7 +64,7 @@ American capitalism outcompeted Soviet communism. Capitalism is a socioeconomic 
 
 In an elemental sense, trade is the water that sustains innovation, and its steadfast flow a source of peace. Capitalism is the socioeconomic “water well” built to protect this everlasting ideological wellspring of civilization—trade.
 
-![Image for post](https://miro.medium.com/max/2148/1*qrBwr5EEdtFLWZiSG30_ZQ.png)
+![Image for post](/assets/images/2020/m11/rb3.png)
 
 Capitalism is a socioeconomic “water well” which protects our wellspring of ideas: trade.
 
@@ -71,11 +74,14 @@ Capitalism is a socioeconomic “water well” which protects our wellspring of 
 
 As the ultimate token of trade, money is an indispensable tool for ideation. In trade, everything is valued at some ratio of everything else. For instance, a car might be worth 132 chairs, or a house worth 11 cars. Money is the medium through which we more easily calculate these exchange ratios: a tool that simplifies trade by standardizing its intermediation. Like all tools, money lets us achieve greater results with less efforts, and the time-savings tools impart _is_ wealth. Specifically, money lets us calculate, negotiate, and execute trades more quickly. Without money, a constant recalculation of countless exchange ratios among different economic goods would be necessary. With money, all exchange ratios are compressed into a single number — the money-expressed market price. In this way, money is an accelerant to trade and (its invisible twin) ideation. Standardization to one money creates economies of scale in trade. Such economization is what drives the market to coalesce around a single money — as we saw with gold and (its former currency abstraction, and now apparition) the US dollar:
 
-![Image for post](https://miro.medium.com/max/1200/1*JtTn6GgxNiUxFkb6BDIwRA.jpeg)
+![Image for post](/assets/images/2020/m11/rb4.jpg)
 
 America’s founding fathers knew the dangers of falsifying money.
 
-Money is the medium through which market participants express their ideas, preferences, and values. Pricing systems are economic telecommunication networks endlessly echoing and coordinating market action by dynamically informing everyone of everyone else’s trades. For instance, when you buy a car and sell a house, the economy responds adaptively by producing more cars and less houses. Even when you buy a public equity, you are expressing the idea its expected future cash flows are worth more than its current price, and the marketplace absorbs this thesis when you execute the trade. Price signals perpetually prime incentives to ensure resources are allocated in accordance with the current aggregate composition of market participant preferences. Entrepreneurs engaging in trade give rise to truthful pricing as they strive to buy low, sell high, and profitably serve one another. A true free market is a forum of unhampered and voluntary exchange where ideas compete, combine, and transform. Seen this way, the free market may be considered the ultimate distributed computing system — a nexus of consciousnesses driven by human action and interconnected by prices.https://cdn.embedly.com/widgets/media.html?type=text%2Fhtml&key=a19fcc184b9711e1b4764040d3dc5c07&schema=twitter&url=https%3A//twitter.com/breedlove22/status/1269486363444785152&image=The distributed computing power of the free market is the most intelligent system in the world.
+Money is the medium through which market participants express their ideas, preferences, and values. Pricing systems are economic telecommunication networks endlessly echoing and coordinating market action by dynamically informing everyone of everyone else’s trades. For instance, when you buy a car and sell a house, the economy responds adaptively by producing more cars and less houses. Even when you buy a public equity, you are expressing the idea its expected future cash flows are worth more than its current price, and the marketplace absorbs this thesis when you execute the trade. Price signals perpetually prime incentives to ensure resources are allocated in accordance with the current aggregate composition of market participant preferences. Entrepreneurs engaging in trade give rise to truthful pricing as they strive to buy low, sell high, and profitably serve one another. A true free market is a forum of unhampered and voluntary exchange where ideas compete, combine, and transform. Seen this way, the free market may be considered the ultimate distributed computing system — a nexus of consciousnesses driven by human action and interconnected by prices.
+
+![](/assets/images/2020/m11/rb5.png)
+The distributed computing power of the free market is the most intelligent system in the world.
 
 Money improves the extensibility of our minds. Thinking is an expression of rationality: the act of comparing all relevant factors to any course of action. By cognitively generating different aspects and avatars relevant to any given situation, humans create mental staging areas for future action. As with the root word of rationality — _ratio_ — thinking involves contrasting one thing against another. When we extend our thinking into money, we gain insight into the collective mind of other market participants through price signals, which themselves are expressions of rationality: ratios of exchange denominated in monetary terms. By consolidating the rationality of all market actors into the market price, ideation explodes. In this way, free markets are idea-generating supercomputers. This is why American innovation is unrivaled. Mankind makes the world his own by channeling energy across the ideological field lines fashioned in his extended mind—the free market.
 
@@ -93,13 +99,17 @@ Clearly, obstructing the ability of market participants to express their ideas t
 
 All regulations are limitations on free market forces that constrict ideation and its physical manifestation: wealth creation. The ultimate expression of legal regulation is monopolization, in which all peaceful competition is suppressed through coercion or violence. In the world today, the market for money is not a free market, as it is forcibly dominated by cartels of central banks — legal monopolies that distort prices, reduce trade, and interrupt ideation. Tellingly, central banking was also a key component of Soviet communism—an exclusive state-owned banking monopoly was the [5th measure](https://mises.org/wire/why-marx-loved-central-banks) in Marx’s 1848 _Manifesto to the Communist Party_. True capitalism has never existed, precisely because the rules of money have always become twisted by interventionists pursuing their own pecuniary gain in every market known to history. Legal impediments erected by governments to insulate central bank monopolies on money from free market capitalism are manifold. Such artifice destroys accountability, ingenuity, and virtue.
 
-![Image for post](https://miro.medium.com/max/512/1*H6B2uRrCUDTjNBCRiVfpQw.jpeg)
+![Image for post](/assets/images/2020/m11/rb6.jpg)
 
 With unbreakable capitalistic rules, the “game” of macroeconomics would impose an organizing principle onto humanity, encouraging us to find better ways of saying, doing, or making things by betting against each other in the marketplace as opposed to lying, stealing, or taxing. When rules cannot break, play is fair, and want-satisfactions escalate. As “players” prove one another wrong in the marketplace—by discovering and selling better means of satisfying wants—the resultant productivity gains diffuse into society through trade. An environment conducive to continuous learning at scale is cultivated through capitalism. Said differently: when ideas compete freely, more wealth is created—most often in the form of better tools, services, or knowledge. Mises describes this inextricable relationship between ideation and market competition in his masterwork [Human Action](https://cdn.mises.org/Human%20Action_3.pdf):
 
 > “But competition does not mean that anybody can prosper by simply imitating what other people do. It means the opportunity to serve the consumers in a better or cheaper way without being restrained by privileges granted to those whose vested interests the innovation hurts. What a newcomer who wants to defy the vested interest of the old established firms needs most is brains and ideas. If his project is fit to fill the most urgent of the unsatisfied needs of the consumers or to purvey them at a cheaper price than their olde purveyors, he will succeed in spite of the much talked of bigness and power of old firms.”
 
-To use [Ray Dalio’s](https://medium.com/@breedlove22/an-open-letter-to-ray-dalio-re-bitcoin-4b07c52a1a98) term: free markets are _idea meritocracies_: unhampered trade networks that incentivize the cultivation and infusion of the best ideas into civilization. Implicit in the meta-idea is the presupposition innovation can only be nurtured, not legislated. Here, the ignorance of [MMT](https://mises.org/power-market/mmt-not-modern-not-monetary-not-theory) advocates clamoring for “the activation of idle capital through inflation” rears its head: proceeds from theft via inflation can mobilize people and capital, but only in an unintelligent way since bureaucrats lack both the accountability and distributed computing power endogenous to the free market, and only until this parasitization of value from the productive economy kills it. In simple economic terms: free markets make mankind more productive; monopolies, or unfree markets, make mankind less productive. Further, the condition of our collective mind closely mirrors the state of our money. We only think in dollars today because they were once redeemable for gold. Central banks have hijacked the monetary extensibility of our minds (the old “bait and switch” tactic), and corrupted our capacity to perceive the world clearly:https://cdn.embedly.com/widgets/media.html?type=text%2Fhtml&key=a19fcc184b9711e1b4764040d3dc5c07&schema=twitter&url=https%3A//twitter.com/breedlove22/status/1302615907257073666&image=Central banking distorts market pricing by counterfeiting currency.
+To use [Ray Dalio’s](https://medium.com/@breedlove22/an-open-letter-to-ray-dalio-re-bitcoin-4b07c52a1a98) term: free markets are _idea meritocracies_: unhampered trade networks that incentivize the cultivation and infusion of the best ideas into civilization. Implicit in the meta-idea is the presupposition innovation can only be nurtured, not legislated. Here, the ignorance of [MMT](https://mises.org/power-market/mmt-not-modern-not-monetary-not-theory) advocates clamoring for “the activation of idle capital through inflation” rears its head: proceeds from theft via inflation can mobilize people and capital, but only in an unintelligent way since bureaucrats lack both the accountability and distributed computing power endogenous to the free market, and only until this parasitization of value from the productive economy kills it. In simple economic terms: free markets make mankind more productive; monopolies, or unfree markets, make mankind less productive. Further, the condition of our collective mind closely mirrors the state of our money. We only think in dollars today because they were once redeemable for gold. Central banks have hijacked the monetary extensibility of our minds (the old “bait and switch” tactic), and corrupted our capacity to perceive the world clearly:
+
+![](/assets/images/2020/m11/rb7.png)
+
+Central banking distorts market pricing by counterfeiting currency.
 
 Free minds need freely selected money. By embracing a free market paradigm in the totality of our actions we become more free thinking, intelligent, and wealthy. Another way to think about the free market is as a system of error detection and correction: through prices, it incentivizes the discovery and resolution of unsatisfied wants (socioeconomic errors). Central bank induced inflation distorts this error correction system, and causes dissatisfactions to swell. This market manipulation is (ostensibly) justified by the self-deceptive intentionality of central bankers to “manage the economy,” as if any human had ever successfully managed any complex system without triggering a cascade of unintended consequences. Conviction in the utility of their necessarily limited knowledge, as opposed to the free market processes which continually revivify knowledge, is the black core of central bank malevolence. As John Milton, author of [_Paradise Lost_](https://en.wikipedia.org/wiki/Paradise_Lost), brilliantly observed:
 
@@ -111,7 +121,11 @@ Central banks could repent merely by admitting this gargantuan error in ideology
 
 > “An Idea Is Salvation By Imagination.” — Frank Lloyd Wright
 
-Quintessential to the idea of any money is that both present and future market participants will freely accept it in trade. The likelihood of a money to be accepted by the broadest possible set of trading partners is largely based on how reliably it maintains its scarcity across time. To maximize this store of value function, a money must be resistant to misappropriation—whether by inflation, counterfeit, or confiscation (all of which are theft). The money most resistant to involuntary exchange (aka theft) tends to become the most widely adopted voluntary medium of exchange. Put another way: in free market competition the most theft-proof money wins. Those who erroneously choose a less theft-proof money are disfavored by market processes when their wealth is compromised by thieves through inflation, counterfeiting, or confiscation. Another way to say it: market participants adopt the money which minimizes the need to trust one another. Central banks continue to hoard gold because it is trust-minimized money. Bitcoin exhibits even greater trust-minimization qualities, and is therefore [disruptive to gold](https://medium.com/the-bitcoin-times/bitcoin-and-the-tyranny-of-time-scarcity-1d1550dfd8b0).https://cdn.embedly.com/widgets/media.html?type=text%2Fhtml&key=a19fcc184b9711e1b4764040d3dc5c07&schema=twitter&url=https%3A//twitter.com/breedlove22/status/1299678185760591872&image=Bitcoin is a renaissance of free market forces.
+Quintessential to the idea of any money is that both present and future market participants will freely accept it in trade. The likelihood of a money to be accepted by the broadest possible set of trading partners is largely based on how reliably it maintains its scarcity across time. To maximize this store of value function, a money must be resistant to misappropriation—whether by inflation, counterfeit, or confiscation (all of which are theft). The money most resistant to involuntary exchange (aka theft) tends to become the most widely adopted voluntary medium of exchange. Put another way: in free market competition the most theft-proof money wins. Those who erroneously choose a less theft-proof money are disfavored by market processes when their wealth is compromised by thieves through inflation, counterfeiting, or confiscation. Another way to say it: market participants adopt the money which minimizes the need to trust one another. Central banks continue to hoard gold because it is trust-minimized money. Bitcoin exhibits even greater trust-minimization qualities, and is therefore [disruptive to gold](https://medium.com/the-bitcoin-times/bitcoin-and-the-tyranny-of-time-scarcity-1d1550dfd8b0).
+
+![](/assets/images/2020/m11/rb8.png)
+
+Bitcoin is a renaissance of free market forces.
 
 Money is the best idea we’ve ever had, for without it, all the other marvelous ideas generated by markets would not exist. As the most tradable thing, money is the highest instantiation of our meta-idea, offering us unbridled optionality in market exchange. As a technology, free-market-selected money maximizes both human freedom and cooperation. Historically, gold reduced the incentives to violence, because it was a more securable form of wealth than food, land, and most other assets. In this way, gold greatly constricted the scope of assets worth fighting over, thereby inducing unparalleled social cooperation, trade, and wealth generation. This has profound moral implications too: when money is hard to steal, society becomes hard working; when it is easy to steal, society drifts toward kleptocracy. Let me state the argument in a single sentence: gold was the greatest tool we ever had to incentivize ourselves to civilize ourselves.
 
@@ -119,7 +133,7 @@ Money is the best idea we’ve ever had, for without it, all the other marvelous
 
 The global gold standard improved trade (our meta-idea) in a trust-minimized way and standardized the world to a single monetary protocol—thereby maximizing time-savings in trade and its associated wealth creation (two sides of the [same coin](https://medium.com/@breedlove22/money-bitcoin-and-time-part-1-of-3-b4f6bb036c04)). Again, wealth creation is absolutely dependent on ideation: using gold as money led the world into an unequaled effulgence of novel ideas and innovations, ushering in an era known colloquially as both The Gilded Age and La Belle Époque:
 
-![Image for post](https://miro.medium.com/max/1500/0*Gh1dgF7aIes3-Qmj.jpg)
+![](/assets/images/2020/m11/rb9.jpg)
 
 La Belle Époque—an era of significant innovation and wealth creation—was also considered the “beautiful age” of painting. This epoch of civilization was built on the idea of gold being used as money.
 
@@ -135,17 +149,21 @@ Indeed, these technological failings of gold formed the attack surface repeatedl
 
 > “There Is One Thing Stronger Than All The Armies In The World, And That Is An Idea Whose Time Has Come.”– Victor Hugo
 
-America was founded on the three pillars of free market capitalism: private property rights, rule of law, and honest money. The American Constitution authorized states to issue gold or silver currency, outlawed income tax, and prohibited national central banking. Unfortunately, upon successful implementation of the American central bank (after two failed attempts), the private property rights foundational to free market capitalism became vulnerable to limitless violation via inflation. An example of this failure came with the “[Great Gold Robbery of 1933](https://mises.org/library/great-gold-robbery-1933)” (aka Executive Order 6102): an unconstitutional decree and blatant violation of private property rights. All government decrees by fiat are lies (including fiat currency), for truth need never be forced. Free market forces always [zero-in](https://medium.com/@breedlove22/the-number-zero-and-bitcoin-4c193336db5b) on truth.https://cdn.embedly.com/widgets/media.html?type=text%2Fhtml&key=a19fcc184b9711e1b4764040d3dc5c07&schema=twitter&url=https%3A//twitter.com/breedlove22/status/1267692305793708036&image=Bitcoin perfectly exemplifies the ideas America was founded upon—it is American AF.
+America was founded on the three pillars of free market capitalism: private property rights, rule of law, and honest money. The American Constitution authorized states to issue gold or silver currency, outlawed income tax, and prohibited national central banking. Unfortunately, upon successful implementation of the American central bank (after two failed attempts), the private property rights foundational to free market capitalism became vulnerable to limitless violation via inflation. An example of this failure came with the “[Great Gold Robbery of 1933](https://mises.org/library/great-gold-robbery-1933)” (aka Executive Order 6102): an unconstitutional decree and blatant violation of private property rights. All government decrees by fiat are lies (including fiat currency), for truth need never be forced. Free market forces always [zero-in](https://medium.com/@breedlove22/the-number-zero-and-bitcoin-4c193336db5b) on truth.
+
+![](/assets/images/2020/m11/rb10.png)
+
+Bitcoin perfectly exemplifies the ideas America was founded upon—it is American AF.
 
 Bitcoin is the ideological synthesis of gold and the internet; it perfectly exemplifies the three pillars of free market capitalism undergirding the idea of America in a form that cannot be perverted by fiat decree. As its money supply cannot be changed, its holders are immune to confiscation via inflation, thus perfecting their private property rights (Pillar 1). Disputes within the Bitcoin network are settled consensually, and it is impractical to employ violence in an attempt to sway this process, thus perfecting the process of nonviolent dispute resolution embodied by the rule of law (Pillar 2). By perfecting these first two pillars of free market capitalism, Bitcoin is a self-fulfilling prophecy predestined to perfect its final pillar by becoming the final evolution in free-market-selected honest money (Pillar 3). As the only sacrosanct money in existence, Bitcoin is purified capitalism: a permanent implementation of the soundest socioeconomic “water well” in history:
 
-![Image for post](https://miro.medium.com/max/1920/1*sd02g-o5nByK8VOvljwWsQ.png)
+![Image for post](/assets/images/2020/m11/rb11.png)
 
 Bitcoin is purified capitalism: an elegant mathematical solution to the past problems of money.
 
 Competition and collaboration are the trades of life. Conservatism of energy is truth—organizations, methods, and tools that accomplish the greatest results with the least effort tend toward dominance as they are willingly embraced by market participants whose “skin is in the game.” Strict adherence to thermodynamic principles is the way all natural systems grow (there is no other way). Monies, moralities, and strategies which best amplify productivity outcompete on the free market for ideas—submission to this truth is freedom. Bitcoin is a system that minimizes competitive asymmetries by maximizing accountability, and thereby incentivizes fair play and error-clearing in the market. Modeled on the unbreakable rules of the universe—thermodynamics—Bitcoin is best known for its meteoric growth pattern:
 
-![Image for post](https://miro.medium.com/max/1310/0*1CQTWYIqRp1fYVhX)
+![](/assets/images/2020/m11/rb12.jpg)
 
 Adherence to thermodynamic principles has made Bitcoin the most explosive money in history.
 
@@ -167,7 +185,7 @@ Money is the ultimate token of trade, and trade is mankind’s meta-idea. Whatev
 
 > “Salvation: to see each thing for what it is — its nature and its purpose. To do only what is right, say only what is true, without holding back. What else could it be but to live life fully — to pay out goodness like the rings of a chain, without the slightest gap.” _— Marcus Aurelius_
 
-Thank you for reading _Our Most Brilliant Idea_.
+**Thank you for reading _Our Most Brilliant Idea_.**
 
 *   Subscribe to my YouTube Channel: [bit.ly/321Lzm0](https://t.co/9M1Z1YghsG?amp=1)
 *   Follow me on Twitter: [https://twitter.com/Breedlove22](https://twitter.com/Breedlove22)
@@ -179,23 +197,23 @@ Thank you for reading _Our Most Brilliant Idea_.
 *   Or, send dirty fiat dollars via PayPal: [https://www.paypal.com/paypalme/RBreedlove](https://www.paypal.com/paypalme/RBreedlove)
 *   Or, send dirty fiat dollars via Venmo: [https://venmo.com/code?user_id=1784359925317632528](https://venmo.com/code?user_id=1784359925317632528)
 
-![Image for post](https://miro.medium.com/max/420/0*kRlXgxgt06vXH2QA.png)
+![](/assets/images/2020/m11/rb13.png)
 
 Bitcoin accepted here: 3CiBznmvP2jXVSPR9bUWZwSNtbe9ubp36M
 
-Translations:
+**Translations:**
 
 *   [Italian](https://bitcoin-translate.it/blog/20201114.php)
 
 Thank you for feedback during the writing process: [Jimmy Song](https://medium.com/u/4acb12744ff8?source=post_page-----aced329f8941--------------------------------) [Brandon Quittem](https://medium.com/u/4f4c6b04c659?source=post_page-----aced329f8941--------------------------------) @Greg Z [Zach\_of\_Earth](https://medium.com/u/e36e0e52f842?source=post_page-----aced329f8941--------------------------------)
 
-My sincerest gratitude to these amazing minds:
+**My sincerest gratitude to these amazing minds:**
 
 @real_vijay, [Saifedean Ammous](https://medium.com/u/becf6824fd89?source=post_page-----4b07c52a1a98----------------------), [Brandon Quittem](https://medium.com/u/c74d75cd8d58?source=post_page-----4b07c52a1a98----------------------), [Dan Held](https://medium.com/u/ca481e1bf815?source=post_page-----4b07c52a1a98----------------------), [Naval Ravikant](https://medium.com/u/67f5049293c7?source=post_page-----4b07c52a1a98----------------------), @NickSzabo4, [Nic Carter](https://medium.com/u/a063100e6515?source=post_page-----4b07c52a1a98----------------------), @MartyBent, [Pierre Rochard](https://medium.com/u/1206face71fc?source=post_page-----4b07c52a1a98----------------------), [Anthony Pompliano](https://medium.com/u/1d0168ffead9?source=post_page-----4b07c52a1a98----------------------), [Chris Burniske](https://medium.com/u/2a8f9285c9aa?source=post_page-----4b07c52a1a98----------------------), @MarkYusko, @CaitlinLong_, [Nik Bhatia](https://medium.com/u/dc7ae094ae3a?source=post_page-----4b07c52a1a98----------------------), [Nassim Nicholas Taleb](https://medium.com/u/f138bf5466fe?source=post_page-----4b07c52a1a98----------------------), [Stephan Livera](https://medium.com/u/b0082959a759?source=post_page-----4b07c52a1a98----------------------), [Peter McCormack](https://medium.com/u/79b96a130697?source=post_page-----4b07c52a1a98----------------------), [Gigi](https://medium.com/u/29f663fdaf68?source=post_page-----4b07c52a1a98----------------------), [Hasu](https://medium.com/u/90326a938400?source=post_page-----4b07c52a1a98----------------------), @MustStopMurad, [Misir Mahmudov](https://medium.com/u/2c121d83fdee?source=post_page-----4b07c52a1a98----------------------), [Mises Institute](https://medium.com/u/11fe656b8466?source=post_page-----4b07c52a1a98----------------------), [John Vallis](https://medium.com/u/e179e924df32?source=post_page-----4b07c52a1a98----------------------), @FriarHass, [Conner Brown](https://medium.com/u/7e2af4996eb3?source=post_page-----4b07c52a1a98----------------------), [Ben Prentice](https://medium.com/u/41b995bfb220?source=post_page-----4b07c52a1a98----------------------), [Aleksandar Svetski](https://medium.com/u/c3dfe7e1392a?source=post_page-----4b07c52a1a98----------------------), [Cryptoconomy](https://medium.com/u/f1620960c83?source=post_page-----4b07c52a1a98----------------------), [Citizen Bitcoin](https://medium.com/u/8dbb1acf1534?source=post_page-----4b07c52a1a98----------------------), [Keyvan Davani](https://medium.com/u/b35b793f54bf?source=post_page-----4b07c52a1a98----------------------), @RaoulGMI, @DTAPCAP, [Parker Lewis](https://medium.com/u/4860f822b31a?source=post_page-----4b07c52a1a98----------------------), @Rhythmtrader, [Russell Okung](https://medium.com/u/ffa1d9486b31?source=post_page-----4b07c52a1a98----------------------), @sthenc, [Nathaniel Whittemore](https://medium.com/u/1b4838316374?source=post_page-----4b07c52a1a98----------------------), @ck_SNARKs, [Trevor Noren](https://medium.com/u/37121823cc91?source=post_page-----4b07c52a1a98----------------------), [Cory Klippsten](https://medium.com/u/1fed44f3e556?source=post_page-----4b07c52a1a98----------------------), [Knut Svanholm](https://medium.com/u/f12c589770d1?source=post_page-----4b07c52a1a98----------------------) @relevantpeterschiff, [Preston Pysh](https://medium.com/u/db32871ef5f3?source=post_page-----255ecc93404f--------------------------------), @bezantdenier
 
 And anyone else I forgot :)
 
-Sources:
+**Sources:**
 
 a. [https://www.grunge.com/91938/ideas-changed-course-humanity/](https://www.grunge.com/91938/ideas-changed-course-humanity/)
 
@@ -208,10 +226,6 @@ d. Fallen Leaves: Last Words on Life, Love, War, and God by Will Durant
 e. Manifesto to the Communist Party by Karl Marx
 
 f. [https://oll.libertyfund.org/pages/did-bastiat-say-when-goods-don-t-cross-borders-soldiers-will](https://oll.libertyfund.org/pages/did-bastiat-say-when-goods-don-t-cross-borders-soldiers-will)
-
-Written by[Robert Breedlove](https://breedlove22.medium.com/?source=post_sidebar--------------------------post_sidebar-----------)
-
-#### Freedom Maximalist. Bitcoin is Honest Money — stack sats here: [http://bit.ly/2THg4Jg](http://bit.ly/2THg4Jg) Links To All My Work: [http://bit.ly/3fG91KV](http://bit.ly/3fG91KV) YouTube: [http://bit.ly/321Lzm0](http://bit.ly/321Lzm0)
 
 #### Thanks to Brandon Quittem, Jimmy Song, and Zach\_of\_Earth.
 

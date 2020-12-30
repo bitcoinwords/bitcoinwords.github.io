@@ -27,7 +27,6 @@ defaults:
 
 ***
 
-
 # [How Bitcoin's Power Consumption Is Good for the Planet](https://www.voice.com/post/@jasonadeane/how-bitcoins-power-consumption-is-good-for-the-planet-1605113957-1)
 ### By [Jason Deane](https://twitter.com/JasonADeane) for [Cryptowriter in association with Voice](https://www.voice.com/post/@jasonadeane/how-bitcoins-power-consumption-is-good-for-the-planet-1605113957-1)
 ### Posted November 11, 2020
