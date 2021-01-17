@@ -255,6 +255,20 @@ arthurhayes:
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/CryptoHayes"
 
+bencarman:
+  name        : Ben Carman
+  bio         : "Life, Liberty, and the pursuit of sats (likely illegal)"
+  avatar      : # "/assets/images/bio-photo-2.jpg"
+  links:
+    - label: # "Email"
+      icon: #"fas fa-fw fa-envelope-square"
+      url: #"mailto:billyrick@rick.com"
+    - label: #"Website"
+      icon: #"fas fa-fw fa-link"
+      url: #"https://thewhip.com"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/benthecarman"
 
 benprentice:
   name        : Ben Prentice
