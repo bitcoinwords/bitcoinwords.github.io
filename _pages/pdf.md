@@ -14,6 +14,8 @@ Each month entries are curated into monthly journals and are available to purcha
 
 | Month         | PDF | ePUB |
 | --------         | ------ | ------ |
+| [![CY20 November Journal Cover](/assets/images/covers/CY20M11-cover-150.png "CY20 November Journal Cover")](https://paywall.link/to/2020M11) | [November 2020 PDF](https://paywall.link/to/2020M11){: .btn .btn--primary} | [November 2020 ePUB](https://paywall.link/to/2020M11epub){: .btn .btn--primary} |
+| [![CY20 October Journal Cover](/assets/images/covers/CY20M10-cover-150.png "CY20 October Journal Cover")](https://paywall.link/to/2020M10) | [October 2020 PDF](https://paywall.link/to/2020M10){: .btn .btn--primary} | [October 2020 ePUB](https://paywall.link/to/2020M10epub){: .btn .btn--primary} |
 | [![CY20 September Journal Cover](/assets/images/covers/CY20M9-cover-150.png "CY20 September Journal Cover")](https://paywall.link/to/2020M9) | [September 2020 PDF](https://paywall.link/to/2020M9){: .btn .btn--primary} | [September 2020 ePUB](https://paywall.link/to/2020M9epub){: .btn .btn--primary} |
 | [![CY20 August Journal Cover](/assets/images/covers/CY20M8-cover-150.png "CY20 August Journal Cover")](https://paywall.link/to/2020M8) | [August 2020 PDF](https://paywall.link/to/2020M8){: .btn .btn--primary} | [August 2020 ePUB](https://paywall.link/to/2020M8epub){: .btn .btn--primary} |
 | [![CY20 July Journal Cover](/assets/images/covers/CY20M7-cover-150.png "CY20 July Journal Cover")](https://paywall.link/to/2020M7) | [July 2020 PDF](https://paywall.link/to/2020M7){: .btn .btn--primary} | [July 2020 ePUB](https://paywall.link/to/2020M7epub){: .btn .btn--primary} |
