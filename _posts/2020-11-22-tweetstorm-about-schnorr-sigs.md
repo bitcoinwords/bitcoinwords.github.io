@@ -7,8 +7,12 @@ author: bencarman
 tags:
   - Ben Carman
   - 2020 Q4
+  - Technology
+  - Tech
+  - Schnorr Signatures
+  - Taproot
 
-excerpt: enter excerpt here
+excerpt: Ben Carman explains Schnorr Signatures at a high level. Posted November 22, 2020.
 
 classes: wide
 
@@ -20,6 +24,10 @@ defaults:
 {% include donation.md %}
 
 ***
+
+# [Tweet Storm - About Schnorr Sigs](https://twitter.com/benthecarman/status/1330638123844288513)
+### By [Ben Carman](https://twitter.com/benthecarman)
+### Posted November 22, 2020
 
 0/ For [#TaprootWeek](https://threadreaderapp.com/hashtag/TaprootWeek) today we are going to talk about adding Schnorr signatures to [#Bitcoin](https://threadreaderapp.com/hashtag/Bitcoin), why they are great, what optimizations we can get with them, and we'll tease the cool applications they can enable.  
   

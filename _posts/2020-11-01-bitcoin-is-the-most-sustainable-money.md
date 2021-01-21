@@ -14,7 +14,7 @@ tags:
   - Sustainability
   - Climate Change
 
-excerpt: Gael Sannchez Smith explores why bitcoin is the most sustainable known to man. Posted September 15, 2020.
+excerpt: Gael Sanchez Smith explores why bitcoin is the most sustainable known to man. Posted September 15, 2020.
 
 classes: wide
 
