@@ -9,11 +9,24 @@ This page is inspired by [@Polylunar_](https://twitter.com/Polylunar_)'s fantast
 
 This page is an attempt to track all the Bitcoin grants. This is a work in progress. Please send me details if I am missing a grant.
 
+
+
 ## Grants
+
+**Need to add Square Crypto grants from Jan-Mar 2021.** 
 
 |Grant Date | Grantor | Grantee | Project Information | GitHub/Source Code | Contribution | Amount |
 | --- |--- |--- |--- |--- |--- | --- |
-| [2020/12](https://blog.coinbase.com/announcing-our-first-bitcoin-core-developer-grants-3d88559db068) | [Coinbase](https://twitter.com/coinbase) | [0xB10C](https://twitter.com/0xB10C) | [Mempool Observer](https://b10c.me/) | [0xb10c](https://github.com/0xb10c) | Bitcoin Transactions and Fees | - |
+| [2021/03](https://bitcoinmagazine.com/technical/human-rights-foundation-announces-70000-in-bitcoin-development-grants) | [HRF](https://twitter.com/HRF) | [Jesse Posner](https://twitter.com/jesseposner) | Discreet Log Contracts | - | DLC's and adapter signatures | $25,000 |
+| [2021/03](https://bitcoinmagazine.com/technical/human-rights-foundation-announces-70000-in-bitcoin-development-grants) | [HRF](https://twitter.com/HRF) | [Muun Wallet ](https://twitter.com/MuunWallet) | [Muun Wallet](https://muun.com/) | Bitcoin & Lightning wallet | making self-custody easier | $25,000 |
+| [2021/03](https://bitcoinmagazine.com/technical/human-rights-foundation-announces-70000-in-bitcoin-development-grants) | [HRF](https://twitter.com/HRF) | [Janine](https://twitter.com/J9Roem) | [This Month in Bitcoin Privacy](https://enegnei.github.io/This-Month-In-Bitcoin-Privacy/) | [Enegnei](https://github.com/Enegnei) | Bitcoin privacy newsletter | $10,000 |
+| [2021/03](https://bitcoinmagazine.com/technical/human-rights-foundation-announces-70000-in-bitcoin-development-grants) | [HRF](https://twitter.com/HRF) | [Blockchain Commons](https://twitter.com/BlockchainComns) | [Research](https://www.blockchaincommons.com/) | [BlockchainCommons](https://github.com/BlockchainCommons) | Bitcoin Internships | $10,000 |
+| [2021/03](https://medium.com/bull-bitcoin/bull-bitcoin-and-wasabi-wallet-award-40-000-bitcoin-development-grant-to-luke-jr-4418d03ab230) | [zkSNACKs](https://zksnacks.com/) & [Bull Bitcoin](https://bullbitcoin.com/) | [Bitcoin Knots](https://bitcoinknots.org/) | [Bitcoin Node and Wallet](https://bitcoinknots.org/#download) | - | Bitcoin full node software | 0.86 BTC |
+| [2021/02](https://twitter.com/jack/status/1360114881978982403) | Jack Dorsey and Jay-Z | New Development Fund for Africa and India | | - | - | 500 BTC |
+| [2021/02](https://blog.bitmex.com/100x-group-provides-third-grant-to-bitcoin-maintainer-michael-ford/) | [BitMEX](https://twitter.com/BitMEX) | [Michael Ford](https://twitter.com/fanquake) | | [fanquake](https://github.com/fanquake) | [Bitcoin Core](https://github.com/bitcoin) |  $100,000 |
+| [2021/01](https://www.marathondh.com/news/press-releases/detail/1225/marathon-patent-group-provides-one-year-grant-to) | [Marathon](https://twitter.com/MarathonPatent) | [Jonas Schnelli](https://twitter.com/_jonasschnelli_) | [Bitcoin Core](https://github.com/bitcoin/bitcoin) | [jonasschnelli](https://github.com/jonasschnelli) | Bitcoin Core | $96,000 |
+| [2021/01](https://bitcoinmagazine.com/culture/human-rights-foundation-provides-grants-to-specter-lot49) | [HRF](https://twitter.com/HRF) | [Ben Kaufman](https://twitter.com/_benkaufman) | [Specter Wallet](https://twitter.com/SpecterWallet) | [ben-kaufman](https://github.com/ben-kaufman) | Bitcoin wallet development | $25,000 |
+| [2021/01](https://bitcoinmagazine.com/culture/human-rights-foundation-provides-grants-to-specter-lot49) | [HRF](https://twitter.com/HRF) | [Global Mesh Labs](https://twitter.com/GlobalMeshLabs) | [Global Mesh Labs](https://globalmeshlabs.org/) | [global-mesh-labs](https://github.com/global-mesh-labs) | mesh networks | $25,000 |
 | [2020/12](https://blog.coinbase.com/announcing-our-first-bitcoin-core-developer-grants-3d88559db068) | [Coinbase](https://twitter.com/coinbase) | [João Barbosa](https://twitter.com/promag) | [Bitcoin Core](https://github.com/bitcoin/bitcoin) | [promag](https://github.com/promag) | Bitcoin mobile development and code review | - |
 | [2020/12](https://twitter.com/sqcrypto/status/1338529455636172803) | [Square Cyrpto](https://twitter.com/sqcrypto) | [Patrícia Estevão](https://twitter.com/patestevao) | [Bitcoin UX Proposal](https://github.com/patestevao/Bitcoin-UX-research-proposal/blob/master/README.md) | [patestevao](https://github.com/patestevao) | Bitcoin UX development | - |
 | [2020/10](https://twitter.com/sqcrypto/status/1319668887991013376) | [Square Cyrpto](https://twitter.com/sqcrypto) | [Riccardo Casatta](https://twitter.com/RCasatta) | [Bitcoin Deve Kit](https://bitcoindevkit.org/) | [firma](https://github.com/RCasatta/firma) | Bitcoin Development Kit | - |
