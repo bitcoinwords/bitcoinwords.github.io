@@ -5,14 +5,11 @@ classes: wide
 author_profile: true
 ---
 
-This page is inspired by [@Polylunar_](https://twitter.com/Polylunar_)'s fantastic resource, [Bitcoin Grants Tracker](https://polylunar.com/bitcoin-grants-tracker/).  
+
 
 This page is an attempt to track all the Bitcoin grants. This is a work in progress. Please send me details if I am missing a grant.
 
-
-
 ## Grants
-
 **Need to add Square Crypto grants from Jan-Mar 2021.** 
 
 |Grant Date | Grantor | Grantee | Project Information | GitHub/Source Code | Contribution | Amount |
@@ -72,3 +69,5 @@ This page is an attempt to track all the Bitcoin grants. This is a work in progr
 
 [^okcoin]: [Details on the OKCoin Developer Grant Program](https://developergrant.okcoin.com/)
 [^bmex]: [Details on the BitMEX grant program](http://blog.bitmex.com/grants/) and BitMEX posted the developer grant contract on [GitHub](https://github.com/BitMEXResearch/Bitcoin-Development-Grant-Agreement).
+
+**This page is inspired by [@Polylunar_](https://twitter.com/Polylunar_)'s fantastic resource, [Bitcoin Grants Tracker](https://polylunar.com/bitcoin-grants-tracker/).**
