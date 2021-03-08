@@ -62,3 +62,8 @@ This is a collection of writings on the Investment Case for Bitcoin. They are bo
     <a href="https://github.com/bitcoinwords/bitcoinwords.github.io/blob/master/assets/papers/investment/Grayscale_Valuing_Bitcoin.pdf"><img src="https://raw.githubusercontent.com/bitcoinwords/bitcoinwords.github.io/master/assets/papers/investment/Grayscale_Valuing_Bitcoin.png"></a>
     <figcaption>(Left) Stoneridge - Letter to Shareholders 2020 | (Right) Grayscale - Valuing Bitcoin</figcaption>
 </figure>
+
+<figure class="half">
+    <a href="https://github.com/bitcoinwords/bitcoinwords.github.io/blob/master/assets/papers/investment/aker-letter.pdf"><img src="https://raw.githubusercontent.com/bitcoinwords/bitcoinwords.github.io/master/assets/papers/investment/aker-letter.png"></a>
+    <figcaption>(Left) Aker - Letter to Shareholders March 2021 | (Right) n/a </figcaption>
+</figure>
