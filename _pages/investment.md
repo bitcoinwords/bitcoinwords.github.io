@@ -65,5 +65,6 @@ This is a collection of writings on the Investment Case for Bitcoin. They are bo
 
 <figure class="half">
     <a href="https://github.com/bitcoinwords/bitcoinwords.github.io/blob/master/assets/papers/investment/aker-letter.pdf"><img src="https://raw.githubusercontent.com/bitcoinwords/bitcoinwords.github.io/master/assets/papers/investment/aker-letter.png"></a>
-    <figcaption>(Left) Aker - Letter to Shareholders March 2021 | (Right) n/a </figcaption>
+    <a href="https://github.com/bitcoinwords/bitcoinwords.github.io/blob/master/assets/papers/investment/NYDIG-Bitcoin-Net-Zero.pdf"><img src="https://raw.githubusercontent.com/bitcoinwords/bitcoinwords.github.io/master/assets/papers/investment/NYDIG-Bitcoin-Net-Zero.png"></a>
+    <figcaption>(Left) Aker - Letter to Shareholders March 2021 | (Right) NYDIG - Bitcoin Net Zero September 2021 </figcaption>
 </figure>
