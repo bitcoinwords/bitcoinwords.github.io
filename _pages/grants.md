@@ -14,7 +14,7 @@ This page is an attempt to track all the Bitcoin grants. This is a work in progr
 
 |Grant Date | Grantor | Grantee | Project Information | GitHub/Source Code | Contribution | Amount |
 | --- |--- |--- |--- |--- |--- | --- |
-| [2021/11](https://blog.wasabiwallet.io/1-11-btc-ln-privacy-grant/)| [zkSNACKs (https://twitter.com/zksnacks_ltd) | Group of 5 privacy researchers.| [Lightning Privacy Grant](https://blog.wasabiwallet.io/1-11-btc-ln-privacy-grant)| - | Bitcoin and Lightning privacy research | 1.11 BTC |
+| [2021/11](https://blog.wasabiwallet.io/1-11-btc-ln-privacy-grant/)| [zkSNACKs (https://twitter.com/zksnacks_ltd) | Group of 5 privacy researchers| [Lightning Privacy Grant](https://blog.wasabiwallet.io/1-11-btc-ln-privacy-grant)| - | Bitcoin and Lightning privacy research | 1.11 BTC |
 | [2021/03](https://bitcoinmagazine.com/technical/okcoin-provides-grant-to-lightning-developer-antoine-riard) | [OKCoin](https://twitter.com/OKCoin) | [Antoine Riard](https://github.com/ariard) | [Why we may fail lightning](https://medium.com/@antoine.riard/why-we-may-fail-lightning-ee3692de1a55) | [ariard](https://github.com/ariard) | Bitcoin and Lightning development | - |
 | [2021/03](https://bitcoinmagazine.com/technical/human-rights-foundation-announces-70000-in-bitcoin-development-grants) | [HRF](https://twitter.com/HRF) | [Jesse Posner](https://twitter.com/jesseposner) | Discreet Log Contracts | - | DLC's and adapter signatures | $25,000 |
 | [2021/03](https://bitcoinmagazine.com/technical/human-rights-foundation-announces-70000-in-bitcoin-development-grants) | [HRF](https://twitter.com/HRF) | [Muun Wallet ](https://twitter.com/MuunWallet) | [Muun Wallet](https://muun.com/) | Bitcoin & Lightning wallet | making self-custody easier | $25,000 |
