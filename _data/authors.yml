@@ -120,6 +120,15 @@ aleksvetski:
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/AleksSvetski"
 
+allenfarrington:
+  name        : Allen Farrington
+  bio         : ""
+  avatar      : # "/assets/images/bio-photo-2.jpg"
+  links:
+    - label: #"Twitter"
+      icon: #"fab fa-fw fa-twitter-square"
+      url: #"https://twitter.com/"
+
 almkglor:
   name        : almkglor
   bio         : ""
@@ -405,6 +414,15 @@ btctheory:
       icon: #"fab fa-fw fa-twitter-square"
       url: #"https://twitter.com/"
 
+calvinkim:
+  name        : Calvin Kim
+  bio         : ""
+  avatar      : # "/assets/images/bio-photo-2.jpg"
+  links:
+    - label: #"Twitter"
+      icon: #"fab fa-fw fa-twitter-square"
+      url: #"https://twitter.com/"
+
 davehudson:
   name        : Dave Hudson
   bio         : ""
@@ -414,8 +432,26 @@ davehudson:
       icon: #"fab fa-fw fa-twitter-square"
       url: #"https://twitter.com/"
 
+grubles:
+  name        : grubles
+  bio         : ""
+  avatar      : # "/assets/images/bio-photo-2.jpg"
+  links:
+    - label: #"Twitter"
+      icon: #"fab fa-fw fa-twitter-square"
+      url: #"https://twitter.com/"
+
 janey:
   name        : janey
+  bio         : ""
+  avatar      : # "/assets/images/bio-photo-2.jpg"
+  links:
+    - label: #"Twitter"
+      icon: #"fab fa-fw fa-twitter-square"
+      url: #"https://twitter.com/"
+
+jeffbooth:
+  name        : Jeff Booth
   bio         : ""
   avatar      : # "/assets/images/bio-photo-2.jpg"
   links:
@@ -486,6 +522,15 @@ mikehearn:
       icon: #"fab fa-fw fa-twitter-square"
       url: #"https://twitter.com/"
 
+moritzkremb:
+  name        : Moritz Kremb
+  bio         : ""
+  avatar      : # "/assets/images/bio-photo-2.jpg"
+  links:
+    - label: #"Twitter"
+      icon: #"fab fa-fw fa-twitter-square"
+      url: #"https://twitter.com/"
+
 ob1:
   name        : OB1
   bio         : ""
@@ -506,6 +551,15 @@ petedushenski:
 
 radarrelay:
   name        : Radar Relay
+  bio         : ""
+  avatar      : # "/assets/images/bio-photo-2.jpg"
+  links:
+    - label: #"Twitter"
+      icon: #"fab fa-fw fa-twitter-square"
+      url: #"https://twitter.com/"
+
+sylvainsaurel:
+  name        : Sylvain Saurel
   bio         : ""
   avatar      : # "/assets/images/bio-photo-2.jpg"
   links:
