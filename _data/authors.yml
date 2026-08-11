@@ -657,6 +657,15 @@ petedushenski:
       icon: #"fab fa-fw fa-twitter-square"
       url: #"https://twitter.com/"
 
+preethikasireddy:
+  name        : Preethi Kasireddy
+  bio         : ""
+  avatar      : # "/assets/images/bio-photo-2.jpg"
+  links:
+    - label: #"Twitter"
+      icon: #"fab fa-fw fa-twitter-square"
+      url: #"https://twitter.com/"
+
 qiaowang:
   name        : Qiao Wang
   bio         : ""
@@ -677,6 +686,15 @@ radarrelay:
 
 rektcapital:
   name        : Rekt Capital
+  bio         : ""
+  avatar      : # "/assets/images/bio-photo-2.jpg"
+  links:
+    - label: #"Twitter"
+      icon: #"fab fa-fw fa-twitter-square"
+      url: #"https://twitter.com/"
+
+sylvainartplayribes:
+  name        : Sylvain 'ArtPlay' Ribes
   bio         : ""
   avatar      : # "/assets/images/bio-photo-2.jpg"
   links:
