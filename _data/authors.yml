@@ -75,6 +75,15 @@ adampokornicky:
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/callmethebear"
 
+aleksandarsvetski:
+  name        : Aleksandar Svetski
+  bio         : ""
+  avatar      : # "/assets/images/bio-photo-2.jpg"
+  links:
+    - label: #"Twitter"
+      icon: #"fab fa-fw fa-twitter-square"
+      url: #"https://twitter.com/"
+
 alexberge:
   name        : Alex Berge
   bio         : "The Bitcoin Exit - brg444 Bitcoin thoughts: https://medium.com/@bergealex4"
