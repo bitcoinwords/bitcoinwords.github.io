@@ -396,6 +396,15 @@ davehudson:
       icon: #"fab fa-fw fa-twitter-square"
       url: #"https://twitter.com/"
 
+janey:
+  name        : janey
+  bio         : ""
+  avatar      : # "/assets/images/bio-photo-2.jpg"
+  links:
+    - label: #"Twitter"
+      icon: #"fab fa-fw fa-twitter-square"
+      url: #"https://twitter.com/"
+
 konradsgraf:
   name        : Konrad S. Graf
   bio         : ""
