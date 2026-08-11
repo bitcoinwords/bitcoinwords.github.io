@@ -375,6 +375,15 @@ berkessels:
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/berkes/"
 
+blockchannel:
+  name        : BlockChannel
+  bio         : ""
+  avatar      : # "/assets/images/bio-photo-2.jpg"
+  links:
+    - label: #"Twitter"
+      icon: #"fab fa-fw fa-twitter-square"
+      url: #"https://twitter.com/"
+
 btctheory:
   name        : BTCtheory
   bio         : "Pseudonymous author of Bitcoin Theory, writing on digital currencies, sovereignty, and political economy."
@@ -387,8 +396,62 @@ btctheory:
       icon: #"fab fa-fw fa-twitter-square"
       url: #"https://twitter.com/"
 
+chrisdixon:
+  name        : Chris Dixon
+  bio         : ""
+  avatar      : # "/assets/images/bio-photo-2.jpg"
+  links:
+    - label: #"Twitter"
+      icon: #"fab fa-fw fa-twitter-square"
+      url: #"https://twitter.com/"
+
+cryptoeconomics:
+  name        : Cryptoeconomics
+  bio         : ""
+  avatar      : # "/assets/images/bio-photo-2.jpg"
+  links:
+    - label: #"Twitter"
+      icon: #"fab fa-fw fa-twitter-square"
+      url: #"https://twitter.com/"
+
 davehudson:
   name        : Dave Hudson
+  bio         : ""
+  avatar      : # "/assets/images/bio-photo-2.jpg"
+  links:
+    - label: #"Twitter"
+      icon: #"fab fa-fw fa-twitter-square"
+      url: #"https://twitter.com/"
+
+edendhaliwal:
+  name        : Eden Dhaliwal
+  bio         : ""
+  avatar      : # "/assets/images/bio-photo-2.jpg"
+  links:
+    - label: #"Twitter"
+      icon: #"fab fa-fw fa-twitter-square"
+      url: #"https://twitter.com/"
+
+fredehrsam:
+  name        : Fred Ehrsam
+  bio         : ""
+  avatar      : # "/assets/images/bio-photo-2.jpg"
+  links:
+    - label: #"Twitter"
+      icon: #"fab fa-fw fa-twitter-square"
+      url: #"https://twitter.com/"
+
+gregorydiprisco:
+  name        : Gregory DiPrisco
+  bio         : ""
+  avatar      : # "/assets/images/bio-photo-2.jpg"
+  links:
+    - label: #"Twitter"
+      icon: #"fab fa-fw fa-twitter-square"
+      url: #"https://twitter.com/"
+
+jameskilroe:
+  name        : James Kilroe
   bio         : ""
   avatar      : # "/assets/images/bio-photo-2.jpg"
   links:
@@ -405,6 +468,60 @@ janey:
       icon: #"fab fa-fw fa-twitter-square"
       url: #"https://twitter.com/"
 
+johnnewbery:
+  name        : John Newbery
+  bio         : ""
+  avatar      : # "/assets/images/bio-photo-2.jpg"
+  links:
+    - label: #"Twitter"
+      icon: #"fab fa-fw fa-twitter-square"
+      url: #"https://twitter.com/"
+
+jonchoi:
+  name        : jon choi
+  bio         : ""
+  avatar      : # "/assets/images/bio-photo-2.jpg"
+  links:
+    - label: #"Twitter"
+      icon: #"fab fa-fw fa-twitter-square"
+      url: #"https://twitter.com/"
+
+jordanclifford:
+  name        : Jordan Clifford
+  bio         : ""
+  avatar      : # "/assets/images/bio-photo-2.jpg"
+  links:
+    - label: #"Twitter"
+      icon: #"fab fa-fw fa-twitter-square"
+      url: #"https://twitter.com/"
+
+joshstark:
+  name        : Josh Stark
+  bio         : ""
+  avatar      : # "/assets/images/bio-photo-2.jpg"
+  links:
+    - label: #"Twitter"
+      icon: #"fab fa-fw fa-twitter-square"
+      url: #"https://twitter.com/"
+
+juice:
+  name        : Juice
+  bio         : ""
+  avatar      : # "/assets/images/bio-photo-2.jpg"
+  links:
+    - label: #"Twitter"
+      icon: #"fab fa-fw fa-twitter-square"
+      url: #"https://twitter.com/"
+
+kathleenb:
+  name        : KathleenB
+  bio         : ""
+  avatar      : # "/assets/images/bio-photo-2.jpg"
+  links:
+    - label: #"Twitter"
+      icon: #"fab fa-fw fa-twitter-square"
+      url: #"https://twitter.com/"
+
 konradsgraf:
   name        : Konrad S. Graf
   bio         : ""
@@ -414,8 +531,62 @@ konradsgraf:
       icon: #"fab fa-fw fa-twitter-square"
       url: #"https://twitter.com/"
 
+mattcondon:
+  name        : Matt Condon
+  bio         : ""
+  avatar      : # "/assets/images/bio-photo-2.jpg"
+  links:
+    - label: #"Twitter"
+      icon: #"fab fa-fw fa-twitter-square"
+      url: #"https://twitter.com/"
+
 petedushenski:
   name        : Pete Dushenski
+  bio         : ""
+  avatar      : # "/assets/images/bio-photo-2.jpg"
+  links:
+    - label: #"Twitter"
+      icon: #"fab fa-fw fa-twitter-square"
+      url: #"https://twitter.com/"
+
+preethikasireddy:
+  name        : Preethi Kasireddy
+  bio         : ""
+  avatar      : # "/assets/images/bio-photo-2.jpg"
+  links:
+    - label: #"Twitter"
+      icon: #"fab fa-fw fa-twitter-square"
+      url: #"https://twitter.com/"
+
+radarrelay:
+  name        : Radar Relay
+  bio         : ""
+  avatar      : # "/assets/images/bio-photo-2.jpg"
+  links:
+    - label: #"Twitter"
+      icon: #"fab fa-fw fa-twitter-square"
+      url: #"https://twitter.com/"
+
+ryanzurrer:
+  name        : Ryan Zurrer
+  bio         : ""
+  avatar      : # "/assets/images/bio-photo-2.jpg"
+  links:
+    - label: #"Twitter"
+      icon: #"fab fa-fw fa-twitter-square"
+      url: #"https://twitter.com/"
+
+samuelfalkon:
+  name        : Samuel Falkon
+  bio         : ""
+  avatar      : # "/assets/images/bio-photo-2.jpg"
+  links:
+    - label: #"Twitter"
+      icon: #"fab fa-fw fa-twitter-square"
+      url: #"https://twitter.com/"
+
+samwouters:
+  name        : Sam Wouters
   bio         : ""
   avatar      : # "/assets/images/bio-photo-2.jpg"
   links:
@@ -2403,6 +2574,15 @@ thatzenboi:
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/thatzenboi"
 
+thepiratewhocantbenamed:
+  name        : The Pirate Who Can't Be Named
+  bio         : ""
+  avatar      : # "/assets/images/bio-photo-2.jpg"
+  links:
+    - label: #"Twitter"
+      icon: #"fab fa-fw fa-twitter-square"
+      url: #"https://twitter.com/"
+
 thibaudmarechal:
   name        : Thibaud Marechal
   bio         : "Bitcoin native @knoxcustody"
@@ -2493,6 +2673,15 @@ vijayboyapati:
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/real_vijay"
 
+vitalikbuterin:
+  name        : Vitalik Buterin
+  bio         : ""
+  avatar      : # "/assets/images/bio-photo-2.jpg"
+  links:
+    - label: #"Twitter"
+      icon: #"fab fa-fw fa-twitter-square"
+      url: #"https://twitter.com/"
+
 vladcostea:
   name        : Vlad Costea
   bio         : "PhD candidate in political philosophy, freelance Bitcoin writer. @BTCTKVR. Pod. Best hair in Bitcoin – @billfodl_wallet Tips - http://tippin.me/@TheVladCostea"
@@ -2507,6 +2696,24 @@ vladcostea:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/TheVladCostea"
+
+vladzamfir:
+  name        : Vlad Zamfir
+  bio         : ""
+  avatar      : # "/assets/images/bio-photo-2.jpg"
+  links:
+    - label: #"Twitter"
+      icon: #"fab fa-fw fa-twitter-square"
+      url: #"https://twitter.com/"
+
+williammougayar:
+  name        : William Mougayar
+  bio         : ""
+  avatar      : # "/assets/images/bio-photo-2.jpg"
+  links:
+    - label: #"Twitter"
+      icon: #"fab fa-fw fa-twitter-square"
+      url: #"https://twitter.com/"
 
 willywoo:
   name        : Willy Woo
@@ -2537,6 +2744,15 @@ wiz:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/wiz"
+
+yanpritzker:
+  name        : Yan Pritzker
+  bio         : ""
+  avatar      : # "/assets/images/bio-photo-2.jpg"
+  links:
+    - label: #"Twitter"
+      icon: #"fab fa-fw fa-twitter-square"
+      url: #"https://twitter.com/"
 
 yassineelmandjra:
   name        : Yassine Elmandjra
