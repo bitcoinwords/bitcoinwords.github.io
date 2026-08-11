@@ -2,7 +2,7 @@
 title: "Homo Sapiens, Evolution, Money & Bitcoin"
 permalink: "/homo-sapiens-evolution-money-and-bitcoin" 
 
-author: alexsvetski
+author: aleksandarsvetski
 
 tags:
   - Alex Svetski

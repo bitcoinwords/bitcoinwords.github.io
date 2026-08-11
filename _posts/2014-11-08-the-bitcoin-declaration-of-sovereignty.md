@@ -2,7 +2,7 @@
 title: "Bitcoin Declaration of Sovereignty"
 permalink: "/the-bitcoin-declaration-of-sovereignty"
 
-author: 
+author: mirceapopescu
 
 tags:
   - Mirceau Popescu

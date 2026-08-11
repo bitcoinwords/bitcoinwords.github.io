@@ -2,7 +2,7 @@
 title: "Balinese Cockfights & Bitcoins"
 permalink: "/balinese-cockfights-and-bitcoin"
 
-author: 
+author: mickmorucci
 
 tags:
   - Mick Morucci

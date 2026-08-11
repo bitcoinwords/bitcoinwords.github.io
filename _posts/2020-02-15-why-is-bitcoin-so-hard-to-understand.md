@@ -2,7 +2,7 @@
 title: "Why is Bitcoin so hard for most people to understand?"
 permalink: "/why-is-bitcoin-so-hard-to-understand"
 
-author: 
+author: plasticman2011
 
 tags:
   - plasticman2011

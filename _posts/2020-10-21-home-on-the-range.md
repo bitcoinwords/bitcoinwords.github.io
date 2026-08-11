@@ -2,7 +2,7 @@
 title: "Home On The Range"
 permalink: "/home-on-the-range"
 
-author: 
+author: pointsixonefive
 
 tags:
   - Sovereign.615

@@ -2,7 +2,7 @@
 title: "How a Bitcoin System is Like and Unlike a Gold Standard"
 permalink: "/how-a-bitcoin-system-is-like-and-unlike-a-gold-standard"
 
-author: 
+author: larrywhite
 
 tags:
   - Larry White

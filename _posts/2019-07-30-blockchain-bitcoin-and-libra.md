@@ -2,7 +2,7 @@
 title: "Blockchain, Bitcoin, and Libra"
 permalink: "/blockchain-bitcoin-and-libra" 
 
-author: alexsvetski
+author: aleksandarsvetski
 
 tags:
   - Alex Svetski

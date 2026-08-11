@@ -2,7 +2,7 @@
 title: "How to Resist Censorship with Bitcoin"
 permalink: "/how-to-resist-censorship-with-bitcoin" 
 
-author: alaineou
+author: elaineou
 
 tags:
   - Elaine Ou

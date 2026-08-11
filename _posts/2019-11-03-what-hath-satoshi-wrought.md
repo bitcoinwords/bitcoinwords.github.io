@@ -2,7 +2,7 @@
 title: "What Hath Satoshi Wrought"
 permalink: "/what-hath-satoshi-wrought" 
 
-author: 
+author: hashedentropy
 
 tags:
   - HasedEntropy

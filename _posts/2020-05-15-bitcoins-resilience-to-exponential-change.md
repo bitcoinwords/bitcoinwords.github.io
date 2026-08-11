@@ -2,7 +2,7 @@
 title: "Bitcoin’s Resilience to Exponential Change"
 permalink: "/bitcoins-resilience-to-exponential-change"
 
-author: 
+author: yassineelmandjra
 
 tags:
   - Yassine Elmandjra

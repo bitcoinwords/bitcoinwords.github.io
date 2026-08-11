@@ -2,7 +2,7 @@
 title: "Bitcoin Recapitulation"
 permalink: "/bitcoin-recapitulation" 
 
-author: micreapopescu
+author: mirceapopescu
 
 tags:
   - Mircea Popescu

@@ -2,7 +2,7 @@
 title: "Bitcoin as an Antidote to Despair: A Psychological Formulation"
 permalink: "/bitcoin-as-an-antidote-to-despair"
 
-author: 
+author: aaronclendenin
 
 tags:
   - Aaron Clendenin

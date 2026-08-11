@@ -2,7 +2,7 @@
 title: "Tweetstorm - Elon is Satoshi"
 permalink: "/tweetstorm-elon-is-satoshi"
 
-author: 
+author: chrisespley
 
 tags:
   - Chris Espley

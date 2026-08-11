@@ -2,7 +2,7 @@
 title: "Bitcoin, what took ye so long?"
 permalink: "/bitcoin-what-took-ye-so-long"
 
-author: 
+author: nickszabo
 
 tags:
   - Nick Szabo

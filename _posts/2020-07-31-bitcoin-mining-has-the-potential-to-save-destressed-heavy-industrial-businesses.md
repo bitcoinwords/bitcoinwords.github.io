@@ -2,7 +2,7 @@
 title: "Bitcoin mining has the potential to save distressed heavy industrial businesses"
 permalink: "/bitcoin-mining-has-the-potential-to-save-destressed-heavy-industrial-businesses"
 
-author: 
+author: michaelnov
 
 tags:
   - Michael Nov

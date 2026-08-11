@@ -2,7 +2,7 @@
 title: "Bitcoin Optech Newsletter #78: 2019 Year-in-Review Special"
 permalink: "/bitcoin-optech-newsletter-78" 
 
-author: 
+author: bitcoinoptechnewsletter
 
 tags:
   - Bitcoin Optech Newsletter

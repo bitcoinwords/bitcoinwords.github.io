@@ -1,5 +1,221 @@
 # /_data/authors.yml
 
+alanmanuelkgloria:
+  name        : Alan Manuel K. Gloria
+  bio         : ""
+  avatar      : # "/assets/images/bio-photo-2.jpg"
+  links:
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "https://www.reddit.com/user/almkglor/"
+
+dannydiekroeger:
+  name        : Danny Diekroeger
+  bio         : ""
+  avatar      : # "/assets/images/bio-photo-2.jpg"
+  links:
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/dannydiekroeger"
+
+davidpuell:
+  name        : David Puell
+  bio         : ""
+  avatar      : # "/assets/images/bio-photo-2.jpg"
+  links:
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/kenoshaking"
+
+pointsixonefive:
+  name        : .615
+  bio         : ""
+  avatar      : # "/assets/images/bio-photo-2.jpg"
+  links:
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/pointsixonefive"
+
+aaron:
+  name        : Aaron
+  bio         : ""
+  avatar      : # "/assets/images/bio-photo-2.jpg"
+  links:
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/fiatminimalist"
+
+aaronclendenin:
+  name        : Aaron Clendenin
+  bio         : ""
+  avatar      : # "/assets/images/bio-photo-2.jpg"
+  links:
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "https://aclend76.medium.com/"
+
+billbuchanan:
+  name        : Bill Buchanan
+  bio         : ""
+  avatar      : # "/assets/images/bio-photo-2.jpg"
+  links:
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/billatnapier"
+
+billmacdonald:
+  name        : Bill MacDonald
+  bio         : ""
+  avatar      : # "/assets/images/bio-photo-2.jpg"
+  links:
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/billymacdo"
+
+bitcoinoptechnewsletter:
+  name        : Bitcoin Optech Newsletter
+  bio         : ""
+  avatar      : # "/assets/images/bio-photo-2.jpg"
+  links:
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "https://bitcoinops.org/"
+
+chrisespley:
+  name        : Chris Espley
+  bio         : ""
+  avatar      : # "/assets/images/bio-photo-2.jpg"
+  links:
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/ChrisEspley1"
+
+coeliastrology:
+  name        : Coeli Astrology
+  bio         : ""
+  avatar      : # "/assets/images/bio-photo-2.jpg"
+  links:
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/AstrologyCoeli"
+
+croesus:
+  name        : Croesus
+  bio         : ""
+  avatar      : # "/assets/images/bio-photo-2.jpg"
+  links:
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/Croesus_BTC"
+
+gwern:
+  name        : Gwern
+  bio         : ""
+  avatar      : # "/assets/images/bio-photo-2.jpg"
+  links:
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "https://www.gwern.net/"
+
+halfinney:
+  name        : Hal Finney
+  bio         : ""
+  avatar      : # "/assets/images/bio-photo-2.jpg"
+  links:
+    - label: #"Twitter"
+      icon: #"fab fa-fw fa-twitter-square"
+      url: #"https://twitter.com/"
+
+jeffreyatucker:
+  name        : Jeffrey A. Tucker
+  bio         : ""
+  avatar      : # "/assets/images/bio-photo-2.jpg"
+  links:
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "https://www.aier.org/staffs/jeffrey-tucker/"
+
+larrywhite:
+  name        : Larry White
+  bio         : ""
+  avatar      : # "/assets/images/bio-photo-2.jpg"
+  links:
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/lawrencehwhite1"
+
+lukamagnotta:
+  name        : Luka Magnotta
+  bio         : ""
+  avatar      : # "/assets/images/bio-photo-2.jpg"
+  links:
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "https://www.reddit.com/user/Luka_Magnotta/"
+
+manuelpalavieja:
+  name        : Manuel Palavieja
+  bio         : ""
+  avatar      : # "/assets/images/bio-photo-2.jpg"
+  links:
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/ManuelPolavieja"
+
+michaelnov:
+  name        : Michael Nov
+  bio         : ""
+  avatar      : # "/assets/images/bio-photo-2.jpg"
+  links:
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/MichaelNov_KV"
+
+mickmorucci:
+  name        : Mick Morucci
+  bio         : ""
+  avatar      : # "/assets/images/bio-photo-2.jpg"
+  links:
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/metamick14"
+
+nassimnicholastaleb:
+  name        : Nassim Nicholas Taleb
+  bio         : ""
+  avatar      : # "/assets/images/bio-photo-2.jpg"
+  links:
+    - label: #"Twitter"
+      icon: #"fab fa-fw fa-twitter-square"
+      url: #"https://twitter.com/"
+
+plasticman2011:
+  name        : plasticman2011
+  bio         : ""
+  avatar      : # "/assets/images/bio-photo-2.jpg"
+  links:
+    - label: #"Twitter"
+      icon: #"fab fa-fw fa-twitter-square"
+      url: #"https://twitter.com/"
+
+ryandickherber:
+  name        : Ryan Dickherber
+  bio         : ""
+  avatar      : # "/assets/images/bio-photo-2.jpg"
+  links:
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "https://web.archive.org/web/20110524144933/http://astrohacker.com/ahc/sister-alternative-different-species-bitcoins/"
+
+satoshinakamoto:
+  name        : Satoshi Nakamoto
+  bio         : "Pseudonymous creator of Bitcoin and author of the whitepaper."
+  avatar      : # "/assets/images/bio-photo-2.jpg"
+  links:
+    - label: #"Twitter"
+      icon: #"fab fa-fw fa-twitter-square"
+      url: #"https://twitter.com/"
+
 SixOneZeroTwo:
   name        : SixOneZeroTwo
   bio         : "http://6102bitcoin.com/projects"
@@ -1155,7 +1371,7 @@ diverterbtc:
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/DiverterNoKYC"
 
-dmirtykalichkin:
+dmitrykalichkin:
   name        : Dmitry Kalichkin
   bio         : "Partner @cryptolabcap. Proud math nerd and coder since the age of 12. Formerly @FJLabs, @Stanford, @lamoda_rus, @rocketberlin"
   avatar      : # "/assets/images/bio-photo-2.jpg"
@@ -2838,6 +3054,15 @@ timdraper:
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/TimDraper"
 
+timmay:
+  name        : Tim May
+  bio         : ""
+  avatar      : # "/assets/images/bio-photo-2.jpg"
+  links:
+    - label: #"Twitter"
+      icon: #"fab fa-fw fa-twitter-square"
+      url: #"https://twitter.com/"
+
 tobiashuber:
   name        : Tobias Huber
   bio         : "Technology / Markets / Philosophy"
@@ -2934,6 +3159,15 @@ vladcostea:
 vladzamfir:
   name        : Vlad Zamfir
   bio         : ""
+  avatar      : # "/assets/images/bio-photo-2.jpg"
+  links:
+    - label: #"Twitter"
+      icon: #"fab fa-fw fa-twitter-square"
+      url: #"https://twitter.com/"
+
+weidai:
+  name        : Wei Dai
+  bio         : "Cryptographer and author of b-money, cited in the Bitcoin whitepaper."
   avatar      : # "/assets/images/bio-photo-2.jpg"
   links:
     - label: #"Twitter"

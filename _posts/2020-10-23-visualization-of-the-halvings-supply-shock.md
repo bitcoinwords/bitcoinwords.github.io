@@ -2,7 +2,7 @@
 title: "Visualization of the halving's supply shock"
 permalink: "/visualization-of-the-halvings-supply-shock"
 
-author: 
+author: croesus
 
 tags:
   - Croesus

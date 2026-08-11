@@ -2,7 +2,7 @@
 title: "The rise of the individual."
 permalink: "/the-rise-of-the-individual" 
 
-author: alexsvetski
+author: aleksandarsvetski
 
 tags:
   - Aleksander Svetski

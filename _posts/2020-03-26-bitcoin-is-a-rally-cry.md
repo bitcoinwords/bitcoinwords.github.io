@@ -2,7 +2,7 @@
 title: "Bitcoin is a Rally Cry"
 permalink: "/bitcoin-is-a-rally-cry"
 
-author: parekerlewis
+author: parkerlewis
 
 tags:
   - Parker Lewis

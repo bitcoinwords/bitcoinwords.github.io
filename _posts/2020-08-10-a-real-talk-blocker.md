@@ -2,7 +2,7 @@
 title: "A real talk-blocker"
 permalink: "/a-real-talk-blocker"
 
-author: 
+author: billmacdonald
 
 tags:
   - Bill MacDonald

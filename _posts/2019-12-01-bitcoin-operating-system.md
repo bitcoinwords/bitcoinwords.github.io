@@ -2,7 +2,7 @@
 title: "Bitcoin Operating System"
 permalink: "/bitcoin-operating-system" 
 
-author: alexsvetski
+author: aleksandarsvetski
 
 tags:
   - Aleksander Svetski

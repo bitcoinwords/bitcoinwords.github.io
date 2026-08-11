@@ -2,7 +2,7 @@
 title: "Tweetstorm Bitcoin as super-collateral"
 permalink: "/tweetstorm-bitcoin-as-super-collateral"
 
-author: 
+author: aaron
 
 tags:
   - Aaron Fiat Minimalist

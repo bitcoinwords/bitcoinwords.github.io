@@ -2,7 +2,7 @@
 title: "The Crypto Anarchist Manifesto"
 permalink: "/the-crypto-anarchist-manifesto"
 
-author: 
+author: timmay
 
 tags:
   - Tim May

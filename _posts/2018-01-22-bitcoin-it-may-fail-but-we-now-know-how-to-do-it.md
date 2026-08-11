@@ -2,7 +2,7 @@
 title: "Bitcoin - It may fail but we now know how to do it"
 permalink: "/bitcoin-it-may-fail-but-we-now-know-how-to-do-it"
 
-author: 
+author: nassimnicholastaleb
 
 tags:
   - Naasim Nicholas Taleb
@@ -29,7 +29,7 @@ defaults:
 ### By Nassim Nicholas Taleb
 ### Posted January 22, 2018
 
-![](/assets/images/cy18/cy19q1m1/nt1.png)
+![](/assets/images/cy18/cy18q1m1/nt1.png)
 
 ![](https://miro.medium.com/max/360/1*97-Rj1f7n6jOdHKXPho1cQ.jpeg)
 

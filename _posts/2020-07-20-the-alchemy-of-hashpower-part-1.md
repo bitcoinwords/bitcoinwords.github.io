@@ -2,7 +2,7 @@
 title: "The Alchemy of Hashpower, Part I."
 permalink: "/the-alchemy-of-hashpower-part-1"
 
-author: 
+author: leozhang
 
 tags:
   - Leo Zhang

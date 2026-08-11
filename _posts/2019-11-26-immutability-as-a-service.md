@@ -2,7 +2,7 @@
 title: "Immutability as a Service"
 permalink: "/immutability-as-a-service" 
 
-author: alexsvetski
+author: aleksandarsvetski
 
 tags:
   - Aleksander Svetski

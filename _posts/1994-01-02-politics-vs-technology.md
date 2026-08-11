@@ -2,7 +2,7 @@
 title: "Politics vs Technology"
 permalink: "/politics-vs-technology"
 
-author: 
+author: halfinney
 
 tags:
   - Hal Finney

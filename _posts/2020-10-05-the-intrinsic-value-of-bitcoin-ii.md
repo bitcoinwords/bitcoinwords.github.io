@@ -2,7 +2,7 @@
 title: "The intrinsic value of Bitcoin (II)"
 permalink: "/the-intrinsic-value-of-bitcoin-ii"
 
-author: 
+author: manuelpalavieja
 
 tags:
   - Manuel Polavieja

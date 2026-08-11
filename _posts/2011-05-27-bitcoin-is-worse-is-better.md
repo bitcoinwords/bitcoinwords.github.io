@@ -2,7 +2,7 @@
 title: "Bitcoin Is Worse Is Better"
 permalink: "/bitcoin-is-worse-is-better"
 
-author: 
+author: gwern
 
 tags:
   - Gwern

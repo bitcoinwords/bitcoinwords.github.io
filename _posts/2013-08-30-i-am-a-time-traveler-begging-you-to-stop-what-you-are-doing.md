@@ -2,7 +2,7 @@
 title: "I am a time traveler begging you to stop what you are doing"
 permalink: "/i-am-a-time-traveler-begging-you-to-stop-what-you-are-doing"
 
-author: 
+author: lukamagnotta
 
 tags:
   - Luka Magnotta

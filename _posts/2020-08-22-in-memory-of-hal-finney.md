@@ -2,7 +2,7 @@
 title: "In Memory of Hal Finney, RIP — Builder of a More Trusted World"
 permalink: "/in-memory-of-hal-finney"
 
-author: 
+author: billbuchanan
 
 tags:
   - Bill Buchanan

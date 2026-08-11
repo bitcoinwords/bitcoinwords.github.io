@@ -2,7 +2,7 @@
 title: "Alternative Bitcoins in a Market of Currencies"
 permalink: "/alternative-bitcoins-in-a-market-of-currencies"
 
-author: 
+author: ryandickherber
 
 tags:
   - Ryan Dickherber

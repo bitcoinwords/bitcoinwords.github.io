@@ -2,7 +2,7 @@
 title: "Why does Bitcoin have value?"
 permalink: "/why-does-bitcoin-have-value"
 
-author: 
+author: jeffreyatucker
 
 tags:
   - Jeffrey Tucker

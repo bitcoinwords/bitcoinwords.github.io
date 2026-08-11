@@ -2,7 +2,7 @@
 title: "Bitcoin is the Economic Singularity"
 permalink: "/bitcoin-is-the-economic-singularity"
 
-author: 
+author: ryandickherber
 
 tags:
   - Ryan Dickherber

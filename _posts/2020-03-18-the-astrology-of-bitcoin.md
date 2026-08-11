@@ -2,7 +2,7 @@
 title: "The Astrology of Bitcoin"
 permalink: "/the-astrology-of-bitcoin"
 
-author: 
+author: coeliastrology
 
 tags:
   - Coeli Astrology
