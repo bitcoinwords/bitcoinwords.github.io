@@ -375,6 +375,18 @@ berkessels:
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/berkes/"
 
+btctheory:
+  name        : BTCtheory
+  bio         : "Pseudonymous author of Bitcoin Theory, writing on digital currencies, sovereignty, and political economy."
+  avatar      : # "/assets/images/bio-photo-2.jpg"
+  links:
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "https://btctheory.com/"
+    - label: #"Twitter"
+      icon: #"fab fa-fw fa-twitter-square"
+      url: #"https://twitter.com/"
+
 thebitcoinobserver:
   name        : The Bitcoin Observer
   bio         : "First principles thinker who is still trying to understand the first principles in order to start thinking one day. NO INVESTMENT ADVICE."
