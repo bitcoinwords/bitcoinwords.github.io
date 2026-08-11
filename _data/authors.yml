@@ -639,6 +639,15 @@ moritzkremb:
       icon: #"fab fa-fw fa-twitter-square"
       url: #"https://twitter.com/"
 
+nopara73:
+  name        : nopara73
+  bio         : ""
+  avatar      : # "/assets/images/bio-photo-2.jpg"
+  links:
+    - label: #"Twitter"
+      icon: #"fab fa-fw fa-twitter-square"
+      url: #"https://twitter.com/"
+
 ob1:
   name        : OB1
   bio         : ""
@@ -686,6 +695,15 @@ radarrelay:
 
 rektcapital:
   name        : Rekt Capital
+  bio         : ""
+  avatar      : # "/assets/images/bio-photo-2.jpg"
+  links:
+    - label: #"Twitter"
+      icon: #"fab fa-fw fa-twitter-square"
+      url: #"https://twitter.com/"
+
+simonmorris:
+  name        : Simon Morris
   bio         : ""
   avatar      : # "/assets/images/bio-photo-2.jpg"
   links:
