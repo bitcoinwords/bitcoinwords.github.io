@@ -1,5 +1,5 @@
 ---
-title: "Real crypto"
+title: "Real crypto-anarchy"
 permalink: "/real-crypto-anarchy"
 
 author: olegandreev
@@ -11,7 +11,7 @@ tags:
   - Politics
   - Privacy
 
-excerpt: Real crypto. Posted December 28, 2013.
+excerpt: Real crypto-anarchy. Posted December 28, 2013.
 
 classes: wide
 
@@ -24,7 +24,7 @@ defaults:
 
 ***
 
-# [Real crypto](https://blog.oleganza.com/post/71410377996/real-crypto-anarchy)
+# [Real crypto-anarchy](https://blog.oleganza.com/post/71410377996/real-crypto-anarchy)
 ### By [Oleg Andreev](https://twitter.com/oleganza)
 ### Posted December 28, 2013
 

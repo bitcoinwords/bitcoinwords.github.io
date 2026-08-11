@@ -387,6 +387,33 @@ btctheory:
       icon: #"fab fa-fw fa-twitter-square"
       url: #"https://twitter.com/"
 
+davehudson:
+  name        : Dave Hudson
+  bio         : ""
+  avatar      : # "/assets/images/bio-photo-2.jpg"
+  links:
+    - label: #"Twitter"
+      icon: #"fab fa-fw fa-twitter-square"
+      url: #"https://twitter.com/"
+
+konradsgraf:
+  name        : Konrad S. Graf
+  bio         : ""
+  avatar      : # "/assets/images/bio-photo-2.jpg"
+  links:
+    - label: #"Twitter"
+      icon: #"fab fa-fw fa-twitter-square"
+      url: #"https://twitter.com/"
+
+petedushenski:
+  name        : Pete Dushenski
+  bio         : ""
+  avatar      : # "/assets/images/bio-photo-2.jpg"
+  links:
+    - label: #"Twitter"
+      icon: #"fab fa-fw fa-twitter-square"
+      url: #"https://twitter.com/"
+
 thebitcoinobserver:
   name        : The Bitcoin Observer
   bio         : "First principles thinker who is still trying to understand the first principles in order to start thinking one day. NO INVESTMENT ADVICE."

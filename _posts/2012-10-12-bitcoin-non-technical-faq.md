@@ -1,5 +1,5 @@
 ---
-title: "Bitcoin Non"
+title: "Bitcoin Non-Technical FAQ"
 permalink: "/bitcoin-non-technical-faq"
 
 author: olegandreev
@@ -10,7 +10,7 @@ tags:
   - Education
   - Technology
 
-excerpt: Bitcoin Non. Posted October 12, 2012.
+excerpt: Bitcoin Non-Technical FAQ. Posted October 12, 2012.
 
 classes: wide
 
@@ -23,7 +23,7 @@ defaults:
 
 ***
 
-# [Bitcoin Non](https://blog.oleganza.com/post/32725987418/bitcoin-non-technical-faq)
+# [Bitcoin Non-Technical FAQ](https://blog.oleganza.com/post/32725987418/bitcoin-non-technical-faq)
 ### By [Oleg Andreev](https://twitter.com/oleganza)
 ### Posted October 12, 2012
 
