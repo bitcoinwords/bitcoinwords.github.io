@@ -195,6 +195,15 @@ andreacastillo:
       icon: #"fab fa-fw fa-twitter-square"
       url: #"https://twitter.com/"
 
+andreasmantonopoulos:
+  name        : Andreas M. Antonopoulos
+  bio         : ""
+  avatar      : # "/assets/images/bio-photo-2.jpg"
+  links:
+    - label: #"Twitter"
+      icon: #"fab fa-fw fa-twitter-square"
+      url: #"https://twitter.com/"
+
 andrewchow:
   name        : Andrew Chow
   bio         : "I do Bitcoin-y stuff. Core developer, Armory developer."
@@ -425,6 +434,15 @@ johnnewbery:
 
 jordanclifford:
   name        : Jordan Clifford
+  bio         : ""
+  avatar      : # "/assets/images/bio-photo-2.jpg"
+  links:
+    - label: #"Twitter"
+      icon: #"fab fa-fw fa-twitter-square"
+      url: #"https://twitter.com/"
+
+jordangreenhall:
+  name        : Jordan Greenhall
   bio         : ""
   avatar      : # "/assets/images/bio-photo-2.jpg"
   links:
