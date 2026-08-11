@@ -375,6 +375,15 @@ berkessels:
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/berkes/"
 
+blockstream:
+  name        : Blockstream
+  bio         : ""
+  avatar      : # "/assets/images/bio-photo-2.jpg"
+  links:
+    - label: #"Twitter"
+      icon: #"fab fa-fw fa-twitter-square"
+      url: #"https://twitter.com/"
+
 btctheory:
   name        : BTCtheory
   bio         : "Pseudonymous author of Bitcoin Theory, writing on digital currencies, sovereignty, and political economy."
@@ -434,6 +443,33 @@ juice:
 
 konradsgraf:
   name        : Konrad S. Graf
+  bio         : ""
+  avatar      : # "/assets/images/bio-photo-2.jpg"
+  links:
+    - label: #"Twitter"
+      icon: #"fab fa-fw fa-twitter-square"
+      url: #"https://twitter.com/"
+
+laurentmt:
+  name        : LaurentMT
+  bio         : ""
+  avatar      : # "/assets/images/bio-photo-2.jpg"
+  links:
+    - label: #"Twitter"
+      icon: #"fab fa-fw fa-twitter-square"
+      url: #"https://twitter.com/"
+
+mikehearn:
+  name        : Mike Hearn
+  bio         : ""
+  avatar      : # "/assets/images/bio-photo-2.jpg"
+  links:
+    - label: #"Twitter"
+      icon: #"fab fa-fw fa-twitter-square"
+      url: #"https://twitter.com/"
+
+ob1:
+  name        : OB1
   bio         : ""
   avatar      : # "/assets/images/bio-photo-2.jpg"
   links:

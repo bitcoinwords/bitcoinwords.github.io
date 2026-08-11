@@ -1,6 +1,6 @@
 ---
 title: "Altcoins Aren't Money, They're Bitcoin's Casino/Laundromat"
-permalink: "/altcoins-aren-t-money-they-re-bitcoin-s-casino-laundromat"
+permalink: "/altcoins-arent-money-theyre-bitcoins-casino-laundromat"
 
 author: paulsztorc
 

@@ -1,6 +1,6 @@
 ---
 title: "Miners Don't Control Tx-Selection"
-permalink: "/miners-don-t-control-tx-selection"
+permalink: "/miners-dont-control-tx-selection"
 
 author: paulsztorc
 

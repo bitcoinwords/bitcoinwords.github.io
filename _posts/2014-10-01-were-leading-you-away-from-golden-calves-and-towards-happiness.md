@@ -1,6 +1,6 @@
 ---
 title: "We're Leading You Away From Golden Calves And Towards Happiness"
-permalink: "/we-re-leading-you-away-from-golden-calves-and-towards-happiness"
+permalink: "/were-leading-you-away-from-golden-calves-and-towards-happiness"
 
 author: petedushenski
 

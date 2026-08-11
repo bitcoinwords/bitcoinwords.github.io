@@ -1,6 +1,6 @@
 ---
 title: "Prisoner's dilemmas?"
-permalink: "/prisoner-s-dilemmas"
+permalink: "/prisoners-dilemmas"
 
 author: davehudson
 

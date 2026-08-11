@@ -1,6 +1,6 @@
 ---
 title: "The gambler's guide to Bitcoin mining"
-permalink: "/the-gambler-s-guide-to-bitcoin-mining"
+permalink: "/the-gamblers-guide-to-bitcoin-mining"
 
 author: davehudson
 
