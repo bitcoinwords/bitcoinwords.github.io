@@ -165,6 +165,36 @@ americanhodl:
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/american_hodl"
 
+amirtaaki:
+  name        : Amir Taaki
+  bio         : "Bitcoin developer and creator of libbitcoin."
+  avatar      : # "/assets/images/bio-photo-2.jpg"
+  links:
+    - label: # "Email"
+      icon: #"fas fa-fw fa-envelope-square"
+      url: #"mailto:billyrick@rick.com"
+    - label: #"Website"
+      icon: #"fas fa-fw fa-link"
+      url: #"https://thewhip.com"
+    - label: #"Twitter"
+      icon: #"fab fa-fw fa-twitter-square"
+      url: #"https://twitter.com/"
+
+andreacastillo:
+  name        : Andrea Castillo
+  bio         : "Technology policy researcher writing on emerging technology and its regulation."
+  avatar      : # "/assets/images/bio-photo-2.jpg"
+  links:
+    - label: # "Email"
+      icon: #"fas fa-fw fa-envelope-square"
+      url: #"mailto:billyrick@rick.com"
+    - label: #"Website"
+      icon: #"fas fa-fw fa-link"
+      url: #"https://thewhip.com"
+    - label: #"Twitter"
+      icon: #"fab fa-fw fa-twitter-square"
+      url: #"https://twitter.com/"
+
 andrewchow:
   name        : Andrew Chow
   bio         : "I do Bitcoin-y stuff. Core developer, Armory developer."
@@ -575,6 +605,36 @@ danielfrumkin:
     - label: #"Twitter"
       icon: #"fab fa-fw fa-twitter-square"
       url: #"https://twitter.com/danheld"
+
+danielkrawisz:
+  name        : Daniel Krawisz
+  bio         : "Writer and former director of research at the Satoshi Nakamoto Institute."
+  avatar      : # "/assets/images/bio-photo-2.jpg"
+  links:
+    - label: # "Email"
+      icon: #"fas fa-fw fa-envelope-square"
+      url: #"mailto:billyrick@rick.com"
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "https://nakamotoinstitute.org/authors/daniel-krawisz/"
+    - label: #"Twitter"
+      icon: #"fab fa-fw fa-twitter-square"
+      url: #"https://twitter.com/"
+
+davidharding:
+  name        : David A. Harding
+  bio         : "Bitcoin technical writer and contributor to Bitcoin documentation and Bitcoin Optech."
+  avatar      : # "/assets/images/bio-photo-2.jpg"
+  links:
+    - label: # "Email"
+      icon: #"fas fa-fw fa-envelope-square"
+      url: #"mailto:billyrick@rick.com"
+    - label: #"Website"
+      icon: #"fas fa-fw fa-link"
+      url: #"https://thewhip.com"
+    - label: #"Twitter"
+      icon: #"fab fa-fw fa-twitter-square"
+      url: #"https://twitter.com/"
 
 davidmorris:
   name        : David Morris
@@ -1499,6 +1559,21 @@ meltemdemirors:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/Melt_Dem"
+
+michaelgoldstein:
+  name        : Michael Goldstein
+  bio         : "President and co-founder of the Satoshi Nakamoto Institute."
+  avatar      : # "/assets/images/bio-photo-2.jpg"
+  links:
+    - label: # "Email"
+      icon: #"fas fa-fw fa-envelope-square"
+      url: #"mailto:billyrick@rick.com"
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "https://nakamotoinstitute.org/authors/michael-goldstein/"
+    - label: #"Twitter"
+      icon: #"fab fa-fw fa-twitter-square"
+      url: #"https://twitter.com/"
 
 michaelsuede:
   name        : Michael Suede
