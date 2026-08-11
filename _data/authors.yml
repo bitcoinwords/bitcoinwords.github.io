@@ -450,6 +450,15 @@ davehudson:
       icon: #"fab fa-fw fa-twitter-square"
       url: #"https://twitter.com/"
 
+davidlawant:
+  name        : David Lawant
+  bio         : ""
+  avatar      : # "/assets/images/bio-photo-2.jpg"
+  links:
+    - label: #"Twitter"
+      icon: #"fab fa-fw fa-twitter-square"
+      url: #"https://twitter.com/"
+
 dkbitcoin:
   name        : dk_bitcoin
   bio         : ""
@@ -468,6 +477,24 @@ grubles:
       icon: #"fab fa-fw fa-twitter-square"
       url: #"https://twitter.com/"
 
+hassmccook:
+  name        : Hass McCook
+  bio         : ""
+  avatar      : # "/assets/images/bio-photo-2.jpg"
+  links:
+    - label: #"Twitter"
+      icon: #"fab fa-fw fa-twitter-square"
+      url: #"https://twitter.com/"
+
+httpsxcommeltdem:
+  name        : https://x.com/Melt_Dem
+  bio         : ""
+  avatar      : # "/assets/images/bio-photo-2.jpg"
+  links:
+    - label: #"Twitter"
+      icon: #"fab fa-fw fa-twitter-square"
+      url: #"https://twitter.com/"
+
 janey:
   name        : janey
   bio         : ""
@@ -479,6 +506,15 @@ janey:
 
 jeffbooth:
   name        : Jeff Booth
+  bio         : ""
+  avatar      : # "/assets/images/bio-photo-2.jpg"
+  links:
+    - label: #"Twitter"
+      icon: #"fab fa-fw fa-twitter-square"
+      url: #"https://twitter.com/"
+
+johnbackus:
+  name        : John Backus
   bio         : ""
   avatar      : # "/assets/images/bio-photo-2.jpg"
   links:
@@ -522,6 +558,15 @@ jordangreenhall:
       icon: #"fab fa-fw fa-twitter-square"
       url: #"https://twitter.com/"
 
+jordanmckinney:
+  name        : Jordan McKinney
+  bio         : ""
+  avatar      : # "/assets/images/bio-photo-2.jpg"
+  links:
+    - label: #"Twitter"
+      icon: #"fab fa-fw fa-twitter-square"
+      url: #"https://twitter.com/"
+
 juice:
   name        : Juice
   bio         : ""
@@ -542,6 +587,24 @@ konradsgraf:
 
 laurentmt:
   name        : LaurentMT
+  bio         : ""
+  avatar      : # "/assets/images/bio-photo-2.jpg"
+  links:
+    - label: #"Twitter"
+      icon: #"fab fa-fw fa-twitter-square"
+      url: #"https://twitter.com/"
+
+matteoleibowitz:
+  name        : Matteo Leibowitz
+  bio         : ""
+  avatar      : # "/assets/images/bio-photo-2.jpg"
+  links:
+    - label: #"Twitter"
+      icon: #"fab fa-fw fa-twitter-square"
+      url: #"https://twitter.com/"
+
+matteoleibowitz:
+  name        : matteoleibowitz
   bio         : ""
   avatar      : # "/assets/images/bio-photo-2.jpg"
   links:
@@ -587,6 +650,15 @@ ob1:
 
 petedushenski:
   name        : Pete Dushenski
+  bio         : ""
+  avatar      : # "/assets/images/bio-photo-2.jpg"
+  links:
+    - label: #"Twitter"
+      icon: #"fab fa-fw fa-twitter-square"
+      url: #"https://twitter.com/"
+
+qiaowang:
+  name        : Qiao Wang
   bio         : ""
   avatar      : # "/assets/images/bio-photo-2.jpg"
   links:
@@ -2708,6 +2780,15 @@ vijayboyapati:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/real_vijay"
+
+vitalikbuterin:
+  name        : Vitalik Buterin
+  bio         : ""
+  avatar      : # "/assets/images/bio-photo-2.jpg"
+  links:
+    - label: #"Twitter"
+      icon: #"fab fa-fw fa-twitter-square"
+      url: #"https://twitter.com/"
 
 vladcostea:
   name        : Vlad Costea
