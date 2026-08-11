@@ -45,6 +45,15 @@ acrual:
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/acrual"
 
+adamantcapital:
+  name        : Adamant Capital
+  bio         : ""
+  avatar      : # "/assets/images/bio-photo-2.jpg"
+  links:
+    - label: #"Twitter"
+      icon: #"fab fa-fw fa-twitter-square"
+      url: #"https://twitter.com/"
+
 adampaulmoore:
   name        : Adam Paul Moore
   bio         : "Digital Marketer. Stacking sats, strapped with gats, high in bacon fats. I once touched the #Liberty Bell and it gave me powers. Rowan, UPenn alum."
@@ -441,6 +450,15 @@ davehudson:
       icon: #"fab fa-fw fa-twitter-square"
       url: #"https://twitter.com/"
 
+dkbitcoin:
+  name        : dk_bitcoin
+  bio         : ""
+  avatar      : # "/assets/images/bio-photo-2.jpg"
+  links:
+    - label: #"Twitter"
+      icon: #"fab fa-fw fa-twitter-square"
+      url: #"https://twitter.com/"
+
 grubles:
   name        : grubles
   bio         : ""
@@ -461,6 +479,15 @@ janey:
 
 jeffbooth:
   name        : Jeff Booth
+  bio         : ""
+  avatar      : # "/assets/images/bio-photo-2.jpg"
+  links:
+    - label: #"Twitter"
+      icon: #"fab fa-fw fa-twitter-square"
+      url: #"https://twitter.com/"
+
+johncarvalho:
+  name        : John Carvalho
   bio         : ""
   avatar      : # "/assets/images/bio-photo-2.jpg"
   links:
@@ -522,6 +549,15 @@ laurentmt:
       icon: #"fab fa-fw fa-twitter-square"
       url: #"https://twitter.com/"
 
+miguelcuneta:
+  name        : Miguel Cuneta
+  bio         : ""
+  avatar      : # "/assets/images/bio-photo-2.jpg"
+  links:
+    - label: #"Twitter"
+      icon: #"fab fa-fw fa-twitter-square"
+      url: #"https://twitter.com/"
+
 mikehearn:
   name        : Mike Hearn
   bio         : ""
@@ -560,6 +596,15 @@ petedushenski:
 
 radarrelay:
   name        : Radar Relay
+  bio         : ""
+  avatar      : # "/assets/images/bio-photo-2.jpg"
+  links:
+    - label: #"Twitter"
+      icon: #"fab fa-fw fa-twitter-square"
+      url: #"https://twitter.com/"
+
+rektcapital:
+  name        : Rekt Capital
   bio         : ""
   avatar      : # "/assets/images/bio-photo-2.jpg"
   links:
@@ -2640,6 +2685,15 @@ tylerbain:
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/blockbain"
 
+varunvruddhula:
+  name        : Varun Vruddhula
+  bio         : ""
+  avatar      : # "/assets/images/bio-photo-2.jpg"
+  links:
+    - label: #"Twitter"
+      icon: #"fab fa-fw fa-twitter-square"
+      url: #"https://twitter.com/"
+
 vijayboyapati:
   name        : Vijay Boyapati
   bio         : "Tu ne cede malis, sed contra audentior ito"
@@ -2738,6 +2792,15 @@ yuridegaia:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/Y_deGaia"
+
+yuriyanosov:
+  name        : Yuriy Anosov
+  bio         : ""
+  avatar      : # "/assets/images/bio-photo-2.jpg"
+  links:
+    - label: #"Twitter"
+      icon: #"fab fa-fw fa-twitter-square"
+      url: #"https://twitter.com/"
 
 zachofearth:
   name        : Zach of Earth
