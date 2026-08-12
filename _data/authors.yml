@@ -9,6 +9,15 @@ alanmanuelkgloria:
       icon: "fas fa-fw fa-link"
       url: "https://www.reddit.com/user/almkglor/"
 
+albertwenger:
+  name        : Albert Wenger
+  bio         : ""
+  avatar      : # "/assets/images/bio-photo-2.jpg"
+  links:
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "https://continuations.com/"
+
 aleksandrbulkin:
   name        : Aleksandr Bulkin
   bio         : ""
@@ -98,6 +107,15 @@ haseebqureshi:
     - label: #"Twitter"
       icon: #"fab fa-fw fa-twitter-square"
       url: #"https://twitter.com/"
+
+joelmonegro:
+  name        : Joel Monegro
+  bio         : ""
+  avatar      : # "/assets/images/bio-photo-2.jpg"
+  links:
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "https://www.usv.com/"
 
 junseth:
   name        : Junseth
