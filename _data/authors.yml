@@ -9,6 +9,33 @@ alanmanuelkgloria:
       icon: "fas fa-fw fa-link"
       url: "https://www.reddit.com/user/almkglor/"
 
+aleksandrbulkin:
+  name        : Aleksandr Bulkin
+  bio         : ""
+  avatar      : # "/assets/images/bio-photo-2.jpg"
+  links:
+    - label: #"Twitter"
+      icon: #"fab fa-fw fa-twitter-square"
+      url: #"https://twitter.com/"
+
+aripaul:
+  name        : Ari Paul
+  bio         : ""
+  avatar      : # "/assets/images/bio-photo-2.jpg"
+  links:
+    - label: #"Twitter"
+      icon: #"fab fa-fw fa-twitter-square"
+      url: #"https://twitter.com/"
+
+bruceschneier:
+  name        : Bruce Schneier
+  bio         : ""
+  avatar      : # "/assets/images/bio-photo-2.jpg"
+  links:
+    - label: #"Twitter"
+      icon: #"fab fa-fw fa-twitter-square"
+      url: #"https://twitter.com/"
+
 dannydiekroeger:
   name        : Danny Diekroeger
   bio         : ""
@@ -27,6 +54,15 @@ davidpuell:
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/kenoshaking"
 
+eladgil:
+  name        : Elad Gil
+  bio         : ""
+  avatar      : # "/assets/images/bio-photo-2.jpg"
+  links:
+    - label: #"Twitter"
+      icon: #"fab fa-fw fa-twitter-square"
+      url: #"https://twitter.com/"
+
 haseebqureshi:
   name        : Haseeb Qureshi
   bio         : ""
@@ -36,8 +72,26 @@ haseebqureshi:
       icon: #"fab fa-fw fa-twitter-square"
       url: #"https://twitter.com/"
 
+junseth:
+  name        : Junseth
+  bio         : ""
+  avatar      : # "/assets/images/bio-photo-2.jpg"
+  links:
+    - label: #"Twitter"
+      icon: #"fab fa-fw fa-twitter-square"
+      url: #"https://twitter.com/"
+
 mohitmamoria:
   name        : Mohit Mamoria
+  bio         : ""
+  avatar      : # "/assets/images/bio-photo-2.jpg"
+  links:
+    - label: #"Twitter"
+      icon: #"fab fa-fw fa-twitter-square"
+      url: #"https://twitter.com/"
+
+nicktomaino:
+  name        : Nick Tomaino
   bio         : ""
   avatar      : # "/assets/images/bio-photo-2.jpg"
   links:
@@ -3099,6 +3153,15 @@ timmay:
       icon: #"fab fa-fw fa-twitter-square"
       url: #"https://twitter.com/"
 
+timothylee:
+  name        : Timothy Lee
+  bio         : ""
+  avatar      : # "/assets/images/bio-photo-2.jpg"
+  links:
+    - label: #"Twitter"
+      icon: #"fab fa-fw fa-twitter-square"
+      url: #"https://twitter.com/"
+
 tobiashuber:
   name        : Tobias Huber
   bio         : "Technology / Markets / Philosophy"
@@ -3248,6 +3311,15 @@ wiz:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/wiz"
+
+woonomic:
+  name        : woonomic
+  bio         : ""
+  avatar      : # "/assets/images/bio-photo-2.jpg"
+  links:
+    - label: #"Twitter"
+      icon: #"fab fa-fw fa-twitter-square"
+      url: #"https://twitter.com/"
 
 yanpritzker:
   name        : Yan Pritzker
