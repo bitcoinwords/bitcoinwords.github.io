@@ -1,5 +1,14 @@
 # /_data/authors.yml
 
+aarontoponce:
+  name        : Aaron Toponce
+  bio         : ""
+  avatar      : # "/assets/images/bio-photo-2.jpg"
+  links:
+    - label: #"Twitter"
+      icon: #"fab fa-fw fa-twitter-square"
+      url: #"https://twitter.com/"
+
 alanmanuelkgloria:
   name        : Alan Manuel K. Gloria
   bio         : ""
@@ -119,6 +128,15 @@ joelmonegro:
 
 junseth:
   name        : Junseth
+  bio         : ""
+  avatar      : # "/assets/images/bio-photo-2.jpg"
+  links:
+    - label: #"Twitter"
+      icon: #"fab fa-fw fa-twitter-square"
+      url: #"https://twitter.com/"
+
+lauradavidson:
+  name        : Laura Davidson
   bio         : ""
   avatar      : # "/assets/images/bio-photo-2.jpg"
   links:
