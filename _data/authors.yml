@@ -27,6 +27,15 @@ aripaul:
       icon: #"fab fa-fw fa-twitter-square"
       url: #"https://twitter.com/"
 
+balajissrinivasan:
+  name        : Balaji S. Srinivasan
+  bio         : ""
+  avatar      : # "/assets/images/bio-photo-2.jpg"
+  links:
+    - label: #"Twitter"
+      icon: #"fab fa-fw fa-twitter-square"
+      url: #"https://twitter.com/"
+
 bruceschneier:
   name        : Bruce Schneier
   bio         : ""
@@ -56,6 +65,15 @@ davidpuell:
 
 eladgil:
   name        : Elad Gil
+  bio         : ""
+  avatar      : # "/assets/images/bio-photo-2.jpg"
+  links:
+    - label: #"Twitter"
+      icon: #"fab fa-fw fa-twitter-square"
+      url: #"https://twitter.com/"
+
+erikvoorhees:
+  name        : Erik Voorhees
   bio         : ""
   avatar      : # "/assets/images/bio-photo-2.jpg"
   links:
@@ -278,6 +296,15 @@ ryandickherber:
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "https://web.archive.org/web/20110524144933/http://astrohacker.com/ahc/sister-alternative-different-species-bitcoins/"
+
+saifedeanammous:
+  name        : Saifedean Ammous
+  bio         : ""
+  avatar      : # "/assets/images/bio-photo-2.jpg"
+  links:
+    - label: #"Twitter"
+      icon: #"fab fa-fw fa-twitter-square"
+      url: #"https://twitter.com/"
 
 satoshinakamoto:
   name        : Satoshi Nakamoto
@@ -3206,6 +3233,15 @@ tylerbain:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/blockbain"
+
+valentinschmid:
+  name        : Valentin Schmid
+  bio         : ""
+  avatar      : # "/assets/images/bio-photo-2.jpg"
+  links:
+    - label: #"Twitter"
+      icon: #"fab fa-fw fa-twitter-square"
+      url: #"https://twitter.com/"
 
 varunvruddhula:
   name        : Varun Vruddhula
