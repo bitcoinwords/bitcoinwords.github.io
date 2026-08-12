@@ -81,6 +81,15 @@ erikvoorhees:
       icon: #"fab fa-fw fa-twitter-square"
       url: #"https://twitter.com/"
 
+felixsalmon:
+  name        : Felix Salmon
+  bio         : "Financial journalist."
+  avatar      : # "/assets/images/bio-photo-2.jpg"
+  links:
+    - label: #"Twitter"
+      icon: #"fab fa-fw fa-twitter-square"
+      url: #"https://twitter.com/"
+
 haseebqureshi:
   name        : Haseeb Qureshi
   bio         : ""
