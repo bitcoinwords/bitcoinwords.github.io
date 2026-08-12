@@ -28,13 +28,9 @@ defaults:
 ### By Beautyon
 ### Posted February 12, 2016
 
-**  151   reads
 
-by[**Beautyon**](https://hackernoon.com/u/beautyon_)[February 13th, 2016](https://hackernoon.com/archives/2016/02/13)
 
 ![](/assets/images/2016/m2/the-only-thing-living-in-this-world-will-be-metal3.jpg)
-
-byBeautyon@ beautyon_
 
 ![](/assets/images/2016/m2/the-only-thing-living-in-this-world-will-be-metal4.jpg)
 
@@ -137,18 +133,6 @@ This is the end. They don’t know it yet, just as the book stores had no idea t
 Organic roasted and salted Pistachios, a fine Belgian blonde beer **↴**
 
 ![](/assets/images/2016/m2/the-only-thing-living-in-this-world-will-be-metal5.png)
-
-#### About Author
-
-by[**Beautyon**](https://hackernoon.com/u/beautyon_)|[@ beautyon_](https://hackernoon.com/u/beautyon_)
-
-Editor
-
-[Read my stories](https://hackernoon.com/u/beautyon_)[About @beautyon_](https://hackernoon.com/about/beautyon_)
-
-##### TOPICS
-
-[**cybersecurity](https://hackernoon.com/c/cybersecurity)[# bitcoin](https://hackernoon.com/tagged/bitcoin)[# blockchain](https://hackernoon.com/tagged/blockchain)[# sexism](https://hackernoon.com/tagged/sexism)[# diversity](https://hackernoon.com/tagged/diversity)
 
 ***
 

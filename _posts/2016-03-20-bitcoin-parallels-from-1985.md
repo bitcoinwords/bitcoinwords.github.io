@@ -28,13 +28,9 @@ defaults:
 ### By Beautyon
 ### Posted March 20, 2016
 
-**  538   reads
 
-by[**Beautyon**](https://hackernoon.com/u/beautyon_)[March 20th, 2016](https://hackernoon.com/archives/2016/03/20)
 
 ![](/assets/images/2016/m3/bitcoin-parallels-from-19853.jpg)
-
-byBeautyon@ beautyon_
 
 Watch an astonishing segment on Bulletin Board Systems from *“The Computer Chronicles — Modems & Bulletin Boards”* originally broadcast in 1985. The section you need starts at 14:15 and runs to 22:39.
 
@@ -81,18 +77,6 @@ This is the central source of thrust in *The Transformation*, where the world mo
 *“It’s not hard to see another unique event, when you missed the beginning, and you miss the end.” — Wire “*[*40 Versions*](https://www.youtube.com/watch?v=2rd4CpkJWS8&ref=hackernoon.com)*”*
 
 ![](/assets/images/2016/m3/bitcoin-parallels-from-19855.png)
-
-#### About Author
-
-by[**Beautyon**](https://hackernoon.com/u/beautyon_)|[@ beautyon_](https://hackernoon.com/u/beautyon_)
-
-Editor
-
-[Read my stories](https://hackernoon.com/u/beautyon_)[About @beautyon_](https://hackernoon.com/about/beautyon_)
-
-##### TOPICS
-
-[**Software Engineering](https://hackernoon.com/c/engineering)[# snowden](https://hackernoon.com/tagged/snowden)[# nsa](https://hackernoon.com/tagged/nsa)[# bitcoin](https://hackernoon.com/tagged/bitcoin)[# tech](https://hackernoon.com/tagged/tech)[# history-of-technology](https://hackernoon.com/tagged/history-of-technology)
 
 ***
 

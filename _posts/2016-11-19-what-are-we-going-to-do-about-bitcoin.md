@@ -28,13 +28,9 @@ defaults:
 ### By Beautyon
 ### Posted November 19, 2016
 
-**  422   reads
 
-by[**Beautyon**](https://hackernoon.com/u/beautyon_)[November 19th, 2016](https://hackernoon.com/archives/2016/11/19)
 
 ![](/assets/images/2016/m11/what-are-we-going-to-do-about-bitcoin3.jpg)
-
-byBeautyon@ beautyon_
 
 *This piece was originally written for the magazine* [***Foreign Affairs***](https://www.foreignaffairs.com/?ref=hackernoon.com)***.***
 
@@ -113,18 +109,6 @@ The rate at which Bitcoin is released into the market by the miners is halving r
 If you like the content and feel so obliged to send some love via BTC donations you can do so at the address below:↴
 
 ![](/assets/images/2016/m11/what-are-we-going-to-do-about-bitcoin4.png)
-
-#### About Author
-
-by[**Beautyon**](https://hackernoon.com/u/beautyon_)|[@ beautyon_](https://hackernoon.com/u/beautyon_)
-
-Editor
-
-[Read my stories](https://hackernoon.com/u/beautyon_)[About @beautyon_](https://hackernoon.com/about/beautyon_)
-
-##### TOPICS
-
-[**cybersecurity](https://hackernoon.com/c/cybersecurity)[# blockchain](https://hackernoon.com/tagged/blockchain)[# bitcoin](https://hackernoon.com/tagged/bitcoin)
 
 ***
 

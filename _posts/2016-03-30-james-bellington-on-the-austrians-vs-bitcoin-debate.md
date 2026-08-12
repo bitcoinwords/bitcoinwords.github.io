@@ -28,13 +28,9 @@ defaults:
 ### By Beautyon
 ### Posted March 30, 2016
 
-**  402   reads
 
-by[**Beautyon**](https://hackernoon.com/u/beautyon_)[March 30th, 2016](https://hackernoon.com/archives/2016/03/30)
 
 ![](/assets/images/2016/m3/james-bellington-on-the-austrians-vs-bitcoin-debate3.jpg)
-
-byBeautyon@ beautyon_
 
 ***James Bellington*** *September 19, 2012 at 12:35 am*The attitude of the Austrians is very odd behaviour indeed, and as Bitcoin grows, the excuses they don’t give will make it harder for them to explain why they did not get start accepting it sooner.
 
@@ -71,18 +67,6 @@ The problem for the reputation of the Austrians is that the internet is not conc
 James Bellington is a nice chap.Send him Bitcoin, and I’ll make sure he gets it.
 
 ![](/assets/images/2016/m3/james-bellington-on-the-austrians-vs-bitcoin-debate5.png)
-
-#### About Author
-
-by[**Beautyon**](https://hackernoon.com/u/beautyon_)|[@ beautyon_](https://hackernoon.com/u/beautyon_)
-
-Editor
-
-[Read my stories](https://hackernoon.com/u/beautyon_)[About @beautyon_](https://hackernoon.com/about/beautyon_)
-
-##### TOPICS
-
-[**web3](https://hackernoon.com/c/web3)[# bitcoin](https://hackernoon.com/tagged/bitcoin)[# blockchain](https://hackernoon.com/tagged/blockchain)[# ludwig-von-mises](https://hackernoon.com/tagged/ludwig-von-mises)[# libertarianism](https://hackernoon.com/tagged/libertarianism)[# anarcho-capitalism](https://hackernoon.com/tagged/anarcho-capitalism)
 
 ***
 

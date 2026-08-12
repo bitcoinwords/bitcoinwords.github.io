@@ -28,13 +28,9 @@ defaults:
 ### By Beautyon
 ### Posted January 9, 2015
 
-**  113   reads
 
-by[**Beautyon**](https://hackernoon.com/u/beautyon_)[January 9th, 2015](https://hackernoon.com/archives/2015/01/09)
 
 ![](/assets/images/2015/m1/the-wolves-in-sheeps-clothing-cant-destroy-or-disrupt-bitcoins-spread3.jpg)
-
-byBeautyon@ beautyon_
 
 When new game changing technology comes to market and people and institutions are hostile to it, you don’t cave in to their fear.
 
@@ -131,18 +127,6 @@ The world has changed. Bitcoin’s existence is proof of this if you even needed
 *Buy the author a Westmalle Tripel and pork knuckle in appreciation of this epic, prescient tweet storm* ↴
 
 ![](/assets/images/2015/m1/the-wolves-in-sheeps-clothing-cant-destroy-or-disrupt-bitcoins-spread4.png)
-
-#### About Author
-
-by[**Beautyon**](https://hackernoon.com/u/beautyon_)|[@ beautyon_](https://hackernoon.com/u/beautyon_)
-
-Editor
-
-[Read my stories](https://hackernoon.com/u/beautyon_)[About @beautyon_](https://hackernoon.com/about/beautyon_)
-
-##### TOPICS
-
-[**cybersecurity](https://hackernoon.com/c/cybersecurity)[# segwit](https://hackernoon.com/tagged/segwit)[# bitcoin](https://hackernoon.com/tagged/bitcoin)[# economics](https://hackernoon.com/tagged/economics)[# libertarianism](https://hackernoon.com/tagged/libertarianism)[# ethics](https://hackernoon.com/tagged/ethics)
 
 ***
 

@@ -28,13 +28,9 @@ defaults:
 ### By Beautyon
 ### Posted February 11, 2017
 
-**  765   reads
 
-by[**Beautyon**](https://hackernoon.com/u/beautyon_)[February 11th, 2017](https://hackernoon.com/archives/2017/02/11)
 
 ![](/assets/images/2017/m2/the-dcg-is-not-bitcoin-you-are-bitcoin3.jpg)
-
-byBeautyon@ beautyon_
 
 ![](/assets/images/2017/m2/the-dcg-is-not-bitcoin-you-are-bitcoin4.png)
 
@@ -249,18 +245,6 @@ As I've said many times, if Bitcoin cannot successfully repel these low level at
 *Now, everyone buy me beer: writing is very thirsty work!*
 
 ![](/assets/images/2017/m2/the-dcg-is-not-bitcoin-you-are-bitcoin10.png)
-
-#### About Author
-
-by[**Beautyon**](https://hackernoon.com/u/beautyon_)|[@ beautyon_](https://hackernoon.com/u/beautyon_)
-
-Editor
-
-[Read my stories](https://hackernoon.com/u/beautyon_)[About @beautyon_](https://hackernoon.com/about/beautyon_)
-
-##### TOPICS
-
-[**cybersecurity](https://hackernoon.com/c/cybersecurity)[# bitcoin](https://hackernoon.com/tagged/bitcoin)[# blockchain](https://hackernoon.com/tagged/blockchain)
 
 ***
 

@@ -28,13 +28,9 @@ defaults:
 ### By Beautyon
 ### Posted October 11, 2016
 
-**  362   reads
 
-by[**Beautyon**](https://hackernoon.com/u/beautyon_)[October 11th, 2016](https://hackernoon.com/archives/2016/10/11)
 
 ![](/assets/images/2016/m10/fungibility-and-irrationality3.jpg)
-
-byBeautyon@ beautyon_
 
 *You can’t be* ***for*** *Bitcoin and* ***against*** *it at the same time. It’s not rational to implement Know Your Customer (KYC) and Anti Money Laundering (AML) and* ***also*** *to expect Bitcoin adoption to go viral.*
 
@@ -120,18 +116,6 @@ Perfect fungibility will eventually be the global default in Bitcoin and that is
 *Support the Wagyu Beef Fund with $21 (lol) in Bitcoin***↴**
 
 ![](/assets/images/2016/m10/fungibility-and-irrationality7.png)
-
-#### About Author
-
-by[**Beautyon**](https://hackernoon.com/u/beautyon_)|[@ beautyon_](https://hackernoon.com/u/beautyon_)
-
-Editor
-
-[Read my stories](https://hackernoon.com/u/beautyon_)[About @beautyon_](https://hackernoon.com/about/beautyon_)
-
-##### TOPICS
-
-[**cybersecurity](https://hackernoon.com/c/cybersecurity)[# bitcoin](https://hackernoon.com/tagged/bitcoin)[# blockchain](https://hackernoon.com/tagged/blockchain)
 
 ***
 

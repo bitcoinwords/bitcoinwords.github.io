@@ -28,11 +28,9 @@ defaults:
 ### By Beautyon
 ### Posted May 20, 2015
 
-by[**Beautyon**](https://hackernoon.com/u/beautyon_)[May 20th, 2015](https://hackernoon.com/archives/2015/05/20)
+
 
 ![](/assets/images/2015/m5/silk-meets-bitcoin3.jpg)
-
-byBeautyon@ beautyon_
 
 The title refers to the legal profession and obtaining *“Silk”*,
 
@@ -221,18 +219,6 @@ The world has changed. The landscape is shifting with a quake that is way above 
 Grilled rack of lamb, mushrooms, string beans. 2 large Westmalle Tripples:
 
 ![](/assets/images/2015/m5/silk-meets-bitcoin14.png)
-
-#### About Author
-
-by[**Beautyon**](https://hackernoon.com/u/beautyon_)|[@ beautyon_](https://hackernoon.com/u/beautyon_)
-
-Editor
-
-[Read my stories](https://hackernoon.com/u/beautyon_)[About @beautyon_](https://hackernoon.com/about/beautyon_)
-
-##### TOPICS
-
-[**cybersecurity](https://hackernoon.com/c/cybersecurity)[# bitcoin](https://hackernoon.com/tagged/bitcoin)[# blockchain](https://hackernoon.com/tagged/blockchain)[# law](https://hackernoon.com/tagged/law)
 
 ***
 

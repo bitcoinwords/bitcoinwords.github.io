@@ -28,13 +28,9 @@ defaults:
 ### By Beautyon
 ### Posted May 14, 2016
 
-**  3,615   reads
 
-by[**Beautyon**](https://hackernoon.com/u/beautyon_)[May 14th, 2016](https://hackernoon.com/archives/2016/05/14)
 
 ![](/assets/images/2016/m5/trust-no-one3.jpg)
-
-byBeautyon@ beautyon_
 
 There is a problem with many of the arguments being put forward in the Block Size debate, which is essentially over now. If you want to argue about anything, make a case for something, you need to do it cleanly, logically, and without fallacies. Because Bitcoin is inextricably linked with money, its difficult to get people to argue cleanly about it, but it can be done, and in the case of the Block Size argument, it has been done, and the correct side won, because their arguments are better.
 
@@ -95,18 +91,6 @@ In any case, the road ahead for Bitcoin is set. It is now a matter of who writes
 Pay Bitcoin to this QR Code. Before you’re not allowed to. ↴
 
 ![](/assets/images/2016/m5/trust-no-one4.png)
-
-#### About Author
-
-by[**Beautyon**](https://hackernoon.com/u/beautyon_)|[@ beautyon_](https://hackernoon.com/u/beautyon_)
-
-Editor
-
-[Read my stories](https://hackernoon.com/u/beautyon_)[About @beautyon_](https://hackernoon.com/about/beautyon_)
-
-##### TOPICS
-
-[**cybersecurity](https://hackernoon.com/c/cybersecurity)[# bitcoin](https://hackernoon.com/tagged/bitcoin)[# blockchain](https://hackernoon.com/tagged/blockchain)[# segwit](https://hackernoon.com/tagged/segwit)[# ecommerce](https://hackernoon.com/tagged/ecommerce)[# ethics](https://hackernoon.com/tagged/ethics)
 
 ***
 

@@ -28,13 +28,9 @@ defaults:
 ### By Beautyon
 ### Posted March 7, 2016
 
-**  157   reads
 
-by[**Beautyon**](https://hackernoon.com/u/beautyon_)[March 7th, 2016](https://hackernoon.com/archives/2016/03/07)
 
 ![](/assets/images/2016/m3/back-away-from-the-bitcoin-barbed-wire3.jpg)
-
-byBeautyon@ beautyon_
 
 This is a rebuttal to a Tweet Storm that recently appeared on the subject of Bitcoin’s “Governance”. It serves as a perfect vehicle to explain away some of the myths, misinformation and FUD swirling around Bitcoin. Every problem in Bitcoin can be solved by software. If you want a higher rate of transactions between peers, you need to design software that achieves that.
 
@@ -113,18 +109,6 @@ The consensus meme, and the Straw Man Fallacy that it is required are **both non
 Armagnac, vanilla wafers, double espresso ↴
 
 ![](/assets/images/2016/m3/back-away-from-the-bitcoin-barbed-wire4.png)
-
-#### About Author
-
-by[**Beautyon**](https://hackernoon.com/u/beautyon_)|[@ beautyon_](https://hackernoon.com/u/beautyon_)
-
-Editor
-
-[Read my stories](https://hackernoon.com/u/beautyon_)[About @beautyon_](https://hackernoon.com/about/beautyon_)
-
-##### TOPICS
-
-[**cybersecurity](https://hackernoon.com/c/cybersecurity)[# bitcoin](https://hackernoon.com/tagged/bitcoin)[# blockchain](https://hackernoon.com/tagged/blockchain)[# governance](https://hackernoon.com/tagged/governance)[# ethics](https://hackernoon.com/tagged/ethics)[# open-source](https://hackernoon.com/tagged/open-source)
 
 ***
 

@@ -28,11 +28,7 @@ defaults:
 ### By Beautyon
 ### Posted December 21, 2016
 
-**  438   reads
 
-by[**Beautyon**](https://hackernoon.com/u/beautyon_)[December 21st, 2016](https://hackernoon.com/archives/2016/12/21)
-
-byBeautyon@ beautyon_
 
 ![](/assets/images/2016/m12/the-war-on-cash-is-fake-news4.jpg)
 
@@ -109,18 +105,6 @@ And in the real world where you escape the Matrix, the steak is [**real**](http:
 Steak is real. I eat it. It costs money ↴
 
 ![](/assets/images/2016/m12/the-war-on-cash-is-fake-news11.png)
-
-#### About Author
-
-by[**Beautyon**](https://hackernoon.com/u/beautyon_)|[@ beautyon_](https://hackernoon.com/u/beautyon_)
-
-Editor
-
-[Read my stories](https://hackernoon.com/u/beautyon_)[About @beautyon_](https://hackernoon.com/about/beautyon_)
-
-##### TOPICS
-
-[**cybersecurity](https://hackernoon.com/c/cybersecurity)[# bitcoin](https://hackernoon.com/tagged/bitcoin)[# money](https://hackernoon.com/tagged/money)[# fake-news](https://hackernoon.com/tagged/fake-news)[# inflation](https://hackernoon.com/tagged/inflation)[# economics](https://hackernoon.com/tagged/economics)
 
 ***
 

@@ -27,6 +27,24 @@ davidpuell:
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/kenoshaking"
 
+haseebqureshi:
+  name        : Haseeb Qureshi
+  bio         : ""
+  avatar      : # "/assets/images/bio-photo-2.jpg"
+  links:
+    - label: #"Twitter"
+      icon: #"fab fa-fw fa-twitter-square"
+      url: #"https://twitter.com/"
+
+mohitmamoria:
+  name        : Mohit Mamoria
+  bio         : ""
+  avatar      : # "/assets/images/bio-photo-2.jpg"
+  links:
+    - label: #"Twitter"
+      icon: #"fab fa-fw fa-twitter-square"
+      url: #"https://twitter.com/"
+
 pointsixonefive:
   name        : .615
   bio         : ""
@@ -1010,6 +1028,24 @@ samuelfalkon:
 
 simonmorris:
   name        : Simon Morris
+  bio         : ""
+  avatar      : # "/assets/images/bio-photo-2.jpg"
+  links:
+    - label: #"Twitter"
+      icon: #"fab fa-fw fa-twitter-square"
+      url: #"https://twitter.com/"
+
+stephenmckeon:
+  name        : Stephen McKeon
+  bio         : ""
+  avatar      : # "/assets/images/bio-photo-2.jpg"
+  links:
+    - label: #"Twitter"
+      icon: #"fab fa-fw fa-twitter-square"
+      url: #"https://twitter.com/"
+
+stopanddecrypt:
+  name        : StopAndDecrypt
   bio         : ""
   avatar      : # "/assets/images/bio-photo-2.jpg"
   links:

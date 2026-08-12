@@ -28,11 +28,9 @@ defaults:
 ### By Beautyon
 ### Posted November 14, 2016
 
-by[**Beautyon**](https://hackernoon.com/u/beautyon_)[November 14th, 2016](https://hackernoon.com/archives/2016/11/14)
+
 
 ![](/assets/images/2016/m11/software-is-the-weirding-way3.jpg)
-
-byBeautyon@ beautyon_
 
 ![](/assets/images/2016/m11/software-is-the-weirding-way4.jpg)
 
@@ -77,18 +75,6 @@ If you didn't like this post, blame Samson Mow…ITS HIS FAULT!
 Grilled Rabbit, root vegetables, pinot noir **↴**
 
 ![](/assets/images/2016/m11/software-is-the-weirding-way5.png)
-
-#### About Author
-
-by[**Beautyon**](https://hackernoon.com/u/beautyon_)|[@ beautyon_](https://hackernoon.com/u/beautyon_)
-
-Editor
-
-[Read my stories](https://hackernoon.com/u/beautyon_)[About @beautyon_](https://hackernoon.com/about/beautyon_)
-
-##### TOPICS
-
-[**cybersecurity](https://hackernoon.com/c/cybersecurity)[# bitcoin](https://hackernoon.com/tagged/bitcoin)[# blockchain](https://hackernoon.com/tagged/blockchain)
 
 ***
 

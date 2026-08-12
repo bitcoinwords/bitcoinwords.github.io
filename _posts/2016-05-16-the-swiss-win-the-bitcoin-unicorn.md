@@ -28,13 +28,9 @@ defaults:
 ### By Beautyon
 ### Posted May 16, 2016
 
-**  145   reads
 
-by[**Beautyon**](https://hackernoon.com/u/beautyon_)[May 16th, 2016](https://hackernoon.com/archives/2016/05/16)
 
 ![](/assets/images/2016/m5/the-swiss-win-the-bitcoin-unicorn3.jpg)
-
-byBeautyon@ beautyon_
 
 [The DAO](https://daohub.org/?ref=hackernoon.com), which whether or not it succeeds, has [raised more money than almost any other crowd-funding drive in history](https://en.wikipedia.org/wiki/List_of_highest_funded_crowdfunding_projects?ref=hackernoon.com) is using [a Swiss company](https://en.wikipedia.org/wiki/The_DAO_%28organization%29?ref=hackernoon.com#Operation) as its entry and anchor point to the physical world. Why did they choose Switzerland rather than, say New York in the USA or the UK? London is the home of “[Tech City](https://medium.com/@beautyon_/theresa-may-is-wrong-about-encryption-92f1b43ab11a?ref=hackernoon.com#.ity23fr9h)” where the government wants to encourage a global tech hub to grow, and New York is trying to position itself as a great place to incorporate if you are in the “Blockchain Business”. Switzerland has made no such public calls to attract business in this new sector, **so why did the people who run the DAO choose Switzerland?**
 
@@ -62,18 +58,6 @@ After having been forced to weaken banking secrecy, the Swiss are set to rule th
 Raclette at the mercy of the chef**↴**
 
 ![](/assets/images/2016/m5/the-swiss-win-the-bitcoin-unicorn4.png)
-
-#### About Author
-
-by[**Beautyon**](https://hackernoon.com/u/beautyon_)|[@ beautyon_](https://hackernoon.com/u/beautyon_)
-
-Editor
-
-[Read my stories](https://hackernoon.com/u/beautyon_)[About @beautyon_](https://hackernoon.com/about/beautyon_)
-
-##### TOPICS
-
-[**cybersecurity](https://hackernoon.com/c/cybersecurity)[# bitcoin](https://hackernoon.com/tagged/bitcoin)[# blockchain](https://hackernoon.com/tagged/blockchain)[# switzerland](https://hackernoon.com/tagged/switzerland)[# banking](https://hackernoon.com/tagged/banking)[# fintech](https://hackernoon.com/tagged/fintech)
 
 ***
 

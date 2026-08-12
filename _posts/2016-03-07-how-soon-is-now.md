@@ -28,13 +28,9 @@ defaults:
 ### By Beautyon
 ### Posted March 7, 2016
 
-**  312   reads
 
-by[**Beautyon**](https://hackernoon.com/u/beautyon_)[March 7th, 2016](https://hackernoon.com/archives/2016/03/07)
 
 ![](/assets/images/2016/m3/how-soon-is-now3.jpg)
-
-byBeautyon@ beautyon_
 
 The impatience to see Bitcoin dominate is understandable. Its benefits are so manifest and desireable, no man can not want to see it spread like wildfire. It should not and cannot however, spread *at any cost.*
 
@@ -79,18 +75,6 @@ Finally, 2m blocks are coming in Bitcoin. The capacity increase that Bitcoin Cla
 Wagyu Short Ribs, Westmalle Tripple, fries, house merlot. **↴**
 
 ![](/assets/images/2016/m3/how-soon-is-now4.png)
-
-#### About Author
-
-by[**Beautyon**](https://hackernoon.com/u/beautyon_)|[@ beautyon_](https://hackernoon.com/u/beautyon_)
-
-Editor
-
-[Read my stories](https://hackernoon.com/u/beautyon_)[About @beautyon_](https://hackernoon.com/about/beautyon_)
-
-##### TOPICS
-
-[**cybersecurity](https://hackernoon.com/c/cybersecurity)[# bitcoin](https://hackernoon.com/tagged/bitcoin)[# finance](https://hackernoon.com/tagged/finance)[# google](https://hackernoon.com/tagged/google)[# segwit](https://hackernoon.com/tagged/segwit)[# disruption](https://hackernoon.com/tagged/disruption)
 
 ***
 

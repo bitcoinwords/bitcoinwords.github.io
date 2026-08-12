@@ -28,13 +28,9 @@ defaults:
 ### By Beautyon
 ### Posted June 17, 2016
 
-**  3,154   reads
 
-by[**Beautyon**](https://hackernoon.com/u/beautyon_)[June 17th, 2016](https://hackernoon.com/archives/2016/06/17)
 
 ![](/assets/images/2016/m6/the-fundamental-problems-with-ethereum3.jpg)
-
-byBeautyon@ beautyon_
 
 *This was written by Dr. Saifedean Ammous. It was typed in response to* [*a question on twitter*](https://twitter.com/whsahhar/status/743735402125615104?ref=hackernoon.com)*… and I agree with it!*
 
@@ -53,18 +49,6 @@ Once a cryptocurrency is centralized, the entire point is defeated, and you’re
 Bitcoin, having no single point of failure, reliant on the word and competence of nobody, and with an unfathomably enormous processing power arsenal protecting it will remain in a class of its own. And anybody who doesn’t believe that will pay a heavy price for failing to understand this, like what happened with the suckers who invested in the DAO. I just hope the customer service of Ethereum is every bit as shitty as that of banks so the lesson is learned with searing effectiveness.
 
 ***Follow*** [***Saifedean Ammous on Twitter***](https://twitter.com/saifedean?ref=hackernoon.com)***.***
-
-#### About Author
-
-by[**Beautyon**](https://hackernoon.com/u/beautyon_)|[@ beautyon_](https://hackernoon.com/u/beautyon_)
-
-Editor
-
-[Read my stories](https://hackernoon.com/u/beautyon_)[About @beautyon_](https://hackernoon.com/about/beautyon_)
-
-##### TOPICS
-
-[**cybersecurity](https://hackernoon.com/c/cybersecurity)[# bitcoin](https://hackernoon.com/tagged/bitcoin)[# blockchain](https://hackernoon.com/tagged/blockchain)[# ethereum](https://hackernoon.com/tagged/ethereum)[# scam](https://hackernoon.com/tagged/scam)[# john-maynard-keynes](https://hackernoon.com/tagged/john-maynard-keynes)
 
 ***
 

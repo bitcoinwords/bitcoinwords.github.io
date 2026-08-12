@@ -28,13 +28,9 @@ defaults:
 ### By Beautyon
 ### Posted May 6, 2016
 
-**  206   reads
 
-by[**Beautyon**](https://hackernoon.com/u/beautyon_)[May 6th, 2016](https://hackernoon.com/archives/2016/05/06)
 
 ![](/assets/images/2016/m5/beach-boy-bitcoin3.jpg)
-
-byBeautyon@ beautyon_
 
 There are many interesting people in Bitcoin, with different views of the world coming from almost every nation on Earth. Part of the problems people encounter in Bitcoin, stem from attempts to agree on the terms used to describe it. I just came across a fascinating example of this posted by Balaji S. Srinivasan, concerning the meaning of “faith” and “truth” . These tweets are a useful foil to explain an interesting and important problem.
 
@@ -147,18 +143,6 @@ This sort of bad thinking is what created [the BitLicense](https://medium.com/bi
 Chocolate mousse cake and a double espresso **↴**
 
 ![](/assets/images/2016/m5/beach-boy-bitcoin8.png)
-
-#### About Author
-
-by[**Beautyon**](https://hackernoon.com/u/beautyon_)|[@ beautyon_](https://hackernoon.com/u/beautyon_)
-
-Editor
-
-[Read my stories](https://hackernoon.com/u/beautyon_)[About @beautyon_](https://hackernoon.com/about/beautyon_)
-
-##### TOPICS
-
-[**cybersecurity](https://hackernoon.com/c/cybersecurity)[# bitcoin](https://hackernoon.com/tagged/bitcoin)[# blockchain](https://hackernoon.com/tagged/blockchain)
 
 ***
 

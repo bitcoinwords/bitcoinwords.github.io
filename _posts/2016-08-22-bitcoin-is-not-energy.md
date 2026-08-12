@@ -28,13 +28,9 @@ defaults:
 ### By Beautyon
 ### Posted August 22, 2016
 
-**  107   reads
 
-by[**Beautyon**](https://hackernoon.com/u/beautyon_)[August 22nd, 2016](https://hackernoon.com/archives/2016/08/22)
 
 ![](/assets/images/2016/m8/bitcoin-is-not-energy3.jpg)
-
-byBeautyon@ beautyon_
 
 A nice article has popped out of the ether like a quantum particle. We observed it, and that observation has consequences.
 
@@ -89,18 +85,6 @@ Finally, it appears that we are well past the “Bitcoin Denial” stage. No one
 Spicy potato filled pastry turnovers topped with crispy vermicelli, yoghurt, coriander. Tamarind chutneys’ and chickpeas↴
 
 ![](/assets/images/2016/m8/bitcoin-is-not-energy5.png)
-
-#### About Author
-
-by[**Beautyon**](https://hackernoon.com/u/beautyon_)|[@ beautyon_](https://hackernoon.com/u/beautyon_)
-
-Editor
-
-[Read my stories](https://hackernoon.com/u/beautyon_)[About @beautyon_](https://hackernoon.com/about/beautyon_)
-
-##### TOPICS
-
-[**cybersecurity](https://hackernoon.com/c/cybersecurity)[# bitcoin](https://hackernoon.com/tagged/bitcoin)[# blockchain](https://hackernoon.com/tagged/blockchain)
 
 ***
 

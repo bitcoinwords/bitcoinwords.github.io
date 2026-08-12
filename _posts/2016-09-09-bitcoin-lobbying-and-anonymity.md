@@ -28,11 +28,9 @@ defaults:
 ### By Beautyon
 ### Posted September 9, 2016
 
-by[**Beautyon**](https://hackernoon.com/u/beautyon_)[September 9th, 2016](https://hackernoon.com/archives/2016/09/09)
+
 
 ![](/assets/images/2016/m9/bitcoin-lobbying-and-anonymity3.jpg)
-
-byBeautyon@ beautyon_
 
 *Some Bitcoin projects are fundamentally incompatible with democratic structures and can never be incorporated in them intact.*
 
@@ -71,18 +69,6 @@ You can’t stop The Bitcoin Network and the advance of anonymity by bringing th
 Eat, or do not eat. It’s binary.I choose eat.Grilled monkfish, mash, house white↴
 
 ![](/assets/images/2016/m9/bitcoin-lobbying-and-anonymity7.png)
-
-#### About Author
-
-by[**Beautyon**](https://hackernoon.com/u/beautyon_)|[@ beautyon_](https://hackernoon.com/u/beautyon_)
-
-Editor
-
-[Read my stories](https://hackernoon.com/u/beautyon_)[About @beautyon_](https://hackernoon.com/about/beautyon_)
-
-##### TOPICS
-
-[**cybersecurity](https://hackernoon.com/c/cybersecurity)[# bitcoin](https://hackernoon.com/tagged/bitcoin)[# blockchain](https://hackernoon.com/tagged/blockchain)
 
 ***
 

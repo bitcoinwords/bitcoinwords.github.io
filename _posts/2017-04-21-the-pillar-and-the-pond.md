@@ -26,13 +26,9 @@ defaults:
 ### By Beautyon
 ### Posted April 21, 2017
 
-**  340   reads
 
-by[**Beautyon**](https://hackernoon.com/u/beautyon_)[April 21st, 2017](https://hackernoon.com/archives/2017/04/21)
 
 ![](/assets/images/2017/m4/the-pillar-and-the-pond3.jpg)
-
-byBeautyon@ beautyon_
 
 ![](/assets/images/2017/m4/the-pillar-and-the-pond4.jpg)
 
@@ -120,18 +116,6 @@ And then…*we win.*
 If you like the content and feel so obliged to send some love via BTC donations you can do so at the address below:↴
 
 ![](/assets/images/2017/m4/the-pillar-and-the-pond12.png)
-
-#### About Author
-
-by[**Beautyon**](https://hackernoon.com/u/beautyon_)|[@ beautyon_](https://hackernoon.com/u/beautyon_)
-
-Editor
-
-[Read my stories](https://hackernoon.com/u/beautyon_)[About @beautyon_](https://hackernoon.com/about/beautyon_)
-
-##### TOPICS
-
-[**cybersecurity](https://hackernoon.com/c/cybersecurity)[# bitcoin](https://hackernoon.com/tagged/bitcoin)[# blockchain](https://hackernoon.com/tagged/blockchain)[# azteco](https://hackernoon.com/tagged/azteco)[# cathedral-and-bazaar](https://hackernoon.com/tagged/cathedral-and-bazaar)[# pillar-and-pool](https://hackernoon.com/tagged/pillar-and-pool)
 
 ***
 

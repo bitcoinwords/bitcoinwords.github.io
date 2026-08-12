@@ -28,13 +28,9 @@ defaults:
 ### By Beautyon
 ### Posted February 20, 2017
 
-**  719   reads
 
-by[**Beautyon**](https://hackernoon.com/u/beautyon_)[February 20th, 2017](https://hackernoon.com/archives/2017/02/20)
 
 ![](/assets/images/2017/m2/bitcoin-is-and-that-is-enough3.jpg)
-
-byBeautyon@ beautyon_
 
 ![](/assets/images/2017/m2/bitcoin-is-and-that-is-enough4.png)
 
@@ -145,18 +141,6 @@ If you found this article stimulating, feel free to send me some Bitcoin. I like
 ![](/assets/images/2017/m2/bitcoin-is-and-that-is-enough12.jpg)
 
 3BVztD7c56Fp82dPiRdbn6muVZAHq2rmnh
-
-#### About Author
-
-by[**Beautyon**](https://hackernoon.com/u/beautyon_)|[@ beautyon_](https://hackernoon.com/u/beautyon_)
-
-Editor
-
-[Read my stories](https://hackernoon.com/u/beautyon_)[About @beautyon_](https://hackernoon.com/about/beautyon_)
-
-##### TOPICS
-
-[**web3](https://hackernoon.com/c/web3)[# bitcoin](https://hackernoon.com/tagged/bitcoin)[# blockchain](https://hackernoon.com/tagged/blockchain)
 
 ***
 

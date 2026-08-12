@@ -28,13 +28,9 @@ defaults:
 ### By Beautyon
 ### Posted June 8, 2015
 
-**  236   reads
 
-by[**Beautyon**](https://hackernoon.com/u/beautyon_)[June 8th, 2015](https://hackernoon.com/archives/2015/06/08)
 
 ![](/assets/images/2015/m6/killing-the-dragon-named-bitcoin-is-money3.jpg)
-
-byBeautyon@ beautyon_
 
 A recent academic paper [*“A First Look at the Usability of Bitcoin Key Management*](http://www.internetsociety.org/sites/default/files/05_3_3.pdf?ref=hackernoon.com)*”* by Shayan Eskandari, David Barrera, Elizabeth Stobert, and Jeremy Clark of Concordia University, ETH Zurich and Carleton University, has yielded an unexpected gem to anyone interested in the correct technical definition of Bitcoin. In this paper, there is a very precise and vivid description of *exactly* what Bitcoin is:
 
@@ -101,18 +97,6 @@ Computer illiterates, fascists, and [crony capitalists](http://www.courierpress.
 If you like the content and feel so obliged to send some love via BTC donations you can do so at the address below:↴
 
 ![](/assets/images/2015/m6/killing-the-dragon-named-bitcoin-is-money5.png)
-
-#### About Author
-
-by[**Beautyon**](https://hackernoon.com/u/beautyon_)|[@ beautyon_](https://hackernoon.com/u/beautyon_)
-
-Editor
-
-[Read my stories](https://hackernoon.com/u/beautyon_)[About @beautyon_](https://hackernoon.com/about/beautyon_)
-
-##### TOPICS
-
-[**web3](https://hackernoon.com/c/web3)
 
 ***
 

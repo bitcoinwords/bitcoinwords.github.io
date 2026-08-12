@@ -28,13 +28,9 @@ defaults:
 ### By Beautyon
 ### Posted January 18, 2016
 
-**  844   reads
 
-by[**Beautyon**](https://hackernoon.com/u/beautyon_)[January 18th, 2016](https://hackernoon.com/archives/2016/01/18)
 
 ![](/assets/images/2016/m1/this-is-just-my-opinion3.jpg)
-
-byBeautyon@ beautyon_
 
 ![](/assets/images/2016/m1/this-is-just-my-opinion4.jpg)
 
@@ -171,18 +167,6 @@ In conclusion, Bitcoin cannot “calm down” it is not a living person, and the
 Xiao Long Bao, on a Sunday afternoon↴
 
 ![](/assets/images/2016/m1/this-is-just-my-opinion12.png)
-
-#### About Author
-
-by[**Beautyon**](https://hackernoon.com/u/beautyon_)|[@ beautyon_](https://hackernoon.com/u/beautyon_)
-
-Editor
-
-[Read my stories](https://hackernoon.com/u/beautyon_)[About @beautyon_](https://hackernoon.com/about/beautyon_)
-
-##### TOPICS
-
-[**cybersecurity](https://hackernoon.com/c/cybersecurity)[# bitcoin](https://hackernoon.com/tagged/bitcoin)[# blockchain](https://hackernoon.com/tagged/blockchain)
 
 ***
 

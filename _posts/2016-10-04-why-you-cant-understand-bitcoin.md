@@ -28,13 +28,9 @@ defaults:
 ### By Beautyon
 ### Posted October 4, 2016
 
-**  1,116   reads
 
-by[**Beautyon**](https://hackernoon.com/u/beautyon_)[October 4th, 2016](https://hackernoon.com/archives/2016/10/04)
 
 ![](/assets/images/2016/m10/why-you-cant-understand-bitcoin3.jpg)
-
-byBeautyon@ beautyon_
 
 ![](/assets/images/2016/m10/why-you-cant-understand-bitcoin4.jpg)
 
@@ -79,18 +75,6 @@ Eventually, as the killer Bitcoin business model emerges, everyone will settle o
 If you like the content and feel so obliged to send some love via BTC donations you can do so at the address below:↴
 
 ![](/assets/images/2016/m10/why-you-cant-understand-bitcoin5.png)
-
-#### About Author
-
-by[**Beautyon**](https://hackernoon.com/u/beautyon_)|[@ beautyon_](https://hackernoon.com/u/beautyon_)
-
-Editor
-
-[Read my stories](https://hackernoon.com/u/beautyon_)[About @beautyon_](https://hackernoon.com/about/beautyon_)
-
-##### TOPICS
-
-[**web3](https://hackernoon.com/c/web3)[# bitcoin](https://hackernoon.com/tagged/bitcoin)[# blockchain](https://hackernoon.com/tagged/blockchain)
 
 ***
 

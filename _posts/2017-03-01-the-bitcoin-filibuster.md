@@ -28,13 +28,9 @@ defaults:
 ### By Beautyon
 ### Posted March 1, 2017
 
-**  164   reads
 
-by[**Beautyon**](https://hackernoon.com/u/beautyon_)[March 1st, 2017](https://hackernoon.com/archives/2017/03/01)
 
 ![](/assets/images/2017/m3/the-bitcoin-filibuster3.png)
-
-byBeautyon@ beautyon_
 
 In the fight over the activation of Segregated Witness it’s clear that many people don't understand the true reason why the actors who are against it are doing what they are doing.
 
@@ -102,18 +98,6 @@ T-Bone, medium, fries, house red**↴**
 ![](/assets/images/2017/m3/the-bitcoin-filibuster18.png)
 
 14rtDb46NQJkuqFJuHqZG3o6uAWwGbV58z
-
-#### About Author
-
-by[**Beautyon**](https://hackernoon.com/u/beautyon_)|[@ beautyon_](https://hackernoon.com/u/beautyon_)
-
-Editor
-
-[Read my stories](https://hackernoon.com/u/beautyon_)[About @beautyon_](https://hackernoon.com/about/beautyon_)
-
-##### TOPICS
-
-[**cybersecurity](https://hackernoon.com/c/cybersecurity)[# bitcoin](https://hackernoon.com/tagged/bitcoin)[# blockchain](https://hackernoon.com/tagged/blockchain)
 
 ***
 

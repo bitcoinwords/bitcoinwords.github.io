@@ -28,11 +28,9 @@ defaults:
 ### By Beautyon
 ### Posted February 24, 2016
 
-by[**Beautyon**](https://hackernoon.com/u/beautyon_)[February 24th, 2016](https://hackernoon.com/archives/2016/02/24)
+
 
 ![](/assets/images/2016/m2/proper-governance-is-the-new-legitimacy3.gif)
-
-byBeautyon@ beautyon_
 
 I read [an incredible Tweet](https://www.google.com/search?q=no!&lr=&safe=active&hl=en&tbm=isch&sa=X&ved=0ahUKEwj04-vn7JDLAhWGwxQKHU8_ArMQ_AUIBygB&biw=1533&bih=784&ref=hackernoon.com#q=no!&safe=active&hl=en&tbm=isch&tbs=ic:specific,isc:red) that spurred the writing of this post. It demonstrated perfectly how, like in the animation above, men’s understanding of Bitcoin is distorted by their prejudices, education, background and other reality warping factors.
 
@@ -89,18 +87,6 @@ In any case, all of this is moot. There is nothing anyone can do to stop Bitcoin
 A double whiskey sour, roasted almonds.**↴**
 
 ![](/assets/images/2016/m2/proper-governance-is-the-new-legitimacy8.png)
-
-#### About Author
-
-by[**Beautyon**](https://hackernoon.com/u/beautyon_)|[@ beautyon_](https://hackernoon.com/u/beautyon_)
-
-Editor
-
-[Read my stories](https://hackernoon.com/u/beautyon_)[About @beautyon_](https://hackernoon.com/about/beautyon_)
-
-##### TOPICS
-
-[**cybersecurity](https://hackernoon.com/c/cybersecurity)[# bitcoin](https://hackernoon.com/tagged/bitcoin)[# finance](https://hackernoon.com/tagged/finance)
 
 ***
 

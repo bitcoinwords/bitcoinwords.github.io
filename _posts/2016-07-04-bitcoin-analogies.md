@@ -28,13 +28,9 @@ defaults:
 ### By Beautyon
 ### Posted July 4, 2016
 
-**  636   reads
 
-by[**Beautyon**](https://hackernoon.com/u/beautyon_)[July 4th, 2016](https://hackernoon.com/archives/2016/07/04)
 
 ![](/assets/images/2016/m7/bitcoin-analogies3.jpg)
-
-byBeautyon@ beautyon_
 
 People use analogies to try and describe how new tools and complex systems work. Email was sold to many as “electronic letters” and Skype as “internet telephone”, even though both of those software systems have nothing to do with paper letters and how they were written, posted, paid for, sorted and delivered (in the email case) and how telephone calls were made in the case of Skype.
 
@@ -101,18 +97,6 @@ Whatever anyone thinks of Bitcoin, they are free to use it or to decline to use 
 Lentil soup, fresh bread, fresh unsalted butter.**↴**
 
 ![](/assets/images/2016/m7/bitcoin-analogies10.png)
-
-#### About Author
-
-by[**Beautyon**](https://hackernoon.com/u/beautyon_)|[@ beautyon_](https://hackernoon.com/u/beautyon_)
-
-Editor
-
-[Read my stories](https://hackernoon.com/u/beautyon_)[About @beautyon_](https://hackernoon.com/about/beautyon_)
-
-##### TOPICS
-
-[**web3](https://hackernoon.com/c/web3)[# bitcoin](https://hackernoon.com/tagged/bitcoin)[# blockchain](https://hackernoon.com/tagged/blockchain)[# disruption](https://hackernoon.com/tagged/disruption)[# payments](https://hackernoon.com/tagged/payments)[# database](https://hackernoon.com/tagged/database)
 
 ***
 

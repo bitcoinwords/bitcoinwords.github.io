@@ -7,9 +7,9 @@ author: beautyon
 tags:
   - Beautyon
   - 2016 Q2
+  - Economics
   - Money
   - Monetary Policy
-  - Politics
 
 excerpt: Why Central Banks Will Fail at Digital Currency. Posted June 7, 2016.
 
@@ -28,13 +28,9 @@ defaults:
 ### By Beautyon
 ### Posted June 7, 2016
 
-**  1,335   reads
 
-by[**Beautyon**](https://hackernoon.com/u/beautyon_)[June 7th, 2016](https://hackernoon.com/archives/2016/06/07)
 
 ![](/assets/images/2016/m6/why-central-banks-will-fail-at-digital-currency3.jpg)
-
-byBeautyon@ beautyon_
 
 *This Medium post analyses the address Adam Ludwin of Chain gave at the Federal Reserve in Washington. Read* [*his address*](https://medium.com/@adamludwin/why-central-banks-will-issue-digital-currency-5fd9c1d3d8a2?ref=hackernoon.com#.6p24g6wb6) *before reading this.* [Прочитайте эту статью на русском языке](https://bitnovosti.com/2016/10/06/why-central-banks-will-fail-at-digital-currency/?ref=hackernoon.com).
 
@@ -289,18 +285,6 @@ Your offer of a FedCoin will be **rejected** by the market. There is **no way** 
 If you like the content and feel so obliged to send some love via BTC donations you can do so at the address below:↴
 
 ![](/assets/images/2016/m6/why-central-banks-will-fail-at-digital-currency19.png)
-
-#### About Author
-
-by[**Beautyon**](https://hackernoon.com/u/beautyon_)|[@ beautyon_](https://hackernoon.com/u/beautyon_)
-
-Editor
-
-[Read my stories](https://hackernoon.com/u/beautyon_)[About @beautyon_](https://hackernoon.com/about/beautyon_)
-
-##### TOPICS
-
-[**cybersecurity](https://hackernoon.com/c/cybersecurity)[# bitcoin](https://hackernoon.com/tagged/bitcoin)[# blockchain](https://hackernoon.com/tagged/blockchain)
 
 ***
 

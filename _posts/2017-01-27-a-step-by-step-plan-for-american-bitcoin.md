@@ -28,13 +28,9 @@ defaults:
 ### By Beautyon
 ### Posted January 27, 2017
 
-**  597   reads
 
-by[**Beautyon**](https://hackernoon.com/u/beautyon_)[January 27th, 2017](https://hackernoon.com/archives/2017/01/27)
 
 ![](/assets/images/2017/m1/a-step-by-step-plan-for-american-bitcoin3.jpg)
-
-byBeautyon@ beautyon_
 
 *Now that America has a pro America president that is minded to put America first in all matters of trade security and prosperity in the form of Donald J. Trump, we have some suggestions as to what the American government should do to make the USA the center of all Bitcoin commerce, research and development and profit.*
 
@@ -321,18 +317,6 @@ The most important footnote of all. Buy me beer.
 [***1***](https://medium.com/p/new-post?ref=hackernoon.com#sdfootnote15anc)***5*** Documentary “The Money Masters”: [https://www.youtube.com/watch?v=iDtBSiI13fE&feature=youtu.be&t=18m36s](https://www.youtube.com/watch?v=iDtBSiI13fE&feature=youtu.be&t=18m36s&ref=hackernoon.com)
 
 [***1***](https://medium.com/p/new-post?ref=hackernoon.com#sdfootnote16anc)***6*** CoinJar Relocate From Australia To UK, No Longer Charging GST[http://qntra.net/2014/12/coinjar-relocate-from-australia-to-uk-no-longer-charging-gst/](http://qntra.net/2014/12/coinjar-relocate-from-australia-to-uk-no-longer-charging-gst/?ref=hackernoon.com)
-
-#### About Author
-
-by[**Beautyon**](https://hackernoon.com/u/beautyon_)|[@ beautyon_](https://hackernoon.com/u/beautyon_)
-
-Editor
-
-[Read my stories](https://hackernoon.com/u/beautyon_)[About @beautyon_](https://hackernoon.com/about/beautyon_)
-
-##### TOPICS
-
-[**cybersecurity](https://hackernoon.com/c/cybersecurity)[# bitcoin](https://hackernoon.com/tagged/bitcoin)[# blockchain](https://hackernoon.com/tagged/blockchain)
 
 ***
 

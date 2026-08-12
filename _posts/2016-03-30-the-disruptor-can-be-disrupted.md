@@ -28,11 +28,9 @@ defaults:
 ### By Beautyon
 ### Posted March 30, 2016
 
-by[**Beautyon**](https://hackernoon.com/u/beautyon_)[March 30th, 2016](https://hackernoon.com/archives/2016/03/30)
+
 
 ![](/assets/images/2016/m3/the-disruptor-can-be-disrupted3.jpg)
-
-byBeautyon@ beautyon_
 
 In order to make a good argument you must do so plainly, without resorting to fallacies like the [Appeal to Fear Fallacy](http://www.nizkor.org/features/fallacies/appeal-to-fear.html?ref=hackernoon.com), where you claim, “something bad might happen if you don’t do what I say”. This is true everywhere, including but not limited to Bitcoin.
 
@@ -123,18 +121,6 @@ And that is the best kind of disruption of all.
 Wild mudroom omelette, spinach, fresh bread, fresh butter, Ruggeri, Vecchie Viti Brut, Valdobbiadene Prosecco Superiore 2010 ↴
 
 ![](/assets/images/2016/m3/the-disruptor-can-be-disrupted7.png)
-
-#### About Author
-
-by[**Beautyon**](https://hackernoon.com/u/beautyon_)|[@ beautyon_](https://hackernoon.com/u/beautyon_)
-
-Editor
-
-[Read my stories](https://hackernoon.com/u/beautyon_)[About @beautyon_](https://hackernoon.com/about/beautyon_)
-
-##### TOPICS
-
-[**cybersecurity](https://hackernoon.com/c/cybersecurity)[# bitcoin](https://hackernoon.com/tagged/bitcoin)[# blockchain](https://hackernoon.com/tagged/blockchain)[# decentralization](https://hackernoon.com/tagged/decentralization)
 
 ***
 
