@@ -4,7 +4,7 @@ permalink: "/build-refine"
 
 author: SixOneZeroTwo
 tags:
-  - 6102
+  - SixOneZeroTwo
   - 2020 Q1
   - Politics
   - Technology
