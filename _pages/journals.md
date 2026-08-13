@@ -12,6 +12,8 @@ author_profile: true
 
 [<i class="far fa-envelope"></i> Subscribe](https://mailchi.mp/59e9fda5b387/words){: .btn .btn--primary}
 
+Issues from January 2018 onward were published as they happened. Everything before that is archive work: the writing we've recovered from 2013 through 2017 is gathered into monthly issues after the fact, and the sparser years before 2013 are gathered a year at a time.
+
 ## Donate + Download
 All the journals are available to download in PDF format for a donation. We are also experimenting with ePUB. 
 
