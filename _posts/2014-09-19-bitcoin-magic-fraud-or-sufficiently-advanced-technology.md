@@ -11,7 +11,7 @@ tags:
   - Money
   - Technology
 
-excerpt: Bitcoin: Magic, fraud, or 'sufficiently advanced technology'?. Posted September 19, 2014.
+excerpt: "Bitcoin: Magic, fraud, or 'sufficiently advanced technology'?. Posted September 19, 2014."
 
 classes: wide
 

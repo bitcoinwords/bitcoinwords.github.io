@@ -11,7 +11,7 @@ tags:
   - Money
   - Scaling
 
-excerpt: Bitcoin by Ross: An Elliot Wave Primer. Posted December 10, 2019.
+excerpt: "Bitcoin by Ross: An Elliot Wave Primer. Posted December 10, 2019."
 
 classes: wide
 

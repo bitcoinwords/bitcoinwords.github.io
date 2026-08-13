@@ -11,7 +11,7 @@ tags:
   - Philosophy
   - History
 
-excerpt: Bitcoin: Killer of Nietzschian Nihilism. Posted April 29, 2014.
+excerpt: "Bitcoin: Killer of Nietzschian Nihilism. Posted April 29, 2014."
 
 classes: wide
 

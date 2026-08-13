@@ -1,5 +1,5 @@
 ---
-title: "IN-DEPTH | The sound of one bitcoin: Tangibility, scarcity, and a "hard-money" checklist"
+title: "IN-DEPTH | The sound of one bitcoin: Tangibility, scarcity, and a \"hard-money\" checklist"
 permalink: "/in-depth-the-sound-of-one-bitcoin-tangibility-scarcity-and-a-hard-money-checklis"
 
 author: konradsgraf
@@ -11,7 +11,7 @@ tags:
   - Money
   - Politics
 
-excerpt: IN-DEPTH | The sound of one bitcoin: Tangibility, scarcity, and a "hard-money" checklist. Posted March 19, 2013.
+excerpt: "IN-DEPTH | The sound of one bitcoin: Tangibility, scarcity, and a \"hard-money\" checklist. Posted March 19, 2013."
 
 classes: wide
 

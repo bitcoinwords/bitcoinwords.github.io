@@ -10,7 +10,7 @@ tags:
   - Technology
   - Immutability
 
-excerpt: Corrections: Redactable Bitcoin. Posted September 25, 2016.
+excerpt: "Corrections: Redactable Bitcoin. Posted September 25, 2016."
 
 classes: wide
 

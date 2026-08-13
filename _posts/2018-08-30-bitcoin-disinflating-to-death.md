@@ -11,7 +11,7 @@ tags:
   - Economics
   - Money
 
-excerpt: Bitcoin: Disinflating to Death. Posted August 30, 2018.
+excerpt: "Bitcoin: Disinflating to Death. Posted August 30, 2018."
 
 classes: wide
 

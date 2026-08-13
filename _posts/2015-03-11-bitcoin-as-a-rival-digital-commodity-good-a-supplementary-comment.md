@@ -11,7 +11,7 @@ tags:
   - Economics
   - Money
 
-excerpt: Bitcoin as a rival digital commodity good: A supplementary comment. Posted March 11, 2015.
+excerpt: "Bitcoin as a rival digital commodity good: A supplementary comment. Posted March 11, 2015."
 
 classes: wide
 

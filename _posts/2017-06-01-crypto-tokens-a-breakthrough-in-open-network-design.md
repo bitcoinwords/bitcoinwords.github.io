@@ -11,7 +11,7 @@ tags:
   - Money
   - Store of Value
 
-excerpt: Crypto Tokens: A Breakthrough in Open Network Design. Posted June 1, 2017.
+excerpt: "Crypto Tokens: A Breakthrough in Open Network Design. Posted June 1, 2017."
 
 classes: wide
 

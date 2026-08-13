@@ -11,7 +11,7 @@ tags:
   - Politics
   - Technology
 
-excerpt: Preview: “The market for bitcoin transaction inclusion and the temporal root of scarcity”. Posted June 20, 2015.
+excerpt: "Preview: “The market for bitcoin transaction inclusion and the temporal root of scarcity”. Posted June 20, 2015."
 
 classes: wide
 

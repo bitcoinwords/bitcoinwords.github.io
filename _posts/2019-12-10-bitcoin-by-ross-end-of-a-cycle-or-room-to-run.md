@@ -11,7 +11,7 @@ tags:
   - Adoption
   - History
 
-excerpt: Bitcoin by Ross: End of a Cycle or Room to Run?. Posted December 10, 2019.
+excerpt: "Bitcoin by Ross: End of a Cycle or Room to Run?. Posted December 10, 2019."
 
 classes: wide
 

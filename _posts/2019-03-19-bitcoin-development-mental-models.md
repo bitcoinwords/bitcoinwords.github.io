@@ -11,7 +11,7 @@ tags:
   - Privacy
   - Politics
 
-excerpt: Bitcoin Development: Mental Models. Posted March 19, 2019.
+excerpt: "Bitcoin Development: Mental Models. Posted March 19, 2019."
 
 classes: wide
 

@@ -10,7 +10,7 @@ tags:
   - Criticism
   - Economics
 
-excerpt: Babysitting Bitcoin Skeptics: A Response to Krugman and Gobry. Posted November 30, 2014.
+excerpt: "Babysitting Bitcoin Skeptics: A Response to Krugman and Gobry. Posted November 30, 2014."
 
 classes: wide
 

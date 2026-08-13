@@ -9,7 +9,7 @@ tags:
   - 2019 Q4
   - Markets
 
-excerpt: Bitcoin by Ross: From the $20k Peak to Today. Posted December 10, 2019.
+excerpt: "Bitcoin by Ross: From the $20k Peak to Today. Posted December 10, 2019."
 
 classes: wide
 

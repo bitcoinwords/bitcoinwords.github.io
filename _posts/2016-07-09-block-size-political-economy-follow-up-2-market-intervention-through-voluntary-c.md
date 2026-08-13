@@ -11,7 +11,7 @@ tags:
   - Economics
   - Money
 
-excerpt: Block Size Political Economy Follow-Up 2: Market Intervention through Voluntary Community Rules. Posted July 9, 2016.
+excerpt: "Block Size Political Economy Follow-Up 2: Market Intervention through Voluntary Community Rules. Posted July 9, 2016."
 
 classes: wide
 

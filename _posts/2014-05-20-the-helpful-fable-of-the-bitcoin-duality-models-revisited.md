@@ -1,5 +1,5 @@
 ---
-title: "The helpful fable of the "bitcoin": Duality models revisited"
+title: "The helpful fable of the \"bitcoin\": Duality models revisited"
 permalink: "/the-helpful-fable-of-the-bitcoin-duality-models-revisited"
 
 author: konradsgraf
@@ -11,7 +11,7 @@ tags:
   - Money
   - Value
 
-excerpt: The helpful fable of the "bitcoin": Duality models revisited. Posted May 20, 2014.
+excerpt: "The helpful fable of the \"bitcoin\": Duality models revisited. Posted May 20, 2014."
 
 classes: wide
 

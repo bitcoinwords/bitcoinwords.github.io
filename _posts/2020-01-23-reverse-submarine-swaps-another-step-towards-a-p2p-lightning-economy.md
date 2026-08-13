@@ -11,7 +11,7 @@ tags:
   - Money
   - Monetary Policy
 
-excerpt: Reverse Submarine Swaps: Another Step towards a P2P Lightning Economy. Posted January 23, 2020.
+excerpt: "Reverse Submarine Swaps: Another Step towards a P2P Lightning Economy. Posted January 23, 2020."
 
 classes: wide
 

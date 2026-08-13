@@ -11,7 +11,7 @@ tags:
   - Money
   - Value
 
-excerpt: Block Size Political Economy Follow-Up 3: Differentiation from the 21-million Coin Production Schedule. Posted July 10, 2016.
+excerpt: "Block Size Political Economy Follow-Up 3: Differentiation from the 21-million Coin Production Schedule. Posted July 10, 2016."
 
 classes: wide
 

@@ -1,5 +1,5 @@
 ---
-title: "A short Bitcoin commentary on "Deflation and Liberty""
+title: "A short Bitcoin commentary on \"Deflation and Liberty\""
 permalink: "/a-short-bitcoin-commentary-on-deflation-and-liberty"
 
 author: konradsgraf
@@ -11,7 +11,7 @@ tags:
   - Economics
   - Money
 
-excerpt: A short Bitcoin commentary on "Deflation and Liberty". Posted March 30, 2013.
+excerpt: "A short Bitcoin commentary on \"Deflation and Liberty\". Posted March 30, 2013."
 
 classes: wide
 

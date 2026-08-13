@@ -11,7 +11,7 @@ tags:
   - Money
   - Inflation
 
-excerpt: Hyper-monetization reloaded: Another round of bubble talk. Posted November 7, 2013.
+excerpt: "Hyper-monetization reloaded: Another round of bubble talk. Posted November 7, 2013."
 
 classes: wide
 

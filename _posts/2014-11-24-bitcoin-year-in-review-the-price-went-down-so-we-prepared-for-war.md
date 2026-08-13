@@ -11,7 +11,7 @@ tags:
   - Monetary Policy
   - Politics
 
-excerpt: Bitcoin Year-In-Review: The Price Went Down, So We Prepared For War. Posted November 24, 2014.
+excerpt: "Bitcoin Year-In-Review: The Price Went Down, So We Prepared For War. Posted November 24, 2014."
 
 classes: wide
 

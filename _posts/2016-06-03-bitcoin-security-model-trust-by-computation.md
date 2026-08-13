@@ -11,7 +11,7 @@ tags:
   - Security
   - Proof of Work
 
-excerpt: Bitcoin security model: Trust by computation. Posted June 3, 2016.
+excerpt: "Bitcoin security model: Trust by computation. Posted June 3, 2016."
 
 classes: wide
 

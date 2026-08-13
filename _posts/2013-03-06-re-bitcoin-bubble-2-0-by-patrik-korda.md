@@ -11,7 +11,7 @@ tags:
   - Inflation
   - Politics
 
-excerpt: Re: Bitcoin Bubble 2.0 by Patrik Korda. Posted March 6, 2013.
+excerpt: "Re: Bitcoin Bubble 2.0 by Patrik Korda. Posted March 6, 2013."
 
 classes: wide
 

@@ -11,7 +11,7 @@ tags:
   - Technology
   - Security
 
-excerpt: ELI5: Utreexo. Posted April 12, 2020.
+excerpt: "ELI5: Utreexo. Posted April 12, 2020."
 
 classes: wide
 

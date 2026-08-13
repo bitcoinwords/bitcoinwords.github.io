@@ -10,7 +10,7 @@ tags:
   - Markets
   - History
 
-excerpt: Bitcoin by Ross: The Big Picture. Posted December 10, 2019.
+excerpt: "Bitcoin by Ross: The Big Picture. Posted December 10, 2019."
 
 classes: wide
 

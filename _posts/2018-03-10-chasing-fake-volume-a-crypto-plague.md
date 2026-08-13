@@ -11,7 +11,7 @@ tags:
   - Inflation
   - Politics
 
-excerpt: Chasing fake volume: a crypto-plague. Posted March 10, 2018.
+excerpt: "Chasing fake volume: a crypto-plague. Posted March 10, 2018."
 
 classes: wide
 

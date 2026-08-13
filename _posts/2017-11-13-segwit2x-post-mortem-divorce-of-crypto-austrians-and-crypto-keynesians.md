@@ -11,7 +11,7 @@ tags:
   - Money
   - Store of Value
 
-excerpt: Segwit2x Post Mortem: Divorce of Crypto-Austrians and Crypto-Keynesians. Posted November 13, 2017.
+excerpt: "Segwit2x Post Mortem: Divorce of Crypto-Austrians and Crypto-Keynesians. Posted November 13, 2017."
 
 classes: wide
 

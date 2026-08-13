@@ -11,7 +11,7 @@ tags:
   - Money
   - Politics
 
-excerpt: Citizens of Fiat vs. Citizens of Bitcoin: A Contrast. Posted March 9, 2014.
+excerpt: "Citizens of Fiat vs. Citizens of Bitcoin: A Contrast. Posted March 9, 2014."
 
 classes: wide
 

@@ -10,7 +10,7 @@ tags:
   - Markets
   - Adoption
 
-excerpt: Bitcoin is a Demographic Mega-Trend: Data Analysis. Posted April 30, 2019.
+excerpt: "Bitcoin is a Demographic Mega-Trend: Data Analysis. Posted April 30, 2019."
 
 classes: wide
 

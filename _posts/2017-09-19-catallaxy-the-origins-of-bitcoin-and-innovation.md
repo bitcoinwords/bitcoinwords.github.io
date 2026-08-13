@@ -11,7 +11,7 @@ tags:
   - Philosophy
   - Markets
 
-excerpt: Catallaxy: the origins of Bitcoin and innovation. Posted September 19, 2017.
+excerpt: "Catallaxy: the origins of Bitcoin and innovation. Posted September 19, 2017."
 
 classes: wide
 

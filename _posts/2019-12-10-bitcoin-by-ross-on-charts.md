@@ -11,7 +11,7 @@ tags:
   - Scaling
   - Markets
 
-excerpt: Bitcoin by Ross: On Charts. Posted December 10, 2019.
+excerpt: "Bitcoin by Ross: On Charts. Posted December 10, 2019."
 
 classes: wide
 

@@ -11,7 +11,7 @@ tags:
   - Money
   - Politics
 
-excerpt: The Blockchain Economy: A beginner’s guide to institutional cryptoeconomics. Posted September 27, 2017.
+excerpt: "The Blockchain Economy: A beginner’s guide to institutional cryptoeconomics. Posted September 27, 2017."
 
 classes: wide
 

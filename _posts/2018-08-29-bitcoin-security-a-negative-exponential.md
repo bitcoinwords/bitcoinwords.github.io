@@ -11,7 +11,7 @@ tags:
   - Money
   - Technology
 
-excerpt: Bitcoin Security: a Negative Exponential. Posted August 29, 2018.
+excerpt: "Bitcoin Security: a Negative Exponential. Posted August 29, 2018."
 
 classes: wide
 

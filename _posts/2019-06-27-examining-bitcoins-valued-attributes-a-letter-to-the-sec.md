@@ -11,7 +11,7 @@ tags:
   - Money
   - Store of Value
 
-excerpt: Examining Bitcoin’s Valued Attributes: A Letter to the SEC. Posted June 27, 2019.
+excerpt: "Examining Bitcoin’s Valued Attributes: A Letter to the SEC. Posted June 27, 2019."
 
 classes: wide
 

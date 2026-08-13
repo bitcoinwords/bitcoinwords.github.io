@@ -11,7 +11,7 @@ tags:
   - Money
   - Markets
 
-excerpt: “I, Broken Economist”: An Analysis of Gary North’s economics of Bitcoin. Posted December 7, 2013.
+excerpt: "“I, Broken Economist”: An Analysis of Gary North’s economics of Bitcoin. Posted December 7, 2013."
 
 classes: wide
 

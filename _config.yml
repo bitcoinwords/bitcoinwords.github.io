@@ -299,7 +299,9 @@ defaults:
       read_time: true
       related: false
       share: true
-      tags: ""
+      # a list, not "": any post Jekyll fails to parse keeps this default
+      # verbatim, and site.tags then calls String#each and aborts the build
+      tags: []
       classes: wide
   # _pages
   - scope:

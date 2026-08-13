@@ -11,7 +11,7 @@ tags:
   - Politics
   - Technology
 
-excerpt: Segwit2x: What you need to know. Posted June 19, 2017.
+excerpt: "Segwit2x: What you need to know. Posted June 19, 2017."
 
 classes: wide
 

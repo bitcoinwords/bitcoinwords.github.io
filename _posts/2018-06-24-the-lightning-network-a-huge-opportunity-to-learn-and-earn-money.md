@@ -11,7 +11,7 @@ tags:
   - Lightning
   - Markets
 
-excerpt: The Lightning Network: a huge opportunity to learn and earn money. Posted June 24, 2018.
+excerpt: "The Lightning Network: a huge opportunity to learn and earn money. Posted June 24, 2018."
 
 classes: wide
 

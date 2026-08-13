@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Bitcoin’s Hidden Proof-of-Work Asset"
 permalink: "/bitcoins-hidden-proof-of-work-asset"
 

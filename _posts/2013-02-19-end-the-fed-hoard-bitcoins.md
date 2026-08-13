@@ -11,7 +11,7 @@ tags:
   - Monetary Policy
   - Politics
 
-excerpt: End the Fed: Hoard Bitcoins. Posted February 19, 2013.
+excerpt: "End the Fed: Hoard Bitcoins. Posted February 19, 2013."
 
 classes: wide
 

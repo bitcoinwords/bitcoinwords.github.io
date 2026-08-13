@@ -11,7 +11,7 @@ tags:
   - Money
   - Monetary Policy
 
-excerpt: Stablecoins: A Holy Grail in Digital Currency. Posted April 3, 2017.
+excerpt: "Stablecoins: A Holy Grail in Digital Currency. Posted April 3, 2017."
 
 classes: wide
 

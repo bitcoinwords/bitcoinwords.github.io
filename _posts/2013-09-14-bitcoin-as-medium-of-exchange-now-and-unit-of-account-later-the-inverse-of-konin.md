@@ -11,7 +11,7 @@ tags:
   - Economics
   - Money
 
-excerpt: Bitcoin as medium of exchange now and unit of account later: The inverse of Koning's medieval coins. Posted September 14, 2013.
+excerpt: "Bitcoin as medium of exchange now and unit of account later: The inverse of Koning's medieval coins. Posted September 14, 2013."
 
 classes: wide
 

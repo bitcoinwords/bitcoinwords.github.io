@@ -11,7 +11,7 @@ tags:
   - Economics
   - Money
 
-excerpt: Introducing: Fee Ratio Multiple (FRM). Posted October 1, 2018.
+excerpt: "Introducing: Fee Ratio Multiple (FRM). Posted October 1, 2018."
 
 classes: wide
 

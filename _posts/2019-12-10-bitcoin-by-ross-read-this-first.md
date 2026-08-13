@@ -10,7 +10,7 @@ tags:
   - Security
   - Markets
 
-excerpt: Bitcoin by Ross: Read This First. Posted December 10, 2019.
+excerpt: "Bitcoin by Ross: Read This First. Posted December 10, 2019."
 
 classes: wide
 

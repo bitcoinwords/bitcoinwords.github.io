@@ -11,7 +11,7 @@ tags:
   - Money
   - Markets
 
-excerpt: The classification and the future of Bitcoin (another Re: Patrik Korda). Posted March 12, 2013.
+excerpt: "The classification and the future of Bitcoin (another Re: Patrik Korda). Posted March 12, 2013."
 
 classes: wide
 

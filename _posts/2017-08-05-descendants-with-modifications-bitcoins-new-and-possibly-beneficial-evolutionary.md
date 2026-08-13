@@ -11,7 +11,7 @@ tags:
   - Money
   - Inflation
 
-excerpt: Descendants with modifications: Bitcoin’s new and possibly beneficial evolutionary test. Posted August 5, 2017.
+excerpt: "Descendants with modifications: Bitcoin’s new and possibly beneficial evolutionary test. Posted August 5, 2017."
 
 classes: wide
 

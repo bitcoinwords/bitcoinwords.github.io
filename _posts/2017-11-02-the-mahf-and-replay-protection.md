@@ -1,5 +1,5 @@
 ---
-title: "The MAHF And Replay "Protection""
+title: "The MAHF And Replay \"Protection\""
 permalink: "/the-mahf-and-replay-protection"
 
 author: paulsztorc
@@ -11,7 +11,7 @@ tags:
   - Philosophy
   - Technology
 
-excerpt: The MAHF And Replay "Protection". Posted November 2, 2017.
+excerpt: "The MAHF And Replay \"Protection\". Posted November 2, 2017."
 
 classes: wide
 

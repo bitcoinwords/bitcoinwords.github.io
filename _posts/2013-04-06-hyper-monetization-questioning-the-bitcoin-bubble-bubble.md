@@ -1,5 +1,5 @@
 ---
-title: "Hyper-monetization: Questioning the "Bitcoin bubble" bubble"
+title: "Hyper-monetization: Questioning the \"Bitcoin bubble\" bubble"
 permalink: "/hyper-monetization-questioning-the-bitcoin-bubble-bubble"
 
 author: konradsgraf
@@ -11,7 +11,7 @@ tags:
   - Money
   - Inflation
 
-excerpt: Hyper-monetization: Questioning the "Bitcoin bubble" bubble. Posted April 6, 2013.
+excerpt: "Hyper-monetization: Questioning the \"Bitcoin bubble\" bubble. Posted April 6, 2013."
 
 classes: wide
 

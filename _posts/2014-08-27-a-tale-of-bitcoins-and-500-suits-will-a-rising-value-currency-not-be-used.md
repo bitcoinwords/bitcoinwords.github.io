@@ -11,7 +11,7 @@ tags:
   - Money
   - Store of Value
 
-excerpt: A tale of bitcoins and $500 suits: Will a rising-value currency not be used?. Posted August 27, 2014.
+excerpt: "A tale of bitcoins and $500 suits: Will a rising-value currency not be used?. Posted August 27, 2014."
 
 classes: wide
 

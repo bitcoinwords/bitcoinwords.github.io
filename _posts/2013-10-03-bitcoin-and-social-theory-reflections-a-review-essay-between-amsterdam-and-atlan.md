@@ -11,7 +11,7 @@ tags:
   - Politics
   - Technology
 
-excerpt: Bitcoin and social theory reflections: A review essay between Amsterdam and Atlanta. Posted October 3, 2013.
+excerpt: "Bitcoin and social theory reflections: A review essay between Amsterdam and Atlanta. Posted October 3, 2013."
 
 classes: wide
 

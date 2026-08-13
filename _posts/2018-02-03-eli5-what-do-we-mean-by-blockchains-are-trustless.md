@@ -11,7 +11,7 @@ tags:
   - Money
   - Technology
 
-excerpt: ELI5: What do we mean by “blockchains are trustless”?. Posted February 3, 2018.
+excerpt: "ELI5: What do we mean by “blockchains are trustless”?. Posted February 3, 2018."
 
 classes: wide
 

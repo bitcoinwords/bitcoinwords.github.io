@@ -11,7 +11,7 @@ tags:
   - Economics
   - Money
 
-excerpt: Block Size Political Economy Follow-Up 1: Software Choice, Market Differentiation, and Term Selection. Posted July 8, 2016.
+excerpt: "Block Size Political Economy Follow-Up 1: Software Choice, Market Differentiation, and Term Selection. Posted July 8, 2016."
 
 classes: wide
 

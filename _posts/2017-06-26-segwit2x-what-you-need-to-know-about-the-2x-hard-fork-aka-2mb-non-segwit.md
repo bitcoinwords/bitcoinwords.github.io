@@ -11,7 +11,7 @@ tags:
   - Economics
   - Technology
 
-excerpt: Segwit2x: What you need to know about the 2x Hard Fork (aka 2MB non-Segwit Transaction Capacity per block/8MB Total Block Size HardFork). Posted June 26, 2017.
+excerpt: "Segwit2x: What you need to know about the 2x Hard Fork (aka 2MB non-Segwit Transaction Capacity per block/8MB Total Block Size HardFork). Posted June 26, 2017."
 
 classes: wide
 

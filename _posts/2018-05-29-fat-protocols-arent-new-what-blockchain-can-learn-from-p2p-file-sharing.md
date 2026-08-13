@@ -11,7 +11,7 @@ tags:
   - Markets
   - Adoption
 
-excerpt: Fat protocols aren't new: What blockchain can learn from p2p file sharing. Posted May 29, 2018.
+excerpt: "Fat protocols aren't new: What blockchain can learn from p2p file sharing. Posted May 29, 2018."
 
 classes: wide
 

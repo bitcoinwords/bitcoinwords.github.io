@@ -11,7 +11,7 @@ tags:
   - Economics
   - Money
 
-excerpt: Bitcoin and social-theory research highlights: Digging for kryptonite. Posted March 6, 2013.
+excerpt: "Bitcoin and social-theory research highlights: Digging for kryptonite. Posted March 6, 2013."
 
 classes: wide
 

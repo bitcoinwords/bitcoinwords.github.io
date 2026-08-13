@@ -1,5 +1,5 @@
 ---
-title: "There Is No "Bitcoin 2.0""
+title: "There Is No \"Bitcoin 2.0\""
 permalink: "/there-is-no-bitcoin-2-0"
 
 author: petedushenski
@@ -9,7 +9,7 @@ tags:
   - 2014 Q1
   - Politics
 
-excerpt: There Is No "Bitcoin 2.0". Posted March 19, 2014.
+excerpt: "There Is No \"Bitcoin 2.0\". Posted March 19, 2014."
 
 classes: wide
 

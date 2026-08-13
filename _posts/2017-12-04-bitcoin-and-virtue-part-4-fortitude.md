@@ -11,7 +11,7 @@ tags:
   - Money
   - Politics
 
-excerpt: Bitcoin and Virtue Part 4: Fortitude. Posted December 4, 2017.
+excerpt: "Bitcoin and Virtue Part 4: Fortitude. Posted December 4, 2017."
 
 classes: wide
 
