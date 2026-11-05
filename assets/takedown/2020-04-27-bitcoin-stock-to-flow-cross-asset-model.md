@@ -148,7 +148,7 @@ Solidifying known facts from the original S2F study, the S2FX model offers a new
 
 [1] [PlanB@100trillionUSD](https://twitter.com/100trillionUSD), [_Modeling Bitcoin’s Value with Scarcity_](https://medium.com/@100trillionUSD/modeling-bitcoins-value-with-scarcity-91fa0fc03e25), Mar 2019
 
-[2] [Nick Emblow](https://twitter.com/btconometrics), [_Falsifying Stock-to-Flow As a Model of Bitcoin Value_](https://medium.com/swlh/falsifying-stock-to-flow-as-a-model-of-bitcoin-value-b2d9e61f68af), Aug 2019
+[2] [btconometrics](https://twitter.com/btconometrics), [_Falsifying Stock-to-Flow As a Model of Bitcoin Value_](https://medium.com/swlh/falsifying-stock-to-flow-as-a-model-of-bitcoin-value-b2d9e61f68af), Aug 2019
 
 [3] [Marcel Burger](https://twitter.com/BurgerCryptoAM), [_Reviewing “Modelling Bitcoin’s Value with Scarcity”_](https://medium.com/burgercrypto-com/reviewing-modelling-bitcoins-value-with-scarcity-part-ii-the-hunt-for-cointegration-66a8dcedd7ef), Sep 2019
 
